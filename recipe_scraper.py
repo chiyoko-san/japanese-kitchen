@@ -53,22 +53,18 @@ AFFILIATE = {
 MAX_RECIPES_PER_SITE = 50
 
 TARGET_SITES = [
-    # ── Kewpie（マヨネーズ・ドレッシング・パスタソース）──
-    {"name": "Kewpie_Mayo",      "url": "https://www.kewpie.co.jp/recipes/products/mayonnaise/", "parser": "kewpie"},
-    {"name": "Kewpie_Dressing",  "url": "https://www.kewpie.co.jp/recipes/products/dressing/",  "parser": "kewpie"},
-    # ── Kikkoman（醤油・だし・みりん）──
+    # ── Kikkoman（醤油・だし・みりん）── ※最も安定
     {"name": "Kikkoman_Popular", "url": "https://www.kikkoman.co.jp/homecook/theme/popular/namasyoyu_basic_recipes.html", "parser": "kikkoman"},
-    {"name": "Kikkoman_Theme",   "url": "https://www.kikkoman.co.jp/homecook/theme/", "parser": "kikkoman"},
-    # ── 味の素 ──
-    {"name": "Ajinomoto", "url": "https://www.ajinomoto.co.jp/recipe/", "parser": "ajinomoto"},
-    # ── ミツカン ──
-    {"name": "Mizkan",    "url": "https://www.mizkan.co.jp/recipe/",    "parser": "mizkan"},
-    # ── ヤマサ醤油 ──
-    {"name": "Yamasa",    "url": "https://www.yamasa.com/recipe/",      "parser": "yamasa"},
-    # ── マルコメ ──
-    {"name": "Marukome",  "url": "https://www.marukome.co.jp/global/en/recipe/", "parser": "marukome"},
-    # ── ハウス食品 ──
-    {"name": "House",     "url": "https://housefoods.jp/recipe/",       "parser": "house"},
+    {"name": "Kikkoman_Theme",   "url": "https://www.kikkoman.co.jp/homecook/theme/popular/", "parser": "kikkoman"},
+    # ── マルコメ（英語グローバルサイト）──
+    {"name": "Marukome", "url": "https://www.marukome.co.jp/global/en/recipe/", "parser": "marukome"},
+    # ── 味の素パーク ──
+    {"name": "Ajinomoto", "url": "https://park.ajinomoto.co.jp/recipe/search/", "parser": "ajinomoto"},
+    # ── ミツカン おうちレシピ ──
+    {"name": "Mizkan", "url": "https://www.mizkan.co.jp/ouchirecipe/", "parser": "mizkan"},
+    # ── キューピー（個別カテゴリURL）──
+    {"name": "Kewpie_Mayo",     "url": "https://www.kewpie.co.jp/recipes/products/mayonnaise/", "parser": "kewpie"},
+    {"name": "Kewpie_Dressing", "url": "https://www.kewpie.co.jp/recipes/products/dressing/",  "parser": "kewpie"},
 ]
 
 # ─── データ構造 ───────────────────────────────────────────
@@ -955,7 +951,7 @@ def main():
         "kewpie":    KewpieScraper(),
         "kikkoman":  KikkomanScraper(),
         "marukome":  MarukomeScraper(),
-        "ajinomoto": GenericScraper("Ajinomoto", "https://www.ajinomoto.co.jp"),
+        "ajinomoto": GenericScraper("Ajinomoto", "https://park.ajinomoto.co.jp"),
         "mizkan":    GenericScraper("Mizkan",    "https://www.mizkan.co.jp"),
         "yamasa":    GenericScraper("Yamasa",    "https://www.yamasa.com"),
         "house":     GenericScraper("House",     "https://housefoods.jp"),

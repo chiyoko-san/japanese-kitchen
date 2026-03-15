@@ -328,29 +328,49 @@ class KikkomanScraper(BaseScraper):
     def _parse_detail(self, url: str) -> Optional[Recipe]:
         soup = self.fetch(url)
 
+        # タイトル
         title = soup.select_one("h1")
         title_text = title.get_text(strip=True) if title else "（タイトル不明）"
 
-        desc_el = soup.select_one(".recipe-introduction, .description, p.intro")
+        # 説明文
+        desc_el = soup.select_one("h1 + p, .recipe-lead, .lead")
         desc_text = desc_el.get_text(strip=True) if desc_el else ""
 
+        # 材料（「材料」という見出しを含むsection内のli）
         ingredients = []
-        for li in soup.select("ul.ingredient li, .ingredients li, .material li"):
-            text = li.get_text(strip=True)
-            parts = re.split(r"[…・\t]|\s{2,}", text, maxsplit=1)
-            if len(parts) == 2:
-                ingredients.append(Ingredient(name_ja=parts[0], amount=parts[1]))
-            else:
-                ingredients.append(Ingredient(name_ja=text, amount="適量"))
+        for section in soup.find_all("section"):
+            h2 = section.find(["h2","h3"])
+            if h2 and "材料" in h2.get_text():
+                for li in section.select("li"):
+                    text = li.get_text(separator="\n", strip=True)
+                    if not text or text in ["（A）","（B）","（C）"]:
+                        continue
+                    parts = [p.strip() for p in text.split("\n") if p.strip()]
+                    if len(parts) >= 2:
+                        ingredients.append(Ingredient(name_ja=parts[0], amount=parts[-1]))
+                    else:
+                        ingredients.append(Ingredient(name_ja=text, amount="適量"))
+                break
 
-        steps = [
-            s.get_text(strip=True)
-            for s in soup.select("ol li, .step, .procedure li")
-            if s.get_text(strip=True)
-        ]
+        # 手順（「つくり方」という見出しを含むsection内のol > li）
+        steps = []
+        for section in soup.find_all("section"):
+            h2 = section.find(["h2","h3"])
+            if h2 and "つくり方" in h2.get_text():
+                for li in section.select("ol li"):
+                    txt = re.sub(r"^\d+\s*", "", li.get_text(strip=True))
+                    if txt:
+                        steps.append(txt)
+                break
 
-        img = soup.select_one("img.recipe-img, .recipe-photo img, article img")
-        img_url = img["src"] if img and img.get("src") else ""
+        # 画像（レシピIDから直接生成）
+        recipe_id_match = re.search(r"/recipe/(\d+)/", url)
+        if recipe_id_match:
+            recipe_id = recipe_id_match.group(1)
+            img_url = f"https://www.kikkoman.co.jp/homecook/assets/img/{recipe_id}.jpg"
+        else:
+            img = soup.select_one("img[src*='/homecook/assets/img/']")
+            img_url = img["src"] if img and img.get("src") else ""
 
         if not title_text or title_text == "（タイトル不明）":
             return None
@@ -494,8 +514,11 @@ def build_html(recipes: list[Recipe], langs: list[str]) -> str:
         cards_html += f"""
 <div class="card">
   <div class="card-head">
+    {"<img src='"+recipe.image_url+"' alt='"+recipe.title.get(langs[0], recipe.title_ja)+"' style='width:100%;max-height:260px;object-fit:cover;display:block;'>" if recipe.image_url else ""}
+    <div style="padding:1.5rem 1.5rem 0.5rem">
     <h2 class="t-title" {title_attrs}>{recipe.title.get(langs[0], recipe.title_ja)}</h2>
     <p class="t-desc" {desc_attrs}>{recipe.description.get(langs[0], recipe.description_ja)}</p>
+    </div>
   </div>
   <div class="card-body">
     <div class="sec" data-key="ingredients">Ingredients</div>

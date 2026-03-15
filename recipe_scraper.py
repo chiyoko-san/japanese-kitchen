@@ -367,10 +367,11 @@ class KikkomanScraper(BaseScraper):
         recipe_id_match = re.search(r"/recipe/(\d+)/", url)
         if recipe_id_match:
             recipe_id = recipe_id_match.group(1)
-            img_url = f"https://www.kikkoman.co.jp/homecook/assets/img/{recipe_id}.jpg"
+            # Google画像プロキシ経由でホットリンクブロックを回避
+            orig = f"https://www.kikkoman.co.jp/homecook/assets/img/{recipe_id}.jpg"
+            img_url = f"https://images.weserv.nl/?url={orig}&w=600&output=jpg"
         else:
-            img = soup.select_one("img[src*='/homecook/assets/img/']")
-            img_url = img["src"] if img and img.get("src") else ""
+            img_url = ""
 
         if not title_text or title_text == "（タイトル不明）":
             return None
@@ -453,8 +454,8 @@ def build_html(recipes: list[Recipe], langs: list[str]) -> str:
             "steps": steps_dict,
         })
 
-    recipes_json = json.dumps(recipe_data, ensure_ascii=False)
-    sec_json     = json.dumps(used_sec, ensure_ascii=False)
+    recipes_json = json.dumps(recipe_data, ensure_ascii=False).replace("</script>", "<\\/script>")
+    sec_json     = json.dumps(used_sec, ensure_ascii=False).replace("</script>", "<\\/script>")
     default_lang = langs[0]
     title_en     = recipes[0].title.get("en", recipes[0].title_ja) if recipes else "Japanese Kitchen"
 

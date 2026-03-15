@@ -555,18 +555,18 @@ function setLang(lang) {{
   if (btn) btn.classList.add('active');
 }}
 
-// GEO BLOCK JAPAN
-async function checkGeo() {{
-  try {{
-    const r = await fetch('https://ipapi.co/json/');
-    const d = await r.json();
-    if (d.country_code === 'JP') {{
-      document.getElementById('jp-wall').style.display = 'flex';
-      document.body.style.overflow = 'hidden';
-    }}
-  }} catch(e) {{}}
-}}
-checkGeo();
+// GEO BLOCK JAPAN (テスト中は無効)
+// async function checkGeo() {{
+//   try {{
+//     const r = await fetch('https://ipapi.co/json/');
+//     const d = await r.json();
+//     if (d.country_code === 'JP') {{
+//       document.getElementById('jp-wall').style.display = 'flex';
+//       document.body.style.overflow = 'hidden';
+//     }}
+//   }} catch(e) {{}}
+// }}
+// checkGeo();
 
 // ブラウザ言語自動選択
 (function() {{

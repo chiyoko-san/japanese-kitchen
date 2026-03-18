@@ -81977,5 +81977,1198 @@
         "돼지고기와 튀김과 배추의 맛"
       ]
     }
+  },
+  {
+    "id": "8db7cbbe",
+    "source_url": "https://www.mizkan.co.jp/ouchirecipe/recipe/?menu_id=18326",
+    "source_site": "Mizkan",
+    "title_ja": "鶏わさ丼",
+    "description_ja": "",
+    "ingredients": [
+      {
+        "name_ja": "ご飯",
+        "amount": "茶碗２杯",
+        "name_translated": {
+          "en": "cooked rice",
+          "zh_tw": "乾飯",
+          "zh_cn": "干饭",
+          "vi": "cơm chín",
+          "hi": "पका हुआ चावल",
+          "ru": "приготовленный рис",
+          "th": "ข้าวสวย",
+          "id": "nasi",
+          "ms": "nasi masak",
+          "ko": "밥"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%94%E9%A3%AF&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%94%E9%A3%AF/?tag="
+      },
+      {
+        "name_ja": "鶏むね肉（皮なし）",
+        "amount": "１枚（２３０ｇ）",
+        "name_translated": {
+          "en": "Chicken breast (without skin)",
+          "zh_tw": "雞胸肉（去皮）",
+          "zh_cn": "鸡胸肉（去皮）",
+          "vi": "Ức gà (không có da)",
+          "hi": "चिकन ब्रेस्ट (त्वचा के बिना)",
+          "ru": "Куриная грудка (без кожи)",
+          "th": "อกไก่ (ไม่มีหนัง)",
+          "id": "Dada ayam (tanpa kulit)",
+          "ms": "Dada ayam (tanpa kulit)",
+          "ko": "닭고기 고기 (껍질 없음)"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E9%B6%8F%E3%82%80%E3%81%AD%E8%82%89%EF%BC%88%E7%9A%AE%E3%81%AA%E3%81%97%EF%BC%89&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E9%B6%8F%E3%82%80%E3%81%AD%E8%82%89%EF%BC%88%E7%9A%AE%E3%81%AA%E3%81%97%EF%BC%89/?tag="
+      },
+      {
+        "name_ja": "レタス",
+        "amount": "４枚（１００ｇ）",
+        "name_translated": {
+          "en": "lettuce",
+          "zh_tw": "萵苣",
+          "zh_cn": "莴苣",
+          "vi": "rau xà lách",
+          "hi": "सलाद",
+          "ru": "латук",
+          "th": "ผักกาดหอม",
+          "id": "selada",
+          "ms": "selada",
+          "ko": "양상추"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%AC%E3%82%BF%E3%82%B9&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%AC%E3%82%BF%E3%82%B9/?tag="
+      },
+      {
+        "name_ja": "たまねぎ",
+        "amount": "１／４個",
+        "name_translated": {
+          "en": "onion",
+          "zh_tw": "洋蔥",
+          "zh_cn": "洋葱",
+          "vi": "củ hành",
+          "hi": "प्याज",
+          "ru": "лук",
+          "th": "หัวหอม",
+          "id": "bawang bombai",
+          "ms": "bawang besar",
+          "ko": "양파"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%9F%E3%81%BE%E3%81%AD%E3%81%8E&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%9F%E3%81%BE%E3%81%AD%E3%81%8E/?tag="
+      },
+      {
+        "name_ja": "片栗粉",
+        "amount": "大さじ１",
+        "name_translated": {
+          "en": "potato starch",
+          "zh_tw": "馬鈴薯澱粉",
+          "zh_cn": "马铃薯淀粉",
+          "vi": "tinh bột khoai tây",
+          "hi": "आलू स्टार्च",
+          "ru": "картофельный крахмал",
+          "th": "แป้งมันฝรั่ง",
+          "id": "tepung kentang",
+          "ms": "kanji kentang",
+          "ko": "가문 가루"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E7%89%87%E6%A0%97%E7%B2%89&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E7%89%87%E6%A0%97%E7%B2%89/?tag="
+      },
+      {
+        "name_ja": "塩・こしょう",
+        "amount": "少々",
+        "name_translated": {
+          "en": "salt and pepper",
+          "zh_tw": "鹽和胡椒",
+          "zh_cn": "盐和胡椒",
+          "vi": "muối và hạt tiêu",
+          "hi": "नमक और काली मिर्च",
+          "ru": "соль и перец",
+          "th": "เกลือและพริกไทย",
+          "id": "garam dan merica",
+          "ms": "garam dan lada sulah",
+          "ko": "소금, 후추"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E5%A1%A9%E3%83%BB%E3%81%93%E3%81%97%E3%82%87%E3%81%86&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E5%A1%A9%E3%83%BB%E3%81%93%E3%81%97%E3%82%87%E3%81%86/?tag="
+      },
+      {
+        "name_ja": "サラダ油",
+        "amount": "大さじ１／２",
+        "name_translated": {
+          "en": "salad oil",
+          "zh_tw": "沙拉油",
+          "zh_cn": "色拉油",
+          "vi": "dầu trộn salad",
+          "hi": "वनस्पति - तेल",
+          "ru": "салатное масло",
+          "th": "น้ำมันสลัด",
+          "id": "minyak salad",
+          "ms": "minyak salad",
+          "ko": "샐러드 오일"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%82%B5%E3%83%A9%E3%83%80%E6%B2%B9&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%82%B5%E3%83%A9%E3%83%80%E6%B2%B9/?tag="
+      },
+      {
+        "name_ja": "ミツカン　味ぽん",
+        "amount": "大さじ３",
+        "name_translated": {
+          "en": "Mizkan Ajipon",
+          "zh_tw": "味滋康味精",
+          "zh_cn": "味滋康味精",
+          "vi": "Mizkan Ajipon",
+          "hi": "मिज़कान अजिपोन",
+          "ru": "Мизкан Аджипон",
+          "th": "มิซกัน อาจิปอน",
+          "id": "Mizkan Ajipon",
+          "ms": "Mizkan Ajipon",
+          "ko": "미츠칸 미포"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E5%91%B3%E3%81%BD%E3%82%93&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E5%91%B3%E3%81%BD%E3%82%93/?tag="
+      },
+      {
+        "name_ja": "練りわさび",
+        "amount": "適量",
+        "name_translated": {
+          "en": "Wasabi paste",
+          "zh_tw": "芥末醬",
+          "zh_cn": "芥末酱",
+          "vi": "dán wasabi",
+          "hi": "वसाबी पेस्ट",
+          "ru": "Паста васаби",
+          "th": "วาซาบิวาง",
+          "id": "pasta wasabi",
+          "ms": "Pes wasabi",
+          "ko": "반죽 와사비"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E7%B7%B4%E3%82%8A%E3%82%8F%E3%81%95%E3%81%B3&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E7%B7%B4%E3%82%8A%E3%82%8F%E3%81%95%E3%81%B3/?tag="
+      },
+      {
+        "name_ja": "きざみのり",
+        "amount": "適量",
+        "name_translated": {
+          "en": "Minced seaweed",
+          "zh_tw": "海藻碎",
+          "zh_cn": "海藻碎",
+          "vi": "Rong biển băm nhỏ",
+          "hi": "कीमा बनाया हुआ समुद्री शैवाल",
+          "ru": "Фарш из морских водорослей",
+          "th": "สาหร่ายสับ",
+          "id": "Rumput laut cincang",
+          "ms": "Rumpai laut cincang",
+          "ko": "키자 미노리"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%8D%E3%81%96%E3%81%BF%E3%81%AE%E3%82%8A&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%8D%E3%81%96%E3%81%BF%E3%81%AE%E3%82%8A/?tag="
+      },
+      {
+        "name_ja": "１",
+        "amount": "にし水にさらす。",
+        "name_translated": {
+          "en": "1",
+          "zh_tw": "1",
+          "zh_cn": "1",
+          "vi": "1",
+          "hi": "1",
+          "ru": "1",
+          "th": "1",
+          "id": "1",
+          "ms": "1",
+          "ko": "1"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%91&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%91/?tag="
+      },
+      {
+        "name_ja": "２",
+        "amount": "鶏むね肉に塩・こしょうをし、片栗粉を全体に薄くまぶす。",
+        "name_translated": {
+          "en": "2",
+          "zh_tw": "2",
+          "zh_cn": "2",
+          "vi": "2",
+          "hi": "2",
+          "ru": "2",
+          "th": "2",
+          "id": "2",
+          "ms": "2",
+          "ko": "2"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%92&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%92/?tag="
+      },
+      {
+        "name_ja": "３",
+        "amount": "フライパンにサラダ油を強めの中火で熱し、鶏むね肉を入れる。少し焦げ目がついてきたら上下を返し、きつね色になるまで焼く。",
+        "name_translated": {
+          "en": "3",
+          "zh_tw": "3",
+          "zh_cn": "3",
+          "vi": "3",
+          "hi": "3",
+          "ru": "3",
+          "th": "3",
+          "id": "3",
+          "ms": "3",
+          "ko": "3"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%93&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%93/?tag="
+      },
+      {
+        "name_ja": "４",
+        "amount": "、たまねぎ、きざみのり、わさびを盛り付ける。仕上げに「味ぽん」をかける。",
+        "name_translated": {
+          "en": "4",
+          "zh_tw": "4",
+          "zh_cn": "4",
+          "vi": "4",
+          "hi": "4",
+          "ru": "4",
+          "th": "4",
+          "id": "4",
+          "ms": "4",
+          "ko": "4"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%94&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%94/?tag="
+      },
+      {
+        "name_ja": "レンジで作る！鶏ハム　薬味だれ",
+        "amount": "適量",
+        "name_translated": {
+          "en": "Make it in the microwave! Chicken ham with condiment sauce",
+          "zh_tw": "用微波爐做吧！雞肉火腿佐調味醬",
+          "zh_cn": "用微波炉做吧！鸡肉火腿配调味酱",
+          "vi": "Làm nó trong lò vi sóng! Thịt gà sốt gia vị",
+          "hi": "इसे माइक्रोवेव में बनाएं! मसाला सॉस के साथ चिकन हैम",
+          "ru": "Сделайте это в микроволновке! Куриная ветчина с соусом из приправ",
+          "th": "ทำในไมโครเวฟ! แฮมไก่กับซอสปรุงรส",
+          "id": "Buat di microwave! Ham ayam dengan saus bumbu",
+          "ms": "Buat dalam microwave! Ham ayam dengan sos perasa",
+          "ko": "레인지로 만든다! 닭 햄"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%AC%E3%83%B3%E3%82%B8%E3%81%A7%E4%BD%9C%E3%82%8B%EF%BC%81%E9%B6%8F%E3%83%8F%E3%83%A0%E3%80%80%E8%96%AC%E5%91%B3%E3%81%A0%E3%82%8C&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%AC%E3%83%B3%E3%82%B8%E3%81%A7%E4%BD%9C%E3%82%8B%EF%BC%81%E9%B6%8F%E3%83%8F%E3%83%A0%E3%80%80%E8%96%AC%E5%91%B3%E3%81%A0%E3%82%8C/?tag="
+      },
+      {
+        "name_ja": "鶏胸肉で作るカオマンガイ",
+        "amount": "適量",
+        "name_translated": {
+          "en": "Khao Man Gai made with chicken breast",
+          "zh_tw": "Khao Man Gai 用雞胸肉製成",
+          "zh_cn": "Khao Man Gai 用鸡胸肉制成",
+          "vi": "Khao Man Gai làm từ ức gà",
+          "hi": "चिकन ब्रेस्ट से बनी खाओ मन गाई",
+          "ru": "Кхао Ман Гай из куриной грудки",
+          "th": "ข้าวมันไก่ทำจากอกไก่",
+          "id": "Khao Man Gai dibuat dengan dada ayam",
+          "ms": "Khao Man Gai dibuat dengan dada ayam",
+          "ko": "닭가슴살로 만드는 카오만가이"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E9%B6%8F%E8%83%B8%E8%82%89%E3%81%A7%E4%BD%9C%E3%82%8B%E3%82%AB%E3%82%AA%E3%83%9E%E3%83%B3%E3%82%AC%E3%82%A4&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E9%B6%8F%E8%83%B8%E8%82%89%E3%81%A7%E4%BD%9C%E3%82%8B%E3%82%AB%E3%82%AA%E3%83%9E%E3%83%B3%E3%82%AC%E3%82%A4/?tag="
+      },
+      {
+        "name_ja": "プルプル鶏むね肉のねぎ塩タレ",
+        "amount": "適量",
+        "name_translated": {
+          "en": "Springy chicken breast with green onion salt sauce",
+          "zh_tw": "彈牙雞胸佐蔥鹽醬",
+          "zh_cn": "弹牙鸡胸配葱盐酱",
+          "vi": "Ức gà dai sốt muối hành",
+          "hi": "हरे प्याज़ की नमक की चटनी के साथ स्प्रिंगदार चिकन ब्रेस्ट",
+          "ru": "Пружинная куриная грудка с соленым соусом из зеленого лука",
+          "th": "อกไก่สปริงซอสเกลือหัวหอม",
+          "id": "Dada ayam yang kenyal dengan saus garam daun bawang",
+          "ms": "Dada ayam kenyal dengan sos garam bawang hijau",
+          "ko": "푸르푸르 닭고기 고기 파 소금 소스"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%97%E3%83%AB%E3%83%97%E3%83%AB%E9%B6%8F%E3%82%80%E3%81%AD%E8%82%89%E3%81%AE%E3%81%AD%E3%81%8E%E5%A1%A9%E3%82%BF%E3%83%AC&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%97%E3%83%AB%E3%83%97%E3%83%AB%E9%B6%8F%E3%82%80%E3%81%AD%E8%82%89%E3%81%AE%E3%81%AD%E3%81%8E%E5%A1%A9%E3%82%BF%E3%83%AC/?tag="
+      }
+    ],
+    "steps_ja": [
+      "鶏むね肉は１ｃｍ幅のそぎ切りにする。レタスは粗いせん切りにする。たまねぎは薄切りにし水にさらす。",
+      "鶏むね肉に塩・こしょうをし、片栗粉を全体に薄くまぶす。",
+      "フライパンにサラダ油を強めの中火で熱し、鶏むね肉を入れる。少し焦げ目がついてきたら上下を返し、きつね色になるまで焼く。",
+      "ご飯を器によそい、レタス、３、たまねぎ、きざみのり、わさびを盛り付ける。仕上げに「味ぽん」をかける。",
+      "レンジで作る！鶏ハム　薬味だれ",
+      "鶏胸肉で作るカオマンガイ",
+      "プルプル鶏むね肉のねぎ塩タレ"
+    ],
+    "image_url": "",
+    "title": {
+      "en": "Chicken wasa bowl",
+      "zh_tw": "雞肉瓦薩碗",
+      "zh_cn": "鸡肉瓦萨碗",
+      "vi": "Bát wasa gà",
+      "hi": "चिकन वासा कटोरा",
+      "ru": "Куриная миска с васа",
+      "th": "ชามวาซาไก่",
+      "id": "Mangkuk wasa ayam",
+      "ms": "Ayam wasa mangkuk",
+      "ko": "닭고기 사발"
+    },
+    "description": {
+      "en": "",
+      "zh_tw": "",
+      "zh_cn": "",
+      "vi": "",
+      "hi": "",
+      "ru": "",
+      "th": "",
+      "id": "",
+      "ms": "",
+      "ko": ""
+    },
+    "steps": {
+      "en": [
+        "Cut the chicken breast into 1cm-wide pieces. Cut the lettuce into coarse pieces. Slice the onion thinly and soak in water.",
+        "Season the chicken breasts with salt and pepper, and sprinkle them all over with potato starch.",
+        "Heat the salad oil in a frying pan over medium-high heat and add the chicken breasts. When it starts to brown slightly, turn it over and cook until it turns golden brown.",
+        "Transfer rice to a bowl and top with lettuce, onion, chopped nori, and wasabi. Finish by adding ``Ajipon''.",
+        "Make it in the microwave! Chicken ham with condiment sauce",
+        "Khao Man Gai made with chicken breast",
+        "Springy chicken breast with green onion salt sauce"
+      ],
+      "zh_tw": [
+        "將雞胸肉切成1公分寬的塊狀。將生菜切成粗塊。將洋蔥切成薄片並浸泡在水中。",
+        "用鹽和胡椒給雞胸肉調味，然後撒上馬鈴薯澱粉。",
+        "在煎鍋中以中高火加熱沙拉油，然後加入雞胸肉。當它開始稍微變褐色時，將其翻轉並煮至變成金黃色。",
+        "將米放入碗中，在上面放上生菜、洋蔥、切碎的海苔和芥末。最後加入“Ajipon”。",
+        "用微波爐做吧！雞肉火腿佐調味醬",
+        "Khao Man Gai 用雞胸肉製成",
+        "彈牙雞胸佐蔥鹽醬"
+      ],
+      "zh_cn": [
+        "将鸡胸肉切成1厘米宽的块。将生菜切成粗块。将洋葱切成薄片并浸泡在水中。",
+        "用盐和胡椒给鸡胸肉调味，然后撒上马铃薯淀粉。",
+        "在煎锅中用中高火加热色拉油，然后加入鸡胸肉。当它开始稍微变褐色时，将其翻转并煮至变成金黄色。",
+        "将米饭放入碗中，在上面放上生菜、洋葱、切碎的紫菜和芥末。最后添加“Ajipon”。",
+        "用微波炉做吧！鸡肉火腿配调味酱",
+        "Khao Man Gai 用鸡胸肉制成",
+        "弹牙鸡胸配葱盐酱"
+      ],
+      "vi": [
+        "Cắt ức gà thành miếng rộng 1 cm. Cắt rau diếp thành miếng thô. Cắt hành tây mỏng và ngâm trong nước.",
+        "Ướp ức gà với muối và hạt tiêu, rồi rắc tinh bột khoai tây lên khắp ức gà.",
+        "Đun nóng dầu salad trong chảo rán trên lửa vừa cao và cho ức gà vào. Khi nó bắt đầu hơi nâu, lật lại và nấu cho đến khi nó chuyển sang màu nâu vàng.",
+        "Chuyển cơm sang tô và phủ rau diếp, hành tây, rong biển cắt nhỏ và wasabi lên trên. Kết thúc bằng cách thêm ``Ajipon''.",
+        "Làm nó trong lò vi sóng! Thịt gà sốt gia vị",
+        "Khao Man Gai làm từ ức gà",
+        "Ức gà dai sốt muối hành"
+      ],
+      "hi": [
+        "चिकन ब्रेस्ट को 1 सेमी चौड़े टुकड़ों में काटें। सलाद को मोटे टुकड़ों में काट लीजिये. प्याज को पतला-पतला काट लें और पानी में भिगो दें।",
+        "चिकन ब्रेस्ट पर नमक और काली मिर्च छिड़कें और उन पर आलू स्टार्च छिड़कें।",
+        "एक फ्राइंग पैन में मध्यम-तेज़ आंच पर सलाद का तेल गर्म करें और उसमें चिकन ब्रेस्ट डालें। जब यह हल्का भूरा होने लगे तो इसे पलट दें और सुनहरा भूरा होने तक पकाएं।",
+        "चावल को एक कटोरे में डालें और ऊपर से सलाद, प्याज, कटी हुई नोरी और वसाबी डालें। ``अजिपोन'' जोड़कर समाप्त करें।",
+        "इसे माइक्रोवेव में बनाएं! मसाला सॉस के साथ चिकन हैम",
+        "चिकन ब्रेस्ट से बनी खाओ मन गाई",
+        "हरे प्याज़ की नमक की चटनी के साथ स्प्रिंगदार चिकन ब्रेस्ट"
+      ],
+      "ru": [
+        "Куриную грудку нарезаем кусочками шириной 1 см. Салат нарезаем крупными кусочками. Лук нарезаем тонкими ломтиками и замачиваем в воде.",
+        "Приправьте куриные грудки солью и перцем и посыпьте их картофельным крахмалом.",
+        "Нагрейте салатное масло в сковороде на среднем огне и добавьте куриные грудки. Когда он начнет слегка подрумяниваться, переверните его и готовьте, пока он не станет золотисто-коричневым.",
+        "Переложите рис в миску и сверху положите салат, лук, нарезанные нори и васаби. Закончите, добавив ``Ajipon''.",
+        "Сделайте это в микроволновке! Куриная ветчина с соусом из приправ",
+        "Кхао Ман Гай из куриной грудки",
+        "Пружинная куриная грудка с соленым соусом из зеленого лука"
+      ],
+      "th": [
+        "ตัดอกไก่เป็นชิ้นกว้าง 1 ซม. ตัดผักกาดหอมเป็นชิ้นหยาบ หั่นหัวหอมเป็นชิ้นบางๆ แล้วแช่น้ำไว้",
+        "ปรุงรสอกไก่ด้วยเกลือและพริกไทย แล้วโรยด้วยแป้งมันฝรั่งให้ทั่ว",
+        "ตั้งน้ำมันสลัดในกระทะบนไฟร้อนปานกลางแล้วใส่อกไก่ เมื่อเริ่มมีสีน้ำตาลเล็กน้อย ให้พลิกกลับด้านแล้วปรุงจนเป็นสีน้ำตาลทอง",
+        "โอนข้าวลงในชามแล้วโรยหน้าด้วยผักกาดหอม หัวหอม โนริสับ และวาซาบิ ปิดท้ายด้วยการเพิ่ม ``อาจิปอน''",
+        "ทำในไมโครเวฟ! แฮมไก่กับซอสปรุงรส",
+        "ข้าวมันไก่ทำจากอกไก่",
+        "อกไก่สปริงซอสเกลือหัวหอม"
+      ],
+      "id": [
+        "Potong dada ayam menjadi potongan selebar 1 cm. Potong selada menjadi potongan kasar. Iris tipis bawang bombay dan rendam dalam air.",
+        "Bumbui dada ayam dengan garam dan merica, lalu taburi seluruhnya dengan tepung kentang.",
+        "Panaskan minyak salad dalam wajan dengan api sedang-besar dan tambahkan dada ayam. Jika sudah mulai agak kecokelatan, balikkan dan masak hingga berubah warna menjadi coklat keemasan.",
+        "Pindahkan nasi ke dalam mangkuk dan taburi dengan selada, bawang bombay, nori cincang, dan wasabi. Selesaikan dengan menambahkan ``Ajipon''.",
+        "Buat di microwave! Ham ayam dengan saus bumbu",
+        "Khao Man Gai dibuat dengan dada ayam",
+        "Dada ayam yang kenyal dengan saus garam daun bawang"
+      ],
+      "ms": [
+        "Potong dada ayam kepada kepingan selebar 1cm. Potong daun salad menjadi kepingan kasar. Hiris bawang merah nipis dan rendam dalam air.",
+        "Perasakan dada ayam dengan garam dan lada sulah, dan taburkan semuanya dengan kanji kentang.",
+        "Panaskan minyak salad dalam kuali dengan api sederhana besar dan masukkan dada ayam. Apabila ia mula keperangan sedikit, balikkan dan masak sehingga ia bertukar menjadi perang keemasan.",
+        "Pindahkan nasi ke dalam mangkuk dan tutup dengan salad, bawang, nori cincang, dan wasabi. Selesai dengan menambah ``Ajipon''.",
+        "Buat dalam microwave! Ham ayam dengan sos perasa",
+        "Khao Man Gai dibuat dengan dada ayam",
+        "Dada ayam kenyal dengan sos garam bawang hijau"
+      ],
+      "ko": [
+        "닭고기 고기는 1cm 폭의 찢어진다. 양상추는 거친 전단으로 만든다. 양파는 얇게 썰어 물에 노출시킨다.",
+        "닭고기 고기에 소금과 후추를 넣고 가문 가루를 전체에 얇게 뿌린다.",
+        "프라이팬에 샐러드 기름을 강한 중불로 가열하고 닭고기 고기를 넣는다. 조금 탄이 눈에 띄면 상하를 돌려, 여우 색이 될 때까지 굽는다.",
+        "밥을 그릇에 넣고 양상추, 3, 양파, 키자미노리, 와사비를 담는다. 마무리에 \"아이폰\"을 건다.",
+        "레인지로 만든다! 닭 햄",
+        "닭가슴살로 만드는 카오만가이",
+        "푸르푸르 닭고기 고기 파 소금 소스"
+      ]
+    }
+  },
+  {
+    "id": "d85ea955",
+    "source_url": "https://www.mizkan.co.jp/ouchirecipe/recipe/?menu_id=18235",
+    "source_site": "Mizkan",
+    "title_ja": "レンジで丸ごと新玉ねぎのバタぽん",
+    "description_ja": "",
+    "ingredients": [
+      {
+        "name_ja": "新たまねぎ",
+        "amount": "２個（４００ｇ）",
+        "name_translated": {
+          "en": "new onion",
+          "zh_tw": "新洋蔥",
+          "zh_cn": "新洋葱",
+          "vi": "hành tây mới",
+          "hi": "नया प्याज",
+          "ru": "новый лук",
+          "th": "หัวหอมใหม่",
+          "id": "bawang baru",
+          "ms": "bawang baru",
+          "ko": "새 양파"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E6%96%B0%E3%81%9F%E3%81%BE%E3%81%AD%E3%81%8E&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E6%96%B0%E3%81%9F%E3%81%BE%E3%81%AD%E3%81%8E/?tag="
+      },
+      {
+        "name_ja": "バター",
+        "amount": "２0ｇ",
+        "name_translated": {
+          "en": "butter",
+          "zh_tw": "奶油",
+          "zh_cn": "黄油",
+          "vi": "bơ",
+          "hi": "मक्खन",
+          "ru": "масло",
+          "th": "เนย",
+          "id": "mentega",
+          "ms": "mentega",
+          "ko": "버터"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%90%E3%82%BF%E3%83%BC&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%90%E3%82%BF%E3%83%BC/?tag="
+      },
+      {
+        "name_ja": "ミツカン　味ぽん",
+        "amount": "適量",
+        "name_translated": {
+          "en": "Mizkan Ajipon",
+          "zh_tw": "味滋康味精",
+          "zh_cn": "味滋康味精",
+          "vi": "Mizkan Ajipon",
+          "hi": "मिज़कान अजिपोन",
+          "ru": "Мизкан Аджипон",
+          "th": "มิซกัน อาจิปอน",
+          "id": "Mizkan Ajipon",
+          "ms": "Mizkan Ajipon",
+          "ko": "미츠칸 미포"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E5%91%B3%E3%81%BD%E3%82%93&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E5%91%B3%E3%81%BD%E3%82%93/?tag="
+      },
+      {
+        "name_ja": "１",
+        "amount": "たまねぎは上下を切り落とし、放射状に３本ずつ切り目を入れる。耐熱容器に入れ、ふんわりとラップをし、電子レンジ（６００Ｗ）で５～６分、やわらかくなるまで加熱する。",
+        "name_translated": {
+          "en": "1",
+          "zh_tw": "1",
+          "zh_cn": "1",
+          "vi": "1",
+          "hi": "1",
+          "ru": "1",
+          "th": "1",
+          "id": "1",
+          "ms": "1",
+          "ko": "1"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%91&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%91/?tag="
+      },
+      {
+        "name_ja": "２",
+        "amount": "熱いうちにバターをのせ、「味ぽん」をかける。",
+        "name_translated": {
+          "en": "2",
+          "zh_tw": "2",
+          "zh_cn": "2",
+          "vi": "2",
+          "hi": "2",
+          "ru": "2",
+          "th": "2",
+          "id": "2",
+          "ms": "2",
+          "ko": "2"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%92&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%92/?tag="
+      },
+      {
+        "name_ja": "新玉ねぎたっぷり！鶏肉の南蛮漬け",
+        "amount": "適量",
+        "name_translated": {
+          "en": "Lots of new onions! Nanban pickled chicken",
+          "zh_tw": "好多新洋蔥！南蠻醃雞",
+          "zh_cn": "好多新洋葱！南蛮腌鸡",
+          "vi": "Rất nhiều hành mới! Gà ngâm Nanban",
+          "hi": "ढेर सारे नए प्याज़! नानबन मसालेदार चिकन",
+          "ru": "Много нового лука! Нанбан маринованная курица",
+          "th": "หัวหอมใหม่มากมาย! นันบันไก่ดอง",
+          "id": "Banyak bawang baru! Ayam acar Nanban",
+          "ms": "Banyak bawang baru! Ayam acar Nanban",
+          "ko": "신양파 듬뿍! 닭고기의 남만 절임"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E6%96%B0%E7%8E%89%E3%81%AD%E3%81%8E%E3%81%9F%E3%81%A3%E3%81%B7%E3%82%8A%EF%BC%81%E9%B6%8F%E8%82%89%E3%81%AE%E5%8D%97%E8%9B%AE%E6%BC%AC%E3%81%91&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E6%96%B0%E7%8E%89%E3%81%AD%E3%81%8E%E3%81%9F%E3%81%A3%E3%81%B7%E3%82%8A%EF%BC%81%E9%B6%8F%E8%82%89%E3%81%AE%E5%8D%97%E8%9B%AE%E6%BC%AC%E3%81%91/?tag="
+      },
+      {
+        "name_ja": "新玉ねぎの肉詰め",
+        "amount": "適量",
+        "name_translated": {
+          "en": "Stuffed fresh onions with meat",
+          "zh_tw": "新鮮洋蔥和肉餡",
+          "zh_cn": "新鲜洋葱和肉馅",
+          "vi": "Hành tươi nhồi thịt",
+          "hi": "मांस के साथ ताजा प्याज भरवां",
+          "ru": "Фаршированный свежий лук с мясом",
+          "th": "หัวหอมสดยัดไส้เนื้อ",
+          "id": "Diisi bawang segar dengan daging",
+          "ms": "Bawang segar disumbat dengan daging",
+          "ko": "새 양파 고기 채우기"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E6%96%B0%E7%8E%89%E3%81%AD%E3%81%8E%E3%81%AE%E8%82%89%E8%A9%B0%E3%82%81&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E6%96%B0%E7%8E%89%E3%81%AD%E3%81%8E%E3%81%AE%E8%82%89%E8%A9%B0%E3%82%81/?tag="
+      },
+      {
+        "name_ja": "シャキシャキ新玉ねぎ入りポテトサラダ",
+        "amount": "適量",
+        "name_translated": {
+          "en": "Potato salad with crispy new onions",
+          "zh_tw": "馬鈴薯沙拉佐脆皮新洋蔥",
+          "zh_cn": "土豆沙拉配脆皮新洋葱",
+          "vi": "Salad khoai tây với hành tây mới giòn",
+          "hi": "कुरकुरे नए प्याज के साथ आलू का सलाद",
+          "ru": "Картофельный салат с хрустящим молодым луком",
+          "th": "สลัดมันฝรั่งกับหัวหอมใหม่กรอบ",
+          "id": "Salad kentang dengan bawang baru yang renyah",
+          "ms": "Salad kentang dengan bawang baru yang rangup",
+          "ko": "샤키샤키 새 양파가 들어간 감자샐러드"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%82%B7%E3%83%A3%E3%82%AD%E3%82%B7%E3%83%A3%E3%82%AD%E6%96%B0%E7%8E%89%E3%81%AD%E3%81%8E%E5%85%A5%E3%82%8A%E3%83%9D%E3%83%86%E3%83%88%E3%82%B5%E3%83%A9%E3%83%80&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%82%B7%E3%83%A3%E3%82%AD%E3%82%B7%E3%83%A3%E3%82%AD%E6%96%B0%E7%8E%89%E3%81%AD%E3%81%8E%E5%85%A5%E3%82%8A%E3%83%9D%E3%83%86%E3%83%88%E3%82%B5%E3%83%A9%E3%83%80/?tag="
+      }
+    ],
+    "steps_ja": [
+      "たまねぎは上下を切り落とし、放射状に３本ずつ切り目を入れる。耐熱容器に入れ、ふんわりとラップをし、電子レンジ（６００Ｗ）で５～６分、やわらかくなるまで加熱する。",
+      "熱いうちにバターをのせ、「味ぽん」をかける。",
+      "新玉ねぎたっぷり！鶏肉の南蛮漬け",
+      "新玉ねぎの肉詰め",
+      "シャキシャキ新玉ねぎ入りポテトサラダ"
+    ],
+    "image_url": "",
+    "title": {
+      "en": "Batapon of whole new onions in the microwave",
+      "zh_tw": "微波爐裡的新鮮洋蔥Batapon",
+      "zh_cn": "微波炉里的新鲜洋葱Batapon",
+      "vi": "Batapon hành tây nguyên củ trong lò vi sóng",
+      "hi": "माइक्रोवेव में साबूत नए प्याज का बट्टापोन",
+      "ru": "Батапон из целого нового лука в микроволновке",
+      "th": "Batapon หัวหอมใหม่ทั้งหมดในไมโครเวฟ",
+      "id": "Batapon bawang bombay utuh di microwave",
+      "ms": "Batapon bawang baru dalam ketuhar gelombang mikro",
+      "ko": "범위에서 통째로 새로운 양파 버터 폰"
+    },
+    "description": {
+      "en": "",
+      "zh_tw": "",
+      "zh_cn": "",
+      "vi": "",
+      "hi": "",
+      "ru": "",
+      "th": "",
+      "id": "",
+      "ms": "",
+      "ko": ""
+    },
+    "steps": {
+      "en": [
+        "Cut off the top and bottom of the onion and make three radial cuts. Place in a heat-resistant container, loosely cover with plastic wrap, and heat in the microwave (600W) for 5 to 6 minutes until soft.",
+        "While it's still hot, top with butter and sprinkle with ``Ajipon''.",
+        "Lots of new onions! Nanban pickled chicken",
+        "Stuffed fresh onions with meat",
+        "Potato salad with crispy new onions"
+      ],
+      "zh_tw": [
+        "切掉洋蔥的頂部和底部，並切出三個放射狀切口。放入耐熱容器中，鬆鬆地蓋上保鮮膜，然後在微波爐（600W）中加熱 5 至 6 分鐘直至變軟。",
+        "趁熱，在上面塗上奶油，撒上「Ajipon」。",
+        "好多新洋蔥！南蠻醃雞",
+        "新鮮洋蔥和肉餡",
+        "馬鈴薯沙拉佐脆皮新洋蔥"
+      ],
+      "zh_cn": [
+        "切掉洋葱的顶部和底部，并切出三个放射状切口。放入耐热容器中，松松地盖上保鲜膜，然后在微波炉（600W）中加热 5 至 6 分钟直至变软。",
+        "趁热，在上面涂上黄油，撒上“Ajipon”。",
+        "好多新洋葱！南蛮腌鸡",
+        "新鲜洋葱和肉馅",
+        "土豆沙拉配脆皮新洋葱"
+      ],
+      "vi": [
+        "Cắt bỏ phần trên và dưới của củ hành và thực hiện ba đường cắt xuyên tâm. Đặt vào hộp chịu nhiệt, đậy kín bằng màng bọc thực phẩm và đun nóng trong lò vi sóng (600W) trong 5 đến 6 phút cho đến khi mềm.",
+        "Trong khi nó vẫn còn nóng, phủ bơ lên ​​trên và rắc ``Ajipon''.",
+        "Rất nhiều hành mới! Gà ngâm Nanban",
+        "Hành tươi nhồi thịt",
+        "Salad khoai tây với hành tây mới giòn"
+      ],
+      "hi": [
+        "प्याज के ऊपर और नीचे से काट लें और तीन रेडियल कट लगाएं। एक गर्मी प्रतिरोधी कंटेनर में रखें, प्लास्टिक रैप से ढक दें, और नरम होने तक माइक्रोवेव (600W) में 5 से 6 मिनट तक गर्म करें।",
+        "जबकि यह अभी भी गर्म है, ऊपर से मक्खन डालें और ``अजिपोन'' छिड़कें।",
+        "ढेर सारे नए प्याज़! नानबन मसालेदार चिकन",
+        "मांस के साथ ताजा प्याज भरवां",
+        "कुरकुरे नए प्याज के साथ आलू का सलाद"
+      ],
+      "ru": [
+        "Отрежьте верхнюю и нижнюю часть лука и сделайте три радиальных надреза. Поместите в термостойкий контейнер, неплотно накройте полиэтиленовой пленкой и нагрейте в микроволновой печи (600 Вт) в течение 5–6 минут, пока он не станет мягким.",
+        "Пока он еще горячий, смажьте его сливочным маслом и посыпьте «Ахипоном».",
+        "Много нового лука! Нанбан маринованная курица",
+        "Фаршированный свежий лук с мясом",
+        "Картофельный салат с хрустящим молодым луком"
+      ],
+      "th": [
+        "ตัดด้านบนและด้านล่างของหัวหอมออกแล้วตัดรัศมีสามครั้ง วางในภาชนะทนความร้อน ปิดด้วยพลาสติกแรป แล้วนำไปให้ความร้อนในไมโครเวฟ (600W) เป็นเวลา 5 ถึง 6 นาที จนนิ่ม",
+        "ขณะที่ยังร้อนอยู่ ให้โรยหน้าด้วยเนยแล้วโรยด้วย ``อาจิปอง''",
+        "หัวหอมใหม่มากมาย! นันบันไก่ดอง",
+        "หัวหอมสดยัดไส้เนื้อ",
+        "สลัดมันฝรั่งกับหัวหอมใหม่กรอบ"
+      ],
+      "id": [
+        "Potong bagian atas dan bawah bawang bombay dan buat tiga potongan radial. Tempatkan dalam wadah tahan panas, tutup longgar dengan bungkus plastik, dan panaskan dalam microwave (600W) selama 5 hingga 6 menit hingga lunak.",
+        "Selagi masih panas, taburi dengan mentega dan taburi dengan ``Ajipon''.",
+        "Banyak bawang baru! Ayam acar Nanban",
+        "Diisi bawang segar dengan daging",
+        "Salad kentang dengan bawang baru yang renyah"
+      ],
+      "ms": [
+        "Potong bahagian atas dan bawah bawang dan buat tiga potong jejari. Letakkan dalam bekas tahan panas, tutup longgar dengan bungkus plastik, dan panaskan dalam ketuhar gelombang mikro (600W) selama 5 hingga 6 minit sehingga lembut.",
+        "Semasa masih panas, taburkan dengan mentega dan taburkan dengan ``Ajipon''.",
+        "Banyak bawang baru! Ayam acar Nanban",
+        "Bawang segar disumbat dengan daging",
+        "Salad kentang dengan bawang baru yang rangup"
+      ],
+      "ko": [
+        "양파는 상하를 잘라내고 방사상으로 3개씩 잘라낸다. 내열 용기에 넣고 부드럽게 랩을 하고, 전자 레인지(600W)로 5~6분, 부드러워질 때까지 가열한다.",
+        "뜨겁게 버터를 얹고 '맛퐁'을 뿌린다.",
+        "신양파 듬뿍! 닭고기의 남만 절임",
+        "새 양파 고기 채우기",
+        "샤키샤키 새 양파가 들어간 감자샐러드"
+      ]
+    }
+  },
+  {
+    "id": "db45429a",
+    "source_url": "https://www.mizkan.co.jp/ouchirecipe/recipe/?menu_id=15066",
+    "source_site": "Mizkan",
+    "title_ja": "ひな祭りのカンタンケーキすし（サーモン）",
+    "description_ja": "",
+    "ingredients": [
+      {
+        "name_ja": "ご飯",
+        "amount": "１．５合分",
+        "name_translated": {
+          "en": "cooked rice",
+          "zh_tw": "乾飯",
+          "zh_cn": "干饭",
+          "vi": "cơm chín",
+          "hi": "पका हुआ चावल",
+          "ru": "приготовленный рис",
+          "th": "ข้าวสวย",
+          "id": "nasi",
+          "ms": "nasi masak",
+          "ko": "밥"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%94%E9%A3%AF&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%94%E9%A3%AF/?tag="
+      },
+      {
+        "name_ja": "ミツカン　五目ちらし",
+        "amount": "小袋各１袋",
+        "name_translated": {
+          "en": "Mizkan Gomoku Chirashi",
+          "zh_tw": "味滋館五木散",
+          "zh_cn": "味滋馆五木散",
+          "vi": "Mizkan Gomoku Chirashi",
+          "hi": "मिज़कान गोमोकु चिराशी",
+          "ru": "Мизкан Гомоку Чираши",
+          "th": "มิซกัน โกโมกุ ชิราชิ",
+          "id": "Mizkan Gomoku Chirashi",
+          "ms": "Mizkan Gomoku Chirashi",
+          "ko": "미츠칸 오메 치라시"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E4%BA%94%E7%9B%AE%E3%81%A1%E3%82%89%E3%81%97&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E4%BA%94%E7%9B%AE%E3%81%A1%E3%82%89%E3%81%97/?tag="
+      },
+      {
+        "name_ja": "錦糸卵",
+        "amount": "１０ｇ",
+        "name_translated": {
+          "en": "Kinshi tamago",
+          "zh_tw": "錦志玉子",
+          "zh_cn": "锦志玉子",
+          "vi": "Tamago Kinshi",
+          "hi": "किंशी तमागो",
+          "ru": "Кинши тамаго",
+          "th": "คินชิ ทามาโกะ",
+          "id": "Kinshi Tamago",
+          "ms": "Kinshi tamago",
+          "ko": "금사 달걀"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E9%8C%A6%E7%B3%B8%E5%8D%B5&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E9%8C%A6%E7%B3%B8%E5%8D%B5/?tag="
+      },
+      {
+        "name_ja": "でんぶ",
+        "amount": "適量",
+        "name_translated": {
+          "en": "Denbu",
+          "zh_tw": "傳武",
+          "zh_cn": "传武",
+          "vi": "Denbu",
+          "hi": "डेनबू",
+          "ru": "Денбу",
+          "th": "เด็นบุ",
+          "id": "Denbu",
+          "ms": "Denbu",
+          "ko": "덴부"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%A7%E3%82%93%E3%81%B6&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%A7%E3%82%93%E3%81%B6/?tag="
+      },
+      {
+        "name_ja": "はんぺん",
+        "amount": "１枚",
+        "name_translated": {
+          "en": "Hanpen",
+          "zh_tw": "漢盆",
+          "zh_cn": "汉盆",
+          "vi": "Hanpen",
+          "hi": "हनपेन",
+          "ru": "Ханпен",
+          "th": "ฮันเปน",
+          "id": "Hanpen",
+          "ms": "Hanpen",
+          "ko": "한판"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%AF%E3%82%93%E3%81%BA%E3%82%93&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%AF%E3%82%93%E3%81%BA%E3%82%93/?tag="
+      },
+      {
+        "name_ja": "ハム",
+        "amount": "２枚",
+        "name_translated": {
+          "en": "ham",
+          "zh_tw": "火腿",
+          "zh_cn": "火腿",
+          "vi": "giăm bông",
+          "hi": "जांघ",
+          "ru": "ветчина",
+          "th": "แฮม",
+          "id": "ham",
+          "ms": "ham",
+          "ko": "햄"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%8F%E3%83%A0&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%8F%E3%83%A0/?tag="
+      },
+      {
+        "name_ja": "きゅうり",
+        "amount": "適量",
+        "name_translated": {
+          "en": "cucumber",
+          "zh_tw": "黃瓜",
+          "zh_cn": "黄瓜",
+          "vi": "quả dưa chuột",
+          "hi": "खीरा",
+          "ru": "огурец",
+          "th": "แตงกวา",
+          "id": "timun",
+          "ms": "timun",
+          "ko": "오이"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%8D%E3%82%85%E3%81%86%E3%82%8A&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%8D%E3%82%85%E3%81%86%E3%82%8A/?tag="
+      },
+      {
+        "name_ja": "サーモン　（刺身用）",
+        "amount": "６０ｇ",
+        "name_translated": {
+          "en": "Salmon (for sashimi)",
+          "zh_tw": "鮭魚（生魚片用）",
+          "zh_cn": "三文鱼（生鱼片用）",
+          "vi": "Cá hồi (cho sashimi)",
+          "hi": "सैल्मन (सशिमी के लिए)",
+          "ru": "Лосось (для сашими)",
+          "th": "แซลมอน (สำหรับซาซิมิ)",
+          "id": "Salmon (untuk sashimi)",
+          "ms": "Salmon (untuk sashimi)",
+          "ko": "연어(회용)"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%82%B5%E3%83%BC%E3%83%A2%E3%83%B3%E3%80%80%EF%BC%88%E5%88%BA%E8%BA%AB%E7%94%A8%EF%BC%89&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%82%B5%E3%83%BC%E3%83%A2%E3%83%B3%E3%80%80%EF%BC%88%E5%88%BA%E8%BA%AB%E7%94%A8%EF%BC%89/?tag="
+      },
+      {
+        "name_ja": "イクラ",
+        "amount": "２０ｇ",
+        "name_translated": {
+          "en": "salmon roe",
+          "zh_tw": "鮭魚子",
+          "zh_cn": "鲑鱼子",
+          "vi": "trứng cá hồi",
+          "hi": "सैल्मन रो",
+          "ru": "икра лосося",
+          "th": "ไข่ปลาแซลมอน",
+          "id": "telur salmon",
+          "ms": "telur ikan salmon",
+          "ko": "이크라"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%82%A4%E3%82%AF%E3%83%A9&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%82%A4%E3%82%AF%E3%83%A9/?tag="
+      },
+      {
+        "name_ja": "にんじん",
+        "amount": "４０ｇ",
+        "name_translated": {
+          "en": "carrot",
+          "zh_tw": "紅蘿蔔",
+          "zh_cn": "胡萝卜",
+          "vi": "cà rốt",
+          "hi": "गाजर",
+          "ru": "морковь",
+          "th": "แครอท",
+          "id": "wortel",
+          "ms": "lobak merah",
+          "ko": "당근"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%AB%E3%82%93%E3%81%98%E3%82%93&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%AB%E3%82%93%E3%81%98%E3%82%93/?tag="
+      },
+      {
+        "name_ja": "スナップえんどう",
+        "amount": "２枚",
+        "name_translated": {
+          "en": "snap peas",
+          "zh_tw": "豌豆",
+          "zh_cn": "豌豆",
+          "vi": "đậu Hà Lan",
+          "hi": "मटर के दाने",
+          "ru": "горох",
+          "th": "ถั่วลันเตา",
+          "id": "ambil kacang polong",
+          "ms": "snap kacang",
+          "ko": "스냅 엔도"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%82%B9%E3%83%8A%E3%83%83%E3%83%97%E3%81%88%E3%82%93%E3%81%A9%E3%81%86&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%82%B9%E3%83%8A%E3%83%83%E3%83%97%E3%81%88%E3%82%93%E3%81%A9%E3%81%86/?tag="
+      },
+      {
+        "name_ja": "のり",
+        "amount": "適量",
+        "name_translated": {
+          "en": "seaweed",
+          "zh_tw": "海藻",
+          "zh_cn": "海藻",
+          "vi": "rong biển",
+          "hi": "समुद्री शैवाल",
+          "ru": "водоросли",
+          "th": "สาหร่ายทะเล",
+          "id": "rumput laut",
+          "ms": "rumpai laut",
+          "ko": "풀"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%AE%E3%82%8A&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%AE%E3%82%8A/?tag="
+      },
+      {
+        "name_ja": "トマトケチャップ",
+        "amount": "適量",
+        "name_translated": {
+          "en": "tomato ketchup",
+          "zh_tw": "番茄醬",
+          "zh_cn": "番茄酱",
+          "vi": "sốt cà chua",
+          "hi": "टमाटर केचप",
+          "ru": "томатный кетчуп",
+          "th": "ซอสมะเขือเทศ",
+          "id": "saus tomat",
+          "ms": "sos tomato",
+          "ko": "토마토 케첩"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%88%E3%83%9E%E3%83%88%E3%82%B1%E3%83%81%E3%83%A3%E3%83%83%E3%83%97&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%88%E3%83%9E%E3%83%88%E3%82%B1%E3%83%81%E3%83%A3%E3%83%83%E3%83%97/?tag="
+      },
+      {
+        "name_ja": "１",
+        "amount": "温かいご飯に「五目ちらし」をふりかけ、切り込むようにまんべんなく混ぜ合わせる。",
+        "name_translated": {
+          "en": "1",
+          "zh_tw": "1",
+          "zh_cn": "1",
+          "vi": "1",
+          "hi": "1",
+          "ru": "1",
+          "th": "1",
+          "id": "1",
+          "ms": "1",
+          "ko": "1"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%91&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%91/?tag="
+      },
+      {
+        "name_ja": "２",
+        "amount": "。",
+        "name_translated": {
+          "en": "2",
+          "zh_tw": "2",
+          "zh_cn": "2",
+          "vi": "2",
+          "hi": "2",
+          "ru": "2",
+          "th": "2",
+          "id": "2",
+          "ms": "2",
+          "ko": "2"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%92&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%92/?tag="
+      },
+      {
+        "name_ja": "３",
+        "amount": "を入れ、表面が平らになるように押す。",
+        "name_translated": {
+          "en": "3",
+          "zh_tw": "3",
+          "zh_cn": "3",
+          "vi": "3",
+          "hi": "3",
+          "ru": "3",
+          "th": "3",
+          "id": "3",
+          "ms": "3",
+          "ko": "3"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%93&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%93/?tag="
+      },
+      {
+        "name_ja": "４",
+        "amount": "で作ったはんぺんをきゅうりで巻き、烏帽子、目、口をつけ、トマトケチャップで頬をつける。",
+        "name_translated": {
+          "en": "4",
+          "zh_tw": "4",
+          "zh_cn": "4",
+          "vi": "4",
+          "hi": "4",
+          "ru": "4",
+          "th": "4",
+          "id": "4",
+          "ms": "4",
+          "ko": "4"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%94&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%94/?tag="
+      },
+      {
+        "name_ja": "５",
+        "amount": "で作ったはんぺんをハムで巻き、髪、目、口をつけ、トマトケチャップで頬をつける。花形にんじんをはり、ピックをさす。",
+        "name_translated": {
+          "en": "5",
+          "zh_tw": "5",
+          "zh_cn": "5",
+          "vi": "5",
+          "hi": "5",
+          "ru": "5",
+          "th": "5",
+          "id": "5",
+          "ms": "5",
+          "ko": "5"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%95&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%95/?tag="
+      },
+      {
+        "name_ja": "６",
+        "amount": "の上に皿をのせ、ひっくり返してあける。",
+        "name_translated": {
+          "en": "6",
+          "zh_tw": "6",
+          "zh_cn": "6",
+          "vi": "6",
+          "hi": "6",
+          "ru": "6",
+          "th": "6",
+          "id": "6",
+          "ms": "6",
+          "ko": "6"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%96&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%96/?tag="
+      },
+      {
+        "name_ja": "７",
+        "amount": "の上に錦糸卵、でんぶをしき、＜お内裏様＞、＜お雛様＞をのせ、サーモン、イクラ、はんぺんを飾る。まわりに、スナップえんどう、花形のにんじん、ハム、はんぺん、イクラを飾る。",
+        "name_translated": {
+          "en": "7",
+          "zh_tw": "7",
+          "zh_cn": "7",
+          "vi": "7",
+          "hi": "7",
+          "ru": "7",
+          "th": "7",
+          "id": "7",
+          "ms": "7",
+          "ko": "7"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%97&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%97/?tag="
+      }
+    ],
+    "steps_ja": [
+      "温かいご飯に「五目ちらし」をふりかけ、切り込むようにまんべんなく混ぜ合わせる。",
+      "＜パーツの準備＞はんぺんを顔と花びらの形に型で抜く。ハムは１枚は半分に切り、残りは花の形に抜く。きゅうりはピーラーで長く切る。のりで目、口、髪、烏帽子を作る。にんじんを薄切りしゆで、花の形に抜く。スナップえんどうはゆで、縦にさく。サーモンは１cm角に切る。",
+      "内径１８ｃｍのボウルに、ラップを全面にぴったりと敷き詰める。１を入れ、表面が平らになるように押す。",
+      "＜お内裏様＞２で作ったはんぺんをきゅうりで巻き、烏帽子、目、口をつけ、トマトケチャップで頬をつける。",
+      "＜お雛様＞２で作ったはんぺんをハムで巻き、髪、目、口をつけ、トマトケチャップで頬をつける。花形にんじんをはり、ピックをさす。",
+      "の上に皿をのせ、ひっくり返してあける。",
+      "の上に錦糸卵、でんぶをしき、＜お内裏様＞、＜お雛様＞をのせ、サーモン、イクラ、はんぺんを飾る。まわりに、スナップえんどう、花形のにんじん、ハム、はんぺん、イクラを飾る。"
+    ],
+    "image_url": "",
+    "title": {
+      "en": "Easy cake sushi for Hinamatsuri (salmon)",
+      "zh_tw": "簡單的女兒節蛋糕壽司（鮭魚）",
+      "zh_cn": "简单的女儿节蛋糕寿司（鲑鱼）",
+      "vi": "Sushi bánh dễ làm cho Hinamatsuri (cá hồi)",
+      "hi": "हिनामात्सुरी (सैल्मन) के लिए आसान केक सुशी",
+      "ru": "Легкий торт-суши для Хинамацури (лосось)",
+      "th": "เค้กซูชิง่ายๆ สำหรับ Hinamatsuri (ปลาแซลมอน)",
+      "id": "Kue sushi yang mudah untuk Hinamatsuri (salmon)",
+      "ms": "Sushi kek mudah untuk Hinamatsuri (salmon)",
+      "ko": "히나 축제의 간단한 케이크 스시 (연어)"
+    },
+    "description": {
+      "en": "",
+      "zh_tw": "",
+      "zh_cn": "",
+      "vi": "",
+      "hi": "",
+      "ru": "",
+      "th": "",
+      "id": "",
+      "ms": "",
+      "ko": ""
+    },
+    "steps": {
+      "en": [
+        "Sprinkle Gomoku Chirashi over the hot rice and mix evenly.",
+        "<Preparation of parts> Cut out the hanpen paper into the shape of a face and petals. Cut one ham in half and cut the rest into flower shapes. Cut the cucumber into long pieces with a peeler. Make the eyes, mouth, hair, and eboshi using glue. Slice the carrots, boil them, and cut them into flower shapes. Boil the snap peas and cut them lengthwise. Cut the salmon into 1cm cubes.",
+        "In a bowl with an inner diameter of 18 cm, spread plastic wrap tightly over the entire surface. 1 and press so that the surface is flat.",
+        "<Odairi-sama> Wrap the hanpen you made in step 2 in a cucumber, add an eboshi, eyes, and mouth, and add tomato ketchup to the cheeks.",
+        "<Hina Dolls> Wrap the hanpen you made in Step 2 with ham, add hair, eyes, and mouth, and add tomato ketchup to the cheeks. Glue a flower-shaped carrot and insert a pick into it.",
+        "Place a plate on top and flip it over.",
+        "Place the omelet and denbu on top, place the ``Odairi-sama'' and ``Hina-sama'' on top, and garnish with salmon, salmon roe, and hanpen. Garnish with snap peas, flower-shaped carrots, ham, hanpen, and salmon roe around it."
+      ],
+      "zh_tw": [
+        "將五目散撒在熱米上，攪拌均勻。",
+        "<零件的準備> 將韓筆紙剪成臉和花瓣的形狀。將一根火腿切成兩半，其餘的切成花朵形狀。用削皮器將黃瓜切成長片。用膠水製作眼睛、嘴巴、頭髮和烏賊。將胡蘿蔔切片，煮沸，切成花朵形狀。將豌豆煮熟並縱向切開。將鮭魚切成1公分的方塊。",
+        "在一個內徑為 18 公分的碗中，將保鮮膜緊緊地覆蓋在整個表面上。 1 並按壓，使表面平整。",
+        "<Odairi-sama>將步驟2中製作的半筆包裹在黃瓜中，添加烏幹，眼睛和嘴巴，並在臉頰上塗上番茄醬。",
+        "<雛娃娃> 用火腿包住步驟2製作的半筆，加上頭髮、眼睛和嘴巴，在臉頰上塗上番茄醬。將花形胡蘿蔔黏在上面，然後將鎬插入其中。",
+        "將一個盤子放在上面並將其翻轉。",
+        "將煎蛋捲和煎餅放在上面，然後將“小大大人”和“雛大人”放在上面，然後用鮭魚、鮭魚子和半盆裝飾。用豌豆、花形胡蘿蔔、火腿、半盆和鮭魚子裝飾。"
+      ],
+      "zh_cn": [
+        "将五目散撒在热米饭上，搅拌均匀。",
+        "<零件的准备> 将韩笔纸剪成脸和花瓣的形状。将一根火腿切成两半，其余的切成花朵形状。用削皮器将黄瓜切成长片。用胶水制作眼睛、嘴巴、头发和乌贼。将胡萝卜切片，煮沸，切成花朵形状。将豌豆煮熟并纵向切开。将三文鱼切成1厘米的方块。",
+        "在一个内径为 18 厘米的碗中，将保鲜膜紧紧地覆盖在整个表面上。 1 并按压，使表面平整。",
+        "<Odairi-sama>将步骤2中制作的半笔包裹在黄瓜中，添加乌干，眼睛和嘴巴，并在脸颊上涂上番茄酱。",
+        "<雏娃娃> 用火腿包住步骤2中制作的半笔，加上头发、眼睛和嘴巴，在脸颊上涂上番茄酱。将花形胡萝卜粘在上面，然后将镐插入其中。",
+        "将一个盘子放在上面并将其翻转。",
+        "将煎蛋卷和煎饼放在上面，然后将“小大大人”和“雏大人”放在上面，然后用鲑鱼、鲑鱼子和半盆装饰。用豌豆、花形胡萝卜、火腿、半盆和鲑鱼子装饰。"
+      ],
+      "vi": [
+        "Rắc Gomoku Chirashi lên cơm nóng và trộn đều.",
+        "<Chuẩn bị các bộ phận> Cắt giấy hanpen thành hình khuôn mặt và cánh hoa. Cắt một nửa giăm bông và cắt phần còn lại thành hình bông hoa. Cắt dưa chuột thành miếng dài bằng dụng cụ gọt vỏ. Làm mắt, miệng, tóc và eboshi bằng keo. Cắt cà rốt, luộc chín và cắt thành hình bông hoa. Luộc đậu Hà Lan và cắt chúng theo chiều dọc. Cắt cá hồi thành khối 1 cm.",
+        "Trong một cái bát có đường kính trong 18 cm, trải màng bọc thực phẩm thật chặt lên toàn bộ bề mặt. 1 và nhấn sao cho bề mặt phẳng.",
+        "<Odairi-sama> Bọc chiếc hanpen bạn đã làm ở bước 2 trong một quả dưa chuột, thêm eboshi, mắt và miệng, đồng thời thêm sốt cà chua vào má.",
+        "<Búp bê Hina> Bọc giăm bông cho chiếc hanpen bạn đã làm ở Bước 2, thêm tóc, mắt và miệng, đồng thời thêm sốt cà chua vào má. Dán một củ cà rốt hình bông hoa và nhét một cái cuốc vào đó.",
+        "Đặt một chiếc đĩa lên trên và lật nó lại.",
+        "Đặt trứng tráng và denbu lên trên, đặt ``Odairi-sama'' và ``Hina-sama'' lên trên và trang trí với cá hồi, trứng cá hồi và hanpen. Trang trí với đậu Hà Lan, cà rốt hình bông hoa, giăm bông, thịt hanpen và trứng cá hồi xung quanh."
+      ],
+      "hi": [
+        "गरम चावल के ऊपर गोमोकु चिराशी छिड़कें और समान रूप से मिलाएँ।",
+        "<भागों की तैयारी> हैनपेन पेपर को चेहरे और पंखुड़ियों के आकार में काटें। एक हैम को आधा काट लें और बाकी को फूल के आकार में काट लें। खीरे को छिलके वाली मशीन से लंबे टुकड़ों में काट लीजिए. गोंद का उपयोग करके आंखें, मुंह, बाल और इबोशी बनाएं। गाजर को टुकड़ों में काट लें, उबाल लें और फूल के आकार में काट लें। मटर के दानों को उबाल कर लम्बाई में काट लीजिये. सैल्मन को 1 सेमी क्यूब्स में काटें।",
+        "18 सेमी के भीतरी व्यास वाले एक कटोरे में, पूरी सतह पर प्लास्टिक रैप को कसकर फैलाएं। 1 और दबाएं ताकि सतह समतल हो जाए।",
+        "<Odairi-sama> चरण 2 में आपके द्वारा बनाए गए हैनपेन को खीरे में लपेटें, एक इबोशी, आंखें और मुंह लगाएं, और गालों पर टमाटर केचप लगाएं।",
+        "<हिना डॉल्स> चरण 2 में आपके द्वारा बनाए गए हैनपेन को हैम के साथ लपेटें, बाल, आंखें और मुंह जोड़ें और गालों पर टमाटर केचप लगाएं। एक फूल के आकार की गाजर को गोंद दें और उसमें एक पिक डालें।",
+        "ऊपर एक प्लेट रखें और पलट दें.",
+        "ऑमलेट और डेनबू को शीर्ष पर रखें, ``ओदैरी-सामा'' और ``हिना-सामा'' को शीर्ष पर रखें, और सैल्मन, सैल्मन रो और हैनपेन से गार्निश करें। इसके चारों ओर स्नैप मटर, फूल के आकार की गाजर, हैम, हैनपेन और सैल्मन रो से गार्निश करें।"
+      ],
+      "ru": [
+        "Посыпьте горячий рис гомоку чираши и равномерно перемешайте.",
+        "<Подготовка деталей> Вырезаем из бумаги ханпен по форме лица и лепестков. Разрежьте одну ветчину пополам, а остальную нарежьте цветочками. Огурец нарезаем овощечисткой на длинные кусочки. С помощью клея сделайте глаза, рот, волосы и эбоши. Нарежьте морковь, отварите ее и нарежьте цветочками. Отварите горох и разрежьте его вдоль. Нарезаем лосося кубиками размером 1 см.",
+        "В миске внутренним диаметром 18 см плотно расстелите по всей поверхности полиэтиленовую пленку. 1 и нажмите, чтобы поверхность стала плоской.",
+        "<Одаири-сама> Оберните ханпен, который вы сделали на шаге 2, в огурец, добавьте эбоши, глаза и рот, а щеки смажьте томатным кетчупом.",
+        "<Куклы Хина> Оберните ханпен, который вы сделали на шаге 2, ветчиной, добавьте волосы, глаза и рот, а на щеки добавьте томатный кетчуп. Приклейте морковку в форме цветка и вставьте в нее медиатор.",
+        "Сверху поставьте тарелку и переверните ее.",
+        "Положите сверху омлет и денбу, сверху положите «Одайри-сама» и «Хина-сама» и украсьте лососем, икрой лосося и ханпеном. Украсьте горошком, морковью в форме цветка, ветчиной, ханпеном и икрой лосося."
+      ],
+      "th": [
+        "โรย Gomoku Chirashi ลงบนข้าวสวยและผสมให้เข้ากัน",
+        "<การเตรียมชิ้นส่วน> ตัดกระดาษฮันเพนออกเป็นรูปหน้าและกลีบดอก ผ่าครึ่งแฮมหนึ่งอันแล้วตัดส่วนที่เหลือเป็นรูปดอกไม้ หั่นแตงกวาเป็นชิ้นยาวด้วยเครื่องปอก สร้างดวงตา ปาก ผม และเอโบชิโดยใช้กาว หั่นแครอท ต้ม และหั่นเป็นรูปทรงดอกไม้ ต้มถั่วลันเตาแล้วหั่นตามยาว ตัดปลาแซลมอนเป็นก้อนขนาด 1 ซม.",
+        "ในชามที่มีเส้นผ่านศูนย์กลางภายใน 18 ซม. ให้เกลี่ยพลาสติกแร็ปให้แน่นทั่วทั้งพื้นผิว 1 แล้วกดให้พื้นผิวเรียบ",
+        "<ท่านโอไดริ> ห่อฮันเปงที่ทำในขั้นตอนที่ 2 ด้วยแตงกวา ใส่เอโบชิ ตา และปาก แล้วเติมซอสมะเขือเทศที่แก้ม",
+        "<ตุ๊กตาฮินะ> ห่อฮันเพนที่คุณทำในขั้นตอนที่ 2 ด้วยแฮม เพิ่มผม ตา และปาก แล้วเติมซอสมะเขือเทศที่แก้ม ทากาวแครอทรูปดอกไม้แล้วสอดปิ๊กลงไป",
+        "วางจานไว้ด้านบนแล้วพลิกกลับด้าน",
+        "วางไข่เจียวและเด็มบุไว้ด้านบน วาง ``ท่านโอไดริ'' และ ``ท่านฮินะ'' ไว้ด้านบน และตกแต่งด้วยปลาแซลมอน ไข่ปลาแซลมอน และฮันเพน โรยหน้าด้วยถั่วลันเตา แครอทรูปดอกไม้ แฮม ฮันเปน และไข่ปลาแซลมอนรอบๆ"
+      ],
+      "id": [
+        "Taburkan Gomoku Chirashi di atas nasi panas dan aduk rata.",
+        "<Persiapan bagian> Gunting kertas hanpen menjadi bentuk wajah dan kelopak. Potong satu ham menjadi dua dan potong sisanya menjadi bentuk bunga. Potong mentimun menjadi potongan panjang dengan alat pengupas. Buatlah mata, mulut, rambut, dan eboshi dengan menggunakan lem. Iris wortel, rebus, dan potong menjadi bentuk bunga. Rebus kacang polong dan potong memanjang. Potong salmon menjadi kubus berukuran 1 cm.",
+        "Dalam mangkuk dengan diameter dalam 18 cm, sebarkan plastik wrap rapat ke seluruh permukaan. 1 lalu tekan hingga permukaannya rata.",
+        "<Odairi-sama> Bungkus hanpen yang Anda buat pada langkah 2 dengan mentimun, tambahkan eboshi, mata, dan mulut, dan tambahkan saus tomat di pipi.",
+        "<Hina Dolls> Bungkus hanpen yang Anda buat pada Langkah 2 dengan ham, tambahkan rambut, mata, dan mulut, dan tambahkan saus tomat di pipi. Rekatkan wortel berbentuk bunga dan masukkan pick ke dalamnya.",
+        "Letakkan piring di atasnya dan balikkan.",
+        "Letakkan telur dadar dan denbu di atasnya, letakkan ``Odairi-sama'' dan ``Hina-sama'' di atasnya, dan hiasi dengan salmon, telur salmon, dan hanpen. Hiasi dengan kacang polong, wortel berbentuk bunga, ham, hanpen, dan telur salmon di sekelilingnya."
+      ],
+      "ms": [
+        "Taburkan Gomoku Chirashi ke atas nasi panas dan gaul rata.",
+        "<Penyediaan bahagian> Potong kertas hanpen mengikut bentuk muka dan kelopak. Potong satu ham separuh dan potong selebihnya menjadi bentuk bunga. Potong timun menjadi kepingan panjang dengan pengupas. Buat mata, mulut, rambut dan eboshi menggunakan gam. Potong lobak merah, rebus dan potong bentuk bunga. Rebus kacang snap dan potong memanjang. Potong salmon menjadi kiub 1cm.",
+        "Dalam mangkuk dengan diameter dalam 18 cm, sapukan bungkus plastik dengan ketat ke seluruh permukaan. 1 dan tekan supaya permukaan rata.",
+        "<Odairi-sama> Balut hanpen yang anda buat dalam langkah 2 dalam timun, tambahkan eboshi, mata dan mulut, dan tambah sos tomato ke pipi.",
+        "<Hina Dolls> Balut hanpen yang anda buat dalam Langkah 2 dengan ham, tambah rambut, mata dan mulut, dan tambah sos tomato pada pipi. Lekatkan lobak merah berbentuk bunga dan masukkan pick ke dalamnya.",
+        "Letakkan pinggan di atas dan balikkan.",
+        "Letakkan telur dadar dan denbu di atas, letakkan ``Odairi-sama'' dan ``Hina-sama'' di atas, dan hiaskan dengan salmon, roe salmon dan hanpen. Hiaskan dengan kacang snap, lobak merah berbentuk bunga, ham, hanpen dan telur salmon di sekelilingnya."
+      ],
+      "ko": [
+        "따뜻한 밥에 '오메 치라시'를 뿌려 깎는 것처럼 골고루 섞는다.",
+        "<파트의 준비> 한판을 얼굴과 꽃잎의 형태로 형태로 뽑는다. 햄은 1장은 반으로 자르고 나머지는 꽃 모양으로 뽑는다. 오이는 필러로 오래 자른다. 풀로 눈, 입, 머리카락, 까마귀를 만든다. 당근을 얇게 썬 삶은 꽃 모양으로 뽑는다. 스냅 엔도는 삶고, 세로로 간다. 연어는 1cm 모서리로 자른다.",
+        "내경 18cm의 그릇에 랩을 전면에 딱 깔아 넣는다. 1을 넣고 표면이 평평해지도록 누릅니다.",
+        "＜내리모양＞2로 만든 한판을 오이로 감아, 까마귀, 눈, 입을 달아 토마토 케첩으로 뺨을 붙인다.",
+        "<병아리> 2로 만든 한판을 햄으로 감아 머리카락, 눈, 입을 달고 토마토 케첩으로 뺨을 붙인다. 꽃 모양 당근을 바르고 픽을 바른다.",
+        "위에 접시를 얹고 뒤집어 준다.",
+        "위에 금사 달걀, 덴부를 하고, <내리모양>, <병아리>를 얹어 연어, 이크라, 밥을 장식한다. 주위에, 스냅 엔도, 꽃 모양의 당근, 햄, 한판, 이크라를 장식한다."
+      ]
+    }
   }
 ]

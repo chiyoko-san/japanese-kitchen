@@ -86990,5 +86990,732 @@
         "토로 아마 새 양파와 돼지고기 데리야키"
       ]
     }
+  },
+  {
+    "id": "e738a656",
+    "source_url": "https://www.mizkan.co.jp/ouchirecipe/recipe/?menu_id=22417",
+    "source_site": "Mizkan",
+    "title_ja": "春キャベツのステーキ",
+    "description_ja": "",
+    "ingredients": [
+      {
+        "name_ja": "春キャベツ",
+        "amount": "１／４個",
+        "name_translated": {
+          "en": "spring cabbage",
+          "zh_tw": "春白菜",
+          "zh_cn": "春白菜",
+          "vi": "bắp cải xuân",
+          "hi": "वसंत गोभी",
+          "ru": "весенняя капуста",
+          "th": "กะหล่ำปลีฤดูใบไม้ผลิ",
+          "id": "kubis musim semi",
+          "ms": "kubis musim bunga",
+          "ko": "봄 양배추"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E6%98%A5%E3%82%AD%E3%83%A3%E3%83%99%E3%83%84&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E6%98%A5%E3%82%AD%E3%83%A3%E3%83%99%E3%83%84/?tag="
+      },
+      {
+        "name_ja": "オリーブオイル",
+        "amount": "大さじ１",
+        "name_translated": {
+          "en": "olive oil",
+          "zh_tw": "橄欖油",
+          "zh_cn": "橄榄油",
+          "vi": "dầu ô liu",
+          "hi": "जैतून का तेल",
+          "ru": "оливковое масло",
+          "th": "น้ำมันมะกอก",
+          "id": "minyak zaitun",
+          "ms": "minyak zaitun",
+          "ko": "올리브 오일"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%82%AA%E3%83%AA%E3%83%BC%E3%83%96%E3%82%AA%E3%82%A4%E3%83%AB&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%82%AA%E3%83%AA%E3%83%BC%E3%83%96%E3%82%AA%E3%82%A4%E3%83%AB/?tag="
+      },
+      {
+        "name_ja": "ミツカン　味ぽん",
+        "amount": "大さじ２",
+        "name_translated": {
+          "en": "Mizkan Ajipon",
+          "zh_tw": "味滋康味精",
+          "zh_cn": "味滋康味精",
+          "vi": "Mizkan Ajipon",
+          "hi": "मिज़कान अजिपोन",
+          "ru": "Мизкан Аджипон",
+          "th": "มิซกัน อาจิปอน",
+          "id": "Mizkan Ajipon",
+          "ms": "Mizkan Ajipon",
+          "ko": "미츠칸 미폰"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E5%91%B3%E3%81%BD%E3%82%93&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E5%91%B3%E3%81%BD%E3%82%93/?tag="
+      },
+      {
+        "name_ja": "砂糖",
+        "amount": "小さじ１",
+        "name_translated": {
+          "en": "sugar",
+          "zh_tw": "糖",
+          "zh_cn": "糖",
+          "vi": "đường",
+          "hi": "चीनी",
+          "ru": "сахар",
+          "th": "น้ำตาล",
+          "id": "gula",
+          "ms": "gula",
+          "ko": "설탕"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E7%A0%82%E7%B3%96&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E7%A0%82%E7%B3%96/?tag="
+      },
+      {
+        "name_ja": "おろしにんにく",
+        "amount": "小さじ１",
+        "name_translated": {
+          "en": "grated garlic",
+          "zh_tw": "磨碎的大蒜",
+          "zh_cn": "磨碎的大蒜",
+          "vi": "tỏi nghiền",
+          "hi": "कसा हुआ लहसुन",
+          "ru": "тертый чеснок",
+          "th": "กระเทียมขูด",
+          "id": "bawang putih parut",
+          "ms": "bawang putih parut",
+          "ko": "마늘 마늘"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%8A%E3%82%8D%E3%81%97%E3%81%AB%E3%82%93%E3%81%AB%E3%81%8F&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%8A%E3%82%8D%E3%81%97%E3%81%AB%E3%82%93%E3%81%AB%E3%81%8F/?tag="
+      },
+      {
+        "name_ja": "１",
+        "amount": "春キャベツは半分に切る。（１／８サイズが２個でき上がる。）",
+        "name_translated": {
+          "en": "1",
+          "zh_tw": "1",
+          "zh_cn": "1",
+          "vi": "1",
+          "hi": "1",
+          "ru": "1",
+          "th": "1",
+          "id": "1",
+          "ms": "1",
+          "ko": "1"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%91&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%91/?tag="
+      },
+      {
+        "name_ja": "２",
+        "amount": "フライパンにオリーブオイルを中火で熱し、春キャベツを焼く。",
+        "name_translated": {
+          "en": "2",
+          "zh_tw": "2",
+          "zh_cn": "2",
+          "vi": "2",
+          "hi": "2",
+          "ru": "2",
+          "th": "2",
+          "id": "2",
+          "ms": "2",
+          "ko": "2"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%92&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%92/?tag="
+      },
+      {
+        "name_ja": "３",
+        "amount": "フタをして両面３～４分ずつ、焼き色がつくまで焼いて皿に取り出す。",
+        "name_translated": {
+          "en": "3",
+          "zh_tw": "3",
+          "zh_cn": "3",
+          "vi": "3",
+          "hi": "3",
+          "ru": "3",
+          "th": "3",
+          "id": "3",
+          "ms": "3",
+          "ko": "3"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%93&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%93/?tag="
+      },
+      {
+        "name_ja": "４",
+        "amount": "にかける。",
+        "name_translated": {
+          "en": "4",
+          "zh_tw": "4",
+          "zh_cn": "4",
+          "vi": "4",
+          "hi": "4",
+          "ru": "4",
+          "th": "4",
+          "id": "4",
+          "ms": "4",
+          "ko": "4"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%94&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%94/?tag="
+      },
+      {
+        "name_ja": "レンジで作る！春キャベツを味わうよだれ鶏",
+        "amount": "適量",
+        "name_translated": {
+          "en": "Make it in the microwave! Drooling chicken tasting spring cabbage",
+          "zh_tw": "用微波爐做吧！流口水的雞肉品嚐春白菜",
+          "zh_cn": "用微波炉做吧！流口水的鸡品尝春白菜",
+          "vi": "Làm nó trong lò vi sóng! Gà chảy nước miếng nếm bắp cải",
+          "hi": "इसे माइक्रोवेव में बनाएं! वसंत पत्तागोभी का स्वाद चखता लार टपकता चिकन",
+          "ru": "Сделай в микроволновке! Курица, пускающая слюни, пробует весеннюю капусту",
+          "th": "ทำในไมโครเวฟ! ไก่น้ำลายสอชิมกะหล่ำปลีฤดูใบไม้ผลิ",
+          "id": "Buat di microwave! Ayam yang ngiler mencicipi kubis musim semi",
+          "ms": "Buat dalam microwave! Air liur ayam rasa kobis musim bunga",
+          "ko": "레인지로 만든다! 봄 양배추를 맛볼 수 있는 닭"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%AC%E3%83%B3%E3%82%B8%E3%81%A7%E4%BD%9C%E3%82%8B%EF%BC%81%E6%98%A5%E3%82%AD%E3%83%A3%E3%83%99%E3%83%84%E3%82%92%E5%91%B3%E3%82%8F%E3%81%86%E3%82%88%E3%81%A0%E3%82%8C%E9%B6%8F&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%AC%E3%83%B3%E3%82%B8%E3%81%A7%E4%BD%9C%E3%82%8B%EF%BC%81%E6%98%A5%E3%82%AD%E3%83%A3%E3%83%99%E3%83%84%E3%82%92%E5%91%B3%E3%82%8F%E3%81%86%E3%82%88%E3%81%A0%E3%82%8C%E9%B6%8F/?tag="
+      },
+      {
+        "name_ja": "春キャベツのちぎりナムル",
+        "amount": "適量",
+        "name_translated": {
+          "en": "Torn spring cabbage namul",
+          "zh_tw": "撕碎的春白菜納木爾",
+          "zh_cn": "撕碎的春白菜纳木尔",
+          "vi": "Namul bắp cải rách",
+          "hi": "फटी हुई वसंत गोभी नामुल",
+          "ru": "Рваная капуста весенняя намуль",
+          "th": "นามูลกะหล่ำปลีฤดูใบไม้ผลิฉีกขาด",
+          "id": "Namul kubis musim semi yang robek",
+          "ms": "Namul kobis spring koyak",
+          "ko": "봄 양배추 치기리 나물"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E6%98%A5%E3%82%AD%E3%83%A3%E3%83%99%E3%83%84%E3%81%AE%E3%81%A1%E3%81%8E%E3%82%8A%E3%83%8A%E3%83%A0%E3%83%AB&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E6%98%A5%E3%82%AD%E3%83%A3%E3%83%99%E3%83%84%E3%81%AE%E3%81%A1%E3%81%8E%E3%82%8A%E3%83%8A%E3%83%A0%E3%83%AB/?tag="
+      },
+      {
+        "name_ja": "レンジで！春キャベツとベーコンの無限ペッパーサラダ",
+        "amount": "適量",
+        "name_translated": {
+          "en": "In the microwave! Infinite pepper salad with spring cabbage and bacon",
+          "zh_tw": "在微波爐裡！無限量辣椒沙拉佐春高麗菜和培根",
+          "zh_cn": "在微波炉里！无限量辣椒沙拉配春卷心菜和培根",
+          "vi": "Trong lò vi sóng! Salad tiêu vô hạn với bắp cải và thịt xông khói",
+          "hi": "माइक्रोवेव में! वसंत पत्तागोभी और बेकन के साथ अनंत काली मिर्च का सलाद",
+          "ru": "В микроволновке! Бесконечный салат из перца с капустой и беконом",
+          "th": "ในไมโครเวฟ! สลัดพริกไทยไม่มีที่สิ้นสุดกับกะหล่ำปลีฤดูใบไม้ผลิและเบคอน",
+          "id": "Di dalam microwave! Salad lada tanpa batas dengan kubis musim semi dan bacon",
+          "ms": "Dalam ketuhar gelombang mikro! Salad lada tak terhingga dengan kubis musim bunga dan daging",
+          "ko": "범위에서! 봄 양배추와 베이컨 무한 후추 샐러드"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%AC%E3%83%B3%E3%82%B8%E3%81%A7%EF%BC%81%E6%98%A5%E3%82%AD%E3%83%A3%E3%83%99%E3%83%84%E3%81%A8%E3%83%99%E3%83%BC%E3%82%B3%E3%83%B3%E3%81%AE%E7%84%A1%E9%99%90%E3%83%9A%E3%83%83%E3%83%91%E3%83%BC%E3%82%B5%E3%83%A9%E3%83%80&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%AC%E3%83%B3%E3%82%B8%E3%81%A7%EF%BC%81%E6%98%A5%E3%82%AD%E3%83%A3%E3%83%99%E3%83%84%E3%81%A8%E3%83%99%E3%83%BC%E3%82%B3%E3%83%B3%E3%81%AE%E7%84%A1%E9%99%90%E3%83%9A%E3%83%83%E3%83%91%E3%83%BC%E3%82%B5%E3%83%A9%E3%83%80/?tag="
+      }
+    ],
+    "steps_ja": [
+      "春キャベツは半分に切る。（１／８サイズが２個でき上がる。）",
+      "フライパンにオリーブオイルを中火で熱し、春キャベツを焼く。",
+      "フタをして両面３～４分ずつ、焼き色がつくまで焼いて皿に取り出す。",
+      "フライパンに「味ぽん」、砂糖、おろしにんにくを加えて煮立たせる。３にかける。",
+      "レンジで作る！春キャベツを味わうよだれ鶏",
+      "春キャベツのちぎりナムル",
+      "レンジで！春キャベツとベーコンの無限ペッパーサラダ"
+    ],
+    "image_url": "",
+    "title": {
+      "en": "spring cabbage steak",
+      "zh_tw": "春捲心菜牛排",
+      "zh_cn": "春卷心菜牛排",
+      "vi": "bít tết bắp cải mùa xuân",
+      "hi": "वसंत गोभी स्टेक",
+      "ru": "стейк из весенней капусты",
+      "th": "สเต็กกะหล่ำปลีฤดูใบไม้ผลิ",
+      "id": "steak kubis musim semi",
+      "ms": "stik kubis musim bunga",
+      "ko": "봄 양배추 스테이크"
+    },
+    "description": {
+      "en": "",
+      "zh_tw": "",
+      "zh_cn": "",
+      "vi": "",
+      "hi": "",
+      "ru": "",
+      "th": "",
+      "id": "",
+      "ms": "",
+      "ko": ""
+    },
+    "steps": {
+      "en": [
+        "Cut spring cabbage in half. (You will make two 1/8 size pieces.)",
+        "Heat olive oil in a frying pan over medium heat and fry the spring cabbage.",
+        "Cover and cook for 3 to 4 minutes on each side until golden brown, then remove to a plate.",
+        "Add Ajipon, sugar, and grated garlic to a frying pan and bring to a boil. Add to 3.",
+        "Make it in the microwave! Drooling chicken tasting spring cabbage",
+        "Torn spring cabbage namul",
+        "In the microwave! Infinite pepper salad with spring cabbage and bacon"
+      ],
+      "zh_tw": [
+        "將春捲心菜切成兩半。 （您將製作兩個 1/8 尺寸的零件。）",
+        "在煎鍋中以中火加熱橄欖油，炒春高麗菜。",
+        "蓋上鍋蓋，每面煎 3 至 4 分鐘，直至呈金黃色，然後盛入盤中。",
+        "將 Ajipon、糖和磨碎的大蒜放入煎鍋中，煮沸。添加到 3。",
+        "用微波爐做吧！流口水的雞肉品嚐春白菜",
+        "撕碎的春白菜納木爾",
+        "在微波爐裡！無限量辣椒沙拉佐春高麗菜和培根"
+      ],
+      "zh_cn": [
+        "将春卷心菜切成两半。 （您将制作两个 1/8 尺寸的部件。）",
+        "在煎锅中用中火加热橄榄油，炒春卷心菜。",
+        "盖上锅盖，每面煎 3 至 4 分钟，直至呈金黄色，然后盛入盘中。",
+        "将 Ajipon、糖和磨碎的大蒜放入煎锅中，煮沸。添加到 3。",
+        "用微波炉做吧！流口水的鸡品尝春白菜",
+        "撕碎的春白菜纳木尔",
+        "在微波炉里！无限量辣椒沙拉配春卷心菜和培根"
+      ],
+      "vi": [
+        "Cắt bắp cải làm đôi. (Bạn sẽ làm hai mảnh có kích thước 1/8.)",
+        "Đun nóng dầu ô liu trong chảo trên lửa vừa và xào bắp cải.",
+        "Đậy nắp và nấu từ 3 đến 4 phút mỗi mặt cho đến khi có màu vàng nâu thì vớt ra đĩa.",
+        "Cho Ajipon, đường và tỏi băm vào chảo rồi đun sôi. Thêm vào 3.",
+        "Làm nó trong lò vi sóng! Gà chảy nước miếng nếm bắp cải",
+        "Namul bắp cải rách",
+        "Trong lò vi sóng! Salad tiêu vô hạn với bắp cải và thịt xông khói"
+      ],
+      "hi": [
+        "वसंत पत्तागोभी को आधा काट लें। (आप 1/8 आकार के दो टुकड़े बनाएंगे।)",
+        "मध्यम आंच पर एक फ्राइंग पैन में जैतून का तेल गरम करें और स्प्रिंग पत्तागोभी को भूनें।",
+        "ढककर हर तरफ 3 से 4 मिनट तक सुनहरा भूरा होने तक पकाएं, फिर एक प्लेट में निकाल लें।",
+        "एक फ्राइंग पैन में अजिपोन, चीनी और कसा हुआ लहसुन डालें और उबाल लें। 3 में जोड़ें.",
+        "इसे माइक्रोवेव में बनाएं! वसंत पत्तागोभी का स्वाद चखता लार टपकता चिकन",
+        "फटी हुई वसंत गोभी नामुल",
+        "माइक्रोवेव में! वसंत पत्तागोभी और बेकन के साथ अनंत काली मिर्च का सलाद"
+      ],
+      "ru": [
+        "Весеннюю капусту разрезать пополам. (У вас получится две детали размером 1/8.)",
+        "Нагрейте оливковое масло в сковороде на среднем огне и обжарьте весеннюю капусту.",
+        "Накройте крышкой и готовьте по 3–4 минуты с каждой стороны до золотистого цвета, затем переложите на тарелку.",
+        "Добавьте в сковороду аджипон, сахар и тертый чеснок и доведите до кипения. Добавьте к 3.",
+        "Сделай в микроволновке! Курица, пускающая слюни, пробует весеннюю капусту",
+        "Рваная капуста весенняя намуль",
+        "В микроволновке! Бесконечный салат из перца с капустой и беконом"
+      ],
+      "th": [
+        "หั่นกะหล่ำปลีฤดูใบไม้ผลิลงครึ่งหนึ่ง (คุณจะทำสองชิ้นขนาด 1/8)",
+        "ตั้งน้ำมันมะกอกในกระทะบนไฟร้อนปานกลางแล้วทอดกะหล่ำปลีในฤดูใบไม้ผลิ",
+        "ปิดฝาและปรุงเป็นเวลา 3 ถึง 4 นาทีในแต่ละด้านจนเป็นสีเหลืองทอง จากนั้นจึงตักใส่จาน",
+        "ใส่ Ajipon, น้ำตาล และกระเทียมขูดลงในกระทะแล้วนำไปต้ม เพิ่มเป็น 3.",
+        "ทำในไมโครเวฟ! ไก่น้ำลายสอชิมกะหล่ำปลีฤดูใบไม้ผลิ",
+        "นามูลกะหล่ำปลีฤดูใบไม้ผลิฉีกขาด",
+        "ในไมโครเวฟ! สลัดพริกไทยไม่มีที่สิ้นสุดกับกะหล่ำปลีฤดูใบไม้ผลิและเบคอน"
+      ],
+      "id": [
+        "Potong kubis musim semi menjadi dua. (Anda akan membuat dua potong ukuran 1/8.)",
+        "Panaskan minyak zaitun dalam wajan dengan api sedang dan goreng kubis musim semi.",
+        "Tutup dan masak selama 3 hingga 4 menit di setiap sisinya hingga berwarna cokelat keemasan, lalu angkat ke piring.",
+        "Tambahkan Ajipon, gula pasir, dan bawang putih parut ke dalam penggorengan dan didihkan. Tambahkan ke 3.",
+        "Buat di microwave! Ayam yang ngiler mencicipi kubis musim semi",
+        "Namul kubis musim semi yang robek",
+        "Di dalam microwave! Salad lada tanpa batas dengan kubis musim semi dan bacon"
+      ],
+      "ms": [
+        "Potong kubis musim bunga separuh. (Anda akan membuat dua keping saiz 1/8.)",
+        "Panaskan minyak zaitun dalam kuali dengan api sederhana dan goreng kubis musim bunga.",
+        "Tutup dan masak selama 3 hingga 4 minit pada setiap sisi sehingga perang keemasan, kemudian angkat ke pinggan.",
+        "Masukkan Ajipon, gula, dan bawang putih parut ke dalam kuali dan biarkan mendidih. Tambah ke 3.",
+        "Buat dalam microwave! Air liur ayam rasa kobis musim bunga",
+        "Namul kobis spring koyak",
+        "Dalam ketuhar gelombang mikro! Salad lada tak terhingga dengan kubis musim bunga dan daging"
+      ],
+      "ko": [
+        "봄 양배추는 반으로 자른다. (1/8 사이즈가 2개 완성된다.)",
+        "프라이팬에 올리브 오일을 중불로 가열하고 봄 양배추를 굽는다.",
+        "뚜껑을 하고 양면 3~4분씩, 구운 색이 붙을 때까지 구워 접시에 꺼낸다.",
+        "프라이팬에 '맛퐁', 설탕, 반죽 마늘을 넣고 끓인다. 3에 걸린다.",
+        "레인지로 만든다! 봄 양배추를 맛볼 수 있는 닭",
+        "봄 양배추 치기리 나물",
+        "범위에서! 봄 양배추와 베이컨 무한 후추 샐러드"
+      ]
+    }
+  },
+  {
+    "id": "b2659a5a",
+    "source_url": "https://www.mizkan.co.jp/ouchirecipe/recipe/?menu_id=20468",
+    "source_site": "Mizkan",
+    "title_ja": "新玉ねぎたっぷり！鶏肉の南蛮漬け",
+    "description_ja": "",
+    "ingredients": [
+      {
+        "name_ja": "鶏もも肉",
+        "amount": "２８０ｇ（カット済）",
+        "name_translated": {
+          "en": "chicken thigh",
+          "zh_tw": "雞大腿",
+          "zh_cn": "鸡大腿",
+          "vi": "đùi gà",
+          "hi": "चिकन थाई",
+          "ru": "куриное бедро",
+          "th": "ต้นขาไก่",
+          "id": "paha ayam",
+          "ms": "paha ayam",
+          "ko": "닭 허벅지 고기"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E9%B6%8F%E3%82%82%E3%82%82%E8%82%89&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E9%B6%8F%E3%82%82%E3%82%82%E8%82%89/?tag="
+      },
+      {
+        "name_ja": "新たまねぎ",
+        "amount": "１個（１５０ｇ）",
+        "name_translated": {
+          "en": "new onion",
+          "zh_tw": "新洋蔥",
+          "zh_cn": "新洋葱",
+          "vi": "hành tây mới",
+          "hi": "नया प्याज",
+          "ru": "новый лук",
+          "th": "หัวหอมใหม่",
+          "id": "bawang baru",
+          "ms": "bawang baru",
+          "ko": "새 양파"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E6%96%B0%E3%81%9F%E3%81%BE%E3%81%AD%E3%81%8E&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E6%96%B0%E3%81%9F%E3%81%BE%E3%81%AD%E3%81%8E/?tag="
+      },
+      {
+        "name_ja": "片栗粉",
+        "amount": "適量",
+        "name_translated": {
+          "en": "potato starch",
+          "zh_tw": "馬鈴薯澱粉",
+          "zh_cn": "马铃薯淀粉",
+          "vi": "tinh bột khoai tây",
+          "hi": "आलू स्टार्च",
+          "ru": "картофельный крахмал",
+          "th": "แป้งมันฝรั่ง",
+          "id": "tepung kentang",
+          "ms": "kanji kentang",
+          "ko": "가문 가루"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E7%89%87%E6%A0%97%E7%B2%89&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E7%89%87%E6%A0%97%E7%B2%89/?tag="
+      },
+      {
+        "name_ja": "サラダ油",
+        "amount": "大さじ２",
+        "name_translated": {
+          "en": "salad oil",
+          "zh_tw": "沙拉油",
+          "zh_cn": "色拉油",
+          "vi": "dầu trộn salad",
+          "hi": "वनस्पति - तेल",
+          "ru": "салатное масло",
+          "th": "น้ำมันสลัด",
+          "id": "minyak salad",
+          "ms": "minyak salad",
+          "ko": "샐러드 오일"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%82%B5%E3%83%A9%E3%83%80%E6%B2%B9&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%82%B5%E3%83%A9%E3%83%80%E6%B2%B9/?tag="
+      },
+      {
+        "name_ja": "ミツカン　味ぽん",
+        "amount": "５０ｍｌ",
+        "name_translated": {
+          "en": "Mizkan Ajipon",
+          "zh_tw": "味滋康味精",
+          "zh_cn": "味滋康味精",
+          "vi": "Mizkan Ajipon",
+          "hi": "मिज़कान अजिपोन",
+          "ru": "Мизкан Аджипон",
+          "th": "มิซกัน อาจิปอน",
+          "id": "Mizkan Ajipon",
+          "ms": "Mizkan Ajipon",
+          "ko": "미츠칸 미폰"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E5%91%B3%E3%81%BD%E3%82%93&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E5%91%B3%E3%81%BD%E3%82%93/?tag="
+      },
+      {
+        "name_ja": "水",
+        "amount": "５０ｍｌ",
+        "name_translated": {
+          "en": "water",
+          "zh_tw": "水",
+          "zh_cn": "水",
+          "vi": "Nước",
+          "hi": "पानी",
+          "ru": "вода",
+          "th": "น้ำ",
+          "id": "air",
+          "ms": "air",
+          "ko": "물"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E6%B0%B4&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E6%B0%B4/?tag="
+      },
+      {
+        "name_ja": "赤とうがらし　（小口切り）",
+        "amount": "適宜",
+        "name_translated": {
+          "en": "Red chili pepper (cut into small pieces)",
+          "zh_tw": "紅辣椒（切小塊）",
+          "zh_cn": "红辣椒（切小块）",
+          "vi": "Ớt đỏ (cắt thành miếng nhỏ)",
+          "hi": "लाल मिर्च (छोटे टुकड़ों में कटी हुई)",
+          "ru": "Красный перец чили (нарезать небольшими кусочками)",
+          "th": "พริกแดง (หั่นเป็นชิ้นเล็กๆ)",
+          "id": "Cabai merah (potong kecil-kecil)",
+          "ms": "Cili merah (potong kecil)",
+          "ko": "붉은 토가라시 (작은 컷)"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E8%B5%A4%E3%81%A8%E3%81%86%E3%81%8C%E3%82%89%E3%81%97%E3%80%80%EF%BC%88%E5%B0%8F%E5%8F%A3%E5%88%87%E3%82%8A%EF%BC%89&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E8%B5%A4%E3%81%A8%E3%81%86%E3%81%8C%E3%82%89%E3%81%97%E3%80%80%EF%BC%88%E5%B0%8F%E5%8F%A3%E5%88%87%E3%82%8A%EF%BC%89/?tag="
+      },
+      {
+        "name_ja": "小ねぎ　（小口切り）",
+        "amount": "適宜",
+        "name_translated": {
+          "en": "Onion (cut into small pieces)",
+          "zh_tw": "洋蔥（切小塊）",
+          "zh_cn": "洋葱（切小块）",
+          "vi": "Hành tây (cắt thành miếng nhỏ)",
+          "hi": "प्याज (छोटे टुकड़ों में कटा हुआ)",
+          "ru": "Лук (нарезать небольшими кусочками)",
+          "th": "หัวหอม (หั่นเป็นชิ้นเล็กๆ)",
+          "id": "Bawang bombay (potong kecil-kecil)",
+          "ms": "Bawang besar (potong kecil)",
+          "ko": "작은 양파 (작은 컷)"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E5%B0%8F%E3%81%AD%E3%81%8E%E3%80%80%EF%BC%88%E5%B0%8F%E5%8F%A3%E5%88%87%E3%82%8A%EF%BC%89&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E5%B0%8F%E3%81%AD%E3%81%8E%E3%80%80%EF%BC%88%E5%B0%8F%E5%8F%A3%E5%88%87%E3%82%8A%EF%BC%89/?tag="
+      },
+      {
+        "name_ja": "１",
+        "amount": "にする。",
+        "name_translated": {
+          "en": "1",
+          "zh_tw": "1",
+          "zh_cn": "1",
+          "vi": "1",
+          "hi": "1",
+          "ru": "1",
+          "th": "1",
+          "id": "1",
+          "ms": "1",
+          "ko": "1"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%91&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%91/?tag="
+      },
+      {
+        "name_ja": "２",
+        "amount": "バットに＜Ａ＞を入れ、たまねぎを加える。フライパンにサラダ油を入れ中火で熱し、鶏肉が両面きつね色になるまで揚げ焼きにする。熱いうちにバットに入れてなじませ、５分ほど漬ける。",
+        "name_translated": {
+          "en": "2",
+          "zh_tw": "2",
+          "zh_cn": "2",
+          "vi": "2",
+          "hi": "2",
+          "ru": "2",
+          "th": "2",
+          "id": "2",
+          "ms": "2",
+          "ko": "2"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%92&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%92/?tag="
+      },
+      {
+        "name_ja": "３",
+        "amount": "器に盛り、お好みで小ねぎ散らす。",
+        "name_translated": {
+          "en": "3",
+          "zh_tw": "3",
+          "zh_cn": "3",
+          "vi": "3",
+          "hi": "3",
+          "ru": "3",
+          "th": "3",
+          "id": "3",
+          "ms": "3",
+          "ko": "3"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%93&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%93/?tag="
+      },
+      {
+        "name_ja": "レンジで丸ごと新玉ねぎのバタぽん",
+        "amount": "適量",
+        "name_translated": {
+          "en": "Batapon of whole new onions in the microwave",
+          "zh_tw": "微波爐裡的新鮮洋蔥Batapon",
+          "zh_cn": "微波炉里的新鲜洋葱Batapon",
+          "vi": "Batapon hành tây nguyên củ trong lò vi sóng",
+          "hi": "माइक्रोवेव में साबूत नए प्याज का बट्टापोन",
+          "ru": "Батапон из целого нового лука в микроволновке",
+          "th": "Batapon หัวหอมใหม่ทั้งหมดในไมโครเวฟ",
+          "id": "Batapon bawang bombay utuh di microwave",
+          "ms": "Batapon bawang baru dalam ketuhar gelombang mikro",
+          "ko": "범위에서 통째로 새로운 양파 버터 폰"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%AC%E3%83%B3%E3%82%B8%E3%81%A7%E4%B8%B8%E3%81%94%E3%81%A8%E6%96%B0%E7%8E%89%E3%81%AD%E3%81%8E%E3%81%AE%E3%83%90%E3%82%BF%E3%81%BD%E3%82%93&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%AC%E3%83%B3%E3%82%B8%E3%81%A7%E4%B8%B8%E3%81%94%E3%81%A8%E6%96%B0%E7%8E%89%E3%81%AD%E3%81%8E%E3%81%AE%E3%83%90%E3%82%BF%E3%81%BD%E3%82%93/?tag="
+      },
+      {
+        "name_ja": "新玉ねぎの肉詰め",
+        "amount": "適量",
+        "name_translated": {
+          "en": "Stuffed fresh onions with meat",
+          "zh_tw": "新鮮洋蔥和肉餡",
+          "zh_cn": "新鲜洋葱和肉馅",
+          "vi": "Hành tươi nhồi thịt",
+          "hi": "मांस के साथ भरवां ताजा प्याज",
+          "ru": "Фаршированный свежий лук с мясом",
+          "th": "หัวหอมสดยัดไส้เนื้อ",
+          "id": "Diisi bawang segar dengan daging",
+          "ms": "Bawang segar disumbat dengan daging",
+          "ko": "새 양파 고기 채우기"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E6%96%B0%E7%8E%89%E3%81%AD%E3%81%8E%E3%81%AE%E8%82%89%E8%A9%B0%E3%82%81&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E6%96%B0%E7%8E%89%E3%81%AD%E3%81%8E%E3%81%AE%E8%82%89%E8%A9%B0%E3%82%81/?tag="
+      },
+      {
+        "name_ja": "シャキシャキ新玉ねぎ入りポテトサラダ",
+        "amount": "適量",
+        "name_translated": {
+          "en": "Potato salad with crispy new onions",
+          "zh_tw": "馬鈴薯沙拉佐脆皮新洋蔥",
+          "zh_cn": "土豆沙拉配脆皮新洋葱",
+          "vi": "Salad khoai tây với hành tây mới giòn",
+          "hi": "कुरकुरे नए प्याज के साथ आलू का सलाद",
+          "ru": "Картофельный салат с хрустящим молодым луком",
+          "th": "สลัดมันฝรั่งกับหัวหอมใหม่กรอบ",
+          "id": "Salad kentang dengan bawang baru yang renyah",
+          "ms": "Salad kentang dengan bawang baru yang rangup",
+          "ko": "샤키 샤키 새 양파가 들어간 감자 샐러드"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%82%B7%E3%83%A3%E3%82%AD%E3%82%B7%E3%83%A3%E3%82%AD%E6%96%B0%E7%8E%89%E3%81%AD%E3%81%8E%E5%85%A5%E3%82%8A%E3%83%9D%E3%83%86%E3%83%88%E3%82%B5%E3%83%A9%E3%83%80&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%82%B7%E3%83%A3%E3%82%AD%E3%82%B7%E3%83%A3%E3%82%AD%E6%96%B0%E7%8E%89%E3%81%AD%E3%81%8E%E5%85%A5%E3%82%8A%E3%83%9D%E3%83%86%E3%83%88%E3%82%B5%E3%83%A9%E3%83%80/?tag="
+      }
+    ],
+    "steps_ja": [
+      "鶏肉は片栗粉を全体に薄くまぶす。たまねぎは薄切りにする。",
+      "バットに＜Ａ＞を入れ、たまねぎを加える。フライパンにサラダ油を入れ中火で熱し、鶏肉が両面きつね色になるまで揚げ焼きにする。熱いうちにバットに入れてなじませ、５分ほど漬ける。",
+      "器に盛り、お好みで小ねぎ散らす。",
+      "レンジで丸ごと新玉ねぎのバタぽん",
+      "新玉ねぎの肉詰め",
+      "シャキシャキ新玉ねぎ入りポテトサラダ"
+    ],
+    "image_url": "",
+    "title": {
+      "en": "Lots of new onions! Nanban pickled chicken",
+      "zh_tw": "好多新洋蔥！南蠻醃雞",
+      "zh_cn": "好多新洋葱！南蛮腌鸡",
+      "vi": "Rất nhiều hành mới! Gà ngâm Nanban",
+      "hi": "ढेर सारे नए प्याज़! नानबन मसालेदार चिकन",
+      "ru": "Много нового лука! Нанбан маринованная курица",
+      "th": "หัวหอมใหม่มากมาย! นันบันไก่ดอง",
+      "id": "Banyak bawang baru! Ayam acar Nanban",
+      "ms": "Banyak bawang baru! Ayam acar Nanban",
+      "ko": "신양파 듬뿍! 닭고기의 남만 절임"
+    },
+    "description": {
+      "en": "",
+      "zh_tw": "",
+      "zh_cn": "",
+      "vi": "",
+      "hi": "",
+      "ru": "",
+      "th": "",
+      "id": "",
+      "ms": "",
+      "ko": ""
+    },
+    "steps": {
+      "en": [
+        "Lightly sprinkle the chicken all over with potato starch. Cut the onion into thin slices.",
+        "Put <A> in a vat and add onions. Heat the vegetable oil in a frying pan over medium heat and fry the chicken until golden brown on both sides. Pour into a vat while hot and let soak for about 5 minutes.",
+        "Place in a bowl and sprinkle with onions if desired.",
+        "Batapon of whole new onions in the microwave",
+        "Stuffed fresh onions with meat",
+        "Potato salad with crispy new onions"
+      ],
+      "zh_tw": [
+        "在雞肉上輕輕撒上馬鈴薯澱粉。將洋蔥切成薄片。",
+        "將<A>放入桶中並加入洋蔥。在煎鍋中以中火加熱植物油，將雞肉煎至兩面金黃。趁熱倒入桶中，浸泡約 5 分鐘。",
+        "如果需要的話，放入碗中，撒上洋蔥。",
+        "微波爐裡的新鮮洋蔥Batapon",
+        "新鮮洋蔥和肉餡",
+        "馬鈴薯沙拉佐脆皮新洋蔥"
+      ],
+      "zh_cn": [
+        "在鸡肉上轻轻撒上马铃薯淀粉。将洋葱切成薄片。",
+        "将<A>放入桶中并添加洋葱。在煎锅中用中火加热植物油，将鸡肉煎至两面金黄。趁热倒入桶中，浸泡约 5 分钟。",
+        "如果需要的话，放入碗中，撒上洋葱。",
+        "微波炉里的新鲜洋葱Batapon",
+        "新鲜洋葱和肉馅",
+        "土豆沙拉配脆皮新洋葱"
+      ],
+      "vi": [
+        "Rắc nhẹ toàn bộ thịt gà bằng tinh bột khoai tây. Cắt hành tây thành lát mỏng.",
+        "Đặt <A> vào thùng và thêm hành tây. Đun nóng dầu thực vật trong chảo trên lửa vừa và chiên gà cho đến khi vàng đều hai mặt. Đổ vào thùng khi còn nóng và ngâm trong khoảng 5 phút.",
+        "Cho vào tô và rắc hành tây nếu muốn.",
+        "Batapon hành tây nguyên củ trong lò vi sóng",
+        "Hành tươi nhồi thịt",
+        "Salad khoai tây với hành tây mới giòn"
+      ],
+      "hi": [
+        "चिकन के चारों ओर आलू स्टार्च हल्के से छिड़कें। प्याज को पतले-पतले टुकड़ों में काट लें.",
+        "<A> को एक बर्तन में डालें और प्याज डालें। मध्यम आंच पर एक फ्राइंग पैन में वनस्पति तेल गरम करें और चिकन को दोनों तरफ से सुनहरा भूरा होने तक भूनें। गर्म होने पर एक बर्तन में डालें और लगभग 5 मिनट तक भीगने दें।",
+        "एक कटोरे में रखें और चाहें तो प्याज छिड़कें।",
+        "माइक्रोवेव में साबूत नए प्याज का बट्टापोन",
+        "मांस के साथ भरवां ताजा प्याज",
+        "कुरकुरे नए प्याज के साथ आलू का सलाद"
+      ],
+      "ru": [
+        "Слегка посыпьте курицу картофельным крахмалом. Лук нарезаем тонкими ломтиками.",
+        "Поместите <A> в чан и добавьте лук. Нагрейте растительное масло в сковороде на среднем огне и обжарьте курицу до золотистого цвета с обеих сторон. Перелейте в чан, пока он горячий, и дайте настояться около 5 минут.",
+        "Выложите в миску и по желанию посыпьте луком.",
+        "Батапон из целого нового лука в микроволновке",
+        "Фаршированный свежий лук с мясом",
+        "Картофельный салат с хрустящим молодым луком"
+      ],
+      "th": [
+        "โรยไก่ให้ทั่วด้วยแป้งมันฝรั่ง หั่นหัวหอมเป็นชิ้นบาง ๆ",
+        "ใส่ <A> ลงในถังและเพิ่มหัวหอม ตั้งน้ำมันพืชในกระทะบนไฟร้อนปานกลางแล้วทอดไก่จนเป็นสีเหลืองทองทั้งสองด้าน เทลงในถังขณะร้อน และแช่ไว้ประมาณ 5 นาที",
+        "วางในชามแล้วโรยด้วยหัวหอมหากต้องการ",
+        "Batapon หัวหอมใหม่ทั้งหมดในไมโครเวฟ",
+        "หัวหอมสดยัดไส้เนื้อ",
+        "สลัดมันฝรั่งกับหัวหอมใหม่กรอบ"
+      ],
+      "id": [
+        "Taburkan sedikit tepung kentang ke seluruh bagian ayam. Potong bawang bombay menjadi irisan tipis.",
+        "Masukkan <A> ke dalam tong dan tambahkan bawang bombay. Panaskan minyak sayur dalam wajan dengan api sedang dan goreng ayam hingga kedua sisinya berwarna cokelat keemasan. Tuang ke dalam tong selagi panas dan biarkan terendam selama kurang lebih 5 menit.",
+        "Tempatkan dalam mangkuk dan taburi bawang bombay jika diinginkan.",
+        "Batapon bawang bombay utuh di microwave",
+        "Diisi bawang segar dengan daging",
+        "Salad kentang dengan bawang baru yang renyah"
+      ],
+      "ms": [
+        "Taburkan sedikit ayam di seluruh bahagian dengan pati kentang. Potong bawang menjadi kepingan nipis.",
+        "Masukkan <A> ke dalam tong dan masukkan bawang. Panaskan minyak sayuran dalam kuali dengan api sederhana dan goreng ayam sehingga coklat keemasan di kedua-dua belah pihak. Tuangkan ke dalam tong semasa panas dan biarkan rendam selama lebih kurang 5 minit.",
+        "Letakkan dalam mangkuk dan taburkan bawang jika suka.",
+        "Batapon bawang baru dalam ketuhar gelombang mikro",
+        "Bawang segar disumbat dengan daging",
+        "Salad kentang dengan bawang baru yang rangup"
+      ],
+      "ko": [
+        "닭고기는 밤나무 가루를 얇게 뿌린다. 양파는 얇게 썬다.",
+        "박쥐에 <A>를 넣고 양파를 넣는다. 프라이팬에 샐러드유를 넣고 중불로 가열하고 닭고기가 양면 여우가 될 때까지 튀김구이로 한다. 뜨겁게 박쥐에 넣고 익숙해지며 5 분 정도 담그십시오.",
+        "그릇에 담고 기호로 양파 뿌린다.",
+        "범위에서 통째로 새로운 양파 버터 폰",
+        "새 양파 고기 채우기",
+        "샤키 샤키 새 양파가 들어간 감자 샐러드"
+      ]
+    }
   }
 ]

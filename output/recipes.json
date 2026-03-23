@@ -89217,5 +89217,797 @@
         "강한 불에 넣고 잘 저어준 <감초 앙>을 넣어 찐 때까지 볶는다."
       ]
     }
+  },
+  {
+    "id": "2475e085",
+    "source_url": "https://www.mizkan.co.jp/ouchirecipe/recipe/?menu_id=9418",
+    "source_site": "Mizkan",
+    "title_ja": "簡単！エリンギとほうれんそうのつゆバター炒め",
+    "description_ja": "",
+    "ingredients": [
+      {
+        "name_ja": "エリンギ",
+        "amount": "１パック",
+        "name_translated": {
+          "en": "Eringi",
+          "zh_tw": "埃林吉",
+          "zh_cn": "埃林吉",
+          "vi": "Eringi",
+          "hi": "इरिंगी",
+          "ru": "Эринги",
+          "th": "เอรินจิ",
+          "id": "Eringi",
+          "ms": "Eringi",
+          "ko": "에링기"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%82%A8%E3%83%AA%E3%83%B3%E3%82%AE&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%82%A8%E3%83%AA%E3%83%B3%E3%82%AE/?tag="
+      },
+      {
+        "name_ja": "ベーコン",
+        "amount": "２枚",
+        "name_translated": {
+          "en": "bacon",
+          "zh_tw": "培根",
+          "zh_cn": "熏肉",
+          "vi": "thịt xông khói",
+          "hi": "बेकन",
+          "ru": "бекон",
+          "th": "เบคอน",
+          "id": "daging babi asap",
+          "ms": "bacon",
+          "ko": "베이컨"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%99%E3%83%BC%E3%82%B3%E3%83%B3&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%99%E3%83%BC%E3%82%B3%E3%83%B3/?tag="
+      },
+      {
+        "name_ja": "ほうれんそう",
+        "amount": "１／２束",
+        "name_translated": {
+          "en": "Spinach",
+          "zh_tw": "菠菜",
+          "zh_cn": "菠菜",
+          "vi": "Rau chân vịt",
+          "hi": "पालक",
+          "ru": "Шпинат",
+          "th": "ผักโขม",
+          "id": "Bayam",
+          "ms": "Bayam",
+          "ko": "시금치"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%BB%E3%81%86%E3%82%8C%E3%82%93%E3%81%9D%E3%81%86&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%BB%E3%81%86%E3%82%8C%E3%82%93%E3%81%9D%E3%81%86/?tag="
+      },
+      {
+        "name_ja": "サラダ油　（炒め用）",
+        "amount": "大さじ１",
+        "name_translated": {
+          "en": "Salad oil (for stir-frying)",
+          "zh_tw": "沙拉油（炒用）",
+          "zh_cn": "色拉油（炒用）",
+          "vi": "Dầu salad (để xào)",
+          "hi": "सलाद तेल (तलने के लिए)",
+          "ru": "Салатное масло (для жарки)",
+          "th": "น้ำมันสลัด (สำหรับผัด)",
+          "id": "Minyak salad (untuk menumis)",
+          "ms": "Minyak salad (untuk menumis)",
+          "ko": "샐러드유(볶음용)"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%82%B5%E3%83%A9%E3%83%80%E6%B2%B9%E3%80%80%EF%BC%88%E7%82%92%E3%82%81%E7%94%A8%EF%BC%89&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%82%B5%E3%83%A9%E3%83%80%E6%B2%B9%E3%80%80%EF%BC%88%E7%82%92%E3%82%81%E7%94%A8%EF%BC%89/?tag="
+      },
+      {
+        "name_ja": "ミツカン　追いがつおつゆ２倍",
+        "amount": "大さじ２",
+        "name_translated": {
+          "en": "Mizkan Oigatsu Otsuyu x2",
+          "zh_tw": "味滋館大月大津 x2",
+          "zh_cn": "味滋馆大月大津 x2",
+          "vi": "Mizkan Oigatsu Otsuyu x2",
+          "hi": "मिज़कान ओइगात्सु ओत्सुयु x2",
+          "ru": "Мизкан Ойгацу Оцую x2",
+          "th": "มิซคัง โออิงัตสึ โอทสึยุ x2",
+          "id": "Mizkan Oigatsu Otsuyu x2",
+          "ms": "Mizkan Oigatsu Otsuyu x2",
+          "ko": "미쓰칸 쫓는 츠츠유 2배"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E8%BF%BD%E3%81%84%E3%81%8C%E3%81%A4%E3%81%8A%E3%81%A4%E3%82%86%EF%BC%92%E5%80%8D&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E8%BF%BD%E3%81%84%E3%81%8C%E3%81%A4%E3%81%8A%E3%81%A4%E3%82%86%EF%BC%92%E5%80%8D/?tag="
+      },
+      {
+        "name_ja": "バター",
+        "amount": "１０ｇ",
+        "name_translated": {
+          "en": "butter",
+          "zh_tw": "奶油",
+          "zh_cn": "黄油",
+          "vi": "bơ",
+          "hi": "मक्खन",
+          "ru": "масло",
+          "th": "เนย",
+          "id": "mentega",
+          "ms": "mentega",
+          "ko": "버터"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%90%E3%82%BF%E3%83%BC&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%90%E3%82%BF%E3%83%BC/?tag="
+      },
+      {
+        "name_ja": "ブラックペッパー",
+        "amount": "適量",
+        "name_translated": {
+          "en": "black pepper",
+          "zh_tw": "黑胡椒",
+          "zh_cn": "黑胡椒",
+          "vi": "hạt tiêu đen",
+          "hi": "काली मिर्च",
+          "ru": "черный перец",
+          "th": "พริกไทยดำ",
+          "id": "lada hitam",
+          "ms": "lada hitam",
+          "ko": "블랙 페퍼"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%83%9A%E3%83%83%E3%83%91%E3%83%BC&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%83%9A%E3%83%83%E3%83%91%E3%83%BC/?tag="
+      },
+      {
+        "name_ja": "１",
+        "amount": "、ほうれんそうは３～４等分に切る。エリンギは手で縦に裂き、４等分にする。",
+        "name_translated": {
+          "en": "1",
+          "zh_tw": "1",
+          "zh_cn": "1",
+          "vi": "1",
+          "hi": "1",
+          "ru": "1",
+          "th": "1",
+          "id": "1",
+          "ms": "1",
+          "ko": "1"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%91&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%91/?tag="
+      },
+      {
+        "name_ja": "２",
+        "amount": "フライパンに油をひき、ベーコンを炒める。ベーコンから油が出てきたら、エリンギを炒め、火が入ったらほうれんそうを加える。",
+        "name_translated": {
+          "en": "2",
+          "zh_tw": "2",
+          "zh_cn": "2",
+          "vi": "2",
+          "hi": "2",
+          "ru": "2",
+          "th": "2",
+          "id": "2",
+          "ms": "2",
+          "ko": "2"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%92&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%92/?tag="
+      },
+      {
+        "name_ja": "３",
+        "amount": "バターと「追いがつおつゆ２倍」を加え、サッと炒め、仕上げにブラックペッパーをふる。",
+        "name_translated": {
+          "en": "3",
+          "zh_tw": "3",
+          "zh_cn": "3",
+          "vi": "3",
+          "hi": "3",
+          "ru": "3",
+          "th": "3",
+          "id": "3",
+          "ms": "3",
+          "ko": "3"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%93&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%93/?tag="
+      },
+      {
+        "name_ja": "ほうれん草とにんじんのナムル",
+        "amount": "適量",
+        "name_translated": {
+          "en": "Spinach and carrot namul",
+          "zh_tw": "菠菜和胡蘿蔔納木爾",
+          "zh_cn": "菠菜和胡萝卜纳木尔",
+          "vi": "Namul rau bina và cà rốt",
+          "hi": "पालक और गाजर नामुल",
+          "ru": "Намуль из шпината и моркови",
+          "th": "ผักโขมและแครอทนามูล",
+          "id": "Namal bayam dan wortel",
+          "ms": "Bayam dan lobak merah namul",
+          "ko": "시금치와 당근의 나물"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%BB%E3%81%86%E3%82%8C%E3%82%93%E8%8D%89%E3%81%A8%E3%81%AB%E3%82%93%E3%81%98%E3%82%93%E3%81%AE%E3%83%8A%E3%83%A0%E3%83%AB&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%BB%E3%81%86%E3%82%8C%E3%82%93%E8%8D%89%E3%81%A8%E3%81%AB%E3%82%93%E3%81%98%E3%82%93%E3%81%AE%E3%83%8A%E3%83%A0%E3%83%AB/?tag="
+      },
+      {
+        "name_ja": "豚バラとほうれん草のガーリックぽん酢炒め",
+        "amount": "適量",
+        "name_translated": {
+          "en": "Stir-fried pork belly and spinach with garlic ponzu sauce",
+          "zh_tw": "蒜蓉橙汁炒五花肉菠菜",
+          "zh_cn": "蒜蓉橙汁炒五花肉菠菜",
+          "vi": "Ba chỉ heo xào rau chân vịt sốt ponzu tỏi",
+          "hi": "लहसुन पोंज़ू सॉस के साथ पोर्क बेली और पालक को हिलाकर भूनें",
+          "ru": "Жареная свиная грудинка и шпинат с чесночным соусом понзу",
+          "th": "หมูสามชั้นผัดผักโขมกับซอสพอนสึกระเทียม",
+          "id": "Tumis perut babi dan bayam dengan saus ponzu bawang putih",
+          "ms": "Tumis perut babi dan bayam dengan sos ponzu bawang putih",
+          "ko": "돼지 장미와 시금치 마늘 볶음"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E8%B1%9A%E3%83%90%E3%83%A9%E3%81%A8%E3%81%BB%E3%81%86%E3%82%8C%E3%82%93%E8%8D%89%E3%81%AE%E3%82%AC%E3%83%BC%E3%83%AA%E3%83%83%E3%82%AF%E3%81%BD%E3%82%93%E9%85%A2%E7%82%92%E3%82%81&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E8%B1%9A%E3%83%90%E3%83%A9%E3%81%A8%E3%81%BB%E3%81%86%E3%82%8C%E3%82%93%E8%8D%89%E3%81%AE%E3%82%AC%E3%83%BC%E3%83%AA%E3%83%83%E3%82%AF%E3%81%BD%E3%82%93%E9%85%A2%E7%82%92%E3%82%81/?tag="
+      },
+      {
+        "name_ja": "ほうれん草とひき肉のビビンバ風のっけごはん",
+        "amount": "適量",
+        "name_translated": {
+          "en": "Bibimbap-style rice with spinach and minced meat",
+          "zh_tw": "菠菜肉末拌飯",
+          "zh_cn": "菠菜肉末拌饭",
+          "vi": "Cơm bibimbap rau muống và thịt bằm",
+          "hi": "पालक और कीमा बनाया हुआ मांस के साथ बिबिंबैप शैली के चावल",
+          "ru": "Рис по-пибимбап со шпинатом и мясным фаршем",
+          "th": "ข้าวสไตล์บิบิมบับพร้อมผักโขมและเนื้อสับ",
+          "id": "Nasi ala Bibimbap dengan bayam dan daging cincang",
+          "ms": "Nasi ala bibimbap dengan bayam dan daging cincang",
+          "ko": "시금치와 다진 고기 비빔밥 스타일의 케밥"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%BB%E3%81%86%E3%82%8C%E3%82%93%E8%8D%89%E3%81%A8%E3%81%B2%E3%81%8D%E8%82%89%E3%81%AE%E3%83%93%E3%83%93%E3%83%B3%E3%83%90%E9%A2%A8%E3%81%AE%E3%81%A3%E3%81%91%E3%81%94%E3%81%AF%E3%82%93&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%BB%E3%81%86%E3%82%8C%E3%82%93%E8%8D%89%E3%81%A8%E3%81%B2%E3%81%8D%E8%82%89%E3%81%AE%E3%83%93%E3%83%93%E3%83%B3%E3%83%90%E9%A2%A8%E3%81%AE%E3%81%A3%E3%81%91%E3%81%94%E3%81%AF%E3%82%93/?tag="
+      }
+    ],
+    "steps_ja": [
+      "ベーコンは短冊切り、ほうれんそうは３～４等分に切る。エリンギは手で縦に裂き、４等分にする。",
+      "フライパンに油をひき、ベーコンを炒める。ベーコンから油が出てきたら、エリンギを炒め、火が入ったらほうれんそうを加える。",
+      "バターと「追いがつおつゆ２倍」を加え、サッと炒め、仕上げにブラックペッパーをふる。",
+      "ほうれん草とにんじんのナムル",
+      "豚バラとほうれん草のガーリックぽん酢炒め",
+      "ほうれん草とひき肉のビビンバ風のっけごはん"
+    ],
+    "image_url": "",
+    "title": {
+      "en": "easy! Stir-fried king king king mushroom and spinach with soup sauce and butter",
+      "zh_tw": "簡單的！王蘑菇菠菜配湯汁和奶油",
+      "zh_cn": "简单的！王蘑菇菠菜配汤汁和黄油",
+      "vi": "dễ! Nấm King King xào rau chân vịt sốt canh bơ",
+      "hi": "आसान! किंग किंग किंग मशरूम और पालक को सूप सॉस और मक्खन के साथ तलें",
+      "ru": "легкий! Обжаренные королевские королевские грибы и шпинат с суповым соусом и сливочным маслом",
+      "th": "ง่าย! เห็ดคิงคิงคิงและผักโขมผัดกับซอสซุปและเนย",
+      "id": "mudah! Tumis jamur raja raja raja dan bayam dengan saus sup dan mentega",
+      "ms": "mudah! Cendawan raja raja tumis dan bayam dengan sos sup dan mentega",
+      "ko": "간단! 에린기와 시금치의 츠유 버터 볶음"
+    },
+    "description": {
+      "en": "",
+      "zh_tw": "",
+      "zh_cn": "",
+      "vi": "",
+      "hi": "",
+      "ru": "",
+      "th": "",
+      "id": "",
+      "ms": "",
+      "ko": ""
+    },
+    "steps": {
+      "en": [
+        "Cut the bacon into strips and the spinach into 3-4 pieces. Tear the eringi mushrooms lengthwise with your hands and cut into quarters.",
+        "Heat oil in a frying pan and fry bacon. When the oil comes out from the bacon, stir-fry the king king mushrooms, and when the heat starts to heat up, add the spinach.",
+        "Add butter and ``Oigatsu Otsuyu 2x'', stir-fry briefly, and finish with black pepper.",
+        "Spinach and carrot namul",
+        "Stir-fried pork belly and spinach with garlic ponzu sauce",
+        "Bibimbap-style rice with spinach and minced meat"
+      ],
+      "zh_tw": [
+        "將培根切成條，將菠菜切成3-4片。用手將杏鮑菇縱向撕開，切成四份。",
+        "在煎鍋中加熱油，煎培根。等培根出油後，炒香王蘑菇，等火開始升溫時，加入菠菜。",
+        "加入奶油和“Oigatsu Otsuyu 2x”，短暫翻炒，最後撒上黑胡椒。",
+        "菠菜和胡蘿蔔納木爾",
+        "蒜蓉橙汁炒五花肉菠菜",
+        "菠菜肉末拌飯"
+      ],
+      "zh_cn": [
+        "将培根切成条，将菠菜切成3-4片。用手将杏鲍菇纵向撕开，切成四份。",
+        "在煎锅中加热油，煎培根。等培根出油后，炒香王蘑菇，等火开始升温时，加入菠菜。",
+        "加入黄油和“Oigatsu Otsuyu 2x”，短暂翻炒，最后撒上黑胡椒。",
+        "菠菜和胡萝卜纳木尔",
+        "蒜蓉橙汁炒五花肉菠菜",
+        "菠菜肉末拌饭"
+      ],
+      "vi": [
+        "Cắt thịt xông khói thành dải và rau bina thành 3-4 miếng. Dùng tay xé nấm eringi theo chiều dọc và cắt làm tư.",
+        "Đun nóng dầu trong chảo và chiên thịt xông khói. Khi thịt xông khói chảy ra dầu thì cho nấm vua vào xào, khi lửa bắt đầu nóng thì cho rau muống vào xào.",
+        "Thêm bơ và ``Oigatsu Otsuyu 2x'', xào sơ và kết thúc bằng hạt tiêu đen.",
+        "Namul rau bina và cà rốt",
+        "Ba chỉ heo xào rau chân vịt sốt ponzu tỏi",
+        "Cơm bibimbap rau muống và thịt bằm"
+      ],
+      "hi": [
+        "बेकन को स्ट्रिप्स में और पालक को 3-4 टुकड़ों में काट लें। इरिंगी मशरूम को अपने हाथों से लंबाई में तोड़ें और चौथाई भाग में काट लें।",
+        "- एक फ्राइंग पैन में तेल गर्म करें और बेकन फ्राई करें. जब बेकन से तेल निकलने लगे तो किंग किंग मशरूम को चलाते हुए भून लें और आंच तेज होने पर पालक डाल दें.",
+        "मक्खन और ``ओइगात्सू ओत्सुयु 2x'' डालें, थोड़ी देर तक हिलाएँ, और काली मिर्च के साथ समाप्त करें।",
+        "पालक और गाजर नामुल",
+        "लहसुन पोंज़ू सॉस के साथ पोर्क बेली और पालक को हिलाकर भूनें",
+        "पालक और कीमा बनाया हुआ मांस के साथ बिबिंबैप शैली के चावल"
+      ],
+      "ru": [
+        "Нарежьте бекон соломкой, а шпинат — на 3-4 части. Грибы эринги порвите руками вдоль и разрежьте на четвертинки.",
+        "Нагрейте масло на сковороде и обжарьте бекон. Когда из бекона потечет масло, обжарьте, помешивая, королевские грибы, а когда огонь начнет нагреваться, добавьте шпинат.",
+        "Добавьте сливочное масло и «Ойгацу Оцую 2x», немного обжарьте, помешивая, и добавьте черный перец.",
+        "Намуль из шпината и моркови",
+        "Жареная свиная грудинка и шпинат с чесночным соусом понзу",
+        "Рис по-пибимбап со шпинатом и мясным фаршем"
+      ],
+      "th": [
+        "ตัดเบคอนเป็นเส้นและผักโขมเป็น 3-4 ชิ้น ใช้มือฉีกเห็ดออรินจิตามยาวแล้วหั่นเป็นสี่ส่วน",
+        "ตั้งน้ำมันให้ร้อนในกระทะแล้วทอดเบคอน เมื่อน้ำมันออกมาจากเบคอน ให้ผัดเห็ดคิงคิง และเมื่อความร้อนเริ่มร้อนขึ้น ให้ใส่ผักโขมลงไป",
+        "ใส่เนยและ ``Oigatsu Otsuyu 2x'' ผัดเป็นเวลาสั้นๆ และปิดท้ายด้วยพริกไทยดำ",
+        "ผักโขมและแครอทนามูล",
+        "หมูสามชั้นผัดผักโขมกับซอสพอนสึกระเทียม",
+        "ข้าวสไตล์บิบิมบับพร้อมผักโขมและเนื้อสับ"
+      ],
+      "id": [
+        "Potong bacon menjadi potongan-potongan dan bayam menjadi 3-4 bagian. Sobek jamur eringi memanjang dengan tangan dan potong menjadi empat bagian.",
+        "Panaskan minyak dalam wajan dan goreng bacon. Jika minyak sudah keluar dari bacon, tumis jamur raja, dan jika api sudah mulai panas, masukkan bayam.",
+        "Tambahkan mentega dan ``Oigatsu Otsuyu 2x'', tumis sebentar, dan akhiri dengan lada hitam.",
+        "Namal bayam dan wortel",
+        "Tumis perut babi dan bayam dengan saus ponzu bawang putih",
+        "Nasi ala Bibimbap dengan bayam dan daging cincang"
+      ],
+      "ms": [
+        "Potong bacon menjadi jalur dan bayam menjadi 3-4 bahagian. Koyakkan cendawan eringi memanjang menggunakan tangan dan potong empat bahagian.",
+        "Panaskan minyak dalam kuali dan goreng bacon. Apabila minyak keluar dari daging, tumiskan cendawan raja raja, dan apabila api mula panas, masukkan bayam.",
+        "Masukkan mentega dan ``Oigatsu Otsuyu 2x'', tumis sebentar, dan selesaikan dengan lada hitam.",
+        "Bayam dan lobak merah namul",
+        "Tumis perut babi dan bayam dengan sos ponzu bawang putih",
+        "Nasi ala bibimbap dengan bayam dan daging cincang"
+      ],
+      "ko": [
+        "베이컨은 스트립 잘라, 시금치는 3~4등분으로 자른다. 에린기는 손으로 세로로 찢어 4등분한다.",
+        "프라이팬에 기름을 두르고 베이컨을 볶는다. 베이컨에서 기름이 나오면 에린기를 볶아 불이 들어오면 시금치를 넣는다.",
+        "버터와 '쫓는 츠유 2배'를 더해 얼른 볶아 마무리에 블랙 페퍼를 뿌린다.",
+        "시금치와 당근의 나물",
+        "돼지 장미와 시금치 마늘 볶음",
+        "시금치와 다진 고기 비빔밥 스타일의 케밥"
+      ]
+    }
+  },
+  {
+    "id": "a11c15ac",
+    "source_url": "https://www.mizkan.co.jp/ouchirecipe/recipe/?menu_id=21321",
+    "source_site": "Mizkan",
+    "title_ja": "コリコリ食感！ブロッコリーつくね",
+    "description_ja": "",
+    "ingredients": [
+      {
+        "name_ja": "鶏ひき肉",
+        "amount": "２００ｇ",
+        "name_translated": {
+          "en": "minced chicken",
+          "zh_tw": "雞肉碎",
+          "zh_cn": "鸡肉碎",
+          "vi": "thịt gà băm",
+          "hi": "चिकन का कीमा",
+          "ru": "куриный фарш",
+          "th": "ไก่สับ",
+          "id": "ayam cincang",
+          "ms": "ayam cincang",
+          "ko": "닭고기 고기"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E9%B6%8F%E3%81%B2%E3%81%8D%E8%82%89&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E9%B6%8F%E3%81%B2%E3%81%8D%E8%82%89/?tag="
+      },
+      {
+        "name_ja": "ブロッコリー",
+        "amount": "１／２個（正味１２５ｇ）",
+        "name_translated": {
+          "en": "broccoli",
+          "zh_tw": "綠色花椰菜",
+          "zh_cn": "西兰花",
+          "vi": "bông cải xanh",
+          "hi": "ब्रोकोली",
+          "ru": "брокколи",
+          "th": "บรอกโคลี",
+          "id": "brokoli",
+          "ms": "brokoli",
+          "ko": "브로콜리"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%96%E3%83%AD%E3%83%83%E3%82%B3%E3%83%AA%E3%83%BC&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%96%E3%83%AD%E3%83%83%E3%82%B3%E3%83%AA%E3%83%BC/?tag="
+      },
+      {
+        "name_ja": "卵",
+        "amount": "１個",
+        "name_translated": {
+          "en": "egg",
+          "zh_tw": "蛋",
+          "zh_cn": "蛋",
+          "vi": "trứng",
+          "hi": "अंडा",
+          "ru": "яйцо",
+          "th": "ไข่",
+          "id": "telur",
+          "ms": "telur",
+          "ko": "계란"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E5%8D%B5&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E5%8D%B5/?tag="
+      },
+      {
+        "name_ja": "片栗粉",
+        "amount": "大さじ２",
+        "name_translated": {
+          "en": "potato starch",
+          "zh_tw": "馬鈴薯澱粉",
+          "zh_cn": "马铃薯淀粉",
+          "vi": "tinh bột khoai tây",
+          "hi": "आलू स्टार्च",
+          "ru": "картофельный крахмал",
+          "th": "แป้งมันฝรั่ง",
+          "id": "tepung kentang",
+          "ms": "kanji kentang",
+          "ko": "가문 가루"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E7%89%87%E6%A0%97%E7%B2%89&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E7%89%87%E6%A0%97%E7%B2%89/?tag="
+      },
+      {
+        "name_ja": "塩・こしょう",
+        "amount": "少々",
+        "name_translated": {
+          "en": "salt and pepper",
+          "zh_tw": "鹽和胡椒",
+          "zh_cn": "盐和胡椒",
+          "vi": "muối và hạt tiêu",
+          "hi": "नमक और काली मिर्च",
+          "ru": "соль и перец",
+          "th": "เกลือและพริกไทย",
+          "id": "garam dan merica",
+          "ms": "garam dan lada sulah",
+          "ko": "소금, 후추"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E5%A1%A9%E3%83%BB%E3%81%93%E3%81%97%E3%82%87%E3%81%86&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E5%A1%A9%E3%83%BB%E3%81%93%E3%81%97%E3%82%87%E3%81%86/?tag="
+      },
+      {
+        "name_ja": "サラダ油",
+        "amount": "大さじ１／２",
+        "name_translated": {
+          "en": "salad oil",
+          "zh_tw": "沙拉油",
+          "zh_cn": "色拉油",
+          "vi": "dầu trộn salad",
+          "hi": "वनस्पति - तेल",
+          "ru": "салатное масло",
+          "th": "น้ำมันสลัด",
+          "id": "minyak salad",
+          "ms": "minyak salad",
+          "ko": "샐러드 오일"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%82%B5%E3%83%A9%E3%83%80%E6%B2%B9&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%82%B5%E3%83%A9%E3%83%80%E6%B2%B9/?tag="
+      },
+      {
+        "name_ja": "ミツカン　カンタン酢",
+        "amount": "大さじ２",
+        "name_translated": {
+          "en": "Mizkan Kantan Vinegar",
+          "zh_tw": "味滋康甘丹醋",
+          "zh_cn": "味滋康甘丹醋",
+          "vi": "Giấm Mizkan Kantan",
+          "hi": "मिज़कान कंटन सिरका",
+          "ru": "Мизкан Кантанский уксус",
+          "th": "น้ำส้มสายชูมิซกัน กันตัน",
+          "id": "Cuka Mizkan Kantan",
+          "ms": "Cuka Mizkan Kantan",
+          "ko": "미츠칸 칸탄초"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E3%82%AB%E3%83%B3%E3%82%BF%E3%83%B3%E9%85%A2&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E3%82%AB%E3%83%B3%E3%82%BF%E3%83%B3%E9%85%A2/?tag="
+      },
+      {
+        "name_ja": "しょうゆ",
+        "amount": "大さじ１",
+        "name_translated": {
+          "en": "soy sauce",
+          "zh_tw": "醬油",
+          "zh_cn": "酱油",
+          "vi": "nước tương",
+          "hi": "सोया सॉस",
+          "ru": "соевый соус",
+          "th": "ซอสถั่วเหลือง",
+          "id": "kecap",
+          "ms": "kicap",
+          "ko": "간장"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%97%E3%82%87%E3%81%86%E3%82%86&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%97%E3%82%87%E3%81%86%E3%82%86/?tag="
+      },
+      {
+        "name_ja": "１",
+        "amount": "にする。卵は卵黄と卵白に分ける。",
+        "name_translated": {
+          "en": "1",
+          "zh_tw": "1",
+          "zh_cn": "1",
+          "vi": "1",
+          "hi": "1",
+          "ru": "1",
+          "th": "1",
+          "id": "1",
+          "ms": "1",
+          "ko": "1"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%91&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%91/?tag="
+      },
+      {
+        "name_ja": "２",
+        "amount": "にした茎を加えてさらに混ぜる。８等分にし丸める。",
+        "name_translated": {
+          "en": "2",
+          "zh_tw": "2",
+          "zh_cn": "2",
+          "vi": "2",
+          "hi": "2",
+          "ru": "2",
+          "th": "2",
+          "id": "2",
+          "ms": "2",
+          "ko": "2"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%92&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%92/?tag="
+      },
+      {
+        "name_ja": "３",
+        "amount": "を焼く。焼き色がついたら上下を返し、小房に分けたブロッコリーを加え、ふたをして３分ほど蒸し焼きにする。",
+        "name_translated": {
+          "en": "3",
+          "zh_tw": "3",
+          "zh_cn": "3",
+          "vi": "3",
+          "hi": "3",
+          "ru": "3",
+          "th": "3",
+          "id": "3",
+          "ms": "3",
+          "ko": "3"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%93&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%93/?tag="
+      },
+      {
+        "name_ja": "４",
+        "amount": "全体に火が通ったら、＜Ｂ＞を回し入れ、つくねを返しながら煮からめる。",
+        "name_translated": {
+          "en": "4",
+          "zh_tw": "4",
+          "zh_cn": "4",
+          "vi": "4",
+          "hi": "4",
+          "ru": "4",
+          "th": "4",
+          "id": "4",
+          "ms": "4",
+          "ko": "4"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%94&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%94/?tag="
+      },
+      {
+        "name_ja": "５",
+        "amount": "皿に盛り、卵黄を添える。",
+        "name_translated": {
+          "en": "5",
+          "zh_tw": "5",
+          "zh_cn": "5",
+          "vi": "5",
+          "hi": "5",
+          "ru": "5",
+          "th": "5",
+          "id": "5",
+          "ms": "5",
+          "ko": "5"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%95&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%95/?tag="
+      },
+      {
+        "name_ja": "ごま油香る　ブロッコリーと豚肉のレンジ蒸し",
+        "amount": "適量",
+        "name_translated": {
+          "en": "Microwave steamed broccoli and pork with sesame oil aroma",
+          "zh_tw": "微波爐蒸花椰菜和麻油香豬肉",
+          "zh_cn": "微波炉蒸西兰花和麻油香猪肉",
+          "vi": "Bông cải xanh và thịt lợn hấp dầu mè bằng lò vi sóng",
+          "hi": "तिल के तेल की सुगंध के साथ उबली हुई ब्रोकोली और पोर्क को माइक्रोवेव करें",
+          "ru": "Брокколи и свинина, приготовленные в микроволновой печи, с ароматом кунжутного масла",
+          "th": "บรอกโคลีนึ่งไมโครเวฟและหมูหอมน้ำมันงา",
+          "id": "Brokoli kukus microwave dan daging babi dengan aroma minyak wijen",
+          "ms": "Brokoli kukus gelombang mikro dan daging babi dengan aroma minyak bijan",
+          "ko": "참기름 향기 브로콜리와 돼지고기의 레인지 찜"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%94%E3%81%BE%E6%B2%B9%E9%A6%99%E3%82%8B%E3%80%80%E3%83%96%E3%83%AD%E3%83%83%E3%82%B3%E3%83%AA%E3%83%BC%E3%81%A8%E8%B1%9A%E8%82%89%E3%81%AE%E3%83%AC%E3%83%B3%E3%82%B8%E8%92%B8%E3%81%97&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%94%E3%81%BE%E6%B2%B9%E9%A6%99%E3%82%8B%E3%80%80%E3%83%96%E3%83%AD%E3%83%83%E3%82%B3%E3%83%AA%E3%83%BC%E3%81%A8%E8%B1%9A%E8%82%89%E3%81%AE%E3%83%AC%E3%83%B3%E3%82%B8%E8%92%B8%E3%81%97/?tag="
+      },
+      {
+        "name_ja": "ブロッコリーと卵のタルタルサラダ",
+        "amount": "適量",
+        "name_translated": {
+          "en": "Broccoli and egg tartar salad",
+          "zh_tw": "綠花椰菜雞蛋塔塔沙拉",
+          "zh_cn": "西兰花鸡蛋塔塔沙拉",
+          "vi": "Salad bông cải xanh và trứng tartar",
+          "hi": "ब्रोकोली और अंडा टार्टर सलाद",
+          "ru": "Салат тартар из брокколи и яиц",
+          "th": "บรอกโคลีและสลัดทาร์ทาร์ไข่",
+          "id": "Brokoli dan salad tartar telur",
+          "ms": "Brokoli dan salad tartar telur",
+          "ko": "브로콜리와 계란 타르타르 샐러드"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%96%E3%83%AD%E3%83%83%E3%82%B3%E3%83%AA%E3%83%BC%E3%81%A8%E5%8D%B5%E3%81%AE%E3%82%BF%E3%83%AB%E3%82%BF%E3%83%AB%E3%82%B5%E3%83%A9%E3%83%80&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%96%E3%83%AD%E3%83%83%E3%82%B3%E3%83%AA%E3%83%BC%E3%81%A8%E5%8D%B5%E3%81%AE%E3%82%BF%E3%83%AB%E3%82%BF%E3%83%AB%E3%82%B5%E3%83%A9%E3%83%80/?tag="
+      },
+      {
+        "name_ja": "レンジで！ツナ入りブロッコリーぽん酢サラダ",
+        "amount": "適量",
+        "name_translated": {
+          "en": "In the microwave! Broccoli ponzu salad with tuna",
+          "zh_tw": "在微波爐裡！西蘭花橙色沙拉配金槍魚",
+          "zh_cn": "在微波炉里！西兰花橙子沙拉配金枪鱼",
+          "vi": "Trong lò vi sóng! Salad ponzu bông cải xanh với cá ngừ",
+          "hi": "माइक्रोवेव में! ट्यूना के साथ ब्रोकोली पोंज़ू सलाद",
+          "ru": "В микроволновке! Салат понзу из брокколи с тунцом",
+          "th": "ในไมโครเวฟ! สลัดพอนซูบรอกโคลีกับทูน่า",
+          "id": "Di dalam microwave! Salad brokoli ponzu dengan tuna",
+          "ms": "Dalam ketuhar gelombang mikro! Salad brokoli ponzu dengan tuna",
+          "ko": "범위에서! 참치가 들어간 브로콜리 폰즈 샐러드"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%AC%E3%83%B3%E3%82%B8%E3%81%A7%EF%BC%81%E3%83%84%E3%83%8A%E5%85%A5%E3%82%8A%E3%83%96%E3%83%AD%E3%83%83%E3%82%B3%E3%83%AA%E3%83%BC%E3%81%BD%E3%82%93%E9%85%A2%E3%82%B5%E3%83%A9%E3%83%80&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%AC%E3%83%B3%E3%82%B8%E3%81%A7%EF%BC%81%E3%83%84%E3%83%8A%E5%85%A5%E3%82%8A%E3%83%96%E3%83%AD%E3%83%83%E3%82%B3%E3%83%AA%E3%83%BC%E3%81%BD%E3%82%93%E9%85%A2%E3%82%B5%E3%83%A9%E3%83%80/?tag="
+      }
+    ],
+    "steps_ja": [
+      "ブロッコリーは小房に分ける。茎の部分は外側の硬い部分を削ぎ落して、粗くみじん切りにする。卵は卵黄と卵白に分ける。",
+      "ボウルにひき肉と卵白、＜Ａ＞を入れてよく混ぜ、みじん切りにした茎を加えてさらに混ぜる。８等分にし丸める。",
+      "フライパンにサラダ油をひき中火にかけ、２を焼く。焼き色がついたら上下を返し、小房に分けたブロッコリーを加え、ふたをして３分ほど蒸し焼きにする。",
+      "全体に火が通ったら、＜Ｂ＞を回し入れ、つくねを返しながら煮からめる。",
+      "皿に盛り、卵黄を添える。",
+      "ごま油香る　ブロッコリーと豚肉のレンジ蒸し",
+      "ブロッコリーと卵のタルタルサラダ",
+      "レンジで！ツナ入りブロッコリーぽん酢サラダ"
+    ],
+    "image_url": "",
+    "title": {
+      "en": "Crunchy texture! Broccoli meatballs",
+      "zh_tw": "質地鬆脆！西蘭花肉丸",
+      "zh_cn": "质地松脆！西兰花肉丸",
+      "vi": "Kết cấu giòn! Thịt viên bông cải xanh",
+      "hi": "कुरकुरी बनावट! ब्रोकोली मीटबॉल",
+      "ru": "Хрустящая текстура! Фрикадельки из брокколи",
+      "th": "เนื้อกรุบกรอบ! ลูกชิ้นบรอกโคลี",
+      "id": "Tekstur renyah! Bakso brokoli",
+      "ms": "Tekstur rangup! Bebola daging brokoli",
+      "ko": "코리코리 식감! 브로콜리 만들기"
+    },
+    "description": {
+      "en": "",
+      "zh_tw": "",
+      "zh_cn": "",
+      "vi": "",
+      "hi": "",
+      "ru": "",
+      "th": "",
+      "id": "",
+      "ms": "",
+      "ko": ""
+    },
+    "steps": {
+      "en": [
+        "Divide the broccoli into florets. Scrape off the hard outer part of the stem and roughly chop. Separate the eggs into yolks and whites.",
+        "Add the ground meat, egg whites, and <A> to a bowl and mix well. Add the chopped stems and mix again. Divide into 8 equal parts and roll.",
+        "Heat salad oil in a frying pan over medium heat and fry 2. Once browned, turn over, add the broccoli cut into florets, cover, and steam-fry for about 3 minutes.",
+        "When the meat is completely cooked, add <B> and cook while turning the meatballs.",
+        "Place on a plate and add egg yolk.",
+        "Microwave steamed broccoli and pork with sesame oil aroma",
+        "Broccoli and egg tartar salad",
+        "In the microwave! Broccoli ponzu salad with tuna"
+      ],
+      "zh_tw": [
+        "將西蘭花分成小花。刮掉莖的堅硬外部並粗略地切碎。將雞蛋分成蛋黃和蛋白。",
+        "將碎肉、蛋白和<A>放入碗中，攪拌均勻。加入切碎的莖並再次混合。分成8等份並捲起。",
+        "煎鍋中中火加熱沙拉油，煎2. 焦黃後翻面，加入切小花的西蘭花，蓋上鍋蓋，蒸約3分鐘。",
+        "當肉完全煮熟後，加入<B>並一邊翻動肉丸一邊煮。",
+        "放在盤子上並加入蛋黃。",
+        "微波爐蒸花椰菜和麻油香豬肉",
+        "綠花椰菜雞蛋塔塔沙拉",
+        "在微波爐裡！西蘭花橙色沙拉配金槍魚"
+      ],
+      "zh_cn": [
+        "将西兰花分成小花。刮掉茎的坚硬外部并粗略地切碎。将鸡蛋分成蛋黄和蛋白。",
+        "将碎肉、蛋清和<A>放入碗中，搅拌均匀。加入切碎的茎并再次混合。分成8等份并卷起。",
+        "煎锅中中火加热色拉油，煎2. 焦黄后翻面，加入切小花的西兰花，盖上锅盖，蒸约3分钟。",
+        "当肉完全煮熟后，加入<B>并一边翻动肉丸一边煮。",
+        "放在盘子上并加入蛋黄。",
+        "微波炉蒸西兰花和麻油香猪肉",
+        "西兰花鸡蛋塔塔沙拉",
+        "在微波炉里！西兰花橙子沙拉配金枪鱼"
+      ],
+      "vi": [
+        "Chia bông cải xanh thành những bông hoa. Cạo bỏ phần cứng bên ngoài của thân cây và cắt nhỏ. Tách trứng thành lòng đỏ và lòng trắng.",
+        "Cho thịt xay, lòng trắng trứng và <A> vào tô và trộn đều. Thêm thân cây xắt nhỏ và trộn lại. Chia thành 8 phần bằng nhau và cuộn lại.",
+        "Đun nóng dầu salad trong chảo rán trên lửa vừa và chiên 2. Sau khi chín vàng, lật lại, thêm bông cải xanh đã cắt thành từng bông hoa, đậy nắp và chiên bằng hơi nước trong khoảng 3 phút.",
+        "Khi thịt chín hoàn toàn, thêm <B> vào và vừa nấu vừa đảo thịt viên.",
+        "Đặt lên đĩa và thêm lòng đỏ trứng.",
+        "Bông cải xanh và thịt lợn hấp dầu mè bằng lò vi sóng",
+        "Salad bông cải xanh và trứng tartar",
+        "Trong lò vi sóng! Salad ponzu bông cải xanh với cá ngừ"
+      ],
+      "hi": [
+        "ब्रोकली को फूलों में बाँट लें। तने के कठोर बाहरी हिस्से को खुरच कर हटा दें और मोटा-मोटा काट लें। अंडों को जर्दी और सफेद भाग में अलग कर लें।",
+        "एक कटोरे में पिसा हुआ मांस, अंडे की सफेदी और <ए> डालें और अच्छी तरह मिलाएँ। कटे हुए डंठल डालें और दोबारा मिलाएँ। 8 बराबर भागों में बाँटकर बेल लें।",
+        "मध्यम आंच पर एक फ्राइंग पैन में सलाद तेल गरम करें और 2 भूनें। एक बार जब यह भूरा हो जाए, तो पलट दें, फूलों में कटी हुई ब्रोकोली डालें, ढक दें और लगभग 3 मिनट तक भाप में भूनें।",
+        "जब मांस पूरी तरह पक जाए तो <बी> डालें और मीटबॉल्स को पलटते हुए पकाएं।",
+        "एक प्लेट में रखें और अंडे की जर्दी डालें।",
+        "तिल के तेल की सुगंध के साथ उबली हुई ब्रोकोली और पोर्क को माइक्रोवेव करें",
+        "ब्रोकोली और अंडा टार्टर सलाद",
+        "माइक्रोवेव में! ट्यूना के साथ ब्रोकोली पोंज़ू सलाद"
+      ],
+      "ru": [
+        "Разделите брокколи на соцветия. Очистите твердую внешнюю часть стебля и крупно нарежьте. Разделить яйца на желтки и белки.",
+        "Добавьте фарш, яичные белки и <A> в миску и хорошо перемешайте. Добавьте нарезанные стебли и еще раз перемешайте. Разделить на 8 равных частей и раскатать.",
+        "Нагрейте салатное масло в сковороде на среднем огне и обжарьте 2. Когда оно подрумянится, переверните, добавьте разрезанную на соцветия брокколи, накройте крышкой и жарьте на пару около 3 минут.",
+        "Когда мясо будет полностью готово, добавьте <B> и готовьте, переворачивая фрикадельки.",
+        "Выложите на тарелку и добавьте яичный желток.",
+        "Брокколи и свинина, приготовленные в микроволновой печи, с ароматом кунжутного масла",
+        "Салат тартар из брокколи и яиц",
+        "В микроволновке! Салат понзу из брокколи с тунцом"
+      ],
+      "th": [
+        "แบ่งบรอกโคลีออกเป็นดอกย่อย ขูดส่วนที่แข็งด้านนอกของก้านออกแล้วสับหยาบๆ แยกไข่ออกเป็นไข่แดงและไข่ขาว",
+        "ใส่เนื้อบด ไข่ขาว และ <A> ลงในชามและผสมให้เข้ากัน เพิ่มก้านสับแล้วผสมอีกครั้ง แบ่งออกเป็น 8 ส่วนเท่า ๆ กันแล้วม้วน",
+        "ตั้งน้ำมันสลัดในกระทะบนไฟร้อนปานกลางแล้วทอด 2. เมื่อเป็นสีน้ำตาลแล้ว กลับด้าน ใส่บรอกโคลีที่หั่นเป็นดอกย่อย ปิดฝา และทอดด้วยไอน้ำประมาณ 3 นาที",
+        "เมื่อเนื้อสุกเต็มที่แล้ว ให้เติม <B> และปรุงพร้อมพลิกลูกชิ้น",
+        "วางบนจานแล้วใส่ไข่แดง",
+        "บรอกโคลีนึ่งไมโครเวฟและหมูหอมน้ำมันงา",
+        "บรอกโคลีและสลัดทาร์ทาร์ไข่",
+        "ในไมโครเวฟ! สลัดพอนซูบรอกโคลีกับทูน่า"
+      ],
+      "id": [
+        "Bagi brokoli menjadi kuntum. Kikis bagian luar batang yang keras dan potong kasar. Pisahkan telur menjadi kuning dan putihnya.",
+        "Tambahkan daging giling, putih telur, dan <A> ke dalam mangkuk dan aduk rata. Tambahkan batang cincang dan aduk lagi. Bagi menjadi 8 bagian yang sama dan gulung.",
+        "Panaskan minyak salad dalam wajan dengan api sedang dan goreng 2. Setelah kecoklatan, balikkan, tambahkan brokoli yang sudah dipotong kuntum, tutupi, dan kukus selama kurang lebih 3 menit.",
+        "Jika daging sudah benar-benar matang, tambahkan <B> dan masak sambil membalik bakso.",
+        "Letakkan di piring dan tambahkan kuning telur.",
+        "Brokoli kukus microwave dan daging babi dengan aroma minyak wijen",
+        "Brokoli dan salad tartar telur",
+        "Di dalam microwave! Salad brokoli ponzu dengan tuna"
+      ],
+      "ms": [
+        "Bahagikan brokoli kepada kuntum bunga. Kikis bahagian luar batang yang keras dan potong kasar. Pisahkan telur kepada kuning dan putih.",
+        "Masukkan daging kisar, putih telur dan <A> ke dalam mangkuk dan gaul rata. Masukkan batang yang dicincang dan gaul lagi. Bahagikan kepada 8 bahagian yang sama dan gulung.",
+        "Panaskan minyak salad dalam kuali dengan api sederhana dan goreng 2. Setelah keperangan, terbalikkan, masukkan brokoli yang dipotong menjadi bunga, tutup, dan goreng kukus selama lebih kurang 3 minit.",
+        "Apabila daging telah masak sepenuhnya, masukkan <B> dan masak sambil memusingkan bebola daging.",
+        "Letakkan di atas pinggan dan masukkan kuning telur.",
+        "Brokoli kukus gelombang mikro dan daging babi dengan aroma minyak bijan",
+        "Brokoli dan salad tartar telur",
+        "Dalam ketuhar gelombang mikro! Salad brokoli ponzu dengan tuna"
+      ],
+      "ko": [
+        "브로콜리는 소방으로 나눈다. 줄기 부분은 바깥쪽의 딱딱한 부분을 깎아내어 거칠게 잘게 썬다. 계란은 노른자와 달걀 흰자로 나눕니다.",
+        "그릇에 갈고기와 달걀 흰자, <A>를 넣고 잘 섞고 다진 줄기를 넣고 더 섞는다. 8 등분으로 반올림.",
+        "프라이팬에 샐러드 기름을 넣고 중불에 넣고 2를 굽는다. 구운 색이 붙으면 상하를 돌려, 소방으로 나눈 브로콜리를 더해, 뚜껑을 해 3분 정도 찜구이로 한다.",
+        "전체에 불이 지나면, <B>를 돌려 쓰쿠네를 돌려주면서 끓인다.",
+        "접시에 담고 달걀 노른자를 더한다.",
+        "참기름 향기 브로콜리와 돼지고기의 레인지 찜",
+        "브로콜리와 계란 타르타르 샐러드",
+        "범위에서! 참치가 들어간 브로콜리 폰즈 샐러드"
+      ]
+    }
   }
 ]

@@ -146393,5 +146393,699 @@
         "레인지로 호쿠호쿠! 버터 폰 새"
       ]
     }
+  },
+  {
+    "id": "431f8e2a",
+    "source_url": "https://www.mizkan.co.jp/ouchirecipe/recipe/?menu_id=21526",
+    "source_site": "Mizkan",
+    "title_ja": "食感やみつきシャキシャキ新じゃがサラダ",
+    "description_ja": "",
+    "ingredients": [
+      {
+        "name_ja": "新じゃがいも",
+        "amount": "２個（１００ｇ）",
+        "name_translated": {
+          "en": "new potatoes",
+          "zh_tw": "新馬鈴薯",
+          "zh_cn": "新土豆",
+          "vi": "khoai tây mới",
+          "hi": "नया आलू",
+          "ru": "молодой картофель",
+          "th": "มันฝรั่งใหม่",
+          "id": "kentang baru",
+          "ms": "kentang baru",
+          "ko": "새 감자"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E6%96%B0%E3%81%98%E3%82%83%E3%81%8C%E3%81%84%E3%82%82&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E6%96%B0%E3%81%98%E3%82%83%E3%81%8C%E3%81%84%E3%82%82/?tag="
+      },
+      {
+        "name_ja": "きゅうり",
+        "amount": "１／３本",
+        "name_translated": {
+          "en": "cucumber",
+          "zh_tw": "黃瓜",
+          "zh_cn": "黄瓜",
+          "vi": "quả dưa chuột",
+          "hi": "खीरा",
+          "ru": "огурец",
+          "th": "แตงกวา",
+          "id": "timun",
+          "ms": "timun",
+          "ko": "오이"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%8D%E3%82%85%E3%81%86%E3%82%8A&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%8D%E3%82%85%E3%81%86%E3%82%8A/?tag="
+      },
+      {
+        "name_ja": "ハム",
+        "amount": "２枚",
+        "name_translated": {
+          "en": "ham",
+          "zh_tw": "火腿",
+          "zh_cn": "火腿",
+          "vi": "giăm bông",
+          "hi": "जांघ",
+          "ru": "ветчина",
+          "th": "แฮม",
+          "id": "ham",
+          "ms": "ham",
+          "ko": "햄"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%8F%E3%83%A0&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%8F%E3%83%A0/?tag="
+      },
+      {
+        "name_ja": "ミツカン　カンタン酢",
+        "amount": "大さじ２",
+        "name_translated": {
+          "en": "Mizkan Kantan Vinegar",
+          "zh_tw": "味滋康甘丹醋",
+          "zh_cn": "味滋康甘丹醋",
+          "vi": "Giấm Mizkan Kantan",
+          "hi": "मिज़कान कंटन सिरका",
+          "ru": "Мизкан Кантанский уксус",
+          "th": "น้ำส้มสายชูมิซกัน กันตัน",
+          "id": "Cuka Mizkan Kantan",
+          "ms": "Cuka Mizkan Kantan",
+          "ko": "미츠칸 칸탄초"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E3%82%AB%E3%83%B3%E3%82%BF%E3%83%B3%E9%85%A2&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E3%82%AB%E3%83%B3%E3%82%BF%E3%83%B3%E9%85%A2/?tag="
+      },
+      {
+        "name_ja": "マヨネーズ",
+        "amount": "大さじ１",
+        "name_translated": {
+          "en": "mayonnaise",
+          "zh_tw": "美乃滋",
+          "zh_cn": "蛋黄酱",
+          "vi": "mayonaise",
+          "hi": "मेयोनेज़",
+          "ru": "майонез",
+          "th": "มายองเนส",
+          "id": "mayones",
+          "ms": "mayonis",
+          "ko": "마요네즈"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9E%E3%83%A8%E3%83%8D%E3%83%BC%E3%82%BA&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9E%E3%83%A8%E3%83%8D%E3%83%BC%E3%82%BA/?tag="
+      },
+      {
+        "name_ja": "こしょう",
+        "amount": "少々",
+        "name_translated": {
+          "en": "pepper",
+          "zh_tw": "胡椒",
+          "zh_cn": "胡椒",
+          "vi": "hạt tiêu",
+          "hi": "काली मिर्च",
+          "ru": "перец",
+          "th": "พริกไทย",
+          "id": "merica",
+          "ms": "lada",
+          "ko": "코쇼"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%93%E3%81%97%E3%82%87%E3%81%86&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%93%E3%81%97%E3%82%87%E3%81%86/?tag="
+      },
+      {
+        "name_ja": "１",
+        "amount": "にする。",
+        "name_translated": {
+          "en": "1",
+          "zh_tw": "1",
+          "zh_cn": "1",
+          "vi": "1",
+          "hi": "1",
+          "ru": "1",
+          "th": "1",
+          "id": "1",
+          "ms": "1",
+          "ko": "1"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%91&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%91/?tag="
+      },
+      {
+        "name_ja": "２",
+        "amount": "耐熱容器に水けをきった新じゃがいもを入れ、ふんわりとラップをかけ、電子レンジ（６００Ｗ）で２分加熱する。",
+        "name_translated": {
+          "en": "2",
+          "zh_tw": "2",
+          "zh_cn": "2",
+          "vi": "2",
+          "hi": "2",
+          "ru": "2",
+          "th": "2",
+          "id": "2",
+          "ms": "2",
+          "ko": "2"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%92&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%92/?tag="
+      },
+      {
+        "name_ja": "３",
+        "amount": "を水にさらし、水けをきる。水けをきった新じゃがいも、きゅうり、ハムに「カンタン酢」を混ぜ合わせ、マヨネーズとこしょうを加え混ぜる。５分ほどおいて味をなじませる。",
+        "name_translated": {
+          "en": "3",
+          "zh_tw": "3",
+          "zh_cn": "3",
+          "vi": "3",
+          "hi": "3",
+          "ru": "3",
+          "th": "3",
+          "id": "3",
+          "ms": "3",
+          "ko": "3"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%93&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%93/?tag="
+      },
+      {
+        "name_ja": "新じゃがのほっこり煮っころがし",
+        "amount": "適量",
+        "name_translated": {
+          "en": "Boiled new potatoes",
+          "zh_tw": "煮新土豆",
+          "zh_cn": "煮新土豆",
+          "vi": "Khoai tây mới luộc",
+          "hi": "उबले हुए नए आलू",
+          "ru": "Отварной молодой картофель",
+          "th": "มันฝรั่งต้มใหม่",
+          "id": "Kentang baru rebus",
+          "ms": "Kentang baru direbus",
+          "ko": "새 감자 따뜻한 삶은"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E6%96%B0%E3%81%98%E3%82%83%E3%81%8C%E3%81%AE%E3%81%BB%E3%81%A3%E3%81%93%E3%82%8A%E7%85%AE%E3%81%A3%E3%81%93%E3%82%8D%E3%81%8C%E3%81%97&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E6%96%B0%E3%81%98%E3%82%83%E3%81%8C%E3%81%AE%E3%81%BB%E3%81%A3%E3%81%93%E3%82%8A%E7%85%AE%E3%81%A3%E3%81%93%E3%82%8D%E3%81%8C%E3%81%97/?tag="
+      },
+      {
+        "name_ja": "鶏肉と新じゃがの照り焼き　マヨソース",
+        "amount": "適量",
+        "name_translated": {
+          "en": "Teriyaki chicken and new potatoes with mayo sauce",
+          "zh_tw": "照燒雞肉和新馬鈴薯配蛋黃醬",
+          "zh_cn": "照烧鸡肉和新土豆配蛋黄酱",
+          "vi": "Gà Teriyaki và khoai tây mới sốt mayo",
+          "hi": "मेयो सॉस के साथ टेरीयाकी चिकन और नए आलू",
+          "ru": "Курица терияки и молодой картофель с соусом майонезом",
+          "th": "ไก่เทอริยากิและมันฝรั่งใหม่พร้อมซอสมายองเนส",
+          "id": "Ayam teriyaki dan kentang baru dengan saus mayo",
+          "ms": "Ayam teriyaki dan kentang baru dengan sos mayo",
+          "ko": "닭고기와 새 감자 데리야키 마요 소스"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E9%B6%8F%E8%82%89%E3%81%A8%E6%96%B0%E3%81%98%E3%82%83%E3%81%8C%E3%81%AE%E7%85%A7%E3%82%8A%E7%84%BC%E3%81%8D%E3%80%80%E3%83%9E%E3%83%A8%E3%82%BD%E3%83%BC%E3%82%B9&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E9%B6%8F%E8%82%89%E3%81%A8%E6%96%B0%E3%81%98%E3%82%83%E3%81%8C%E3%81%AE%E7%85%A7%E3%82%8A%E7%84%BC%E3%81%8D%E3%80%80%E3%83%9E%E3%83%A8%E3%82%BD%E3%83%BC%E3%82%B9/?tag="
+      },
+      {
+        "name_ja": "新じゃがの甘辛そぼろ煮",
+        "amount": "適量",
+        "name_translated": {
+          "en": "Sweet and spicy minced simmered new potatoes",
+          "zh_tw": "甜辣碎燜新土豆",
+          "zh_cn": "甜辣碎焖新土豆",
+          "vi": "Khoai tây mới hầm cay ngọt",
+          "hi": "मीठे और मसालेदार कीमा, उबले हुए नए आलू",
+          "ru": "Сладкий и пряный фарш из отварного молодого картофеля",
+          "th": "มันฝรั่งใหม่เคี่ยวรสหวานและเผ็ด",
+          "id": "Kentang baru yang direbus dan dicincang pedas manis",
+          "ms": "Kentang baru yang dicincang manis dan pedas",
+          "ko": "새 감자의 달콤한 매운 삶은"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E6%96%B0%E3%81%98%E3%82%83%E3%81%8C%E3%81%AE%E7%94%98%E8%BE%9B%E3%81%9D%E3%81%BC%E3%82%8D%E7%85%AE&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E6%96%B0%E3%81%98%E3%82%83%E3%81%8C%E3%81%AE%E7%94%98%E8%BE%9B%E3%81%9D%E3%81%BC%E3%82%8D%E7%85%AE/?tag="
+      }
+    ],
+    "steps_ja": [
+      "新じゃがいもは、皮ごとせん切りにし、水にさらす。きゅうり、ハムもせん切りにする。",
+      "耐熱容器に水けをきった新じゃがいもを入れ、ふんわりとラップをかけ、電子レンジ（６００Ｗ）で２分加熱する。",
+      "を水にさらし、水けをきる。水けをきった新じゃがいも、きゅうり、ハムに「カンタン酢」を混ぜ合わせ、マヨネーズとこしょうを加え混ぜる。５分ほどおいて味をなじませる。",
+      "新じゃがのほっこり煮っころがし",
+      "鶏肉と新じゃがの照り焼き　マヨソース",
+      "新じゃがの甘辛そぼろ煮"
+    ],
+    "image_url": "",
+    "title": {
+      "en": "Crunchy new potato salad with addictive texture",
+      "zh_tw": "酥脆的新馬鈴薯沙拉，口感令人上癮",
+      "zh_cn": "脆脆的新土豆沙拉，口感令人上瘾",
+      "vi": "Salad khoai tây mới giòn với kết cấu gây nghiện",
+      "hi": "नशीले स्वाद के साथ कुरकुरे नए आलू का सलाद",
+      "ru": "Хрустящий салат из молодого картофеля с аппетитной текстурой",
+      "th": "สลัดมันฝรั่งใหม่กรุบกรอบเนื้อสัมผัสชวนติดตาม",
+      "id": "Salad kentang baru yang renyah dengan tekstur yang membuat ketagihan",
+      "ms": "Salad kentang baru yang rangup dengan tekstur ketagihan",
+      "ko": "식감과 미츠키 샤키 샤키 새가 샐러드"
+    },
+    "description": {
+      "en": "",
+      "zh_tw": "",
+      "zh_cn": "",
+      "vi": "",
+      "hi": "",
+      "ru": "",
+      "th": "",
+      "id": "",
+      "ms": "",
+      "ko": ""
+    },
+    "steps": {
+      "en": [
+        "Slice the new potatoes with their skins on and soak them in water. Slice the cucumber and ham as well.",
+        "Place drained new potatoes in a heat-resistant container, loosely cover with plastic wrap, and heat in the microwave (600W) for 2 minutes.",
+        "Soak in water and drain. Mix ``simple vinegar'' with drained new potatoes, cucumbers, and ham, then add mayonnaise and pepper and mix. Let stand for about 5 minutes to let the flavors meld.",
+        "Boiled new potatoes",
+        "Teriyaki chicken and new potatoes with mayo sauce",
+        "Sweet and spicy minced simmered new potatoes"
+      ],
+      "zh_tw": [
+        "將新馬鈴薯帶皮切成薄片，然後浸泡在水中。將黃瓜和火腿也切片。",
+        "將瀝乾的新馬鈴薯放入耐熱容器中，鬆散地蓋上保鮮膜，然後在微波爐（600W）中加熱 2 分鐘。",
+        "浸泡在水中並瀝乾。將「簡單醋」與瀝乾的新馬鈴薯、黃瓜和火腿混合，然後加入蛋黃醬和胡椒粉並混合。靜置約 5 分鐘，讓味道融合。",
+        "煮新土豆",
+        "照燒雞肉和新馬鈴薯配蛋黃醬",
+        "甜辣碎燜新土豆"
+      ],
+      "zh_cn": [
+        "将新土豆带皮切成薄片，然后浸泡在水中。将黄瓜和火腿也切片。",
+        "将沥干的新土豆放入耐热容器中，松散地盖上保鲜膜，然后在微波炉（600W）中加热 2 分钟。",
+        "浸泡在水中并沥干。将“简单醋”与沥干的新土豆、黄瓜和火腿混合，然后加入蛋黄酱和胡椒粉并混合。静置约 5 分钟，让味道融合。",
+        "煮新土豆",
+        "照烧鸡肉和新土豆配蛋黄酱",
+        "甜辣碎焖新土豆"
+      ],
+      "vi": [
+        "Cắt khoai tây mới còn nguyên vỏ và ngâm trong nước. Cắt lát dưa chuột và giăm bông.",
+        "Đặt khoai tây mới đã ráo nước vào hộp chịu nhiệt, đậy kín bằng màng bọc thực phẩm và hâm nóng trong lò vi sóng (600W) trong 2 phút.",
+        "Ngâm trong nước và để ráo nước. Trộn ''giấm đơn giản'' với khoai tây, dưa chuột và giăm bông mới đã ráo nước, sau đó thêm sốt mayonnaise và hạt tiêu vào trộn đều. Để khoảng 5 phút cho gia vị hòa quyện.",
+        "Khoai tây mới luộc",
+        "Gà Teriyaki và khoai tây mới sốt mayo",
+        "Khoai tây mới hầm cay ngọt"
+      ],
+      "hi": [
+        "नये आलुओं को छिलके सहित काट लें और पानी में भिगो दें। खीरे और हैम को भी काट लें।",
+        "सूखे हुए नए आलूओं को एक गर्मी प्रतिरोधी कंटेनर में रखें, प्लास्टिक रैप से ढकें और माइक्रोवेव (600W) में 2 मिनट के लिए गर्म करें।",
+        "पानी में भिगोकर छान लें. ``साधारण सिरका'' को छाने हुए नए आलू, खीरे और हैम के साथ मिलाएं, फिर मेयोनेज़ और काली मिर्च डालें और मिलाएँ। स्वाद को घुलने देने के लिए लगभग 5 मिनट तक खड़े रहने दें।",
+        "उबले हुए नए आलू",
+        "मेयो सॉस के साथ टेरीयाकी चिकन और नए आलू",
+        "मीठे और मसालेदार कीमा, उबले हुए नए आलू"
+      ],
+      "ru": [
+        "Нарежьте молодой картофель вместе с кожурой и замочите его в воде. Также нарежьте огурец и ветчину.",
+        "Поместите осушенный молодой картофель в термостойкий контейнер, неплотно накройте полиэтиленовой пленкой и нагрейте в микроволновой печи (600 Вт) в течение 2 минут.",
+        "Замочить в воде и слить. Смешайте «простой уксус» с осушенным молодым картофелем, огурцами и ветчиной, затем добавьте майонез и перец и перемешайте. Дайте постоять около 5 минут, чтобы ароматы смешались.",
+        "Отварной молодой картофель",
+        "Курица терияки и молодой картофель с соусом майонезом",
+        "Сладкий и пряный фарш из отварного молодого картофеля"
+      ],
+      "th": [
+        "หั่นมันฝรั่งใหม่ทั้งเปลือกแล้วแช่ในน้ำ หั่นแตงกวาและแฮมด้วย",
+        "วางมันฝรั่งใหม่ที่สะเด็ดน้ำแล้วลงในภาชนะทนความร้อน ปิดด้วยพลาสติกแร็ป แล้วนำไปให้ความร้อนในไมโครเวฟ (600W) เป็นเวลา 2 นาที",
+        "แช่น้ำแล้วสะเด็ดน้ำ ผสม ``น้ำส้มสายชูธรรมดา'' กับมันฝรั่ง แตงกวา และแฮมที่สะเด็ดน้ำแล้ว จากนั้นจึงเติมมายองเนสและพริกไทยลงไป คลุกเคล้าให้เข้ากัน พักไว้ประมาณ 5 นาทีเพื่อให้รสชาติเข้ากัน",
+        "มันฝรั่งต้มใหม่",
+        "ไก่เทอริยากิและมันฝรั่งใหม่พร้อมซอสมายองเนส",
+        "มันฝรั่งใหม่เคี่ยวรสหวานและเผ็ด"
+      ],
+      "id": [
+        "Iris kentang baru beserta kulitnya dan rendam dalam air. Iris juga mentimun dan ham.",
+        "Tempatkan kentang baru yang sudah ditiriskan ke dalam wadah tahan panas, tutup rapat dengan bungkus plastik, dan panaskan dalam microwave (600W) selama 2 menit.",
+        "Rendam dalam air dan tiriskan. Campurkan ``cuka sederhana'' dengan kentang, mentimun, dan ham baru yang sudah dikeringkan, lalu tambahkan mayones dan merica, lalu aduk. Diamkan selama kurang lebih 5 menit agar bumbunya menyatu.",
+        "Kentang baru rebus",
+        "Ayam teriyaki dan kentang baru dengan saus mayo",
+        "Kentang baru yang direbus dan dicincang pedas manis"
+      ],
+      "ms": [
+        "Potong kentang baru dengan kulitnya dan rendam dalam air. Hiris timun dan ham juga.",
+        "Letakkan kentang baru yang telah dikeringkan dalam bekas tahan panas, tutup longgar dengan bungkus plastik, dan panaskan dalam ketuhar gelombang mikro (600W) selama 2 minit.",
+        "Rendam dalam air dan toskan. Campurkan ``cuka ringkas'' dengan kentang baru, timun, dan ham yang telah dikeringkan, kemudian masukkan mayonis dan lada sulah dan gaul. Biarkan selama kira-kira 5 minit untuk membiarkan rasa sebati.",
+        "Kentang baru direbus",
+        "Ayam teriyaki dan kentang baru dengan sos mayo",
+        "Kentang baru yang dicincang manis dan pedas"
+      ],
+      "ko": [
+        "새 감자는 껍질을 벗기고 물에 노출시킵니다. 오이, 햄도 전단한다.",
+        "내열 용기에 젖은 새 감자를 넣고 부드럽게 랩을 걸고 전자 레인지(600W)로 2분 가열한다.",
+        "물에 노출하고 물을 버린다. 물을 온 새 감자, 오이, 햄에 「간단 식초」를 섞어 마요네즈와 후추를 더해 섞는다. 5분 정도 놓고 맛을 익힌다.",
+        "새 감자 따뜻한 삶은",
+        "닭고기와 새 감자 데리야키 마요 소스",
+        "새 감자의 달콤한 매운 삶은"
+      ]
+    }
+  },
+  {
+    "id": "005c7a62",
+    "source_url": "https://www.mizkan.co.jp/ouchirecipe/recipe/?menu_id=22364",
+    "source_site": "Mizkan",
+    "title_ja": "豚こま油淋鶏",
+    "description_ja": "",
+    "ingredients": [
+      {
+        "name_ja": "豚肉　小間切れ",
+        "amount": "２５０ｇ",
+        "name_translated": {
+          "en": "Pork small pieces",
+          "zh_tw": "豬肉小塊",
+          "zh_cn": "猪肉小块",
+          "vi": "Thịt lợn miếng nhỏ",
+          "hi": "सूअर का मांस छोटे टुकड़े",
+          "ru": "Свинина небольшими кусочками",
+          "th": "หมูชิ้นเล็ก",
+          "id": "Potongan kecil daging babi",
+          "ms": "Potongan kecil daging babi",
+          "ko": "돼지고기 부스러기"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E8%B1%9A%E8%82%89%E3%80%80%E5%B0%8F%E9%96%93%E5%88%87%E3%82%8C&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E8%B1%9A%E8%82%89%E3%80%80%E5%B0%8F%E9%96%93%E5%88%87%E3%82%8C/?tag="
+      },
+      {
+        "name_ja": "しょうゆ",
+        "amount": "大さじ１／２",
+        "name_translated": {
+          "en": "soy sauce",
+          "zh_tw": "醬油",
+          "zh_cn": "酱油",
+          "vi": "nước tương",
+          "hi": "सोया सॉस",
+          "ru": "соевый соус",
+          "th": "ซอสถั่วเหลือง",
+          "id": "kecap",
+          "ms": "kicap",
+          "ko": "간장"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%97%E3%82%87%E3%81%86%E3%82%86&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%97%E3%82%87%E3%81%86%E3%82%86/?tag="
+      },
+      {
+        "name_ja": "酒",
+        "amount": "大さじ１／２",
+        "name_translated": {
+          "en": "Alcohol",
+          "zh_tw": "酒精",
+          "zh_cn": "酒精",
+          "vi": "Rượu bia",
+          "hi": "शराब",
+          "ru": "Алкоголь",
+          "th": "แอลกอฮอล์",
+          "id": "Alkohol",
+          "ms": "Alkohol",
+          "ko": "술"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E9%85%92&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E9%85%92/?tag="
+      },
+      {
+        "name_ja": "ミツカン　カンタン酢",
+        "amount": "大さじ３",
+        "name_translated": {
+          "en": "Mizkan Kantan Vinegar",
+          "zh_tw": "味滋康甘丹醋",
+          "zh_cn": "味滋康甘丹醋",
+          "vi": "Giấm Mizkan Kantan",
+          "hi": "मिज़कान कंटन सिरका",
+          "ru": "Мизкан Кантанский уксус",
+          "th": "น้ำส้มสายชูมิซกัน กันตัน",
+          "id": "Cuka Mizkan Kantan",
+          "ms": "Cuka Mizkan Kantan",
+          "ko": "미츠칸 칸탄초"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E3%82%AB%E3%83%B3%E3%82%BF%E3%83%B3%E9%85%A2&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E3%82%AB%E3%83%B3%E3%82%BF%E3%83%B3%E9%85%A2/?tag="
+      },
+      {
+        "name_ja": "しょうゆ",
+        "amount": "大さじ１",
+        "name_translated": {
+          "en": "soy sauce",
+          "zh_tw": "醬油",
+          "zh_cn": "酱油",
+          "vi": "nước tương",
+          "hi": "सोया सॉस",
+          "ru": "соевый соус",
+          "th": "ซอสถั่วเหลือง",
+          "id": "kecap",
+          "ms": "kicap",
+          "ko": "간장"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%97%E3%82%87%E3%81%86%E3%82%86&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%97%E3%82%87%E3%81%86%E3%82%86/?tag="
+      },
+      {
+        "name_ja": "ごま油",
+        "amount": "大さじ１",
+        "name_translated": {
+          "en": "sesame oil",
+          "zh_tw": "香油",
+          "zh_cn": "香油",
+          "vi": "dầu mè",
+          "hi": "तिल का तेल",
+          "ru": "кунжутное масло",
+          "th": "น้ำมันงา",
+          "id": "minyak wijen",
+          "ms": "minyak bijan",
+          "ko": "참기름"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%94%E3%81%BE%E6%B2%B9&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%94%E3%81%BE%E6%B2%B9/?tag="
+      },
+      {
+        "name_ja": "おろししょうが",
+        "amount": "チューブ２ｃｍ分",
+        "name_translated": {
+          "en": "Grated ginger",
+          "zh_tw": "薑末",
+          "zh_cn": "姜末",
+          "vi": "Gừng bào sợi",
+          "hi": "कसा हुआ अदरक",
+          "ru": "Тертый имбирь",
+          "th": "ขิงขูด",
+          "id": "jahe parut",
+          "ms": "Halia parut",
+          "ko": "오로시 생강"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%8A%E3%82%8D%E3%81%97%E3%81%97%E3%82%87%E3%81%86%E3%81%8C&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%8A%E3%82%8D%E3%81%97%E3%81%97%E3%82%87%E3%81%86%E3%81%8C/?tag="
+      },
+      {
+        "name_ja": "小ねぎ　（小口切り）",
+        "amount": "適量",
+        "name_translated": {
+          "en": "Onion (cut into small pieces)",
+          "zh_tw": "洋蔥（切小塊）",
+          "zh_cn": "洋葱（切小块）",
+          "vi": "Hành tây (cắt thành miếng nhỏ)",
+          "hi": "प्याज (छोटे टुकड़ों में कटा हुआ)",
+          "ru": "Лук (нарезать небольшими кусочками)",
+          "th": "หัวหอม (หั่นเป็นชิ้นเล็กๆ)",
+          "id": "Bawang bombay (potong kecil-kecil)",
+          "ms": "Bawang besar (potong kecil)",
+          "ko": "작은 양파 (작은 컷)"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E5%B0%8F%E3%81%AD%E3%81%8E%E3%80%80%EF%BC%88%E5%B0%8F%E5%8F%A3%E5%88%87%E3%82%8A%EF%BC%89&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E5%B0%8F%E3%81%AD%E3%81%8E%E3%80%80%EF%BC%88%E5%B0%8F%E5%8F%A3%E5%88%87%E3%82%8A%EF%BC%89/?tag="
+      },
+      {
+        "name_ja": "片栗粉",
+        "amount": "大さじ５",
+        "name_translated": {
+          "en": "potato starch",
+          "zh_tw": "馬鈴薯澱粉",
+          "zh_cn": "马铃薯淀粉",
+          "vi": "tinh bột khoai tây",
+          "hi": "आलू स्टार्च",
+          "ru": "картофельный крахмал",
+          "th": "แป้งมันฝรั่ง",
+          "id": "tepung kentang",
+          "ms": "kanji kentang",
+          "ko": "가문 가루"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E7%89%87%E6%A0%97%E7%B2%89&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E7%89%87%E6%A0%97%E7%B2%89/?tag="
+      },
+      {
+        "name_ja": "揚げ油",
+        "amount": "適量",
+        "name_translated": {
+          "en": "frying oil",
+          "zh_tw": "煎炸油",
+          "zh_cn": "煎炸油",
+          "vi": "dầu chiên",
+          "hi": "तलने का तेल",
+          "ru": "масло для жарки",
+          "th": "น้ำมันทอด",
+          "id": "minyak goreng",
+          "ms": "minyak goreng",
+          "ko": "튀긴 기름"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E6%8F%9A%E3%81%92%E6%B2%B9&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E6%8F%9A%E3%81%92%E6%B2%B9/?tag="
+      },
+      {
+        "name_ja": "１",
+        "amount": "豚肉をポリ袋に入れ、＜A＞を加えてもみ込む。",
+        "name_translated": {
+          "en": "1",
+          "zh_tw": "1",
+          "zh_cn": "1",
+          "vi": "1",
+          "hi": "1",
+          "ru": "1",
+          "th": "1",
+          "id": "1",
+          "ms": "1",
+          "ko": "1"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%91&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%91/?tag="
+      },
+      {
+        "name_ja": "２",
+        "amount": "ボウルに＜B＞を合わせる。",
+        "name_translated": {
+          "en": "2",
+          "zh_tw": "2",
+          "zh_cn": "2",
+          "vi": "2",
+          "hi": "2",
+          "ru": "2",
+          "th": "2",
+          "id": "2",
+          "ms": "2",
+          "ko": "2"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%92&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%92/?tag="
+      },
+      {
+        "name_ja": "３",
+        "amount": "の汁けをきり、片栗粉をしっかりまぶし、多めの油で揚げ焼きにする。",
+        "name_translated": {
+          "en": "3",
+          "zh_tw": "3",
+          "zh_cn": "3",
+          "vi": "3",
+          "hi": "3",
+          "ru": "3",
+          "th": "3",
+          "id": "3",
+          "ms": "3",
+          "ko": "3"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%93&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%93/?tag="
+      },
+      {
+        "name_ja": "４",
+        "amount": "にからめる。器に盛り、小ねぎを散らす。",
+        "name_translated": {
+          "en": "4",
+          "zh_tw": "4",
+          "zh_cn": "4",
+          "vi": "4",
+          "hi": "4",
+          "ru": "4",
+          "th": "4",
+          "id": "4",
+          "ms": "4",
+          "ko": "4"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%94&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%94/?tag="
+      }
+    ],
+    "steps_ja": [
+      "豚肉をポリ袋に入れ、＜A＞を加えてもみ込む。",
+      "ボウルに＜B＞を合わせる。",
+      "の汁けをきり、片栗粉をしっかりまぶし、多めの油で揚げ焼きにする。",
+      "油をきり、熱いうちに２にからめる。器に盛り、小ねぎを散らす。"
+    ],
+    "image_url": "",
+    "title": {
+      "en": "Pork sesame oil lín jī",
+      "zh_tw": "豬油麻油 lín jī",
+      "zh_cn": "猪油麻油 lín jī",
+      "vi": "Thịt lợn dầu mè lín jī",
+      "hi": "सूअर का मांस तिल का तेल लिन जी",
+      "ru": "Линь Цзи, свиное кунжутное масло",
+      "th": "น้ำมันงาหมู หลินจี่",
+      "id": "Minyak wijen babi lín jī",
+      "ms": "Minyak bijan babi lín jī",
+      "ko": "돼지 참기름 기름 닭"
+    },
+    "description": {
+      "en": "",
+      "zh_tw": "",
+      "zh_cn": "",
+      "vi": "",
+      "hi": "",
+      "ru": "",
+      "th": "",
+      "id": "",
+      "ms": "",
+      "ko": ""
+    },
+    "steps": {
+      "en": [
+        "Place the pork in a plastic bag, add <A> and mix.",
+        "Combine <B> in a bowl.",
+        "Drain the liquid, sprinkle well with potato starch, and fry in plenty of oil.",
+        "Drain the oil and toss with 2 while still hot. Place in a bowl and sprinkle with green onions."
+      ],
+      "zh_tw": [
+        "豚肉をポリ袋に入れ、＜A＞を加えてもみ込む。",
+        "將<B>放入碗中。",
+        "の汁けをきり、片栗粉をしっかりまぶし、多めの油で揚げ焼きにする。",
+        "瀝乾油，趁熱與 2 攪拌。放入碗中，撒上蔥花。"
+      ],
+      "zh_cn": [
+        "将猪肉放入塑料袋中，加入<A>并混合。",
+        "将<B>放入碗中。",
+        "沥干液体，撒上马铃薯淀粉，然后用大量油煎炸。",
+        "沥干油，趁热与 2 一起搅拌。放入碗中，撒上葱。"
+      ],
+      "vi": [
+        "Cho thịt lợn vào túi nhựa, thêm <A> và trộn.",
+        "Kết hợp <B> vào một cái bát.",
+        "Để ráo nước, rắc đều tinh bột khoai tây và chiên trong nhiều dầu.",
+        "Xả dầu và trộn với 2 khi vẫn còn nóng. Đặt vào một cái bát và rắc hành lá."
+      ],
+      "hi": [
+        "सूअर के मांस को एक प्लास्टिक बैग में रखें, <A> डालें और मिलाएँ।",
+        "<B> को एक कटोरे में मिला लें।",
+        "तरल निथार लें, आलू स्टार्च अच्छी तरह छिड़कें और खूब तेल में भूनें।",
+        "तेल निथार लें और गरम होने पर ही 2 के साथ टॉस करें। एक कटोरे में रखें और हरा प्याज छिड़कें।"
+      ],
+      "ru": [
+        "Поместите свинину в полиэтиленовый пакет, добавьте <А> и перемешайте.",
+        "Объедините <B> в миске.",
+        "Слить жидкость, хорошенько посыпать картофельным крахмалом и обжарить в большом количестве масла.",
+        "Слейте масло и перемешайте с 2, пока они еще горячие. Выложите в миску и посыпьте зеленым луком."
+      ],
+      "th": [
+        "ใส่เนื้อหมูลงในถุงพลาสติก ใส่ <A> และผสมให้เข้ากัน",
+        "รวม <B> ลงในชาม",
+        "ระบายของเหลวโรยด้วยแป้งมันฝรั่งแล้วทอดในน้ำมันปริมาณมาก",
+        "สะเด็ดน้ำมันแล้วโยนด้วย 2 ขณะที่ยังร้อนอยู่ วางในชามแล้วโรยด้วยหัวหอมสีเขียว"
+      ],
+      "id": [
+        "Masukkan daging babi ke dalam kantong plastik, tambahkan <A> dan aduk.",
+        "Gabungkan <B> dalam mangkuk.",
+        "Tiriskan cairannya, taburi dengan tepung kentang, dan goreng dengan banyak minyak.",
+        "Tiriskan minyak lalu aduk2 selagi masih panas. Tempatkan dalam mangkuk dan taburi dengan daun bawang."
+      ],
+      "ms": [
+        "Letakkan daging babi dalam beg plastik, tambah <A> dan gaul.",
+        "Satukan <B> dalam mangkuk.",
+        "Toskan cecair, taburkan dengan tepung kentang, dan goreng dalam minyak yang banyak.",
+        "Toskan minyak dan toskan dengan 2 semasa masih panas. Letakkan dalam mangkuk dan taburkan dengan bawang hijau."
+      ],
+      "ko": [
+        "돼지고기를 폴리 봉지에 넣고 <A>를 넣어도 넣는다.",
+        "그릇에 <B>를 맞춘다.",
+        "국물을 자르고 가타 쿠리 가루를 단단히 뿌리고 많은 기름으로 튀김에 구운다.",
+        "기름을 뜨고 뜨거울 때 2로 얹는다. 그릇에 담아, 양파를 뿌린다."
+      ]
+    }
   }
 ]

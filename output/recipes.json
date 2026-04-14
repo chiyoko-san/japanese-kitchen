@@ -147755,5 +147755,229 @@
         "콩 콩나물은 내열 용기에 넣고 부드럽게 랩을 하고 전자레인지(600W)로 4분 가열한다. 조열이 취해지면 물을 닦고, <A>를 첨가하여 잘 섞어, 나물을 만든다(시판품이어도 좋다). 오이는 잘게 자르고 게 풍미 어묵은 손으로 찢는다. 두꺼운 계란은 막대 모양으로 자른다."
       ]
     }
+  },
+  {
+    "id": "b6202038",
+    "source_url": "https://www.mizkan.co.jp/ouchirecipe/recipe/?menu_id=18553",
+    "source_site": "Mizkan",
+    "title_ja": "小松菜としらすの和風ペペロンチーノ炒め",
+    "description_ja": "",
+    "ingredients": [
+      {
+        "name_ja": "小松菜",
+        "amount": "１／２束（１５０ｇ）",
+        "name_translated": {
+          "en": "Komatsuna",
+          "zh_tw": "小松綱",
+          "zh_cn": "小松纲",
+          "vi": "komatsuna",
+          "hi": "कोमात्सुना",
+          "ru": "Комацуна",
+          "th": "โคมัตสึนะ",
+          "id": "Komatsuna",
+          "ms": "Komatsuna",
+          "ko": "고마츠나"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E5%B0%8F%E6%9D%BE%E8%8F%9C&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E5%B0%8F%E6%9D%BE%E8%8F%9C/?tag="
+      },
+      {
+        "name_ja": "しらす干し",
+        "amount": "２５ｇ",
+        "name_translated": {
+          "en": "Dried whitebait",
+          "zh_tw": "銀魚乾",
+          "zh_cn": "银鱼干",
+          "vi": "cá trắng khô",
+          "hi": "सूखा हुआ सफेद चारा",
+          "ru": "Сушеный малек",
+          "th": "ปลาไวท์เบทแห้ง",
+          "id": "Ikan teri kering",
+          "ms": "Umpan putih kering",
+          "ko": "시라스 말린"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%97%E3%82%89%E3%81%99%E5%B9%B2%E3%81%97&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%97%E3%82%89%E3%81%99%E5%B9%B2%E3%81%97/?tag="
+      },
+      {
+        "name_ja": "にんにく　（みじん切り）",
+        "amount": "１かけ分",
+        "name_translated": {
+          "en": "Garlic (chopped)",
+          "zh_tw": "大蒜（切碎）",
+          "zh_cn": "大蒜（切碎）",
+          "vi": "Tỏi (băm nhỏ)",
+          "hi": "लहसुन (कटा हुआ)",
+          "ru": "Чеснок (нарезанный)",
+          "th": "กระเทียม (สับ)",
+          "id": "Bawang putih (cincang)",
+          "ms": "Bawang putih (cincang)",
+          "ko": "마늘 (다진)"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%AB%E3%82%93%E3%81%AB%E3%81%8F%E3%80%80%EF%BC%88%E3%81%BF%E3%81%98%E3%82%93%E5%88%87%E3%82%8A%EF%BC%89&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%AB%E3%82%93%E3%81%AB%E3%81%8F%E3%80%80%EF%BC%88%E3%81%BF%E3%81%98%E3%82%93%E5%88%87%E3%82%8A%EF%BC%89/?tag="
+      },
+      {
+        "name_ja": "赤とうがらし　（小口切り）",
+        "amount": "少々",
+        "name_translated": {
+          "en": "Red chili pepper (cut into small pieces)",
+          "zh_tw": "紅辣椒（切小塊）",
+          "zh_cn": "红辣椒（切小块）",
+          "vi": "Ớt đỏ (cắt thành miếng nhỏ)",
+          "hi": "लाल मिर्च (छोटे टुकड़ों में कटी हुई)",
+          "ru": "Красный перец чили (нарезать небольшими кусочками)",
+          "th": "พริกแดง (หั่นเป็นชิ้นเล็กๆ)",
+          "id": "Cabai merah (potong kecil-kecil)",
+          "ms": "Cili merah (potong kecil)",
+          "ko": "붉은 토가라시 (작은 컷)"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E8%B5%A4%E3%81%A8%E3%81%86%E3%81%8C%E3%82%89%E3%81%97%E3%80%80%EF%BC%88%E5%B0%8F%E5%8F%A3%E5%88%87%E3%82%8A%EF%BC%89&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E8%B5%A4%E3%81%A8%E3%81%86%E3%81%8C%E3%82%89%E3%81%97%E3%80%80%EF%BC%88%E5%B0%8F%E5%8F%A3%E5%88%87%E3%82%8A%EF%BC%89/?tag="
+      },
+      {
+        "name_ja": "ミツカン　追いがつおつゆ２倍",
+        "amount": "大さじ２",
+        "name_translated": {
+          "en": "Mizkan Oigatsu Otsuyu x2",
+          "zh_tw": "味滋館大月大津 x2",
+          "zh_cn": "味滋馆大月大津 x2",
+          "vi": "Mizkan Oigatsu Otsuyu x2",
+          "hi": "मिज़कान ओइगात्सु ओत्सुयु x2",
+          "ru": "Мизкан Ойгацу Оцую x2",
+          "th": "มิซคัง โออิงัตสึ โอทสึยุ x2",
+          "id": "Mizkan Oigatsu Otsuyu x2",
+          "ms": "Mizkan Oigatsu Otsuyu x2",
+          "ko": "미쓰칸 쫓는 츠츠유 2배"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E8%BF%BD%E3%81%84%E3%81%8C%E3%81%A4%E3%81%8A%E3%81%A4%E3%82%86%EF%BC%92%E5%80%8D&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E8%BF%BD%E3%81%84%E3%81%8C%E3%81%A4%E3%81%8A%E3%81%A4%E3%82%86%EF%BC%92%E5%80%8D/?tag="
+      },
+      {
+        "name_ja": "オリーブオイル",
+        "amount": "大さじ１",
+        "name_translated": {
+          "en": "olive oil",
+          "zh_tw": "橄欖油",
+          "zh_cn": "橄榄油",
+          "vi": "dầu ô liu",
+          "hi": "जैतून का तेल",
+          "ru": "оливковое масло",
+          "th": "น้ำมันมะกอก",
+          "id": "minyak zaitun",
+          "ms": "minyak zaitun",
+          "ko": "올리브 오일"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%82%AA%E3%83%AA%E3%83%BC%E3%83%96%E3%82%AA%E3%82%A4%E3%83%AB&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%82%AA%E3%83%AA%E3%83%BC%E3%83%96%E3%82%AA%E3%82%A4%E3%83%AB/?tag="
+      },
+      {
+        "name_ja": "１",
+        "amount": "小松菜は４ｃｍ長さに切る。",
+        "name_translated": {
+          "en": "1",
+          "zh_tw": "1",
+          "zh_cn": "1",
+          "vi": "1",
+          "hi": "1",
+          "ru": "1",
+          "th": "1",
+          "id": "1",
+          "ms": "1",
+          "ko": "1"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%91&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%91/?tag="
+      },
+      {
+        "name_ja": "２",
+        "amount": "フライパンにオリーブオイル、にんにく、赤とうがらしを入れ炒める。香りが出たらしらす干し、小松菜の茎の部分を入れて炒め、火が通ったら葉の部分、「追いがつおつゆ２倍」を加え、炒めからめる。",
+        "name_translated": {
+          "en": "2",
+          "zh_tw": "2",
+          "zh_cn": "2",
+          "vi": "2",
+          "hi": "2",
+          "ru": "2",
+          "th": "2",
+          "id": "2",
+          "ms": "2",
+          "ko": "2"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%92&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%92/?tag="
+      }
+    ],
+    "steps_ja": [
+      "小松菜は４ｃｍ長さに切る。",
+      "フライパンにオリーブオイル、にんにく、赤とうがらしを入れ炒める。香りが出たらしらす干し、小松菜の茎の部分を入れて炒め、火が通ったら葉の部分、「追いがつおつゆ２倍」を加え、炒めからめる。"
+    ],
+    "image_url": "",
+    "title": {
+      "en": "Japanese-style peperoncino stir-fry with komatsuna and whitebait",
+      "zh_tw": "日式peperoncino炒小松魚和銀魚",
+      "zh_cn": "日式peperoncino炒小松鱼和银鱼",
+      "vi": "Cá peperoncino xào komatsuna và cá trắng kiểu Nhật",
+      "hi": "कोमात्सुना और व्हाइटबैट के साथ जापानी शैली के पेपरोनसिनो हलचल-तलना",
+      "ru": "Жареное пеперончино по-японски с комацуной и мальком",
+      "th": "เปเปอรองซิโนผัดสไตล์ญี่ปุ่นกับโคมัตสึน่าและไวท์เบท",
+      "id": "Tumis peperoncino ala Jepang dengan komatsuna dan ikan teri",
+      "ms": "Tumis peperoncino ala Jepun dengan komatsuna dan umpan putih",
+      "ko": "고마쓰나와 시라스의 일본식 페페론치노볶음"
+    },
+    "description": {
+      "en": "",
+      "zh_tw": "",
+      "zh_cn": "",
+      "vi": "",
+      "hi": "",
+      "ru": "",
+      "th": "",
+      "id": "",
+      "ms": "",
+      "ko": ""
+    },
+    "steps": {
+      "en": [
+        "Cut the komatsuna into 4cm lengths.",
+        "Add olive oil, garlic, and red chili pepper to a frying pan. When it smells fragrant, add the dried whitebait and the stems of the komatsuna and stir-fry. Once they are cooked through, add the leaves and ``Oigatsu Otsuyu x 2'' and stir-fry."
+      ],
+      "zh_tw": [
+        "將小松菜切成4公分長。",
+        "將橄欖油、大蒜和紅辣椒放入煎鍋中。聞到香味後，加入乾銀魚和小松菜莖翻炒。煮熟後，加入葉子和“Oigatsu Otsuyu x 2”並炒。"
+      ],
+      "zh_cn": [
+        "将小松菜切成4厘米长。",
+        "将橄榄油、大蒜和红辣椒放入煎锅中。闻到香味后，加入干银鱼和小松菜茎翻炒。煮熟后，加入叶子和“Oigatsu Otsuyu x 2”并炒。"
+      ],
+      "vi": [
+        "Cắt komatsuna thành đoạn dài 4cm.",
+        "Thêm dầu ô liu, tỏi và ớt đỏ vào chảo rán. Khi có mùi thơm thì cho cá trắng khô và thân komatsuna vào xào. Sau khi chín, cho lá và ``Oigatsu Otsuyu x 2'' vào xào."
+      ],
+      "hi": [
+        "कोमात्सुना को 4 सेमी लंबाई में काटें।",
+        "एक फ्राइंग पैन में जैतून का तेल, लहसुन और लाल मिर्च डालें। जब इसकी सुगंध आने लगे तो इसमें सूखा सफेद चारा और कोमात्सुना के डंठल डालें और हिलाते हुए भूनें। एक बार जब वे पूरी तरह से पक जाएं, तो पत्तियां और ``ओइगात्सु ओत्सुयू x 2'' डालें और हिलाएँ।"
+      ],
+      "ru": [
+        "Нарежьте комацуну на кусочки длиной 4 см.",
+        "Добавьте в сковороду оливковое масло, чеснок и красный перец чили. Когда появится ароматный запах, добавьте сушеную мальку, стебли комацуны и обжарьте. Когда они будут готовы, добавьте листья и «Ойгацу Оцую x 2» и обжарьте, помешивая."
+      ],
+      "th": [
+        "ตัดโคมัตสึน่าให้ยาว 4 ซม.",
+        "ใส่น้ำมันมะกอก กระเทียม และพริกแดงลงในกระทะ เมื่อมีกลิ่นหอม ให้ใส่ปลาไวท์เบทแห้งและก้านโคมัตสึน่าลงไปผัด เมื่อสุกแล้ว ให้ใส่ใบและ ``Oigatsu Otsuyu x 2'' แล้วผัด"
+      ],
+      "id": [
+        "Potong komatsuna sepanjang 4cm.",
+        "Tambahkan minyak zaitun, bawang putih, dan cabai merah ke dalam penggorengan. Jika sudah tercium harum, masukkan ikan teri kering dan batang komatsuna, lalu tumis. Setelah matang, tambahkan daun dan ``Oigatsu Otsuyu x 2'', lalu tumis."
+      ],
+      "ms": [
+        "Potong komatsuna menjadi 4cm panjang.",
+        "Masukkan minyak zaitun, bawang putih, dan cili merah ke dalam kuali. Bila dah naik bau, masukkan ikan putih kering dan batang komatsuna dan tumis. Setelah masak, masukkan daun dan ``Oigatsu Otsuyu x 2'' dan tumis."
+      ],
+      "ko": [
+        "고마츠나는 4cm 길이로 자른다.",
+        "프라이팬에 올리브 오일, 마늘, 붉은 가루를 넣어 볶는다. 향기가 나오면 말리는 건어, 고마츠나의 줄기 부분을 넣어 볶고, 불이 지나면 잎 부분, '쫓는 가다랭이 2배'를 더해 볶아 낸다."
+      ]
+    }
   }
 ]

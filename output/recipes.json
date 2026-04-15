@@ -147979,5 +147979,327 @@
         "프라이팬에 올리브 오일, 마늘, 붉은 가루를 넣어 볶는다. 향기가 나오면 말리는 건어, 고마츠나의 줄기 부분을 넣어 볶고, 불이 지나면 잎 부분, '쫓는 가다랭이 2배'를 더해 볶아 낸다."
       ]
     }
+  },
+  {
+    "id": "99a5e7aa",
+    "source_url": "https://www.mizkan.co.jp/ouchirecipe/recipe/?menu_id=21431",
+    "source_site": "Mizkan",
+    "title_ja": "レンジで！春キャベツとベーコンの無限ペッパーサラダ",
+    "description_ja": "",
+    "ingredients": [
+      {
+        "name_ja": "春キャベツ",
+        "amount": "正味１７０ｇ",
+        "name_translated": {
+          "en": "spring cabbage",
+          "zh_tw": "春白菜",
+          "zh_cn": "春白菜",
+          "vi": "bắp cải xuân",
+          "hi": "वसंत गोभी",
+          "ru": "весенняя капуста",
+          "th": "กะหล่ำปลีฤดูใบไม้ผลิ",
+          "id": "kubis musim semi",
+          "ms": "kubis musim bunga",
+          "ko": "봄 양배추"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E6%98%A5%E3%82%AD%E3%83%A3%E3%83%99%E3%83%84&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E6%98%A5%E3%82%AD%E3%83%A3%E3%83%99%E3%83%84/?tag="
+      },
+      {
+        "name_ja": "ベーコン",
+        "amount": "２枚",
+        "name_translated": {
+          "en": "bacon",
+          "zh_tw": "培根",
+          "zh_cn": "熏肉",
+          "vi": "thịt xông khói",
+          "hi": "बेकन",
+          "ru": "бекон",
+          "th": "เบคอน",
+          "id": "daging babi asap",
+          "ms": "bacon",
+          "ko": "베이컨"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%99%E3%83%BC%E3%82%B3%E3%83%B3&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%99%E3%83%BC%E3%82%B3%E3%83%B3/?tag="
+      },
+      {
+        "name_ja": "ミツカン　カンタン酢",
+        "amount": "大さじ２",
+        "name_translated": {
+          "en": "Mizkan Kantan Vinegar",
+          "zh_tw": "味滋康甘丹醋",
+          "zh_cn": "味滋康甘丹醋",
+          "vi": "Giấm Mizkan Kantan",
+          "hi": "मिज़कान कंटन सिरका",
+          "ru": "Мизкан Кантанский уксус",
+          "th": "น้ำส้มสายชูมิซกัน กันตัน",
+          "id": "Cuka Mizkan Kantan",
+          "ms": "Cuka Mizkan Kantan",
+          "ko": "미츠칸 칸탄초"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E3%82%AB%E3%83%B3%E3%82%BF%E3%83%B3%E9%85%A2&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E3%82%AB%E3%83%B3%E3%82%BF%E3%83%B3%E9%85%A2/?tag="
+      },
+      {
+        "name_ja": "粉チーズ",
+        "amount": "大さじ１",
+        "name_translated": {
+          "en": "powdered cheese",
+          "zh_tw": "乾酪粉",
+          "zh_cn": "干酪粉",
+          "vi": "phô mai bột",
+          "hi": "पीसा हुआ पनीर",
+          "ru": "тертый сыр",
+          "th": "ผงชีส",
+          "id": "keju bubuk",
+          "ms": "keju tepung",
+          "ko": "분말 치즈"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E7%B2%89%E3%83%81%E3%83%BC%E3%82%BA&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E7%B2%89%E3%83%81%E3%83%BC%E3%82%BA/?tag="
+      },
+      {
+        "name_ja": "粗挽き黒こしょう",
+        "amount": "適量",
+        "name_translated": {
+          "en": "coarsely ground black pepper",
+          "zh_tw": "粗磨黑胡椒",
+          "zh_cn": "粗磨黑胡椒",
+          "vi": "hạt tiêu đen xay thô",
+          "hi": "दरदरी पिसी हुई काली मिर्च",
+          "ru": "черный перец грубого помола",
+          "th": "พริกไทยดำป่นหยาบ",
+          "id": "lada hitam yang digiling kasar",
+          "ms": "lada hitam yang dikisar kasar",
+          "ko": "거친 까만 후추"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E7%B2%97%E6%8C%BD%E3%81%8D%E9%BB%92%E3%81%93%E3%81%97%E3%82%87%E3%81%86&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E7%B2%97%E6%8C%BD%E3%81%8D%E9%BB%92%E3%81%93%E3%81%97%E3%82%87%E3%81%86/?tag="
+      },
+      {
+        "name_ja": "１",
+        "amount": "にする。ベーコンは１ｃｍ幅に切る。",
+        "name_translated": {
+          "en": "1",
+          "zh_tw": "1",
+          "zh_cn": "1",
+          "vi": "1",
+          "hi": "1",
+          "ru": "1",
+          "th": "1",
+          "id": "1",
+          "ms": "1",
+          "ko": "1"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%91&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%91/?tag="
+      },
+      {
+        "name_ja": "２",
+        "amount": "を入れてふんわりとラップをかけて電子レンジ（６００Ｗ）で２分３０秒加熱する。",
+        "name_translated": {
+          "en": "2",
+          "zh_tw": "2",
+          "zh_cn": "2",
+          "vi": "2",
+          "hi": "2",
+          "ru": "2",
+          "th": "2",
+          "id": "2",
+          "ms": "2",
+          "ko": "2"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%92&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%92/?tag="
+      },
+      {
+        "name_ja": "３",
+        "amount": "水けが出たら軽く切り、＜Ａ＞を加えてあえる。",
+        "name_translated": {
+          "en": "3",
+          "zh_tw": "3",
+          "zh_cn": "3",
+          "vi": "3",
+          "hi": "3",
+          "ru": "3",
+          "th": "3",
+          "id": "3",
+          "ms": "3",
+          "ko": "3"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%93&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%93/?tag="
+      },
+      {
+        "name_ja": "春キャベツの豚肉ロール",
+        "amount": "適量",
+        "name_translated": {
+          "en": "Spring cabbage pork roll",
+          "zh_tw": "春白菜豬肉捲",
+          "zh_cn": "春白菜猪肉卷",
+          "vi": "Chả giò bắp cải",
+          "hi": "स्प्रिंग गोभी पोर्क रोल",
+          "ru": "Весенний капустный свиной рулет",
+          "th": "ม้วนหมูกะหล่ำปลี",
+          "id": "Gulungan daging babi kubis musim semi",
+          "ms": "Gulung daging babi kubis musim bunga",
+          "ko": "봄 양배추 돼지고기 롤"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E6%98%A5%E3%82%AD%E3%83%A3%E3%83%99%E3%83%84%E3%81%AE%E8%B1%9A%E8%82%89%E3%83%AD%E3%83%BC%E3%83%AB&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E6%98%A5%E3%82%AD%E3%83%A3%E3%83%99%E3%83%84%E3%81%AE%E8%B1%9A%E8%82%89%E3%83%AD%E3%83%BC%E3%83%AB/?tag="
+      },
+      {
+        "name_ja": "春キャベツとベーコンのぽんパスタ",
+        "amount": "適量",
+        "name_translated": {
+          "en": "Spring cabbage and bacon pasta",
+          "zh_tw": "春捲心菜培根義大利麵",
+          "zh_cn": "春卷心菜培根意大利面",
+          "vi": "Mỳ ống bắp cải và thịt xông khói",
+          "hi": "वसंत गोभी और बेकन पास्ता",
+          "ru": "Весенняя капуста и макароны с беконом",
+          "th": "กะหล่ำปลีฤดูใบไม้ผลิและพาสต้าเบคอน",
+          "id": "Pegas kubis dan pasta bacon",
+          "ms": "Kubis musim bunga dan pasta bacon",
+          "ko": "봄 양배추와 베이컨 폰 파스타"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E6%98%A5%E3%82%AD%E3%83%A3%E3%83%99%E3%83%84%E3%81%A8%E3%83%99%E3%83%BC%E3%82%B3%E3%83%B3%E3%81%AE%E3%81%BD%E3%82%93%E3%83%91%E3%82%B9%E3%82%BF&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E6%98%A5%E3%82%AD%E3%83%A3%E3%83%99%E3%83%84%E3%81%A8%E3%83%99%E3%83%BC%E3%82%B3%E3%83%B3%E3%81%AE%E3%81%BD%E3%82%93%E3%83%91%E3%82%B9%E3%82%BF/?tag="
+      },
+      {
+        "name_ja": "春キャベツと豚肉のらくらくレンジ蒸し",
+        "amount": "適量",
+        "name_translated": {
+          "en": "Easy microwave steaming of spring cabbage and pork",
+          "zh_tw": "微波爐輕鬆蒸春高麗菜和豬肉",
+          "zh_cn": "微波炉轻松蒸春白菜和猪肉",
+          "vi": "Hấp bắp cải và thịt lợn bằng lò vi sóng dễ dàng",
+          "hi": "स्प्रिंग पत्तागोभी और पोर्क की आसान माइक्रोवेव स्टीमिंग",
+          "ru": "Легкое приготовление на пару весенней капусты и свинины в микроволновой печи",
+          "th": "นึ่งกะหล่ำปลีและหมูด้วยไมโครเวฟอย่างง่าย",
+          "id": "Mengukus kubis dan daging babi dengan microwave dengan mudah",
+          "ms": "Mudah mengukus kubis musim bunga dan daging babi dalam gelombang mikro",
+          "ko": "봄 양배추와 돼지고기의 편한 레인지 찜"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E6%98%A5%E3%82%AD%E3%83%A3%E3%83%99%E3%83%84%E3%81%A8%E8%B1%9A%E8%82%89%E3%81%AE%E3%82%89%E3%81%8F%E3%82%89%E3%81%8F%E3%83%AC%E3%83%B3%E3%82%B8%E8%92%B8%E3%81%97&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E6%98%A5%E3%82%AD%E3%83%A3%E3%83%99%E3%83%84%E3%81%A8%E8%B1%9A%E8%82%89%E3%81%AE%E3%82%89%E3%81%8F%E3%82%89%E3%81%8F%E3%83%AC%E3%83%B3%E3%82%B8%E8%92%B8%E3%81%97/?tag="
+      }
+    ],
+    "steps_ja": [
+      "春キャベツは小さ目のザク切りにする。ベーコンは１ｃｍ幅に切る。",
+      "耐熱ボウルに１を入れてふんわりとラップをかけて電子レンジ（６００Ｗ）で２分３０秒加熱する。",
+      "水けが出たら軽く切り、＜Ａ＞を加えてあえる。",
+      "春キャベツの豚肉ロール",
+      "春キャベツとベーコンのぽんパスタ",
+      "春キャベツと豚肉のらくらくレンジ蒸し"
+    ],
+    "image_url": "",
+    "title": {
+      "en": "In the microwave! Infinite pepper salad with spring cabbage and bacon",
+      "zh_tw": "在微波爐裡！無限量辣椒沙拉佐春高麗菜和培根",
+      "zh_cn": "在微波炉里！无限量辣椒沙拉配春卷心菜和培根",
+      "vi": "Trong lò vi sóng! Salad tiêu vô hạn với bắp cải và thịt xông khói",
+      "hi": "माइक्रोवेव में! वसंत पत्तागोभी और बेकन के साथ अनंत काली मिर्च का सलाद",
+      "ru": "В микроволновке! Бесконечный салат из перца с капустой и беконом",
+      "th": "ในไมโครเวฟ! สลัดพริกไทยไม่มีที่สิ้นสุดกับกะหล่ำปลีฤดูใบไม้ผลิและเบคอน",
+      "id": "Di dalam microwave! Salad lada tanpa batas dengan kubis musim semi dan bacon",
+      "ms": "Dalam ketuhar gelombang mikro! Salad lada tak terhingga dengan kubis musim bunga dan daging",
+      "ko": "범위에서! 봄 양배추와 베이컨 무한 후추 샐러드"
+    },
+    "description": {
+      "en": "",
+      "zh_tw": "",
+      "zh_cn": "",
+      "vi": "",
+      "hi": "",
+      "ru": "",
+      "th": "",
+      "id": "",
+      "ms": "",
+      "ko": ""
+    },
+    "steps": {
+      "en": [
+        "Cut the spring cabbage into small pieces. Cut the bacon into 1cm wide pieces.",
+        "Place 1 in a heat-resistant bowl, loosely cover with plastic wrap, and heat in the microwave (600W) for 2 minutes and 30 seconds.",
+        "Once the water has drained, lightly cut it and add <A>.",
+        "Spring cabbage pork roll",
+        "Spring cabbage and bacon pasta",
+        "Easy microwave steaming of spring cabbage and pork"
+      ],
+      "zh_tw": [
+        "將春白菜切成小塊。將培根切成1公分寬的塊狀。",
+        "將 1 放入耐熱碗中，鬆鬆地蓋上保鮮膜，然後在微波爐 (600W) 中加熱 2 分 30 秒。",
+        "水瀝乾後，輕輕切開並加入<A>。",
+        "春白菜豬肉捲",
+        "春捲心菜培根義大利麵",
+        "微波爐輕鬆蒸春高麗菜和豬肉"
+      ],
+      "zh_cn": [
+        "将春白菜切成小块。将培根切成1厘米宽的块。",
+        "将 1 放入耐热碗中，松松地盖上保鲜膜，然后在微波炉 (600W) 中加热 2 分 30 秒。",
+        "水沥干后，轻轻切开并添加<A>。",
+        "春白菜猪肉卷",
+        "春卷心菜培根意大利面",
+        "微波炉轻松蒸春白菜和猪肉"
+      ],
+      "vi": [
+        "Cắt bắp cải thành từng miếng nhỏ. Cắt thịt xông khói thành miếng rộng 1cm.",
+        "Đặt 1 cái vào tô chịu nhiệt, đậy nhẹ bằng màng bọc thực phẩm và đun nóng trong lò vi sóng (600W) trong 2 phút 30 giây.",
+        "Khi nước đã rút hết, cắt nhẹ và thêm <A>.",
+        "Chả giò bắp cải",
+        "Mỳ ống bắp cải và thịt xông khói",
+        "Hấp bắp cải và thịt lợn bằng lò vi sóng dễ dàng"
+      ],
+      "hi": [
+        "स्प्रिंग पत्तागोभी को छोटे टुकड़ों में काट लें. बेकन को 1 सेमी चौड़े टुकड़ों में काट लें।",
+        "1 को गर्मी प्रतिरोधी कटोरे में रखें, प्लास्टिक रैप से ढकें और माइक्रोवेव (600W) में 2 मिनट और 30 सेकंड के लिए गर्म करें।",
+        "एक बार जब पानी निकल जाए तो इसे हल्का सा काट लें और <A> डालें।",
+        "स्प्रिंग गोभी पोर्क रोल",
+        "वसंत गोभी और बेकन पास्ता",
+        "स्प्रिंग पत्तागोभी और पोर्क की आसान माइक्रोवेव स्टीमिंग"
+      ],
+      "ru": [
+        "Весеннюю капусту нарезаем небольшими кусочками. Бекон нарезаем кусочками шириной 1 см.",
+        "Поместите 1 штуку в термостойкую миску, неплотно накройте полиэтиленовой пленкой и нагрейте в микроволновой печи (600 Вт) в течение 2 минут 30 секунд.",
+        "Как только вода стечет, слегка разрежьте ее и добавьте <A>.",
+        "Весенний капустный свиной рулет",
+        "Весенняя капуста и макароны с беконом",
+        "Легкое приготовление на пару весенней капусты и свинины в микроволновой печи"
+      ],
+      "th": [
+        "หั่นกะหล่ำปลีฤดูใบไม้ผลิเป็นชิ้นเล็กๆ ตัดเบคอนเป็นชิ้นกว้าง 1 ซม.",
+        "วาง 1 ลงในชามทนความร้อน ปิดด้วยพลาสติกแรป แล้วให้ความร้อนในไมโครเวฟ (600W) เป็นเวลา 2 นาที 30 วินาที",
+        "เมื่อน้ำระบายออกแล้ว ให้ตัดออกเล็กน้อยแล้วเติม <A>",
+        "ม้วนหมูกะหล่ำปลี",
+        "กะหล่ำปลีฤดูใบไม้ผลิและพาสต้าเบคอน",
+        "นึ่งกะหล่ำปลีและหมูด้วยไมโครเวฟอย่างง่าย"
+      ],
+      "id": [
+        "Potong kubis musim semi menjadi potongan-potongan kecil. Potong bacon menjadi potongan selebar 1 cm.",
+        "Tempatkan 1 dalam mangkuk tahan panas, tutup longgar dengan bungkus plastik, dan panaskan dalam microwave (600W) selama 2 menit 30 detik.",
+        "Setelah airnya habis, potong kecil-kecil dan tambahkan <A>.",
+        "Gulungan daging babi kubis musim semi",
+        "Pegas kubis dan pasta bacon",
+        "Mengukus kubis dan daging babi dengan microwave dengan mudah"
+      ],
+      "ms": [
+        "Potong kubis musim bunga menjadi kepingan kecil. Potong bacon menjadi kepingan selebar 1cm.",
+        "Letakkan 1 dalam mangkuk tahan panas, tutup longgar dengan bungkus plastik, dan panaskan dalam ketuhar gelombang mikro (600W) selama 2 minit dan 30 saat.",
+        "Setelah air habis, potong sedikit dan masukkan <A>.",
+        "Gulung daging babi kubis musim bunga",
+        "Kubis musim bunga dan pasta bacon",
+        "Mudah mengukus kubis musim bunga dan daging babi dalam gelombang mikro"
+      ],
+      "ko": [
+        "봄 양배추는 작은 눈의 자쿠 자른다. 베이컨은 1cm 폭으로 자른다.",
+        "내열 그릇에 1을 넣고 부드럽게 랩을 걸고 전자레인지(600W)로 2분 30초 가열한다.",
+        "물기가 나오면 가볍게 잘라, <A>를 더해 굳어진다.",
+        "봄 양배추 돼지고기 롤",
+        "봄 양배추와 베이컨 폰 파스타",
+        "봄 양배추와 돼지고기의 편한 레인지 찜"
+      ]
+    }
   }
 ]

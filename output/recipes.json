@@ -159544,5 +159544,240 @@
         "죽순 일본식 스테이크"
       ]
     }
+  },
+  {
+    "id": "ea5e8ce7",
+    "source_url": "https://www.mizkan.co.jp/ouchirecipe/recipe/?menu_id=21704",
+    "source_site": "Mizkan",
+    "title_ja": "クラフトいちごのシロップ",
+    "description_ja": "",
+    "ingredients": [
+      {
+        "name_ja": "いちご",
+        "amount": "１００ｇ",
+        "name_translated": {
+          "en": "strawberry",
+          "zh_tw": "草莓",
+          "zh_cn": "草莓",
+          "vi": "quả dâu",
+          "hi": "स्ट्रॉबेरी",
+          "ru": "клубника",
+          "th": "สตรอเบอร์รี่",
+          "id": "stroberi",
+          "ms": "strawberi",
+          "ko": "딸기"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%84%E3%81%A1%E3%81%94&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%84%E3%81%A1%E3%81%94/?tag="
+      },
+      {
+        "name_ja": "砂糖",
+        "amount": "１００ｇ",
+        "name_translated": {
+          "en": "sugar",
+          "zh_tw": "糖",
+          "zh_cn": "糖",
+          "vi": "đường",
+          "hi": "चीनी",
+          "ru": "сахар",
+          "th": "น้ำตาล",
+          "id": "gula",
+          "ms": "gula",
+          "ko": "설탕"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E7%A0%82%E7%B3%96&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E7%A0%82%E7%B3%96/?tag="
+      },
+      {
+        "name_ja": "ミツカン  穀物酢",
+        "amount": "４０ｍｌ",
+        "name_translated": {
+          "en": "Mizkan grain vinegar",
+          "zh_tw": "口味滋康穀物醋",
+          "zh_cn": "味滋康谷物醋",
+          "vi": "Giấm ngũ cốc Mizkan",
+          "hi": "मिज़कान अनाज सिरका",
+          "ru": "Мизкан зерновой уксус",
+          "th": "น้ำส้มสายชูหมักจากเมล็ดมิซคาน",
+          "id": "Cuka biji-bijian Mizkan",
+          "ms": "Cuka bijirin mizkan",
+          "ko": "미츠칸 곡물 식초"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%20%20%E7%A9%80%E7%89%A9%E9%85%A2&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%20%20%E7%A9%80%E7%89%A9%E9%85%A2/?tag="
+      },
+      {
+        "name_ja": "または",
+        "amount": "適量",
+        "name_translated": {
+          "en": "or",
+          "zh_tw": "或者",
+          "zh_cn": "或者",
+          "vi": "hoặc",
+          "hi": "या",
+          "ru": "или",
+          "th": "หรือ",
+          "id": "atau",
+          "ms": "atau",
+          "ko": "또는"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%BE%E3%81%9F%E3%81%AF&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%BE%E3%81%9F%E3%81%AF/?tag="
+      },
+      {
+        "name_ja": "ミツカン　リンゴ酢",
+        "amount": "４０ｍｌ",
+        "name_translated": {
+          "en": "Mizkan apple cider vinegar",
+          "zh_tw": "口味滋康蘋果醋",
+          "zh_cn": "味滋康苹果醋",
+          "vi": "Giấm táo Mizkan",
+          "hi": "मिज़कान सेब साइडर सिरका",
+          "ru": "Мизкан яблочный уксус",
+          "th": "น้ำส้มสายชูหมักจากแอปเปิ้ล Mizkan",
+          "id": "Mizkan cuka sari apel",
+          "ms": "Mizkan cuka epal",
+          "ko": "미츠칸 사과 식초"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E3%83%AA%E3%83%B3%E3%82%B4%E9%85%A2&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E3%83%AA%E3%83%B3%E3%82%B4%E9%85%A2/?tag="
+      },
+      {
+        "name_ja": "１",
+        "amount": "いちごはよく洗って、ペーパータオルで十分に水けをふいた後、ヘタを取り半分に切る。",
+        "name_translated": {
+          "en": "1",
+          "zh_tw": "1",
+          "zh_cn": "1",
+          "vi": "1",
+          "hi": "1",
+          "ru": "1",
+          "th": "1",
+          "id": "1",
+          "ms": "1",
+          "ko": "1"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%91&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%91/?tag="
+      },
+      {
+        "name_ja": "２",
+        "amount": "、砂糖、「穀物酢」または「リンゴ酢」の順に入れ、ふたをして冷蔵庫で１週間漬ける。",
+        "name_translated": {
+          "en": "2",
+          "zh_tw": "2",
+          "zh_cn": "2",
+          "vi": "2",
+          "hi": "2",
+          "ru": "2",
+          "th": "2",
+          "id": "2",
+          "ms": "2",
+          "ko": "2"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%92&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%92/?tag="
+      },
+      {
+        "name_ja": "３",
+        "amount": "漬けている間、１日１回、ふたをしたまま軽くふり混ぜる。１週間経ったら果実を取り除く。",
+        "name_translated": {
+          "en": "3",
+          "zh_tw": "3",
+          "zh_cn": "3",
+          "vi": "3",
+          "hi": "3",
+          "ru": "3",
+          "th": "3",
+          "id": "3",
+          "ms": "3",
+          "ko": "3"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%93&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%93/?tag="
+      }
+    ],
+    "steps_ja": [
+      "いちごはよく洗って、ペーパータオルで十分に水けをふいた後、ヘタを取り半分に切る。",
+      "密封できる広口ビンに１、砂糖、「穀物酢」または「リンゴ酢」の順に入れ、ふたをして冷蔵庫で１週間漬ける。",
+      "漬けている間、１日１回、ふたをしたまま軽くふり混ぜる。１週間経ったら果実を取り除く。"
+    ],
+    "image_url": "",
+    "title": {
+      "en": "craft strawberry syrup",
+      "zh_tw": "工藝草莓糖漿",
+      "zh_cn": "工艺草莓糖浆",
+      "vi": "xi-rô dâu thủ công",
+      "hi": "शिल्प स्ट्रॉबेरी सिरप",
+      "ru": "крафтовый клубничный сироп",
+      "th": "น้ำเชื่อมสตรอเบอร์รี่ฝีมือ",
+      "id": "kerajinan sirup stroberi",
+      "ms": "sirap strawberi kraf",
+      "ko": "크래프트 딸기 시럽"
+    },
+    "description": {
+      "en": "",
+      "zh_tw": "",
+      "zh_cn": "",
+      "vi": "",
+      "hi": "",
+      "ru": "",
+      "th": "",
+      "id": "",
+      "ms": "",
+      "ko": ""
+    },
+    "steps": {
+      "en": [
+        "Wash the strawberries thoroughly, dry them thoroughly with paper towels, then remove the stems and cut them in half.",
+        "1. Pour sugar, then ``cereal vinegar'' or ``apple cider vinegar'' into a wide-mouthed jar that can be sealed, cover with a lid, and leave in the refrigerator for one week.",
+        "While soaking, shake gently once a day with the lid on. Remove the fruit after a week."
+      ],
+      "zh_tw": [
+        "徹底清洗草莓，用紙巾徹底擦乾，然後去掉莖，切成兩半。",
+        "1. 將糖倒入可密封的廣口瓶中，然後倒入“穀物醋”或“蘋果醋”，蓋上蓋子，然後在冰箱中放置一周。",
+        "浸泡時，蓋上蓋子，每天輕輕搖晃一次。一周後取出水果。"
+      ],
+      "zh_cn": [
+        "彻底清洗草莓，用纸巾彻底擦干，然后去掉茎，切成两半。",
+        "1. 将糖倒入可密封的广口瓶中，然后倒入“谷物醋”或“苹果醋”，盖上盖子，然后在冰箱中放置一周。",
+        "浸泡时，盖上盖子，每天轻轻摇晃一次。一周后取出水果。"
+      ],
+      "vi": [
+        "Dâu tây rửa thật sạch, lau thật khô bằng khăn giấy, sau đó loại bỏ cuống và cắt làm đôi.",
+        "1. Đổ đường, sau đó đổ ``giấm ngũ cốc'' hoặc ``giấm táo'' vào lọ miệng rộng có thể đậy kín, đậy nắp lại và để trong tủ lạnh trong một tuần.",
+        "Trong khi ngâm, lắc nhẹ mỗi ngày một lần và đậy nắp lại. Loại bỏ trái cây sau một tuần."
+      ],
+      "hi": [
+        "स्ट्रॉबेरी को अच्छी तरह धो लें, कागज़ के तौलिये से अच्छी तरह सुखा लें, फिर डंठल हटाकर आधा काट लें।",
+        "1. एक चौड़े मुंह वाले जार में चीनी, फिर ``अनाज सिरका'' या ``सेब साइडर सिरका'' डालें, जिसे सील किया जा सके, ढक्कन से ढकें और एक सप्ताह के लिए रेफ्रिजरेटर में छोड़ दें।",
+        "भिगोते समय दिन में एक बार ढक्कन लगाकर धीरे से हिलाएं। एक सप्ताह बाद फल हटा दें."
+      ],
+      "ru": [
+        "Клубнику тщательно вымойте, тщательно обсушите бумажными полотенцами, затем удалите плодоножки и разрежьте пополам.",
+        "1. Насыпьте сахар, затем «зерновой уксус» или «яблочный уксус» в банку с широким горлышком, которую можно герметично закрыть, закрыть крышкой и оставить в холодильнике на одну неделю.",
+        "Во время замачивания осторожно встряхивайте один раз в день под закрытой крышкой. Удалите плоды через неделю."
+      ],
+      "th": [
+        "ล้างสตรอเบอร์รี่ให้สะอาด เช็ดให้แห้งด้วยกระดาษชำระ จากนั้นเอาก้านออกแล้วผ่าครึ่ง",
+        "1. เทน้ำตาล จากนั้น ``น้ำส้มสายชูซีเรียล'' หรือ ``น้ำส้มสายชูแอปเปิ้ลไซเดอร์'' ลงในขวดปากกว้างที่สามารถปิดผนึกได้ ปิดฝา แล้วพักไว้ในตู้เย็นเป็นเวลาหนึ่งสัปดาห์",
+        "ขณะแช่น้ำ ให้เขย่าเบาๆ วันละครั้งโดยปิดฝาไว้ นำผลไม้ออกหลังจากผ่านไปหนึ่งสัปดาห์"
+      ],
+      "id": [
+        "Cuci stroberi hingga bersih, keringkan hingga bersih dengan tisu, lalu buang batangnya dan potong menjadi dua.",
+        "1. Tuang gula pasir, lalu ``cuka sereal'' atau ``cuka sari apel'' ke dalam stoples bermulut lebar yang bisa ditutup rapat, tutup dengan penutup, dan biarkan di lemari es selama satu minggu.",
+        "Saat berendam, kocok perlahan sekali sehari dengan penutup terpasang. Buang buahnya setelah seminggu."
+      ],
+      "ms": [
+        "Basuh strawberi dengan teliti, keringkan dengan tuala kertas, kemudian keluarkan batang dan potong separuh.",
+        "1. Tuangkan gula, kemudian ``cuka bijirin'' atau ``cuka sari apel'' ke dalam balang bermulut lebar yang boleh ditutup, tutup dengan penutup, dan biarkan di dalam peti sejuk selama seminggu.",
+        "Semasa merendam, goncang perlahan-lahan sekali sehari dengan penutupnya. Keluarkan buah selepas seminggu."
+      ],
+      "ko": [
+        "딸기는 잘 씻고, 종이 타월로 충분히 물을 닦은 후, 헤타를 빼고 반으로 자른다.",
+        "밀봉할 수 있는 넓은 입병에 1, 설탕, 「곡물 식초」 또는 「사과 식초」의 순서에 넣고, 뚜껑을 하고 냉장고에서 1주일간 절인다.",
+        "담그고 있는 동안, 1일 1회, 뚜껑을 한 채 가볍게 섞는다. 일주일이 지나면 과일을 제거한다."
+      ]
+    }
   }
 ]

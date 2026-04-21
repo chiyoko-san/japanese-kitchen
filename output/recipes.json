@@ -164971,5 +164971,262 @@
         "그릇에 A, (1) 토마토, 오이, 파를 넣고 섞는다."
       ]
     }
+  },
+  {
+    "id": "de17a609",
+    "source_url": "https://www.mizkan.co.jp/ouchirecipe/recipe/?menu_id=22157",
+    "source_site": "Mizkan",
+    "title_ja": "新じゃがいものてりうま肉巻き",
+    "description_ja": "",
+    "ingredients": [
+      {
+        "name_ja": "豚バラ肉　薄切り",
+        "amount": "２００ｇ",
+        "name_translated": {
+          "en": "Thinly sliced ​​pork belly",
+          "zh_tw": "五花肉切成薄片",
+          "zh_cn": "五花肉切成薄片",
+          "vi": "Thịt ba chỉ thái mỏng",
+          "hi": "पतले कटा हुआ सूअर का मांस पेट",
+          "ru": "Тонко нарезанная свиная грудинка",
+          "th": "หมูสามชั้นหั่นบางๆ",
+          "id": "Perut babi diiris tipis",
+          "ms": "Perut babi yang dihiris nipis",
+          "ko": "돼지 장미 고기 얇게 썬다."
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E8%B1%9A%E3%83%90%E3%83%A9%E8%82%89%E3%80%80%E8%96%84%E5%88%87%E3%82%8A&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E8%B1%9A%E3%83%90%E3%83%A9%E8%82%89%E3%80%80%E8%96%84%E5%88%87%E3%82%8A/?tag="
+      },
+      {
+        "name_ja": "新じゃがいも",
+        "amount": "２個（１００ｇ）",
+        "name_translated": {
+          "en": "new potatoes",
+          "zh_tw": "新馬鈴薯",
+          "zh_cn": "新土豆",
+          "vi": "khoai tây mới",
+          "hi": "नया आलू",
+          "ru": "молодой картофель",
+          "th": "มันฝรั่งใหม่",
+          "id": "kentang baru",
+          "ms": "kentang baru",
+          "ko": "새 감자"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E6%96%B0%E3%81%98%E3%82%83%E3%81%8C%E3%81%84%E3%82%82&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E6%96%B0%E3%81%98%E3%82%83%E3%81%8C%E3%81%84%E3%82%82/?tag="
+      },
+      {
+        "name_ja": "ミツカン　カンタン酢",
+        "amount": "適量（１００ｍｌ程度）",
+        "name_translated": {
+          "en": "Mizkan Kantan Vinegar",
+          "zh_tw": "味滋康甘丹醋",
+          "zh_cn": "味滋康甘丹醋",
+          "vi": "Giấm Mizkan Kantan",
+          "hi": "मिज़कान कंटन सिरका",
+          "ru": "Мизкан Кантанский уксус",
+          "th": "น้ำส้มสายชูมิซกัน กันตัน",
+          "id": "Cuka Mizkan Kantan",
+          "ms": "Cuka Mizkan Kantan",
+          "ko": "미츠칸 칸탄초"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E3%82%AB%E3%83%B3%E3%82%BF%E3%83%B3%E9%85%A2&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E3%82%AB%E3%83%B3%E3%82%BF%E3%83%B3%E9%85%A2/?tag="
+      },
+      {
+        "name_ja": "１",
+        "amount": "じゃがいもは半分に切る（大きい場合は一口大に切る）。耐熱容器にじゃがいもと水大さじ１（分量外）を入れ、ふんわりとラップをして電子レンジ６００Wで３分加熱し、粗熱をとる。",
+        "name_translated": {
+          "en": "1",
+          "zh_tw": "1",
+          "zh_cn": "1",
+          "vi": "1",
+          "hi": "1",
+          "ru": "1",
+          "th": "1",
+          "id": "1",
+          "ms": "1",
+          "ko": "1"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%91&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%91/?tag="
+      },
+      {
+        "name_ja": "２",
+        "amount": "まな板を縦に置き、ラップをしいて、パックから出したままの豚肉を縦に置く。端が折られている場合は広げる（重なっている場合は、少しずつずらして置く）。",
+        "name_translated": {
+          "en": "2",
+          "zh_tw": "2",
+          "zh_cn": "2",
+          "vi": "2",
+          "hi": "2",
+          "ru": "2",
+          "th": "2",
+          "id": "2",
+          "ms": "2",
+          "ko": "2"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%92&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%92/?tag="
+      },
+      {
+        "name_ja": "３",
+        "amount": "の巻き終わりを下にして入れ、焼く。途中で向きを変え、全面に焼き色がつくまで焼く。",
+        "name_translated": {
+          "en": "3",
+          "zh_tw": "3",
+          "zh_cn": "3",
+          "vi": "3",
+          "hi": "3",
+          "ru": "3",
+          "th": "3",
+          "id": "3",
+          "ms": "3",
+          "ko": "3"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%93&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%93/?tag="
+      },
+      {
+        "name_ja": "４",
+        "amount": "「カンタン酢」をたっぷり注ぎ入れ、ふたをして７分、時々転がしながら蒸し焼きにする。",
+        "name_translated": {
+          "en": "4",
+          "zh_tw": "4",
+          "zh_cn": "4",
+          "vi": "4",
+          "hi": "4",
+          "ru": "4",
+          "th": "4",
+          "id": "4",
+          "ms": "4",
+          "ko": "4"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%94&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%94/?tag="
+      },
+      {
+        "name_ja": "５",
+        "amount": "ふたを開けて２分ほど、たれにとろみが出てきつね色に変わり、肉に照りが出るまで焼く。",
+        "name_translated": {
+          "en": "5",
+          "zh_tw": "5",
+          "zh_cn": "5",
+          "vi": "5",
+          "hi": "5",
+          "ru": "5",
+          "th": "5",
+          "id": "5",
+          "ms": "5",
+          "ko": "5"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%95&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%95/?tag="
+      }
+    ],
+    "steps_ja": [
+      "じゃがいもは半分に切る（大きい場合は一口大に切る）。耐熱容器にじゃがいもと水大さじ１（分量外）を入れ、ふんわりとラップをして電子レンジ６００Wで３分加熱し、粗熱をとる。",
+      "まな板を縦に置き、ラップをしいて、パックから出したままの豚肉を縦に置く。端が折られている場合は広げる（重なっている場合は、少しずつずらして置く）。",
+      "豚肉の手前側にじゃがいもを置き、手前からしっかりと巻く。フライパンを中火で熱し、２の巻き終わりを下にして入れ、焼く。途中で向きを変え、全面に焼き色がつくまで焼く。",
+      "「カンタン酢」をたっぷり注ぎ入れ、ふたをして７分、時々転がしながら蒸し焼きにする。",
+      "ふたを開けて２分ほど、たれにとろみが出てきつね色に変わり、肉に照りが出るまで焼く。"
+    ],
+    "image_url": "",
+    "title": {
+      "en": "New potato teriyaki meat roll",
+      "zh_tw": "新馬鈴薯照燒肉捲",
+      "zh_cn": "新土豆照烧肉卷",
+      "vi": "Thịt cuộn khoai tây teriyaki mới",
+      "hi": "नया आलू टेरीयाकी मीट रोल",
+      "ru": "Новый картофельный мясной рулет терияки",
+      "th": "นิวโรลเนื้อเทอริยากิมันฝรั่ง",
+      "id": "Gulungan daging teriyaki kentang baru",
+      "ms": "Gulung daging teriyaki kentang baru",
+      "ko": "새 감자 테리 우마 고기 감기"
+    },
+    "description": {
+      "en": "",
+      "zh_tw": "",
+      "zh_cn": "",
+      "vi": "",
+      "hi": "",
+      "ru": "",
+      "th": "",
+      "id": "",
+      "ms": "",
+      "ko": ""
+    },
+    "steps": {
+      "en": [
+        "Cut the potatoes in half (if they are large, cut them into bite-sized pieces). Put the potatoes and 1 tablespoon of water (not listed) in a heat-resistant container, loosely cover with plastic wrap, and heat in the microwave at 600 W for 3 minutes to remove the heat.",
+        "Place a cutting board vertically, cover with plastic wrap, and place the pork straight from the package vertically. If the edges are folded, spread them out (if they overlap, shift them slightly).",
+        "Place the potato on the front side of the pork and wrap tightly from the front. Heat a frying pan over medium heat, put the second roll in with the end facing down, and fry. Turn halfway through and cook until browned on all sides.",
+        "Pour in plenty of ``simple vinegar,'' cover, and simmer for 7 minutes, turning occasionally.",
+        "Open the lid and cook for about 2 minutes, until the sauce thickens and turns golden brown, and the meat is browned."
+      ],
+      "zh_tw": [
+        "将土豆切成两半（如果土豆很大，则切成一口大小的块）。將馬鈴薯和 1 湯匙水（未列出）放入耐熱容器中，鬆鬆地蓋上保鮮膜，然後在微波爐中以 600 W 加熱 3 分鐘以去除熱量。",
+        "垂直放置切菜板，蓋上保鮮膜，然後將直接從包裝中取出的豬肉垂直放置。如果邊緣折疊，請將它們展開（如果重疊，請稍微移動它們）。",
+        "將馬鈴薯放在豬肉的正面，並從正面緊緊包裹起來。以中火加熱煎鍋，將第二個卷放入，一端朝下，煎。中途翻面，煮至各面都變成棕色。",
+        "倒入大量“單醋”，蓋上鍋蓋，小火煮 7 分鐘，偶爾翻動。",
+        "打開蓋子煮約2分鐘，直到醬汁變稠呈金黃色，肉也呈現褐色。"
+      ],
+      "zh_cn": [
+        "将土豆切成两半（如果土豆很大，则切成一口大小的块）。将土豆和 1 汤匙水（未列出）放入耐热容器中，松松地盖上保鲜膜，然后在微波炉中以 600 W 加热 3 分钟以除去热量。",
+        "垂直放置切菜板，盖上保鲜膜，然后将直接从包装中取出的猪肉垂直放置。如果边缘折叠，请将它们展开（如果重叠，请稍微移动它们）。",
+        "将土豆放在猪肉的正面，并从正面紧紧包裹起来。用中火加热煎锅，将第二个卷放入，一端朝下，煎。中途翻面，煮至各面都变成棕色。",
+        "倒入大量“单醋”，盖上锅盖，小火煮 7 分钟，偶尔翻动。",
+        "打开盖子煮约2分钟，直至酱汁变稠呈金黄色，肉也呈褐色。"
+      ],
+      "vi": [
+        "Cắt khoai tây làm đôi (nếu khoai lớn thì cắt thành từng miếng vừa ăn). Cho khoai tây và 1 thìa canh nước (không được liệt kê) vào hộp chịu nhiệt, đậy kín bằng màng bọc thực phẩm và đun nóng trong lò vi sóng ở công suất 600 W trong 3 phút để loại bỏ nhiệt.",
+        "Đặt thớt theo chiều dọc, dùng màng bọc thực phẩm bọc lại và đặt thịt lợn thẳng ra khỏi gói theo chiều dọc. Nếu các cạnh được gấp lại, hãy trải chúng ra (nếu chúng chồng lên nhau, hãy dịch chuyển chúng một chút).",
+        "Đặt khoai tây lên mặt trước của thịt lợn và quấn chặt từ phía trước. Làm nóng chảo rán trên lửa vừa, đặt cuộn thứ hai vào với đầu úp xuống và chiên. Lật nửa chừng và nấu cho đến khi chín vàng các mặt.",
+        "Đổ nhiều giấm đơn giản vào, đậy nắp và đun nhỏ lửa trong 7 phút, thỉnh thoảng quay lại.",
+        "Mở nắp và nấu trong khoảng 2 phút, cho đến khi nước sốt đặc lại và chuyển sang màu vàng nâu, thịt chín vàng."
+      ],
+      "hi": [
+        "आलू को आधा काट लें (यदि वे बड़े हैं, तो उन्हें छोटे टुकड़ों में काट लें)। आलू और 1 बड़ा चम्मच पानी (सूचीबद्ध नहीं) को एक गर्मी प्रतिरोधी कंटेनर में रखें, प्लास्टिक की चादर से ढक दें, और गर्मी को दूर करने के लिए माइक्रोवेव में 600 W पर 3 मिनट के लिए गर्म करें।",
+        "एक कटिंग बोर्ड को लंबवत रखें, प्लास्टिक रैप से ढकें, और पोर्क को पैकेज से सीधे लंबवत रखें। यदि किनारे मुड़े हुए हैं, तो उन्हें फैलाएं (यदि वे ओवरलैप होते हैं, तो उन्हें थोड़ा सा स्थानांतरित करें)।",
+        "आलू को पोर्क के सामने की तरफ रखें और सामने से कसकर लपेट दें। मध्यम आंच पर एक फ्राइंग पैन गरम करें, दूसरा रोल नीचे की ओर करके उसमें दूसरा रोल डालें और भूनें। आधा पलटें और सभी तरफ से भूरा होने तक पकाएं।",
+        "खूब सारा ``साधारण सिरका'' डालें, ढकें और बीच-बीच में पलटते हुए 7 मिनट तक धीमी आंच पर पकाएं।",
+        "ढक्कन खोलें और लगभग 2 मिनट तक पकाएं, जब तक कि सॉस गाढ़ा और सुनहरा भूरा न हो जाए, और मांस भी भूरा न हो जाए।"
+      ],
+      "ru": [
+        "Разрежьте картофель пополам (если он крупный, нарежьте его небольшими кусочками). Поместите картофель и 1 столовую ложку воды (не указана) в термостойкий контейнер, неплотно накройте полиэтиленовой пленкой и нагрейте в микроволновой печи при мощности 600 Вт в течение 3 минут, чтобы снять тепло.",
+        "Поставьте разделочную доску вертикально, накройте полиэтиленовой пленкой и поместите свинину прямо из упаковки вертикально. Если края загнуты, разведите их (если перекрываются, слегка сдвиньте).",
+        "Поместите картофель на лицевую сторону свинины и плотно заверните спереди. Нагрейте сковороду на среднем огне, положите туда второй рулет торцом вниз и обжарьте. В середине приготовления переверните и готовьте, пока не подрумянится со всех сторон.",
+        "Налейте большое количество «простого уксуса», накройте крышкой и варите 7 минут, время от времени переворачивая.",
+        "Откройте крышку и готовьте около 2 минут, пока соус не загустеет и не станет золотисто-коричневым, а мясо не подрумянится."
+      ],
+      "th": [
+        "หั่นมันฝรั่งออกเป็นสองส่วน (หากมีขนาดใหญ่ให้หั่นเป็นชิ้นขนาดพอดีคำ) ใส่มันฝรั่งและน้ำ 1 ช้อนโต๊ะ (ไม่อยู่ในรายการ) ลงในภาชนะทนความร้อน คลุมด้วยพลาสติกแร็ปให้หลวมๆ และนำไปให้ความร้อนในไมโครเวฟที่ 600 วัตต์ เป็นเวลา 3 นาที เพื่อเอาความร้อนออก",
+        "วางเขียงในแนวตั้ง ปิดด้วยพลาสติกแร็ป แล้ววางเนื้อหมูตรงจากบรรจุภัณฑ์ในแนวตั้ง หากพับขอบ ให้กางออก (หากเหลื่อมกัน ให้ขยับเล็กน้อย)",
+        "วางมันฝรั่งไว้ด้านหน้าหมูแล้วห่อให้แน่นจากด้านหน้า ตั้งกระทะบนไฟร้อนปานกลาง ใส่ม้วนที่สองลงไปโดยคว่ำด้านลงแล้วทอด พลิกกลับครึ่งทางแล้วปรุงจนเป็นสีน้ำตาลทุกด้าน",
+        "เท ``น้ำส้มสายชูธรรมดา'' ลงไปจำนวนมาก ปิดฝา และเคี่ยวเป็นเวลา 7 นาที โดยพลิกกลับเป็นครั้งคราว",
+        "เปิดฝาแล้วปรุงประมาณ 2 นาที จนกระทั่งซอสข้นและเป็นสีน้ำตาลทอง และเนื้อก็เป็นสีน้ำตาล"
+      ],
+      "id": [
+        "Potong kentang menjadi dua (jika besar, potong kecil-kecil). Masukkan kentang dan 1 sendok makan air (tidak tercantum) ke dalam wadah tahan panas, tutup rapat dengan plastik wrap, lalu panaskan dalam microwave dengan suhu 600 W selama 3 menit untuk menghilangkan panasnya.",
+        "Letakkan talenan secara vertikal, tutup dengan bungkus plastik, dan letakkan daging babi langsung dari kemasannya secara vertikal. Jika ujung-ujungnya terlipat, rentangkan (jika tumpang tindih, geser sedikit).",
+        "Letakkan kentang di sisi depan daging babi dan bungkus rapat dari depan. Panaskan penggorengan dengan api sedang, masukkan gulungan kedua dengan ujung menghadap ke bawah, lalu goreng. Balik setengahnya dan masak sampai semua sisinya kecoklatan.",
+        "Tuangkan banyak ``cuka sederhana'', tutup, dan biarkan mendidih selama 7 menit, balik sesekali.",
+        "Buka tutupnya dan masak selama kurang lebih 2 menit, hingga saus mengental dan berubah warna menjadi coklat keemasan, dan daging berwarna kecoklatan."
+      ],
+      "ms": [
+        "Potong ubi kentang separuh (kalau besar, potong bersaiz gigit). Masukkan kentang dan 1 sudu besar air (tidak disenaraikan) dalam bekas tahan panas, tutup longgar dengan bungkus plastik, dan panaskan dalam ketuhar gelombang mikro pada 600 W selama 3 minit untuk mengeluarkan haba.",
+        "Letakkan papan pemotong secara menegak, tutup dengan bungkus plastik, dan letakkan daging babi terus dari bungkusan secara menegak. Jika tepi dilipat, bentangkannya (jika bertindih, alihkan sedikit).",
+        "Letakkan kentang di bahagian hadapan daging babi dan bungkus dengan ketat dari hadapan. Panaskan kuali dengan api sederhana, masukkan gulungan kedua dengan hujungnya menghadap ke bawah, dan goreng. Putar separuh dan masak sehingga keperangan di semua bahagian.",
+        "Tuangkan banyak ``cuka ringkas,'' penutup, dan reneh selama 7 minit, pusing sekali-sekala.",
+        "Buka penutup dan masak selama kira-kira 2 minit, sehingga sos menjadi pekat dan bertukar menjadi perang keemasan, dan daging menjadi perang."
+      ],
+      "ko": [
+        "감자는 절반으로 자른다(큰 경우에는 한입 크기로 자른다). 내열 용기에 감자와 물 1큰술(분량외)을 넣고, 부드럽게 랩을 하고 전자 레인지 600W로 3분 가열하고, 조열을 취한다.",
+        "도마를 세로에 놓고 랩을 하고 팩에서 낸 돼지고기를 세로에 둔다. 가장자리가 부러지면 펼쳐집니다 (겹치면 조금씩 밀어 넣습니다).",
+        "돼지고기 앞쪽에 감자를 놓고 앞에서 제대로 감는다. 프라이팬을 중불로 가열하고, 2의 감기 끝을 아래로 넣고 굽는다. 도중에 방향을 바꾸고 전면에 구운 색이 붙을 때까지 굽는다.",
+        "'간단식초'를 듬뿍 붓고 뚜껑을 덮고 7분, 가끔 구르면서 찜구이로 만든다.",
+        "뚜껑을 열고 2분 정도, 양념장에 녹이 나오고 여우 색으로 바뀌고 고기에 빛이 나올 때까지 굽는다."
+      ]
+    }
   }
 ]

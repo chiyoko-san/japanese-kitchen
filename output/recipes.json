@@ -165228,5 +165228,240 @@
         "뚜껑을 열고 2분 정도, 양념장에 녹이 나오고 여우 색으로 바뀌고 고기에 빛이 나올 때까지 굽는다."
       ]
     }
+  },
+  {
+    "id": "bd62a840",
+    "source_url": "https://www.mizkan.co.jp/ouchirecipe/recipe/?menu_id=20140",
+    "source_site": "Mizkan",
+    "title_ja": "厚揚げの甘辛肉巻き",
+    "description_ja": "",
+    "ingredients": [
+      {
+        "name_ja": "豚バラ肉　薄切り",
+        "amount": "８枚（１６０ｇ）",
+        "name_translated": {
+          "en": "Thinly sliced ​​pork belly",
+          "zh_tw": "五花肉切成薄片",
+          "zh_cn": "五花肉切成薄片",
+          "vi": "Thịt ba chỉ thái mỏng",
+          "hi": "पतले कटा हुआ सूअर का मांस पेट",
+          "ru": "Тонко нарезанная свиная грудинка",
+          "th": "หมูสามชั้นหั่นบางๆ",
+          "id": "Perut babi diiris tipis",
+          "ms": "Perut babi yang dihiris nipis",
+          "ko": "돼지 장미 고기 얇게 썬다."
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E8%B1%9A%E3%83%90%E3%83%A9%E8%82%89%E3%80%80%E8%96%84%E5%88%87%E3%82%8A&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E8%B1%9A%E3%83%90%E3%83%A9%E8%82%89%E3%80%80%E8%96%84%E5%88%87%E3%82%8A/?tag="
+      },
+      {
+        "name_ja": "厚揚げ",
+        "amount": "大１枚（２００ｇ）",
+        "name_translated": {
+          "en": "Fried tofu",
+          "zh_tw": "炸豆腐",
+          "zh_cn": "炸豆腐",
+          "vi": "Đậu hủ chiên",
+          "hi": "तला हुआ टोफू",
+          "ru": "Жареный тофу",
+          "th": "เต้าหู้ทอด",
+          "id": "Tahu goreng",
+          "ms": "Tauhu goreng",
+          "ko": "두꺼운 튀김"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E5%8E%9A%E6%8F%9A%E3%81%92&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E5%8E%9A%E6%8F%9A%E3%81%92/?tag="
+      },
+      {
+        "name_ja": "のり",
+        "amount": "全形１枚",
+        "name_translated": {
+          "en": "seaweed",
+          "zh_tw": "海藻",
+          "zh_cn": "海藻",
+          "vi": "rong biển",
+          "hi": "समुद्री शैवाल",
+          "ru": "водоросли",
+          "th": "สาหร่ายทะเล",
+          "id": "rumput laut",
+          "ms": "rumpai laut",
+          "ko": "풀"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%AE%E3%82%8A&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%AE%E3%82%8A/?tag="
+      },
+      {
+        "name_ja": "塩・こしょう",
+        "amount": "適量",
+        "name_translated": {
+          "en": "salt and pepper",
+          "zh_tw": "鹽和胡椒",
+          "zh_cn": "盐和胡椒",
+          "vi": "muối và hạt tiêu",
+          "hi": "नमक और काली मिर्च",
+          "ru": "соль и перец",
+          "th": "เกลือและพริกไทย",
+          "id": "garam dan merica",
+          "ms": "garam dan lada sulah",
+          "ko": "소금, 후추"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E5%A1%A9%E3%83%BB%E3%81%93%E3%81%97%E3%82%87%E3%81%86&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E5%A1%A9%E3%83%BB%E3%81%93%E3%81%97%E3%82%87%E3%81%86/?tag="
+      },
+      {
+        "name_ja": "ミツカン　カンタン酢",
+        "amount": "大さじ４",
+        "name_translated": {
+          "en": "Mizkan Kantan Vinegar",
+          "zh_tw": "味滋康甘丹醋",
+          "zh_cn": "味滋康甘丹醋",
+          "vi": "Giấm Mizkan Kantan",
+          "hi": "मिज़कान कंटन सिरका",
+          "ru": "Мизкан Кантанский уксус",
+          "th": "น้ำส้มสายชูมิซกัน กันตัน",
+          "id": "Cuka Mizkan Kantan",
+          "ms": "Cuka Mizkan Kantan",
+          "ko": "미츠칸 칸탄초"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E3%82%AB%E3%83%B3%E3%82%BF%E3%83%B3%E9%85%A2&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E3%82%AB%E3%83%B3%E3%82%BF%E3%83%B3%E9%85%A2/?tag="
+      },
+      {
+        "name_ja": "１",
+        "amount": "厚揚げは８等分に切る。のりは８等分のおにぎり用サイズに切る。",
+        "name_translated": {
+          "en": "1",
+          "zh_tw": "1",
+          "zh_cn": "1",
+          "vi": "1",
+          "hi": "1",
+          "ru": "1",
+          "th": "1",
+          "id": "1",
+          "ms": "1",
+          "ko": "1"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%91&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%91/?tag="
+      },
+      {
+        "name_ja": "２",
+        "amount": "豚肉を広げ、塩・こしょうをし、のり、厚揚げをのせて巻き、軽くにぎる。",
+        "name_translated": {
+          "en": "2",
+          "zh_tw": "2",
+          "zh_cn": "2",
+          "vi": "2",
+          "hi": "2",
+          "ru": "2",
+          "th": "2",
+          "id": "2",
+          "ms": "2",
+          "ko": "2"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%92&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%92/?tag="
+      },
+      {
+        "name_ja": "３",
+        "amount": "の巻き終わりを下にして並べ、中火にかける。全体に焼き目をつけながら、６～７分焼く。豚肉に火が通ったら、余分な油をさっと拭き、「カンタン酢」を入れ、豚肉に照りが出るまで全体にからめるように炒める。",
+        "name_translated": {
+          "en": "3",
+          "zh_tw": "3",
+          "zh_cn": "3",
+          "vi": "3",
+          "hi": "3",
+          "ru": "3",
+          "th": "3",
+          "id": "3",
+          "ms": "3",
+          "ko": "3"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%93&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%93/?tag="
+      }
+    ],
+    "steps_ja": [
+      "厚揚げは８等分に切る。のりは８等分のおにぎり用サイズに切る。",
+      "豚肉を広げ、塩・こしょうをし、のり、厚揚げをのせて巻き、軽くにぎる。",
+      "フライパンに２の巻き終わりを下にして並べ、中火にかける。全体に焼き目をつけながら、６～７分焼く。豚肉に火が通ったら、余分な油をさっと拭き、「カンタン酢」を入れ、豚肉に照りが出るまで全体にからめるように炒める。"
+    ],
+    "image_url": "",
+    "title": {
+      "en": "Deep-fried sweet and spicy meat roll",
+      "zh_tw": "炸甜辣肉捲",
+      "zh_cn": "炸甜辣肉卷",
+      "vi": "Thịt cuộn chiên giòn cay ngọt",
+      "hi": "डीप-फ्राइड मीठा और मसालेदार मीट रोल",
+      "ru": "Сладко-острый мясной рулет, обжаренный во фритюре",
+      "th": "ม้วนเนื้อหวานและเผ็ดทอด",
+      "id": "Gulungan daging manis dan pedas yang digoreng",
+      "ms": "Gulung daging manis dan pedas yang digoreng",
+      "ko": "두껍게 튀긴 달콤한 고기 감기"
+    },
+    "description": {
+      "en": "",
+      "zh_tw": "",
+      "zh_cn": "",
+      "vi": "",
+      "hi": "",
+      "ru": "",
+      "th": "",
+      "id": "",
+      "ms": "",
+      "ko": ""
+    },
+    "steps": {
+      "en": [
+        "Cut the deep-fried tofu into 8 equal pieces. Cut the nori into 8 onigiri-sized pieces.",
+        "Spread the pork, season with salt and pepper, top with nori and tofu, roll, and lightly squeeze.",
+        "Place 2 rolls with the end facing down in a frying pan and heat over medium heat. Bake for 6 to 7 minutes, making sure to brown all over. Once the pork is cooked, wipe off the excess oil, add the ``simple vinegar'' and stir-fry until the pork is coated."
+      ],
+      "zh_tw": [
+        "將炸好的豆腐切成8等份。將紫菜切成8塊飯糰大小。",
+        "將豬肉攤開，用鹽和胡椒調味，上面放上海苔和豆腐，捲起來，輕輕擠壓。",
+        "將 2 個麵包捲一端朝下放入煎鍋中，以中火加熱。烘烤 6 到 7 分鐘，確保全部變成棕色。豬肉煮熟後，擦去多餘的油，加入“簡單的醋”，炒至豬肉裹上一層。"
+      ],
+      "zh_cn": [
+        "将炸好的豆腐切成8等份。将紫菜切成8块饭团大小。",
+        "将猪肉摊开，用盐和胡椒调味，上面放上紫菜和豆腐，卷起来，轻轻挤压。",
+        "将 2 个面包卷一端朝下放入煎锅中，用中火加热。烘烤 6 到 7 分钟，确保全部变成棕色。猪肉煮熟后，擦去多余的油，加入“简单的醋”，炒至猪肉裹上一层。"
+      ],
+      "vi": [
+        "Cắt đậu phụ chiên thành 8 miếng bằng nhau. Cắt nori thành 8 miếng cỡ onigiri.",
+        "Trải thịt lợn, nêm muối và hạt tiêu, phủ rong biển và đậu phụ lên trên, cuộn lại và bóp nhẹ.",
+        "Đặt 2 cuộn bánh với mặt úp xuống trong chảo rán và đun nóng trên lửa vừa. Nướng trong 6 đến 7 phút, đảm bảo toàn bộ mặt bánh có màu nâu. Sau khi thịt lợn chín, lau sạch dầu thừa, thêm ``giấm đơn giản'' và xào cho đến khi thịt lợn ngấm đều."
+      ],
+      "hi": [
+        "तले हुए टोफू को 8 बराबर टुकड़ों में काट लें। नोरी को 8 ओनिगिरी आकार के टुकड़ों में काटें।",
+        "सूअर का मांस फैलाएं, नमक और काली मिर्च डालें, ऊपर से नोरी और टोफू डालें, रोल करें और हल्के से निचोड़ें।",
+        "एक फ्राइंग पैन में 2 रोल रखें और उनका सिरा नीचे की ओर रखें और मध्यम आंच पर गर्म करें। 6 से 7 मिनट तक बेक करें, सुनिश्चित करें कि यह चारों ओर से भूरा हो जाए। एक बार जब सूअर का मांस पक जाए, तो अतिरिक्त तेल हटा दें, ``साधारण सिरका'' डालें और हिलाते रहें जब तक कि सूअर का मांस लेपित न हो जाए।"
+      ],
+      "ru": [
+        "Разрежьте обжаренный во фритюре тофу на 8 равных частей. Разрежьте нори на 8 кусочков размером с онигири.",
+        "Разложите свинину, приправьте солью и перцем, сверху выложите нори и тофу, сверните рулетом и слегка сожмите.",
+        "Положите 2 булочки концом вниз на сковороду и нагрейте на среднем огне. Выпекайте 6–7 минут, следя за тем, чтобы все подрумянилось. Как только свинина будет готова, вытрите излишки масла, добавьте «простой уксус» и жарьте, помешивая, пока свинина не будет покрыта ею."
+      ],
+      "th": [
+        "หั่นเต้าหู้ทอดออกเป็น 8 ชิ้นเท่าๆ กัน หั่นโนริเป็นชิ้นขนาดโอนิกิริ 8 ชิ้น",
+        "ทาหมู ปรุงรสด้วยเกลือและพริกไทย โรยโนริและเต้าหู้ ม้วนแล้วบีบเบาๆ",
+        "วาง 2 ม้วนโดยคว่ำด้านลงในกระทะแล้วตั้งไฟบนไฟร้อนปานกลาง นำเข้าอบประมาณ 6 ถึง 7 นาที ให้แน่ใจว่าได้เป็นสีน้ำตาลทั่วตัว เมื่อหมูสุกแล้ว ให้เช็ดน้ำมันส่วนเกินออก เติม ``น้ำส้มสายชูธรรมดา'' แล้วผัดจนหมูเคลือบ"
+      ],
+      "id": [
+        "Potong tahu goreng menjadi 8 bagian sama besar. Potong nori menjadi 8 bagian seukuran onigiri.",
+        "Oleskan daging babi, bumbui dengan garam dan merica, taburi dengan nori dan tahu, gulung, dan peras sebentar.",
+        "Tempatkan 2 gulungan dengan ujung menghadap ke bawah ke dalam penggorengan dan panaskan dengan api sedang. Panggang selama 6 hingga 7 menit, pastikan seluruhnya berwarna coklat. Setelah daging babi matang, bersihkan sisa minyak, tambahkan ``cuka sederhana'' dan tumis sampai daging babi terlapisi."
+      ],
+      "ms": [
+        "Potong tauhu yang telah digoreng menjadi 8 bahagian yang sama. Potong nori kepada 8 bahagian bersaiz onigiri.",
+        "Sapukan daging babi, perasakan dengan garam dan lada sulah, atas dengan nori dan tauhu, gulung, dan perah ringan.",
+        "Letakkan 2 gulung dengan hujungnya menghadap ke bawah dalam kuali dan panaskan dengan api sederhana. Bakar selama 6 hingga 7 minit, pastikan semuanya berwarna perang. Setelah daging babi masak, sapu lebihan minyak, masukkan ``cuka ringkas'' dan tumis sehingga daging babi bersalut."
+      ],
+      "ko": [
+        "두꺼운 튀김은 8등분으로 자른다. 풀은 8등분의 주먹밥 크기로 자른다.",
+        "돼지고기를 펼치고 소금과 후추를 넣고 김, 두꺼운 튀김을 얹어 감아 가볍게 붓는다.",
+        "프라이팬에 2의 감기 끝을 아래로 늘어놓고 중불에 걸린다. 전체에 구이를 붙이면서 6~7분 굽는다. 돼지고기에 불이 지나면, 여분의 기름을 살짝 닦아, 「간단 식초」를 넣고, 돼지고기에 빛이 나올 때까지 전체에 얽히도록 볶는다."
+      ]
+    }
   }
 ]

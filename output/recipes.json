@@ -171808,5 +171808,789 @@
         "그릇에 \"간단식초\" 또는 <조미액>과 라유, 참기름을 넣고 잘 섞는다. 1을 가하여 30분 정도 절인다."
       ]
     }
+  },
+  {
+    "id": "7d5de13b",
+    "source_url": "https://www.mizkan.co.jp/ouchirecipe/recipe/?menu_id=18648",
+    "source_site": "Mizkan",
+    "title_ja": "鶏とスナップエンドウのオイスターソース炒め",
+    "description_ja": "",
+    "ingredients": [
+      {
+        "name_ja": "鶏もも肉",
+        "amount": "１枚（２８０ｇ）",
+        "name_translated": {
+          "en": "chicken thigh",
+          "zh_tw": "雞大腿",
+          "zh_cn": "鸡大腿",
+          "vi": "đùi gà",
+          "hi": "चिकन थाई",
+          "ru": "куриное бедро",
+          "th": "ต้นขาไก่",
+          "id": "paha ayam",
+          "ms": "paha ayam",
+          "ko": "닭 허벅지 고기"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E9%B6%8F%E3%82%82%E3%82%82%E8%82%89&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E9%B6%8F%E3%82%82%E3%82%82%E8%82%89/?tag="
+      },
+      {
+        "name_ja": "塩",
+        "amount": "少々",
+        "name_translated": {
+          "en": "salt",
+          "zh_tw": "鹽",
+          "zh_cn": "盐",
+          "vi": "muối",
+          "hi": "नमक",
+          "ru": "соль",
+          "th": "เกลือ",
+          "id": "garam",
+          "ms": "garam",
+          "ko": "소금"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E5%A1%A9&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E5%A1%A9/?tag="
+      },
+      {
+        "name_ja": "スナップえんどう",
+        "amount": "１０さや",
+        "name_translated": {
+          "en": "snap peas",
+          "zh_tw": "豌豆",
+          "zh_cn": "豌豆",
+          "vi": "đậu Hà Lan",
+          "hi": "मटर के दाने",
+          "ru": "горох",
+          "th": "ถั่วลันเตา",
+          "id": "ambil kacang polong",
+          "ms": "snap kacang",
+          "ko": "스냅 엔도"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%82%B9%E3%83%8A%E3%83%83%E3%83%97%E3%81%88%E3%82%93%E3%81%A9%E3%81%86&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%82%B9%E3%83%8A%E3%83%83%E3%83%97%E3%81%88%E3%82%93%E3%81%A9%E3%81%86/?tag="
+      },
+      {
+        "name_ja": "ごま油",
+        "amount": "大さじ１／２",
+        "name_translated": {
+          "en": "sesame oil",
+          "zh_tw": "香油",
+          "zh_cn": "香油",
+          "vi": "dầu mè",
+          "hi": "तिल का तेल",
+          "ru": "кунжутное масло",
+          "th": "น้ำมันงา",
+          "id": "minyak wijen",
+          "ms": "minyak bijan",
+          "ko": "참기름"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%94%E3%81%BE%E6%B2%B9&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%94%E3%81%BE%E6%B2%B9/?tag="
+      },
+      {
+        "name_ja": "ミツカン　カンタン酢",
+        "amount": "大さじ２",
+        "name_translated": {
+          "en": "Mizkan Kantan Vinegar",
+          "zh_tw": "味滋康甘丹醋",
+          "zh_cn": "味滋康甘丹醋",
+          "vi": "Giấm Mizkan Kantan",
+          "hi": "मिज़कान कंटन सिरका",
+          "ru": "Мизкан Кантанский уксус",
+          "th": "น้ำส้มสายชูมิซกัน กันตัน",
+          "id": "Cuka Mizkan Kantan",
+          "ms": "Cuka Mizkan Kantan",
+          "ko": "미츠칸 칸탄초"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E3%82%AB%E3%83%B3%E3%82%BF%E3%83%B3%E9%85%A2&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E3%82%AB%E3%83%B3%E3%82%BF%E3%83%B3%E9%85%A2/?tag="
+      },
+      {
+        "name_ja": "オイスターソース",
+        "amount": "大さじ１",
+        "name_translated": {
+          "en": "oyster sauce",
+          "zh_tw": "蠔油",
+          "zh_cn": "蚝油",
+          "vi": "dầu hào",
+          "hi": "कस्तूरा सॉस",
+          "ru": "устричный соус",
+          "th": "ซอสหอยนางรม",
+          "id": "saus tiram",
+          "ms": "sos tiram",
+          "ko": "굴 소스"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%82%AA%E3%82%A4%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BD%E3%83%BC%E3%82%B9&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%82%AA%E3%82%A4%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BD%E3%83%BC%E3%82%B9/?tag="
+      },
+      {
+        "name_ja": "片栗粉",
+        "amount": "小さじ１",
+        "name_translated": {
+          "en": "potato starch",
+          "zh_tw": "馬鈴薯澱粉",
+          "zh_cn": "马铃薯淀粉",
+          "vi": "tinh bột khoai tây",
+          "hi": "आलू स्टार्च",
+          "ru": "картофельный крахмал",
+          "th": "แป้งมันฝรั่ง",
+          "id": "tepung kentang",
+          "ms": "kanji kentang",
+          "ko": "가문 가루"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E7%89%87%E6%A0%97%E7%B2%89&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E7%89%87%E6%A0%97%E7%B2%89/?tag="
+      },
+      {
+        "name_ja": "花椒（ホアジャオ）",
+        "amount": "適量",
+        "name_translated": {
+          "en": "Pepper (Hoa Jiao)",
+          "zh_tw": "胡椒（和椒）",
+          "zh_cn": "胡椒（和椒）",
+          "vi": "Tiêu (Hoa Kiều)",
+          "hi": "काली मिर्च (होआ जिओ)",
+          "ru": "Перец (Хоа Цзяо)",
+          "th": "พริกไทย (ฮวาเจียว)",
+          "id": "Lada (Hoa Jiao)",
+          "ms": "Lada (Hoa Jiao)",
+          "ko": "花椒 (호아 자, 어조사 혜)"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E8%8A%B1%E6%A4%92%EF%BC%88%E3%83%9B%E3%82%A2%E3%82%B8%E3%83%A3%E3%82%AA%EF%BC%89&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E8%8A%B1%E6%A4%92%EF%BC%88%E3%83%9B%E3%82%A2%E3%82%B8%E3%83%A3%E3%82%AA%EF%BC%89/?tag="
+      },
+      {
+        "name_ja": "１",
+        "amount": "鶏肉は一口大に切り、塩をふって下味をつける。スナップえんどうは筋を取り、斜め半分に切る。",
+        "name_translated": {
+          "en": "1",
+          "zh_tw": "1",
+          "zh_cn": "1",
+          "vi": "1",
+          "hi": "1",
+          "ru": "1",
+          "th": "1",
+          "id": "1",
+          "ms": "1",
+          "ko": "1"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%91&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%91/?tag="
+      },
+      {
+        "name_ja": "２",
+        "amount": "フライパンにごま油を入れて熱し、鶏肉を炒め、火が通ったらスナップえんどうを加えて炒める。",
+        "name_translated": {
+          "en": "2",
+          "zh_tw": "2",
+          "zh_cn": "2",
+          "vi": "2",
+          "hi": "2",
+          "ru": "2",
+          "th": "2",
+          "id": "2",
+          "ms": "2",
+          "ko": "2"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%92&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%92/?tag="
+      },
+      {
+        "name_ja": "３",
+        "amount": "よく混ぜた＜調味液＞を加え、炒め合わせる。仕上げに花椒をふる。",
+        "name_translated": {
+          "en": "3",
+          "zh_tw": "3",
+          "zh_cn": "3",
+          "vi": "3",
+          "hi": "3",
+          "ru": "3",
+          "th": "3",
+          "id": "3",
+          "ms": "3",
+          "ko": "3"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%93&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%93/?tag="
+      }
+    ],
+    "steps_ja": [
+      "鶏肉は一口大に切り、塩をふって下味をつける。スナップえんどうは筋を取り、斜め半分に切る。",
+      "フライパンにごま油を入れて熱し、鶏肉を炒め、火が通ったらスナップえんどうを加えて炒める。",
+      "よく混ぜた＜調味液＞を加え、炒め合わせる。仕上げに花椒をふる。"
+    ],
+    "image_url": "",
+    "title": {
+      "en": "Stir-fried chicken and snap peas with oyster sauce",
+      "zh_tw": "蠔油炒雞肉豌豆",
+      "zh_cn": "蚝油炒鸡肉豌豆",
+      "vi": "Gà xào đậu Hà Lan xào dầu hào",
+      "hi": "ऑयस्टर सॉस के साथ तले हुए चिकन और स्नैप मटर",
+      "ru": "Жареная курица и горох с устричным соусом",
+      "th": "ไก่ผัดถั่วลันเตากับซอสหอยนางรม",
+      "id": "Ayam goreng tumis dan kacang polong dengan saus tiram",
+      "ms": "Ayam goreng dan kacang keping dengan sos tiram",
+      "ko": "닭과 스냅 완두콩 굴 소스 볶음"
+    },
+    "description": {
+      "en": "",
+      "zh_tw": "",
+      "zh_cn": "",
+      "vi": "",
+      "hi": "",
+      "ru": "",
+      "th": "",
+      "id": "",
+      "ms": "",
+      "ko": ""
+    },
+    "steps": {
+      "en": [
+        "Cut the chicken into bite-sized pieces and season with salt. Remove the strings from the snap peas and cut them in half diagonally.",
+        "Heat the sesame oil in a frying pan, stir-fry the chicken, and once the heat is through, add the snap peas and stir-fry.",
+        "Add the well-mixed <seasoning liquid> and stir-fry. Sprinkle with pepper to finish."
+      ],
+      "zh_tw": [
+        "鶏肉は一口大に切り、塩をふって下味をつける。スナップえんどうは筋を取り、斜め半分に切る。",
+        "炒鍋中燒熱芝麻油，將雞肉煸炒，待熱後加入豌豆，翻炒。",
+        "加入攪拌均勻的<調味液>並炒勻。撒上胡椒粉即可完成。"
+      ],
+      "zh_cn": [
+        "将鸡肉切成一口大小的块，用盐调味。将豌豆上的绳子去掉，对角切成两半。",
+        "炒锅中烧热芝麻油，将鸡肉煸炒，待热后加入豌豆，翻炒。",
+        "加入搅拌均匀的<调味液>并炒匀。撒上胡椒粉即可完成。"
+      ],
+      "vi": [
+        "Thịt gà cắt thành miếng vừa ăn rồi ướp muối. Tháo dây ra khỏi đậu Hà Lan và cắt chúng làm đôi theo đường chéo.",
+        "Đun nóng dầu mè trong chảo, cho gà vào xào, khi lửa vừa, cho đậu Hà Lan vào xào.",
+        "Thêm <gia vị> đã trộn đều vào và xào. Rắc thêm tiêu là xong."
+      ],
+      "hi": [
+        "चिकन को छोटे टुकड़ों में काटें और नमक डालें। स्नैप मटर से तार हटा दें और उन्हें आधा तिरछा काट लें।",
+        "एक फ्राइंग पैन में तिल का तेल गर्म करें, चिकन को हिलाएं और जब गर्मी पूरी हो जाए तो इसमें स्नैप मटर डालें और हिलाएं।",
+        "अच्छी तरह से मिश्रित <मसाला तरल> डालें और हिलाएँ। ख़त्म करने के लिए काली मिर्च छिड़कें।"
+      ],
+      "ru": [
+        "Курицу нарежьте небольшими кусочками и посолите. Удалите нити из горошка и разрежьте его пополам по диагонали.",
+        "Нагрейте кунжутное масло на сковороде, обжарьте курицу, а когда огонь утихнет, добавьте зеленый горошек и обжарьте.",
+        "Добавьте хорошо перемешанную <жидкую приправу> и обжарьте, помешивая. В завершение посыпьте перцем."
+      ],
+      "th": [
+        "หั่นไก่เป็นชิ้นขนาดพอดีคำ ปรุงรสด้วยเกลือ ดึงเชือกออกจากถั่วลันเตาแล้วผ่าครึ่งตามแนวทแยงมุม",
+        "ตั้งน้ำมันงาในกระทะ ผัดไก่ และเมื่อไฟผ่าน ใส่ถั่วลันเตาลงไปผัด",
+        "ใส่ <น้ำปรุงรส> ที่ผสมไว้แล้วลงไปผัด โรยพริกไทยเป็นอันเสร็จ"
+      ],
+      "id": [
+        "Potong ayam menjadi potongan-potongan kecil dan bumbui dengan garam. Lepaskan senar dari kacang polong dan potong menjadi dua secara diagonal.",
+        "Panaskan minyak wijen dalam wajan, tumis ayam, dan setelah panasnya hilang, tambahkan kacang polong dan tumis.",
+        "Tambahkan <bumbu cair> yang sudah tercampur rata dan tumis. Taburi dengan merica sampai selesai."
+      ],
+      "ms": [
+        "Potong ayam mengikut saiz kecil dan perasakan dengan garam. Keluarkan tali dari kacang snap dan potong separuh menyerong.",
+        "Panaskan minyak bijan dalam kuali, goreng ayam, dan apabila api telah panas, masukkan kacang pic dan tumis.",
+        "Masukkan <cecair perasa> yang telah digaul rata dan tumis. Taburkan dengan lada untuk selesai."
+      ],
+      "ko": [
+        "닭고기는 한입 크기로 자르고 소금을 뿌리고 속을 낸다. 스냅 엔도는 근육을 잡고 대각선 절반으로 자른다.",
+        "프라이팬에 참기름을 넣고 가열하고 닭고기를 볶고 불이 지나면 스냅 엔도를 더해 볶는다.",
+        "잘 섞은 <조미액>을 넣고 볶는다. 마무리에 꽃초를 뿌린다."
+      ]
+    }
+  },
+  {
+    "id": "efe94cce",
+    "source_url": "https://www.mizkan.co.jp/ouchirecipe/recipe/?menu_id=17489",
+    "source_site": "Mizkan",
+    "title_ja": "ごろごろブロッコリーの粉チーズ和え",
+    "description_ja": "",
+    "ingredients": [
+      {
+        "name_ja": "ブロッコリー",
+        "amount": "１／２株",
+        "name_translated": {
+          "en": "broccoli",
+          "zh_tw": "綠色花椰菜",
+          "zh_cn": "西兰花",
+          "vi": "bông cải xanh",
+          "hi": "ब्रोकोली",
+          "ru": "брокколи",
+          "th": "บรอกโคลี",
+          "id": "brokoli",
+          "ms": "brokoli",
+          "ko": "브로콜리"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%96%E3%83%AD%E3%83%83%E3%82%B3%E3%83%AA%E3%83%BC&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%96%E3%83%AD%E3%83%83%E3%82%B3%E3%83%AA%E3%83%BC/?tag="
+      },
+      {
+        "name_ja": "ミツカン　カンタン酢",
+        "amount": "大さじ１",
+        "name_translated": {
+          "en": "Mizkan Kantan Vinegar",
+          "zh_tw": "味滋康甘丹醋",
+          "zh_cn": "味滋康甘丹醋",
+          "vi": "Giấm Mizkan Kantan",
+          "hi": "मिज़कान कंटन सिरका",
+          "ru": "Мизкан Кантанский уксус",
+          "th": "น้ำส้มสายชูมิซกัน กันตัน",
+          "id": "Cuka Mizkan Kantan",
+          "ms": "Cuka Mizkan Kantan",
+          "ko": "미츠칸 칸탄초"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E3%82%AB%E3%83%B3%E3%82%BF%E3%83%B3%E9%85%A2&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E3%82%AB%E3%83%B3%E3%82%BF%E3%83%B3%E9%85%A2/?tag="
+      },
+      {
+        "name_ja": "オリーブオイル",
+        "amount": "大さじ１",
+        "name_translated": {
+          "en": "olive oil",
+          "zh_tw": "橄欖油",
+          "zh_cn": "橄榄油",
+          "vi": "dầu ô liu",
+          "hi": "जैतून का तेल",
+          "ru": "оливковое масло",
+          "th": "น้ำมันมะกอก",
+          "id": "minyak zaitun",
+          "ms": "minyak zaitun",
+          "ko": "올리브 오일"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%82%AA%E3%83%AA%E3%83%BC%E3%83%96%E3%82%AA%E3%82%A4%E3%83%AB&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%82%AA%E3%83%AA%E3%83%BC%E3%83%96%E3%82%AA%E3%82%A4%E3%83%AB/?tag="
+      },
+      {
+        "name_ja": "粉チーズ",
+        "amount": "大さじ１",
+        "name_translated": {
+          "en": "powdered cheese",
+          "zh_tw": "乾酪粉",
+          "zh_cn": "干酪粉",
+          "vi": "phô mai bột",
+          "hi": "पीसा हुआ पनीर",
+          "ru": "тертый сыр",
+          "th": "ผงชีส",
+          "id": "keju bubuk",
+          "ms": "keju tepung",
+          "ko": "분말 치즈"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E7%B2%89%E3%83%81%E3%83%BC%E3%82%BA&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E7%B2%89%E3%83%81%E3%83%BC%E3%82%BA/?tag="
+      },
+      {
+        "name_ja": "１",
+        "amount": "ブロッコリーは小房に切り分ける。鍋に湯を沸かして塩少々（分量外）を加え、３分程度ゆでて水けを切り、粗熱を取る。",
+        "name_translated": {
+          "en": "1",
+          "zh_tw": "1",
+          "zh_cn": "1",
+          "vi": "1",
+          "hi": "1",
+          "ru": "1",
+          "th": "1",
+          "id": "1",
+          "ms": "1",
+          "ko": "1"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%91&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%91/?tag="
+      },
+      {
+        "name_ja": "２",
+        "amount": "を加えてあえ、器に盛る。",
+        "name_translated": {
+          "en": "2",
+          "zh_tw": "2",
+          "zh_cn": "2",
+          "vi": "2",
+          "hi": "2",
+          "ru": "2",
+          "th": "2",
+          "id": "2",
+          "ms": "2",
+          "ko": "2"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%92&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%92/?tag="
+      }
+    ],
+    "steps_ja": [
+      "ブロッコリーは小房に切り分ける。鍋に湯を沸かして塩少々（分量外）を加え、３分程度ゆでて水けを切り、粗熱を取る。",
+      "ボウルに＜調味料＞を入れて混ぜ合わせる。１を加えてあえ、器に盛る。"
+    ],
+    "image_url": "",
+    "title": {
+      "en": "Broccoli with powdered cheese",
+      "zh_tw": "綠花椰菜配起司粉",
+      "zh_cn": "西兰花配奶酪粉",
+      "vi": "Bông cải xanh với bột phô mai",
+      "hi": "पाउडर पनीर के साथ ब्रोकोली",
+      "ru": "Брокколи с сырным порошком",
+      "th": "บรอกโคลีกับผงชีส",
+      "id": "Brokoli dengan keju bubuk",
+      "ms": "Brokoli dengan keju tepung",
+      "ko": "어리석은 브로콜리 가루 치즈"
+    },
+    "description": {
+      "en": "",
+      "zh_tw": "",
+      "zh_cn": "",
+      "vi": "",
+      "hi": "",
+      "ru": "",
+      "th": "",
+      "id": "",
+      "ms": "",
+      "ko": ""
+    },
+    "steps": {
+      "en": [
+        "Cut the broccoli into florets. Boil water in a pot, add a little salt (not listed), boil for about 3 minutes, drain, and remove from heat.",
+        "Add the seasonings to the bowl and mix. Add 1 and serve in a bowl."
+      ],
+      "zh_tw": [
+        "將西蘭花切成小花。鍋中燒水，加少許鹽（未列出），煮約3分鐘，瀝乾，離火。",
+        "將調味料加入碗中並混合。加入 1 並盛入碗中。"
+      ],
+      "zh_cn": [
+        "将西兰花切成小花。锅中烧水，加少许盐（未列出），煮约3分钟，沥干，离火。",
+        "将调味料加入碗中并混合。添加 1 并盛入碗中。"
+      ],
+      "vi": [
+        "Cắt bông cải xanh thành bông hoa. Cho nước vào nồi đun sôi, thêm một ít muối (không liệt kê), đun sôi khoảng 3 phút, vớt ra để ráo nước.",
+        "Thêm gia vị vào tô và trộn đều. Thêm 1 và phục vụ trong một cái bát."
+      ],
+      "hi": [
+        "ब्रोकोली को फूलों में काटें। एक बर्तन में पानी उबालें, थोड़ा नमक डालें (सूचीबद्ध नहीं), लगभग 3 मिनट तक उबालें, छान लें और आंच से उतार लें।",
+        "मसाले को कटोरे में डालें और मिलाएँ। 1 डालें और एक कटोरे में परोसें।"
+      ],
+      "ru": [
+        "Разрежьте брокколи на соцветия. Вскипятите воду в кастрюле, добавьте немного соли (не указана), кипятите около 3 минут, слейте воду и снимите с огня.",
+        "Добавьте в миску приправы и перемешайте. Добавьте 1 и подавайте в миске."
+      ],
+      "th": [
+        "หั่นบรอกโคลีเป็นดอกย่อย ต้มน้ำในหม้อ เติมเกลือเล็กน้อย (ไม่อยู่ในรายการ) ต้มประมาณ 3 นาที สะเด็ดน้ำ และยกลงจากเตา",
+        "เพิ่มเครื่องปรุงรสลงในชามและผสม เพิ่ม 1 และเสิร์ฟในชาม"
+      ],
+      "id": [
+        "Potong brokoli menjadi kuntum. Rebus air dalam panci, tambahkan sedikit garam (tidak dicantumkan), rebus sekitar 3 menit, tiriskan, dan angkat.",
+        "Tambahkan bumbu ke dalam mangkuk dan aduk. Tambahkan 1 dan sajikan dalam mangkuk."
+      ],
+      "ms": [
+        "Potong brokoli menjadi bunga. Didihkan air dalam periuk, masukkan sedikit garam (tidak disenaraikan), rebus selama kira-kira 3 minit, toskan, dan keluarkan dari api.",
+        "Masukkan bahan perasa ke dalam mangkuk dan gaul. Tambah 1 dan hidangkan dalam mangkuk."
+      ],
+      "ko": [
+        "브로콜리는 소방으로 잘라낸다. 냄비에 물을 끓여 소금 조금(분량외)을 가하고, 3분 정도 삶아서 물기를 잘라, 조열을 취한다.",
+        "그릇에 <조미료>를 넣고 섞는다. 1을 더하고 굳이 그릇에 담는다."
+      ]
+    }
+  },
+  {
+    "id": "89e7ebda",
+    "source_url": "https://www.mizkan.co.jp/ouchirecipe/recipe/?menu_id=10363",
+    "source_site": "Mizkan",
+    "title_ja": "花束のカップ寿司",
+    "description_ja": "",
+    "ingredients": [
+      {
+        "name_ja": "ご飯",
+        "amount": "１．５合分（５００ｇ）",
+        "name_translated": {
+          "en": "cooked rice",
+          "zh_tw": "乾飯",
+          "zh_cn": "干饭",
+          "vi": "cơm chín",
+          "hi": "पका हुआ चावल",
+          "ru": "приготовленный рис",
+          "th": "ข้าวสวย",
+          "id": "nasi",
+          "ms": "nasi masak",
+          "ko": "밥"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%94%E9%A3%AF&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%94%E9%A3%AF/?tag="
+      },
+      {
+        "name_ja": "ミツカン　すし酢昆布だし入り",
+        "amount": "大さじ３",
+        "name_translated": {
+          "en": "Mitsukan sushi with vinegar and kelp soup stock",
+          "zh_tw": "醋海帶湯三館壽司",
+          "zh_cn": "醋海带汤三馆寿司",
+          "vi": "Sushi Mitsukan với nước súp giấm và tảo bẹ",
+          "hi": "सिरका और केल्प सूप स्टॉक के साथ मित्सुकन सुशी",
+          "ru": "Суши Мицукан с уксусом и бульоном для супа из ламинарии",
+          "th": "ซูชิมิตสึกังกับน้ำส้มสายชูและซุปสาหร่ายทะเล",
+          "id": "Mitsukan sushi dengan cuka dan kaldu sup rumput laut",
+          "ms": "Mitsukan sushi dengan cuka dan stok sup kelp",
+          "ko": "미쓰칸 스시 식초 다시마"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E3%81%99%E3%81%97%E9%85%A2%E6%98%86%E5%B8%83%E3%81%A0%E3%81%97%E5%85%A5%E3%82%8A&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E3%81%99%E3%81%97%E9%85%A2%E6%98%86%E5%B8%83%E3%81%A0%E3%81%97%E5%85%A5%E3%82%8A/?tag="
+      },
+      {
+        "name_ja": "サーモン　（刺身用）",
+        "amount": "１００ｇ",
+        "name_translated": {
+          "en": "Salmon (for sashimi)",
+          "zh_tw": "鮭魚（生魚片用）",
+          "zh_cn": "三文鱼（生鱼片用）",
+          "vi": "Cá hồi (cho sashimi)",
+          "hi": "सैल्मन (सशिमी के लिए)",
+          "ru": "Лосось (для сашими)",
+          "th": "แซลมอน (สำหรับซาซิมิ)",
+          "id": "Salmon (untuk sashimi)",
+          "ms": "Salmon (untuk sashimi)",
+          "ko": "연어 (회용)"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%82%B5%E3%83%BC%E3%83%A2%E3%83%B3%E3%80%80%EF%BC%88%E5%88%BA%E8%BA%AB%E7%94%A8%EF%BC%89&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%82%B5%E3%83%BC%E3%83%A2%E3%83%B3%E3%80%80%EF%BC%88%E5%88%BA%E8%BA%AB%E7%94%A8%EF%BC%89/?tag="
+      },
+      {
+        "name_ja": "まぐろ　（刺身用）",
+        "amount": "１００ｇ",
+        "name_translated": {
+          "en": "Tuna (for sashimi)",
+          "zh_tw": "鮪魚（生魚片用）",
+          "zh_cn": "金枪鱼（生鱼片用）",
+          "vi": "Cá ngừ (để làm sashimi)",
+          "hi": "टूना (सशिमी के लिए)",
+          "ru": "Тунец (для сашими)",
+          "th": "ทูน่า (สำหรับซาซิมิ)",
+          "id": "Tuna (untuk sashimi)",
+          "ms": "Tuna (untuk sashimi)",
+          "ko": "참치(사시미용)"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%BE%E3%81%90%E3%82%8D%E3%80%80%EF%BC%88%E5%88%BA%E8%BA%AB%E7%94%A8%EF%BC%89&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%BE%E3%81%90%E3%82%8D%E3%80%80%EF%BC%88%E5%88%BA%E8%BA%AB%E7%94%A8%EF%BC%89/?tag="
+      },
+      {
+        "name_ja": "たい　（刺身用）",
+        "amount": "１００ｇ",
+        "name_translated": {
+          "en": "Tai (for sashimi)",
+          "zh_tw": "Tai（生魚片）",
+          "zh_cn": "Tai（生鱼片）",
+          "vi": "Tai (cho sashimi)",
+          "hi": "ताई (सशिमी के लिए)",
+          "ru": "Тай (для сашими)",
+          "th": "ไท (สำหรับซาซิมิ)",
+          "id": "Tai (untuk sashimi)",
+          "ms": "Tai (untuk sashimi)",
+          "ko": "싶다 (회용)"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%9F%E3%81%84%E3%80%80%EF%BC%88%E5%88%BA%E8%BA%AB%E7%94%A8%EF%BC%89&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%9F%E3%81%84%E3%80%80%EF%BC%88%E5%88%BA%E8%BA%AB%E7%94%A8%EF%BC%89/?tag="
+      },
+      {
+        "name_ja": "イクラ",
+        "amount": "大さじ１",
+        "name_translated": {
+          "en": "salmon roe",
+          "zh_tw": "鮭魚子",
+          "zh_cn": "鲑鱼子",
+          "vi": "trứng cá hồi",
+          "hi": "सैल्मन रो",
+          "ru": "икра лосося",
+          "th": "ไข่ปลาแซลมอน",
+          "id": "telur salmon",
+          "ms": "telur ikan salmon",
+          "ko": "이크라"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%82%A4%E3%82%AF%E3%83%A9&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%82%A4%E3%82%AF%E3%83%A9/?tag="
+      },
+      {
+        "name_ja": "炒り卵",
+        "amount": "卵２個分",
+        "name_translated": {
+          "en": "fried eggs",
+          "zh_tw": "煎蛋",
+          "zh_cn": "煎鸡蛋",
+          "vi": "trứng chiên",
+          "hi": "भुना हुआ अण्डा",
+          "ru": "яичница",
+          "th": "ไข่ดาว",
+          "id": "telur ceplok",
+          "ms": "telur goreng",
+          "ko": "볶음 달걀"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E7%82%92%E3%82%8A%E5%8D%B5&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E7%82%92%E3%82%8A%E5%8D%B5/?tag="
+      },
+      {
+        "name_ja": "さやえんどう",
+        "amount": "４枚",
+        "name_translated": {
+          "en": "Snow peas",
+          "zh_tw": "荷蘭豆",
+          "zh_cn": "荷兰豆",
+          "vi": "đậu tuyết",
+          "hi": "बर्फ मटर",
+          "ru": "Снежный горошек",
+          "th": "ถั่วหิมะ",
+          "id": "Kacang polong",
+          "ms": "Kacang salji",
+          "ko": "사야엔도"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%95%E3%82%84%E3%81%88%E3%82%93%E3%81%A9%E3%81%86&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%95%E3%82%84%E3%81%88%E3%82%93%E3%81%A9%E3%81%86/?tag="
+      },
+      {
+        "name_ja": "しょうゆ",
+        "amount": "適量",
+        "name_translated": {
+          "en": "soy sauce",
+          "zh_tw": "醬油",
+          "zh_cn": "酱油",
+          "vi": "nước tương",
+          "hi": "सोया सॉस",
+          "ru": "соевый соус",
+          "th": "ซอสถั่วเหลือง",
+          "id": "kecap",
+          "ms": "kicap",
+          "ko": "간장"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%97%E3%82%87%E3%81%86%E3%82%86&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%97%E3%82%87%E3%81%86%E3%82%86/?tag="
+      },
+      {
+        "name_ja": "１",
+        "amount": "温かいごはんに「すし酢昆布だし入り」を加えて混ぜ合わせる。",
+        "name_translated": {
+          "en": "1",
+          "zh_tw": "1",
+          "zh_cn": "1",
+          "vi": "1",
+          "hi": "1",
+          "ru": "1",
+          "th": "1",
+          "id": "1",
+          "ms": "1",
+          "ko": "1"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%91&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%91/?tag="
+      },
+      {
+        "name_ja": "２",
+        "amount": "、３～５枚を順にくるくる巻いてお花を作る。さやえんどうはゆでて斜め４等分に切る。",
+        "name_translated": {
+          "en": "2",
+          "zh_tw": "2",
+          "zh_cn": "2",
+          "vi": "2",
+          "hi": "2",
+          "ru": "2",
+          "th": "2",
+          "id": "2",
+          "ms": "2",
+          "ko": "2"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%92&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%92/?tag="
+      },
+      {
+        "name_ja": "３",
+        "amount": "のお花を飾り、イクラ、さやえんどうを飾る。しょうゆをつけていただく。",
+        "name_translated": {
+          "en": "3",
+          "zh_tw": "3",
+          "zh_cn": "3",
+          "vi": "3",
+          "hi": "3",
+          "ru": "3",
+          "th": "3",
+          "id": "3",
+          "ms": "3",
+          "ko": "3"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%93&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%93/?tag="
+      }
+    ],
+    "steps_ja": [
+      "温かいごはんに「すし酢昆布だし入り」を加えて混ぜ合わせる。",
+      "サーモン、まぐろ、たいは薄く切り、３～５枚を順にくるくる巻いてお花を作る。さやえんどうはゆでて斜め４等分に切る。",
+      "カップにすし飯を盛り、炒り卵を加える。その上に２のお花を飾り、イクラ、さやえんどうを飾る。しょうゆをつけていただく。"
+    ],
+    "image_url": "",
+    "title": {
+      "en": "bouquet cup sushi",
+      "zh_tw": "花束杯壽司",
+      "zh_cn": "花束杯寿司",
+      "vi": "sushi cốc bó hoa",
+      "hi": "गुलदस्ता कप सुशी",
+      "ru": "букет чашка суши",
+      "th": "ซูชิถ้วยช่อดอกไม้",
+      "id": "sushi cangkir buket",
+      "ms": "sejambak cawan sushi",
+      "ko": "꽃다발 컵 스시"
+    },
+    "description": {
+      "en": "",
+      "zh_tw": "",
+      "zh_cn": "",
+      "vi": "",
+      "hi": "",
+      "ru": "",
+      "th": "",
+      "id": "",
+      "ms": "",
+      "ko": ""
+    },
+    "steps": {
+      "en": [
+        "Add the ``Sushi Vinegar and Kelp Dashi'' to the warm rice and mix.",
+        "Slice the salmon, tuna, and sea bream thinly and roll 3 to 5 pieces in order to make a flower. Boil the snow peas and cut them diagonally into quarters.",
+        "Fill a cup with sushi rice and add the fried egg. Garnish with the flowers from step 2, salmon roe, and snow peas on top. Serve with soy sauce."
+      ],
+      "zh_tw": [
+        "將「壽司醋和海帶高湯」加入溫熱的米飯中並混合。",
+        "將鮭魚、鮪魚和鯛魚切成薄片，捲成 3 至 5 片，製成一朵花。將荷蘭豆煮熟，斜切成四份。",
+        "將壽司飯裝滿杯子，然後加入煎蛋。用步驟 2 的花朵、鮭魚子和荷蘭豆裝飾。與醬油一起食用。"
+      ],
+      "zh_cn": [
+        "将“寿司醋和海带高汤”加入温热的米饭中并混合。",
+        "将三文鱼、金枪鱼和鲷鱼切成薄片，卷成 3 至 5 片，制成一朵花。将荷兰豆煮熟，斜切成四份。",
+        "将寿司饭装满杯子，然后加入煎鸡蛋。用步骤 2 中的花朵、鲑鱼子和荷兰豆装饰。与酱油一起食用。"
+      ],
+      "vi": [
+        "Thêm `` Giấm Sushi và Dashi tảo bẹ '' vào cơm ấm và trộn.",
+        "Cắt mỏng cá hồi, cá ngừ và cá tráp rồi cuộn 3 đến 5 miếng để làm hình bông hoa. Luộc đậu tuyết và cắt chúng thành các phần tư theo đường chéo.",
+        "Đổ cơm sushi vào cốc và thêm trứng chiên. Trang trí với những bông hoa ở bước 2, trứng cá hồi và đậu Hà Lan lên trên. Ăn kèm với nước tương."
+      ],
+      "hi": [
+        "गर्म चावल में ``सुशी सिरका और केल्प दशी'' डालें और मिलाएँ।",
+        "सैल्मन, ट्यूना और समुद्री ब्रीम को पतले-पतले काटें और फूल बनाने के लिए 3 से 5 टुकड़ों में रोल करें। बर्फ के मटर को उबालें और उन्हें तिरछे चार भागों में काट लें।",
+        "एक कप सुशी चावल से भरें और तला हुआ अंडा डालें। ऊपर से स्टेप 2 के फूल, सैल्मन रो और स्नो मटर से गार्निश करें। सोया सॉस के साथ परोसें."
+      ],
+      "ru": [
+        "Добавьте «Уксус для суши и ламинарию даши» к теплому рису и перемешайте.",
+        "Тонко нарежьте лосося, тунца и морского леща и скатайте 3–5 кусочков, чтобы получился цветок. Отварите горошек и разрежьте его по диагонали на четвертинки.",
+        "Наполните чашку рисом для суши и добавьте жареное яйцо. Украсьте сверху цветами из шага 2, икрой лосося и снежным горошком. Подавайте с соевым соусом."
+      ],
+      "th": [
+        "เพิ่ม ``น้ำส้มสายชูซูชิและสาหร่ายทะเลดาชิ'' ลงในข้าวอุ่นแล้วผสม",
+        "หั่นปลาแซลมอน ทูน่า และปลาซีบรีมเป็นชิ้นบางๆ แล้วม้วนเป็น 3 ถึง 5 ชิ้นเพื่อทำเป็นดอกไม้ ต้มถั่วหิมะแล้วหั่นเป็นสี่ส่วนตามแนวทแยงมุม",
+        "เติมข้าวซูชิหนึ่งถ้วยแล้วใส่ไข่ดาวลงไป ประดับด้วยดอกไม้จากขั้นตอนที่ 2 ไข่ปลาแซลมอน และถั่วลันเตาด้านบน เสิร์ฟพร้อมซีอิ๊ว"
+      ],
+      "id": [
+        "Tambahkan ``Sushi Cuka dan Kelp Dashi'' ke dalam nasi hangat dan aduk.",
+        "Iris tipis salmon, tuna, dan ikan air tawar, lalu gulung 3 hingga 5 bagian untuk membuat bunga. Rebus kacang polong dan potong menjadi empat bagian secara diagonal.",
+        "Isi cangkir dengan nasi sushi dan tambahkan telur goreng. Hiasi dengan bunga dari langkah 2, telur salmon, dan kacang polong di atasnya. Sajikan dengan kecap."
+      ],
+      "ms": [
+        "Masukkan ``Cuka Sushi dan Kelp Dashi'' ke dalam nasi hangat dan gaul.",
+        "Potong salmon, tuna, dan siakap nipis-nipis dan gulung 3 hingga 5 keping untuk membuat bunga. Rebus kacang salji dan potong menyerong menjadi empat.",
+        "Isikan secawan nasi sushi dan masukkan telur goreng. Hiaskan dengan bunga dari langkah 2, telur salmon dan kacang salji di atasnya. Hidangkan bersama kicap."
+      ],
+      "ko": [
+        "따뜻한 밥에 \"스시 식초 다시마 국물 들어가기\"를 넣고 섞는다.",
+        "연어, 참치, 싶은 것은 얇게 자르고, 3~5장을 순서대로 빙글빙글 감아 꽃을 만든다. 사야엔도는 삶고 비스듬히 4등분으로 자른다.",
+        "컵에 초밥을 담아 볶은 달걀을 넣는다. 그 위에 2의 꽃을 장식하고, 이쿠라, 사야엔도를 장식한다. 간장을 넣는다."
+      ]
+    }
   }
 ]

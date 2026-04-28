@@ -175777,5 +175777,1404 @@
         "뚜껑을 꺼내 레몬즙을 넣고 푹 볶아 그릇에 담는다."
       ]
     }
+  },
+  {
+    "id": "0791aa77",
+    "source_url": "https://www.mizkan.co.jp/ouchirecipe/recipe/?menu_id=22902",
+    "source_site": "Mizkan",
+    "title_ja": "つゆうま煮込みハンバーグ",
+    "description_ja": "",
+    "ingredients": [
+      {
+        "name_ja": "ハンバーグ",
+        "amount": "2個",
+        "name_translated": {
+          "en": "hamburger",
+          "zh_tw": "漢堡",
+          "zh_cn": "汉堡包",
+          "vi": "bánh hamburger",
+          "hi": "हैमबर्गर",
+          "ru": "гамбургер",
+          "th": "แฮมเบอร์เกอร์",
+          "id": "hamburger",
+          "ms": "hamburger",
+          "ko": "햄버거"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%8F%E3%83%B3%E3%83%90%E3%83%BC%E3%82%B0&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%8F%E3%83%B3%E3%83%90%E3%83%BC%E3%82%B0/?tag="
+      },
+      {
+        "name_ja": "まいたけ",
+        "amount": "1パック",
+        "name_translated": {
+          "en": "Maitake",
+          "zh_tw": "舞茸",
+          "zh_cn": "舞茸",
+          "vi": "maitake",
+          "hi": "मैताके",
+          "ru": "Майтаке",
+          "th": "ไมตาเกะ",
+          "id": "Maitake",
+          "ms": "Maitake",
+          "ko": "마이타케"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%BE%E3%81%84%E3%81%9F%E3%81%91&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%BE%E3%81%84%E3%81%9F%E3%81%91/?tag="
+      },
+      {
+        "name_ja": "にんじん",
+        "amount": "1／３本",
+        "name_translated": {
+          "en": "carrot",
+          "zh_tw": "紅蘿蔔",
+          "zh_cn": "胡萝卜",
+          "vi": "cà rốt",
+          "hi": "गाजर",
+          "ru": "морковь",
+          "th": "แครอท",
+          "id": "wortel",
+          "ms": "lobak merah",
+          "ko": "당근"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%AB%E3%82%93%E3%81%98%E3%82%93&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%AB%E3%82%93%E3%81%98%E3%82%93/?tag="
+      },
+      {
+        "name_ja": "小麦粉",
+        "amount": "大さじ２",
+        "name_translated": {
+          "en": "flour",
+          "zh_tw": "麵粉",
+          "zh_cn": "面粉",
+          "vi": "bột mì",
+          "hi": "आटा",
+          "ru": "мука",
+          "th": "แป้ง",
+          "id": "tepung",
+          "ms": "tepung",
+          "ko": "밀가루"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E5%B0%8F%E9%BA%A6%E7%B2%89&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E5%B0%8F%E9%BA%A6%E7%B2%89/?tag="
+      },
+      {
+        "name_ja": "バター",
+        "amount": "１５ｇ",
+        "name_translated": {
+          "en": "butter",
+          "zh_tw": "奶油",
+          "zh_cn": "黄油",
+          "vi": "bơ",
+          "hi": "मक्खन",
+          "ru": "масло",
+          "th": "เนย",
+          "id": "mentega",
+          "ms": "mentega",
+          "ko": "버터"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%90%E3%82%BF%E3%83%BC&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%90%E3%82%BF%E3%83%BC/?tag="
+      },
+      {
+        "name_ja": "ミツカン　追いがつおつゆ２倍",
+        "amount": "５０ｍｌ",
+        "name_translated": {
+          "en": "Mizkan Oigatsu Otsuyu x2",
+          "zh_tw": "味滋館大月大津 x2",
+          "zh_cn": "味滋馆大月大津 x2",
+          "vi": "Mizkan Oigatsu Otsuyu x2",
+          "hi": "मिज़कान ओइगात्सु ओत्सुयु x2",
+          "ru": "Мизкан Ойгацу Оцую x2",
+          "th": "มิซคัง โออิงัตสึ โอทสึยุ x2",
+          "id": "Mizkan Oigatsu Otsuyu x2",
+          "ms": "Mizkan Oigatsu Otsuyu x2",
+          "ko": "미쓰칸 쫓는 츠츠유 2배"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E8%BF%BD%E3%81%84%E3%81%8C%E3%81%A4%E3%81%8A%E3%81%A4%E3%82%86%EF%BC%92%E5%80%8D&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E8%BF%BD%E3%81%84%E3%81%8C%E3%81%A4%E3%81%8A%E3%81%A4%E3%82%86%EF%BC%92%E5%80%8D/?tag="
+      },
+      {
+        "name_ja": "水",
+        "amount": "１５０ｍｌ",
+        "name_translated": {
+          "en": "water",
+          "zh_tw": "水",
+          "zh_cn": "水",
+          "vi": "Nước",
+          "hi": "पानी",
+          "ru": "вода",
+          "th": "น้ำ",
+          "id": "air",
+          "ms": "air",
+          "ko": "물"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E6%B0%B4&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E6%B0%B4/?tag="
+      },
+      {
+        "name_ja": "トマトケチャップ",
+        "amount": "大さじ１",
+        "name_translated": {
+          "en": "tomato ketchup",
+          "zh_tw": "番茄醬",
+          "zh_cn": "番茄酱",
+          "vi": "sốt cà chua",
+          "hi": "टमाटर केचप",
+          "ru": "томатный кетчуп",
+          "th": "ซอสมะเขือเทศ",
+          "id": "saus tomat",
+          "ms": "sos tomato",
+          "ko": "토마토 케첩"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%88%E3%83%9E%E3%83%88%E3%82%B1%E3%83%81%E3%83%A3%E3%83%83%E3%83%97&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%88%E3%83%9E%E3%83%88%E3%82%B1%E3%83%81%E3%83%A3%E3%83%83%E3%83%97/?tag="
+      },
+      {
+        "name_ja": "１",
+        "amount": "にし、電子レンジ(６００W)で２～３分加熱する。",
+        "name_translated": {
+          "en": "1",
+          "zh_tw": "1",
+          "zh_cn": "1",
+          "vi": "1",
+          "hi": "1",
+          "ru": "1",
+          "th": "1",
+          "id": "1",
+          "ms": "1",
+          "ko": "1"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%91&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%91/?tag="
+      },
+      {
+        "name_ja": "２",
+        "amount": "ハンバーグに火が通ったら、余計な油をふき取り、空いた部分にバターと小麦粉を入れて炒める。",
+        "name_translated": {
+          "en": "2",
+          "zh_tw": "2",
+          "zh_cn": "2",
+          "vi": "2",
+          "hi": "2",
+          "ru": "2",
+          "th": "2",
+          "id": "2",
+          "ms": "2",
+          "ko": "2"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%92&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%92/?tag="
+      },
+      {
+        "name_ja": "３",
+        "amount": "水と「追いがつおつゆ２倍」を加えてのばし、トマトケチャップを加え、まいたけ、にんじんを入れてサッと煮込む。",
+        "name_translated": {
+          "en": "3",
+          "zh_tw": "3",
+          "zh_cn": "3",
+          "vi": "3",
+          "hi": "3",
+          "ru": "3",
+          "th": "3",
+          "id": "3",
+          "ms": "3",
+          "ko": "3"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%93&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%93/?tag="
+      }
+    ],
+    "steps_ja": [
+      "フライパンにサラダ油をひいてハンバーグを焼く。まいたけは小房にわけ、にんじんは小さ目の乱切りにし、電子レンジ(６００W)で２～３分加熱する。",
+      "ハンバーグに火が通ったら、余計な油をふき取り、空いた部分にバターと小麦粉を入れて炒める。",
+      "水と「追いがつおつゆ２倍」を加えてのばし、トマトケチャップを加え、まいたけ、にんじんを入れてサッと煮込む。"
+    ],
+    "image_url": "",
+    "title": {
+      "en": "Tsuyuuma stew hamburger",
+      "zh_tw": "Tsuyuuma燉漢堡",
+      "zh_cn": "Tsuyuuma炖汉堡",
+      "vi": "Hamburger hầm Tsuyuuma",
+      "hi": "त्सुयुमा स्टू हैमबर्गर",
+      "ru": "Цуюма тушеный гамбургер",
+      "th": "แฮมเบอร์เกอร์สตูว์สึยูมะ",
+      "id": "Hamburger rebusan Tsuyuuma",
+      "ms": "Hamburger rebus Tsuyuuma",
+      "ko": "츠유마 삶은 햄버거"
+    },
+    "description": {
+      "en": "",
+      "zh_tw": "",
+      "zh_cn": "",
+      "vi": "",
+      "hi": "",
+      "ru": "",
+      "th": "",
+      "id": "",
+      "ms": "",
+      "ko": ""
+    },
+    "steps": {
+      "en": [
+        "Heat salad oil in a frying pan and fry the hamburgers. Divide the maitake mushrooms into florets, cut the carrots into small pieces, and heat in the microwave (600W) for 2 to 3 minutes.",
+        "Once the hamburger steak is cooked, wipe off the excess oil, add butter and flour to the empty space, and stir-fry.",
+        "Add water and ``Oigatsu Otsuyu x 2'', spread it out, add tomato ketchup, add maitake mushrooms and carrots, and bring to a quick simmer."
+      ],
+      "zh_tw": [
+        "在煎鍋中加熱沙拉油，然後煎漢堡。將舞茸分成小朵，紅蘿蔔切成小塊，以微波爐（600W）加熱2至3分鐘。",
+        "漢堡牛排煮熟後，擦去多餘的油，在空的地方加入奶油和麵粉，翻炒。",
+        "加入水和“Oigatsu Otsuyu x 2”，攤開，加入番茄醬，加入舞茸和胡蘿蔔，然後快速煮沸。"
+      ],
+      "zh_cn": [
+        "在煎锅中加热色拉油，然后煎汉堡包。将舞茸分成小朵，胡萝卜切成小块，用微波炉（600W）加热2至3分钟。",
+        "汉堡牛排煮熟后，擦去多余的油，在空的地方加入黄油和面粉，翻炒。",
+        "加入水和“Oigatsu Otsuyu x 2”，摊开，加入番茄酱，加入舞茸和胡萝卜，然后快速煮沸。"
+      ],
+      "vi": [
+        "Đun nóng dầu salad trong chảo rán và chiên bánh mì kẹp thịt. Chia nấm maitake thành từng bông hoa, cắt cà rốt thành từng miếng nhỏ rồi đun trong lò vi sóng (600W) trong 2 đến 3 phút.",
+        "Sau khi miếng hamburger bít tết chín, lau sạch dầu thừa, thêm bơ và bột mì vào chỗ trống rồi xào.",
+        "Thêm nước và ``Oigatsu Otsuyu x 2'', dàn đều, thêm sốt cà chua, thêm nấm maitake và cà rốt vào, đun sôi nhanh."
+      ],
+      "hi": [
+        "एक फ्राइंग पैन में सलाद तेल गरम करें और हैमबर्गर तलें। मैटेक मशरूम को फूलों में बांट लें, गाजर को छोटे टुकड़ों में काट लें और माइक्रोवेव (600W) में 2 से 3 मिनट तक गर्म करें।",
+        "एक बार जब हैमबर्गर स्टेक पक जाए, तो अतिरिक्त तेल हटा दें, खाली जगह पर मक्खन और आटा डालें और हिलाएँ।",
+        "पानी और ``ओइगात्सू ओत्सुयु x 2'' डालें, इसे फैलाएं, टमाटर केचप डालें, मैटेक मशरूम और गाजर डालें और तेज़ आंच पर पकाएं।"
+      ],
+      "ru": [
+        "Нагрейте салатное масло на сковороде и обжарьте гамбургеры. Разделите грибы майтаке на соцветия, морковь нарежьте небольшими кусочками и разогрейте в микроволновой печи (600 Вт) в течение 2–3 минут.",
+        "Когда стейк для гамбургера будет готов, вытрите излишки масла, добавьте сливочное масло и муку в пустое пространство и обжарьте, помешивая.",
+        "Добавьте воду и «Ойгацу Оцую x 2», разложите, добавьте томатный кетчуп, добавьте грибы майтаке и морковь и доведите до быстрого кипения."
+      ],
+      "th": [
+        "ตั้งน้ำมันสลัดให้ร้อนในกระทะแล้วทอดแฮมเบอร์เกอร์ แบ่งเห็ดไมตาเกะออกเป็นดอกเล็กๆ หั่นแครอทเป็นชิ้นเล็กๆ แล้วนำไปให้ความร้อนในไมโครเวฟ (600W) เป็นเวลา 2 ถึง 3 นาที",
+        "เมื่อสเต็กแฮมเบอร์เกอร์สุกแล้ว ให้เช็ดน้ำมันส่วนเกินออก ใส่เนยและแป้งลงในพื้นที่ว่างแล้วผัด",
+        "เติมน้ำและ ``Oigatsu Otsuyu x 2'' เกลี่ยให้ทั่ว ใส่ซอสมะเขือเทศ ใส่เห็ดไมตาเกะและแครอท แล้วเคี่ยวอย่างรวดเร็ว"
+      ],
+      "id": [
+        "Panaskan minyak salad dalam wajan dan goreng hamburger. Bagi jamur maitake menjadi kuntum, potong wortel kecil-kecil, dan panaskan dalam microwave (600W) selama 2 hingga 3 menit.",
+        "Setelah steak hamburger matang, bersihkan sisa minyak, tambahkan mentega dan tepung ke ruang kosong, lalu tumis.",
+        "Tambahkan air dan ``Oigatsu Otsuyu x 2'', ratakan, tambahkan saus tomat, tambahkan jamur maitake dan wortel, lalu didihkan sebentar."
+      ],
+      "ms": [
+        "Panaskan minyak salad dalam kuali dan goreng hamburger. Bahagikan cendawan maitake kepada kuntum bunga, potong lobak merah menjadi kepingan kecil, dan panaskan dalam ketuhar gelombang mikro (600W) selama 2 hingga 3 minit.",
+        "Setelah stik hamburger masak, lapkan lebihan minyak, masukkan mentega dan tepung ke ruang kosong, dan tumis.",
+        "Masukkan air dan ``Oigatsu Otsuyu x 2'', ratakan, masukkan sos tomato, masukkan cendawan maitake dan lobak merah, dan biarkan mendidih dengan cepat."
+      ],
+      "ko": [
+        "프라이팬에 샐러드 기름을 넣고 햄버거를 굽는다. 마이타케는 소방에 비해, 당근은 작은 눈의 방해로 하고, 전자 레인지(600W)로 2~3분 가열한다.",
+        "햄버거에 불이 지나면 불필요한 기름을 닦아내고 빈 부분에 버터와 밀가루를 넣고 볶는다.",
+        "물과 '쫓는 가다랭이 2배'를 넣고 튀김, 토마토 케첩을 넣고 달걀, 당근을 넣고 끓인다."
+      ]
+    }
+  },
+  {
+    "id": "a93a9203",
+    "source_url": "https://www.mizkan.co.jp/ouchirecipe/recipe/?menu_id=23668",
+    "source_site": "Mizkan",
+    "title_ja": "豚肉とブロッコリーのバタぽん焼き",
+    "description_ja": "",
+    "ingredients": [
+      {
+        "name_ja": "豚バラ肉　薄切り",
+        "amount": "１８０ｇ",
+        "name_translated": {
+          "en": "Thinly sliced ​​pork belly",
+          "zh_tw": "五花肉切成薄片",
+          "zh_cn": "五花肉切成薄片",
+          "vi": "Thịt ba chỉ thái mỏng",
+          "hi": "पतले कटा हुआ सूअर का मांस पेट",
+          "ru": "Тонко нарезанная свиная грудинка",
+          "th": "หมูสามชั้นหั่นบางๆ",
+          "id": "Perut babi diiris tipis",
+          "ms": "Perut babi yang dihiris nipis",
+          "ko": "돼지 장미 고기 얇게 썬다."
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E8%B1%9A%E3%83%90%E3%83%A9%E8%82%89%E3%80%80%E8%96%84%E5%88%87%E3%82%8A&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E8%B1%9A%E3%83%90%E3%83%A9%E8%82%89%E3%80%80%E8%96%84%E5%88%87%E3%82%8A/?tag="
+      },
+      {
+        "name_ja": "ブロッコリー",
+        "amount": "１株（正味２００ｇ）",
+        "name_translated": {
+          "en": "broccoli",
+          "zh_tw": "綠色花椰菜",
+          "zh_cn": "西兰花",
+          "vi": "bông cải xanh",
+          "hi": "ब्रोकोली",
+          "ru": "брокколи",
+          "th": "บรอกโคลี",
+          "id": "brokoli",
+          "ms": "brokoli",
+          "ko": "브로콜리"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%96%E3%83%AD%E3%83%83%E3%82%B3%E3%83%AA%E3%83%BC&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%96%E3%83%AD%E3%83%83%E3%82%B3%E3%83%AA%E3%83%BC/?tag="
+      },
+      {
+        "name_ja": "黄パプリカ",
+        "amount": "２／３個",
+        "name_translated": {
+          "en": "yellow paprika",
+          "zh_tw": "黃辣椒粉",
+          "zh_cn": "黄辣椒粉",
+          "vi": "ớt bột màu vàng",
+          "hi": "पीला लाल शिमला मिर्च",
+          "ru": "желтая паприка",
+          "th": "พริกหยวกสีเหลือง",
+          "id": "paprika kuning",
+          "ms": "paprika kuning",
+          "ko": "노란 파프리카"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E9%BB%84%E3%83%91%E3%83%97%E3%83%AA%E3%82%AB&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E9%BB%84%E3%83%91%E3%83%97%E3%83%AA%E3%82%AB/?tag="
+      },
+      {
+        "name_ja": "にんにく　（薄切り）",
+        "amount": "１かけ分",
+        "name_translated": {
+          "en": "Garlic (thinly sliced)",
+          "zh_tw": "大蒜（切成薄片）",
+          "zh_cn": "大蒜（切成薄片）",
+          "vi": "Tỏi (thái lát mỏng)",
+          "hi": "लहसुन (पतला कटा हुआ)",
+          "ru": "Чеснок (тонко нарезанный)",
+          "th": "กระเทียม (หั่นบาง ๆ )",
+          "id": "Bawang putih (iris tipis)",
+          "ms": "Bawang putih (dihiris nipis)",
+          "ko": "마늘 (얇은 조각)"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%AB%E3%82%93%E3%81%AB%E3%81%8F%E3%80%80%EF%BC%88%E8%96%84%E5%88%87%E3%82%8A%EF%BC%89&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%AB%E3%82%93%E3%81%AB%E3%81%8F%E3%80%80%EF%BC%88%E8%96%84%E5%88%87%E3%82%8A%EF%BC%89/?tag="
+      },
+      {
+        "name_ja": "サラダ油",
+        "amount": "大さじ１／２",
+        "name_translated": {
+          "en": "salad oil",
+          "zh_tw": "沙拉油",
+          "zh_cn": "色拉油",
+          "vi": "dầu trộn salad",
+          "hi": "वनस्पति - तेल",
+          "ru": "салатное масло",
+          "th": "น้ำมันสลัด",
+          "id": "minyak salad",
+          "ms": "minyak salad",
+          "ko": "샐러드 오일"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%82%B5%E3%83%A9%E3%83%80%E6%B2%B9&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%82%B5%E3%83%A9%E3%83%80%E6%B2%B9/?tag="
+      },
+      {
+        "name_ja": "ミツカン　味ぽん",
+        "amount": "大さじ２",
+        "name_translated": {
+          "en": "Mizkan Ajipon",
+          "zh_tw": "味滋康味精",
+          "zh_cn": "味滋康味精",
+          "vi": "Mizkan Ajipon",
+          "hi": "मिज़कान अजिपोन",
+          "ru": "Мизкан Аджипон",
+          "th": "มิซกัน อาจิปอน",
+          "id": "Mizkan Ajipon",
+          "ms": "Mizkan Ajipon",
+          "ko": "미츠칸 미폰"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E5%91%B3%E3%81%BD%E3%82%93&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E5%91%B3%E3%81%BD%E3%82%93/?tag="
+      },
+      {
+        "name_ja": "バター",
+        "amount": "１０ｇ",
+        "name_translated": {
+          "en": "butter",
+          "zh_tw": "奶油",
+          "zh_cn": "黄油",
+          "vi": "bơ",
+          "hi": "मक्खन",
+          "ru": "масло",
+          "th": "เนย",
+          "id": "mentega",
+          "ms": "mentega",
+          "ko": "버터"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%90%E3%82%BF%E3%83%BC&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%90%E3%82%BF%E3%83%BC/?tag="
+      },
+      {
+        "name_ja": "１",
+        "amount": "にする。",
+        "name_translated": {
+          "en": "1",
+          "zh_tw": "1",
+          "zh_cn": "1",
+          "vi": "1",
+          "hi": "1",
+          "ru": "1",
+          "th": "1",
+          "id": "1",
+          "ms": "1",
+          "ko": "1"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%91&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%91/?tag="
+      },
+      {
+        "name_ja": "２",
+        "amount": "フライパンにサラダ油、にんにくを入れ弱めの中火で熱し、香りが出たら豚肉を焼く。火が通ったら余分な油をふき、パプリカを入れ、軽く焦げ目がついたら、「味ぽん」を入れて汁けをとばすように炒めからめる。途中でブロッコリーを加える。",
+        "name_translated": {
+          "en": "2",
+          "zh_tw": "2",
+          "zh_cn": "2",
+          "vi": "2",
+          "hi": "2",
+          "ru": "2",
+          "th": "2",
+          "id": "2",
+          "ms": "2",
+          "ko": "2"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%92&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%92/?tag="
+      },
+      {
+        "name_ja": "３",
+        "amount": "仕上げにバターを入れ炒めからめる。",
+        "name_translated": {
+          "en": "3",
+          "zh_tw": "3",
+          "zh_cn": "3",
+          "vi": "3",
+          "hi": "3",
+          "ru": "3",
+          "th": "3",
+          "id": "3",
+          "ms": "3",
+          "ko": "3"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%93&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%93/?tag="
+      }
+    ],
+    "steps_ja": [
+      "豚肉は一口大に切る。ブブロッコリーは小房に分け、茎は皮をむき、食べやすい大きさに切り、耐熱容器に入れ電子レンジ（６００Ｗ）で２分加熱する。パプリカは乱切りにする。",
+      "フライパンにサラダ油、にんにくを入れ弱めの中火で熱し、香りが出たら豚肉を焼く。火が通ったら余分な油をふき、パプリカを入れ、軽く焦げ目がついたら、「味ぽん」を入れて汁けをとばすように炒めからめる。途中でブロッコリーを加える。",
+      "仕上げにバターを入れ炒めからめる。"
+    ],
+    "image_url": "",
+    "title": {
+      "en": "Grilled pork and broccoli",
+      "zh_tw": "烤豬肉和綠花椰菜",
+      "zh_cn": "烤猪肉和西兰花",
+      "vi": "Thịt lợn nướng và bông cải xanh",
+      "hi": "ग्रिल्ड पोर्क और ब्रोकोली",
+      "ru": "Жареная свинина и брокколи",
+      "th": "หมูย่างและบรอกโคลี",
+      "id": "Daging babi panggang dan brokoli",
+      "ms": "Daging babi panggang dan brokoli",
+      "ko": "돼지고기와 브로콜리 버터 폰야키"
+    },
+    "description": {
+      "en": "",
+      "zh_tw": "",
+      "zh_cn": "",
+      "vi": "",
+      "hi": "",
+      "ru": "",
+      "th": "",
+      "id": "",
+      "ms": "",
+      "ko": ""
+    },
+    "steps": {
+      "en": [
+        "Cut the pork into bite-sized pieces. Divide the broccoli into florets, peel the stems, cut into bite-sized pieces, place in a heat-resistant container, and heat in the microwave (600W) for 2 minutes. Cut the paprika into pieces.",
+        "Add salad oil and garlic to a frying pan, heat over medium-low heat, and fry the pork until fragrant. Once it's heated, wipe off the excess oil, add the paprika, and when it's lightly browned, add the ``Ajipon'' and stir-fry to evaporate the liquid. Add broccoli halfway through.",
+        "To finish, add butter and stir-fry."
+      ],
+      "zh_tw": [
+        "將豬肉切成一口大小的塊狀。将西兰花分成小朵，去蒂，切成一口大小的块，放入耐热容器中，在微波炉（600W）中加热2分钟。將辣椒切成片。",
+        "煎鍋中加入沙拉油和大蒜，以中小火加熱，將豬肉炒香。加熱後，擦掉多餘的油，加入辣椒粉，當它呈淺棕色時，加入“Ajipon”，炒至蒸發液體。中途加入西蘭花。",
+        "最後，加入奶油並翻炒。"
+      ],
+      "zh_cn": [
+        "将猪肉切成一口大小的块。将西兰花分成小朵，去蒂，切成一口大小的块，放入耐热容器中，在微波炉（600W）中加热2分钟。将辣椒切成片。",
+        "煎锅中加入色拉油和大蒜，中小火加热，将猪肉炒香。加热后，擦掉多余的油，加入辣椒粉，当它呈浅棕色时，加入“Ajipon”，炒至蒸发液体。中途加入西兰花。",
+        "最后，加入黄油并翻炒。"
+      ],
+      "vi": [
+        "Cắt thịt lợn thành miếng vừa ăn. Chia bông cải xanh thành từng phần nhỏ, gọt vỏ, cắt thành từng miếng vừa ăn, cho vào hộp chịu nhiệt rồi cho vào lò vi sóng (600W) quay trong 2 phút. Cắt ớt bột thành miếng.",
+        "Cho dầu salad và tỏi vào chảo, đun nóng ở lửa vừa và nhỏ rồi xào thịt lợn cho đến khi có mùi thơm. Sau khi đun nóng, hãy lau sạch dầu thừa, thêm ớt bột và khi nó có màu nâu nhạt, thêm `` Ajipon '' và xào để làm bay hơi chất lỏng. Thêm bông cải xanh vào giữa chừng.",
+        "Để hoàn tất, thêm bơ và xào."
+      ],
+      "hi": [
+        "सूअर के मांस को छोटे टुकड़ों में काट लें। ब्रोकोली को फूलों में विभाजित करें, डंठल छीलें, काटने के आकार के टुकड़ों में काटें, गर्मी प्रतिरोधी कंटेनर में रखें और 2 मिनट के लिए माइक्रोवेव (600W) में गर्म करें। लाल शिमला मिर्च को टुकड़ों में काट लीजिये.",
+        "एक फ्राइंग पैन में सलाद तेल और लहसुन डालें, मध्यम-धीमी आंच पर गर्म करें और सूअर का मांस सुगंधित होने तक भूनें। एक बार जब यह गर्म हो जाए, तो अतिरिक्त तेल हटा दें, लाल शिमला मिर्च डालें, और जब यह हल्का भूरा हो जाए, तो ``अजिपोन'' डालें और तरल को वाष्पित करने के लिए हिलाएँ। बीच में ब्रोकली डालें।",
+        "ख़त्म करने के लिए, मक्खन डालें और हिलाएँ।"
+      ],
+      "ru": [
+        "Нарезаем свинину некрупными кусочками. Разделите брокколи на соцветия, очистите от стеблей, нарежьте небольшими кусочками, поместите в термостойкий контейнер и нагрейте в микроволновой печи (600 Вт) в течение 2 минут. Нарезаем паприку кусочками.",
+        "Добавьте в сковороду салатное масло и чеснок, нагрейте на среднем или слабом огне и обжарьте свинину до появления аромата. Как только он нагреется, вытрите излишки масла, добавьте перец, а когда он слегка подрумянится, добавьте «Аджипон» и обжаривайте, помешивая, чтобы испарилась жидкость. В середине приготовления добавьте брокколи.",
+        "В завершение добавьте сливочное масло и обжарьте."
+      ],
+      "th": [
+        "หั่นหมูเป็นชิ้นขนาดพอดีคำ แบ่งบรอกโคลีออกเป็นดอกเล็กๆ ปอกเปลือกก้าน หั่นเป็นชิ้นขนาดพอดีคำ ใส่ในภาชนะทนความร้อน และนำไปให้ความร้อนในไมโครเวฟ (600W) เป็นเวลา 2 นาที หั่นพริกหยวกเป็นชิ้นๆ",
+        "ใส่น้ำมันสลัดและกระเทียมลงในกระทะ ตั้งไฟกลาง-อ่อน แล้วผัดหมูจนมีกลิ่นหอม เมื่อร้อนแล้ว ให้เช็ดน้ำมันส่วนเกินออก ใส่ปาปริก้า และเมื่อเปลี่ยนเป็นสีน้ำตาลอ่อนๆ ให้เติม ``อาจิปอน'' แล้วผัดให้ของเหลวระเหย เพิ่มบรอกโคลีครึ่งทาง",
+        "เสร็จแล้วใส่เนยลงไปผัด"
+      ],
+      "id": [
+        "Potong daging babi menjadi potongan-potongan kecil. Bagi brokoli menjadi kuntum, kupas batangnya, potong-potong seukuran sekali gigit, masukkan ke dalam wadah tahan panas, dan panaskan dalam microwave (600W) selama 2 menit. Potong paprika menjadi beberapa bagian.",
+        "Tambahkan minyak salad dan bawang putih ke dalam wajan, panaskan dengan api sedang-kecil, lalu goreng daging babi hingga harum. Setelah panas, bersihkan sisa minyak, tambahkan paprika, dan jika sudah agak kecoklatan, tambahkan ``Ajipon'' dan tumis hingga cairannya menguap. Tambahkan brokoli di tengah jalan.",
+        "Untuk menyelesaikannya, tambahkan mentega dan tumis."
+      ],
+      "ms": [
+        "Potong daging babi menjadi kepingan bersaiz gigitan. Bahagikan brokoli kepada kuntum bunga, kupas batangnya, potong seukuran gigitan, masukkan ke dalam bekas tahan panas, dan panaskan dalam ketuhar gelombang mikro (600W) selama 2 minit. Potong paprika menjadi kepingan.",
+        "Masukkan minyak salad dan bawang putih ke dalam kuali, panaskan dengan api sederhana sederhana, dan goreng daging babi sehingga wangi. Setelah dipanaskan, sapu lebihan minyak, masukkan paprika, dan apabila sudah agak perang, masukkan ``Ajipon'' dan tumis hingga sejat cecair. Masukkan brokoli separuh.",
+        "Untuk selesai, masukkan mentega dan tumis."
+      ],
+      "ko": [
+        "돼지고기는 한입 크기로 자른다. 브로콜리는 소방으로 나누고 줄기는 껍질을 벗기고 먹기 쉬운 크기로 잘라 내열 용기에 넣고 전자레인지(600W)로 2분 가열한다. 파프리카는 방해한다.",
+        "프라이팬에 샐러드 기름, 마늘을 넣고 약한 중불로 가열하고 향기가 나면 돼지고기를 굽는다. 불이 지나면 여분의 기름을 닦고 파프리카를 넣고 가볍게 타고 눈이 붙으면 맛을 넣고 국물을 건너 뛰도록 볶습니다. 중간에 브로콜리를 넣는다.",
+        "마무리에 버터를 넣고 볶음."
+      ]
+    }
+  },
+  {
+    "id": "72e63893",
+    "source_url": "https://www.mizkan.co.jp/ouchirecipe/recipe/?menu_id=22582",
+    "source_site": "Mizkan",
+    "title_ja": "ラタトゥイユ",
+    "description_ja": "",
+    "ingredients": [
+      {
+        "name_ja": "なす",
+        "amount": "１本",
+        "name_translated": {
+          "en": "Eggplant",
+          "zh_tw": "茄子",
+          "zh_cn": "茄子",
+          "vi": "cà tím",
+          "hi": "बैंगन",
+          "ru": "Баклажан",
+          "th": "มะเขือ",
+          "id": "Terung",
+          "ms": "terung",
+          "ko": "이루다"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%AA%E3%81%99&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%AA%E3%81%99/?tag="
+      },
+      {
+        "name_ja": "ズッキーニ",
+        "amount": "１本",
+        "name_translated": {
+          "en": "zucchini",
+          "zh_tw": "西葫蘆",
+          "zh_cn": "西葫芦",
+          "vi": "bí xanh",
+          "hi": "तोरी",
+          "ru": "цуккини",
+          "th": "บวบ",
+          "id": "timun Jepang",
+          "ms": "zucchini",
+          "ko": "호박"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%82%BA%E3%83%83%E3%82%AD%E3%83%BC%E3%83%8B&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%82%BA%E3%83%83%E3%82%AD%E3%83%BC%E3%83%8B/?tag="
+      },
+      {
+        "name_ja": "赤パプリカ",
+        "amount": "１／２個",
+        "name_translated": {
+          "en": "red paprika",
+          "zh_tw": "紅辣椒粉",
+          "zh_cn": "红辣椒粉",
+          "vi": "ớt đỏ",
+          "hi": "लाल शिमला मिर्च",
+          "ru": "красная паприка",
+          "th": "พริกหยวกแดง",
+          "id": "paprika merah",
+          "ms": "paprika merah",
+          "ko": "레드 파프리카"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E8%B5%A4%E3%83%91%E3%83%97%E3%83%AA%E3%82%AB&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E8%B5%A4%E3%83%91%E3%83%97%E3%83%AA%E3%82%AB/?tag="
+      },
+      {
+        "name_ja": "たまねぎ",
+        "amount": "１／２個",
+        "name_translated": {
+          "en": "onion",
+          "zh_tw": "洋蔥",
+          "zh_cn": "洋葱",
+          "vi": "củ hành",
+          "hi": "प्याज",
+          "ru": "лук",
+          "th": "หัวหอม",
+          "id": "bawang bombai",
+          "ms": "bawang besar",
+          "ko": "양파"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%9F%E3%81%BE%E3%81%AD%E3%81%8E&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%9F%E3%81%BE%E3%81%AD%E3%81%8E/?tag="
+      },
+      {
+        "name_ja": "オリーブオイル",
+        "amount": "大さじ２",
+        "name_translated": {
+          "en": "olive oil",
+          "zh_tw": "橄欖油",
+          "zh_cn": "橄榄油",
+          "vi": "dầu ô liu",
+          "hi": "जैतून का तेल",
+          "ru": "оливковое масло",
+          "th": "น้ำมันมะกอก",
+          "id": "minyak zaitun",
+          "ms": "minyak zaitun",
+          "ko": "올리브 오일"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%82%AA%E3%83%AA%E3%83%BC%E3%83%96%E3%82%AA%E3%82%A4%E3%83%AB&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%82%AA%E3%83%AA%E3%83%BC%E3%83%96%E3%82%AA%E3%82%A4%E3%83%AB/?tag="
+      },
+      {
+        "name_ja": "ミツカン　カンタン酢トマト",
+        "amount": "適量（１００ｍｌ程度）",
+        "name_translated": {
+          "en": "Mizkan Easy Vinegar Tomato",
+          "zh_tw": "味滋康簡易醋番茄",
+          "zh_cn": "味滋康简易醋番茄",
+          "vi": "Cà chua giấm Mizkan Easy",
+          "hi": "मिज़कान आसान सिरका टमाटर",
+          "ru": "Мизкан Легкий Уксус Помидор",
+          "th": "มิซคาน อีซี่ วีนีการ์ มะเขือเทศ",
+          "id": "Mizkan Tomat Cuka Mudah",
+          "ms": "Mizkan Tomato Cuka Mudah",
+          "ko": "미츠칸 간탕 식초 토마토"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E3%82%AB%E3%83%B3%E3%82%BF%E3%83%B3%E9%85%A2%E3%83%88%E3%83%9E%E3%83%88&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E3%82%AB%E3%83%B3%E3%82%BF%E3%83%B3%E9%85%A2%E3%83%88%E3%83%9E%E3%83%88/?tag="
+      },
+      {
+        "name_ja": "１",
+        "amount": "にする。",
+        "name_translated": {
+          "en": "1",
+          "zh_tw": "1",
+          "zh_cn": "1",
+          "vi": "1",
+          "hi": "1",
+          "ru": "1",
+          "th": "1",
+          "id": "1",
+          "ms": "1",
+          "ko": "1"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%91&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%91/?tag="
+      },
+      {
+        "name_ja": "２",
+        "amount": "フライパンにオリーブオイルを中火で熱し、野菜を炒める。",
+        "name_translated": {
+          "en": "2",
+          "zh_tw": "2",
+          "zh_cn": "2",
+          "vi": "2",
+          "hi": "2",
+          "ru": "2",
+          "th": "2",
+          "id": "2",
+          "ms": "2",
+          "ko": "2"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%92&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%92/?tag="
+      },
+      {
+        "name_ja": "３",
+        "amount": "たまねぎが透き通り、野菜に焼き色がついたら、「カンタン酢トマト」を注ぎ入れる。汁けが少なくなるまで煮詰める。",
+        "name_translated": {
+          "en": "3",
+          "zh_tw": "3",
+          "zh_cn": "3",
+          "vi": "3",
+          "hi": "3",
+          "ru": "3",
+          "th": "3",
+          "id": "3",
+          "ms": "3",
+          "ko": "3"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%93&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%93/?tag="
+      }
+    ],
+    "steps_ja": [
+      "なすとズッキーニは１ｃｍ幅の半月切りにする。赤パプリカとたまねぎは乱切りにする。",
+      "フライパンにオリーブオイルを中火で熱し、野菜を炒める。",
+      "たまねぎが透き通り、野菜に焼き色がついたら、「カンタン酢トマト」を注ぎ入れる。汁けが少なくなるまで煮詰める。"
+    ],
+    "image_url": "",
+    "title": {
+      "en": "ratatouille",
+      "zh_tw": "料理鼠王",
+      "zh_cn": "料理鼠王",
+      "vi": "ratatouille",
+      "hi": "रैटटौली",
+      "ru": "рататуй",
+      "th": "ราตาตูย",
+      "id": "ratatouille",
+      "ms": "ratatouille",
+      "ko": "라타투유"
+    },
+    "description": {
+      "en": "",
+      "zh_tw": "",
+      "zh_cn": "",
+      "vi": "",
+      "hi": "",
+      "ru": "",
+      "th": "",
+      "id": "",
+      "ms": "",
+      "ko": ""
+    },
+    "steps": {
+      "en": [
+        "Cut the eggplant and zucchini into 1cm-wide half-moons. Dice the red bell pepper and onion.",
+        "Heat the olive oil in a frying pan over medium heat and fry the vegetables.",
+        "When the onions are translucent and the vegetables are browned, pour in the ``simple vinegar tomatoes.'' Boil until the liquid reduces."
+      ],
+      "zh_tw": [
+        "將茄子和櫛瓜切成1公分寬的半月形。將紅甜椒和洋蔥切丁。",
+        "在煎鍋中以中火加熱橄欖油，煎蔬菜。",
+        "當洋蔥變成半透明且蔬菜變成棕色時，倒入「簡單醋番茄」。煮沸直至液體減少。"
+      ],
+      "zh_cn": [
+        "将茄子和西葫芦切成1厘米宽的半月形。将红甜椒和洋葱切丁。",
+        "在煎锅中用中火加热橄榄油，煎蔬菜。",
+        "当洋葱变成半透明且蔬菜变成棕色时，倒入“简单醋西红柿”。煮沸直至液体减少。"
+      ],
+      "vi": [
+        "Cắt cà tím và bí xanh thành hình bán nguyệt rộng 1cm. Cắt hạt lựu ớt chuông đỏ và hành tây.",
+        "Đun nóng dầu ô liu trong chảo rán trên lửa vừa và xào rau.",
+        "Khi hành tây trong suốt và rau củ chuyển sang màu nâu, đổ ''cà chua giấm đơn giản'' vào đun sôi cho đến khi chất lỏng giảm bớt."
+      ],
+      "hi": [
+        "बैंगन और तोरी को 1 सेमी चौड़े आधे टुकड़ों में काटें। लाल शिमला मिर्च और प्याज को टुकड़ों में काट लें।",
+        "एक फ्राइंग पैन में मध्यम आंच पर जैतून का तेल गर्म करें और सब्जियां भूनें।",
+        "जब प्याज पारदर्शी हो जाए और सब्जियां भूरे रंग की हो जाएं, तो ``सरल सिरका टमाटर'' डालें। तब तक उबालें जब तक कि तरल कम न हो जाए।"
+      ],
+      "ru": [
+        "Нарежьте баклажаны и кабачки полумесяцами шириной 1 см. Нарезаем кубиками красный болгарский перец и лук.",
+        "Нагрейте оливковое масло в сковороде на среднем огне и обжарьте овощи.",
+        "Когда лук станет полупрозрачным, а овощи подрумянятся, влейте «простые помидоры с уксусом». Варите, пока жидкость не уменьшится."
+      ],
+      "th": [
+        "หั่นมะเขือยาวและบวบเป็นพระจันทร์ครึ่งดวงกว้าง 1 ซม. หั่นพริกหยวกแดงและหัวหอม",
+        "ตั้งน้ำมันมะกอกในกระทะบนไฟร้อนปานกลางแล้วทอดผัก",
+        "เมื่อหัวหอมโปร่งแสงและผักเป็นสีน้ำตาล ให้เท ``มะเขือเทศน้ำส้มสายชูธรรมดา'' ลงไป ต้มจนของเหลวลดลง"
+      ],
+      "id": [
+        "Potong terong dan zucchini menjadi bentuk setengah bulan selebar 1 cm. Potong dadu paprika merah dan bawang bombay.",
+        "Panaskan minyak zaitun dalam wajan dengan api sedang dan goreng sayuran.",
+        "Saat bawang bombay sudah bening dan sayuran berwarna kecokelatan, tuangkan ``tomat cuka sederhana.'' Rebus hingga cairannya berkurang."
+      ],
+      "ms": [
+        "Potong terung dan zucchini menjadi separuh bulan selebar 1cm. Potong dadu lada benggala merah dan bawang besar.",
+        "Panaskan minyak zaitun dalam kuali dengan api sederhana dan goreng sayur-sayuran.",
+        "Apabila bawang lut sinar dan sayur sudah keperangan, tuangkan ``tomato cuka ringkas.'' Didihkan sehingga cecair berkurangan."
+      ],
+      "ko": [
+        "이루면 호박은 1cm 폭의 반월절로 한다. 붉은 파프리카와 양파는 갈라진다.",
+        "프라이팬에 올리브 오일을 중불로 가열하고 야채를 볶는다.",
+        "양파가 맑은 대로, 야채에 구운 색이 붙으면, 「간단 식초 토마토」를 붓는다. 국물이 줄어들 때까지 끓인다."
+      ]
+    }
+  },
+  {
+    "id": "315697ef",
+    "source_url": "https://www.mizkan.co.jp/ouchirecipe/recipe/?menu_id=20277",
+    "source_site": "Mizkan",
+    "title_ja": "鶏肉と春キャベツのガーリックバターぽん酢炒め",
+    "description_ja": "",
+    "ingredients": [
+      {
+        "name_ja": "鶏もも肉",
+        "amount": "２８０ｇ（カット済）",
+        "name_translated": {
+          "en": "chicken thigh",
+          "zh_tw": "雞大腿",
+          "zh_cn": "鸡大腿",
+          "vi": "đùi gà",
+          "hi": "चिकन थाई",
+          "ru": "куриное бедро",
+          "th": "ต้นขาไก่",
+          "id": "paha ayam",
+          "ms": "paha ayam",
+          "ko": "닭 허벅지 고기"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E9%B6%8F%E3%82%82%E3%82%82%E8%82%89&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E9%B6%8F%E3%82%82%E3%82%82%E8%82%89/?tag="
+      },
+      {
+        "name_ja": "片栗粉",
+        "amount": "大さじ１",
+        "name_translated": {
+          "en": "potato starch",
+          "zh_tw": "馬鈴薯澱粉",
+          "zh_cn": "马铃薯淀粉",
+          "vi": "tinh bột khoai tây",
+          "hi": "आलू स्टार्च",
+          "ru": "картофельный крахмал",
+          "th": "แป้งมันฝรั่ง",
+          "id": "tepung kentang",
+          "ms": "kanji kentang",
+          "ko": "가문 가루"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E7%89%87%E6%A0%97%E7%B2%89&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E7%89%87%E6%A0%97%E7%B2%89/?tag="
+      },
+      {
+        "name_ja": "春キャベツ",
+        "amount": "１／４個（２００ｇ）",
+        "name_translated": {
+          "en": "spring cabbage",
+          "zh_tw": "春白菜",
+          "zh_cn": "春白菜",
+          "vi": "bắp cải xuân",
+          "hi": "वसंत गोभी",
+          "ru": "весенняя капуста",
+          "th": "กะหล่ำปลีฤดูใบไม้ผลิ",
+          "id": "kubis musim semi",
+          "ms": "kubis musim bunga",
+          "ko": "봄 양배추"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E6%98%A5%E3%82%AD%E3%83%A3%E3%83%99%E3%83%84&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E6%98%A5%E3%82%AD%E3%83%A3%E3%83%99%E3%83%84/?tag="
+      },
+      {
+        "name_ja": "バター",
+        "amount": "１０ｇ",
+        "name_translated": {
+          "en": "butter",
+          "zh_tw": "奶油",
+          "zh_cn": "黄油",
+          "vi": "bơ",
+          "hi": "मक्खन",
+          "ru": "масло",
+          "th": "เนย",
+          "id": "mentega",
+          "ms": "mentega",
+          "ko": "버터"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%90%E3%82%BF%E3%83%BC&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%90%E3%82%BF%E3%83%BC/?tag="
+      },
+      {
+        "name_ja": "おろしにんにく",
+        "amount": "小さじ１",
+        "name_translated": {
+          "en": "grated garlic",
+          "zh_tw": "磨碎的大蒜",
+          "zh_cn": "磨碎的大蒜",
+          "vi": "tỏi nghiền",
+          "hi": "कसा हुआ लहसुन",
+          "ru": "тертый чеснок",
+          "th": "กระเทียมขูด",
+          "id": "bawang putih parut",
+          "ms": "bawang putih parut",
+          "ko": "마늘 마늘"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%8A%E3%82%8D%E3%81%97%E3%81%AB%E3%82%93%E3%81%AB%E3%81%8F&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%8A%E3%82%8D%E3%81%97%E3%81%AB%E3%82%93%E3%81%AB%E3%81%8F/?tag="
+      },
+      {
+        "name_ja": "ミツカン　味ぽん",
+        "amount": "大さじ３",
+        "name_translated": {
+          "en": "Mizkan Ajipon",
+          "zh_tw": "味滋康味精",
+          "zh_cn": "味滋康味精",
+          "vi": "Mizkan Ajipon",
+          "hi": "मिज़कान अजिपोन",
+          "ru": "Мизкан Аджипон",
+          "th": "มิซกัน อาจิปอน",
+          "id": "Mizkan Ajipon",
+          "ms": "Mizkan Ajipon",
+          "ko": "미츠칸 미폰"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E5%91%B3%E3%81%BD%E3%82%93&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E5%91%B3%E3%81%BD%E3%82%93/?tag="
+      },
+      {
+        "name_ja": "粗挽き黒こしょう",
+        "amount": "適量",
+        "name_translated": {
+          "en": "coarsely ground black pepper",
+          "zh_tw": "粗磨黑胡椒",
+          "zh_cn": "粗磨黑胡椒",
+          "vi": "hạt tiêu đen xay thô",
+          "hi": "दरदरी पिसी हुई काली मिर्च",
+          "ru": "черный перец грубого помола",
+          "th": "พริกไทยดำป่นหยาบ",
+          "id": "lada hitam yang digiling kasar",
+          "ms": "lada hitam yang dikisar kasar",
+          "ko": "거친 까만 후추"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E7%B2%97%E6%8C%BD%E3%81%8D%E9%BB%92%E3%81%93%E3%81%97%E3%82%87%E3%81%86&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E7%B2%97%E6%8C%BD%E3%81%8D%E9%BB%92%E3%81%93%E3%81%97%E3%82%87%E3%81%86/?tag="
+      },
+      {
+        "name_ja": "１",
+        "amount": "にする。鶏肉は、大きければ一口大に切り、ポリ袋に入れ片栗粉をまぶす。",
+        "name_translated": {
+          "en": "1",
+          "zh_tw": "1",
+          "zh_cn": "1",
+          "vi": "1",
+          "hi": "1",
+          "ru": "1",
+          "th": "1",
+          "id": "1",
+          "ms": "1",
+          "ko": "1"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%91&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%91/?tag="
+      },
+      {
+        "name_ja": "２",
+        "amount": "の鶏肉を入れ、両面こんがりと焼き色がつくまで炒める。おろしにんにく、「味ぽん」を加え、炒めからめる。",
+        "name_translated": {
+          "en": "2",
+          "zh_tw": "2",
+          "zh_cn": "2",
+          "vi": "2",
+          "hi": "2",
+          "ru": "2",
+          "th": "2",
+          "id": "2",
+          "ms": "2",
+          "ko": "2"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%92&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%92/?tag="
+      },
+      {
+        "name_ja": "３",
+        "amount": "「味ぽん」が少し煮詰まったら、キャベツを加え炒めからめる。",
+        "name_translated": {
+          "en": "3",
+          "zh_tw": "3",
+          "zh_cn": "3",
+          "vi": "3",
+          "hi": "3",
+          "ru": "3",
+          "th": "3",
+          "id": "3",
+          "ms": "3",
+          "ko": "3"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%93&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%93/?tag="
+      },
+      {
+        "name_ja": "４",
+        "amount": "器に盛り、粗挽き黒こしょうをかける。",
+        "name_translated": {
+          "en": "4",
+          "zh_tw": "4",
+          "zh_cn": "4",
+          "vi": "4",
+          "hi": "4",
+          "ru": "4",
+          "th": "4",
+          "id": "4",
+          "ms": "4",
+          "ko": "4"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%94&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%94/?tag="
+      },
+      {
+        "name_ja": "春キャベツとベーコンのぽんパスタ",
+        "amount": "適量",
+        "name_translated": {
+          "en": "Spring cabbage and bacon pasta",
+          "zh_tw": "春捲心菜培根義大利麵",
+          "zh_cn": "春卷心菜培根意大利面",
+          "vi": "Mỳ ống bắp cải và thịt xông khói",
+          "hi": "वसंत गोभी और बेकन पास्ता",
+          "ru": "Весенняя капуста и макароны с беконом",
+          "th": "กะหล่ำปลีฤดูใบไม้ผลิและพาสต้าเบคอน",
+          "id": "Pegas kubis dan pasta bacon",
+          "ms": "Kubis musim bunga dan pasta bacon",
+          "ko": "봄 양배추와 베이컨 폰 파스타"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E6%98%A5%E3%82%AD%E3%83%A3%E3%83%99%E3%83%84%E3%81%A8%E3%83%99%E3%83%BC%E3%82%B3%E3%83%B3%E3%81%AE%E3%81%BD%E3%82%93%E3%83%91%E3%82%B9%E3%82%BF&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E6%98%A5%E3%82%AD%E3%83%A3%E3%83%99%E3%83%84%E3%81%A8%E3%83%99%E3%83%BC%E3%82%B3%E3%83%B3%E3%81%AE%E3%81%BD%E3%82%93%E3%83%91%E3%82%B9%E3%82%BF/?tag="
+      },
+      {
+        "name_ja": "春キャベツと豚肉のらくらくレンジ蒸し",
+        "amount": "適量",
+        "name_translated": {
+          "en": "Easy microwave steaming of spring cabbage and pork",
+          "zh_tw": "春キャベツと豚肉のらくらくレンジ蒸し",
+          "zh_cn": "微波炉轻松蒸春白菜和猪肉",
+          "vi": "Hấp bắp cải và thịt lợn bằng lò vi sóng dễ dàng",
+          "hi": "स्प्रिंग पत्तागोभी और पोर्क की आसान माइक्रोवेव स्टीमिंग",
+          "ru": "Легкое приготовление на пару весенней капусты и свинины в микроволновой печи",
+          "th": "นึ่งกะหล่ำปลีและหมูด้วยไมโครเวฟอย่างง่าย",
+          "id": "Mengukus kubis dan daging babi dengan microwave dengan mudah",
+          "ms": "Kukus kubis musim bunga dan daging babi dengan mudah melalui gelombang mikro",
+          "ko": "봄 양배추와 돼지고기의 편한 레인지 찜"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E6%98%A5%E3%82%AD%E3%83%A3%E3%83%99%E3%83%84%E3%81%A8%E8%B1%9A%E8%82%89%E3%81%AE%E3%82%89%E3%81%8F%E3%82%89%E3%81%8F%E3%83%AC%E3%83%B3%E3%82%B8%E8%92%B8%E3%81%97&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E6%98%A5%E3%82%AD%E3%83%A3%E3%83%99%E3%83%84%E3%81%A8%E8%B1%9A%E8%82%89%E3%81%AE%E3%82%89%E3%81%8F%E3%82%89%E3%81%8F%E3%83%AC%E3%83%B3%E3%82%B8%E8%92%B8%E3%81%97/?tag="
+      },
+      {
+        "name_ja": "レンジで！春キャベツとベーコンの無限ペッパーサラダ",
+        "amount": "適量",
+        "name_translated": {
+          "en": "In the microwave! Infinite pepper salad with spring cabbage and bacon",
+          "zh_tw": "在微波爐裡！無限量辣椒沙拉佐春高麗菜和培根",
+          "zh_cn": "在微波炉里！无限量辣椒沙拉配春卷心菜和培根",
+          "vi": "Trong lò vi sóng! Salad tiêu vô hạn với bắp cải và thịt xông khói",
+          "hi": "माइक्रोवेव में! वसंत पत्तागोभी और बेकन के साथ अनंत काली मिर्च का सलाद",
+          "ru": "В микроволновке! Бесконечный салат из перца с капустой и беконом",
+          "th": "ในไมโครเวฟ! สลัดพริกไทยไม่มีที่สิ้นสุดกับกะหล่ำปลีฤดูใบไม้ผลิและเบคอน",
+          "id": "Di dalam microwave! Salad lada tanpa batas dengan kubis musim semi dan bacon",
+          "ms": "Dalam ketuhar gelombang mikro! Salad lada tak terhingga dengan kubis musim bunga dan daging",
+          "ko": "범위에서! 봄 양배추와 베이컨 무한 후추 샐러드"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%AC%E3%83%B3%E3%82%B8%E3%81%A7%EF%BC%81%E6%98%A5%E3%82%AD%E3%83%A3%E3%83%99%E3%83%84%E3%81%A8%E3%83%99%E3%83%BC%E3%82%B3%E3%83%B3%E3%81%AE%E7%84%A1%E9%99%90%E3%83%9A%E3%83%83%E3%83%91%E3%83%BC%E3%82%B5%E3%83%A9%E3%83%80&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%AC%E3%83%B3%E3%82%B8%E3%81%A7%EF%BC%81%E6%98%A5%E3%82%AD%E3%83%A3%E3%83%99%E3%83%84%E3%81%A8%E3%83%99%E3%83%BC%E3%82%B3%E3%83%B3%E3%81%AE%E7%84%A1%E9%99%90%E3%83%9A%E3%83%83%E3%83%91%E3%83%BC%E3%82%B5%E3%83%A9%E3%83%80/?tag="
+      }
+    ],
+    "steps_ja": [
+      "キャベツはザク切りにする。鶏肉は、大きければ一口大に切り、ポリ袋に入れ片栗粉をまぶす。",
+      "フライパンを中火にかけバターを入れて溶かす。１の鶏肉を入れ、両面こんがりと焼き色がつくまで炒める。おろしにんにく、「味ぽん」を加え、炒めからめる。",
+      "「味ぽん」が少し煮詰まったら、キャベツを加え炒めからめる。",
+      "器に盛り、粗挽き黒こしょうをかける。",
+      "春キャベツとベーコンのぽんパスタ",
+      "春キャベツと豚肉のらくらくレンジ蒸し",
+      "レンジで！春キャベツとベーコンの無限ペッパーサラダ"
+    ],
+    "image_url": "",
+    "title": {
+      "en": "Stir-fried chicken and spring cabbage with garlic butter and ponzu sauce",
+      "zh_tw": "蒜蓉奶油柳橙醬炒雞肉和春白菜",
+      "zh_cn": "蒜蓉黄油橙子酱炒鸡肉和春白菜",
+      "vi": "Gà xào bắp cải bơ tỏi sốt ponzu",
+      "hi": "लहसुन मक्खन और पोंज़ू सॉस के साथ तले हुए चिकन और वसंत गोभी",
+      "ru": "Жареная курица и капуста с чесночным маслом и соусом понзу",
+      "th": "ไก่ผัดและกะหล่ำปลีฤดูใบไม้ผลิพร้อมเนยกระเทียมและซอสพอนสึ",
+      "id": "Ayam goreng tumis dan kubis musim semi dengan mentega bawang putih dan saus ponzu",
+      "ms": "Ayam goreng dan kubis musim bunga dengan mentega bawang putih dan sos ponzu",
+      "ko": "닭고기와 봄 양배추 마늘 버터 폰 식초 볶음"
+    },
+    "description": {
+      "en": "",
+      "zh_tw": "",
+      "zh_cn": "",
+      "vi": "",
+      "hi": "",
+      "ru": "",
+      "th": "",
+      "id": "",
+      "ms": "",
+      "ko": ""
+    },
+    "steps": {
+      "en": [
+        "Cut the cabbage into chunks. If the chicken is large, cut it into bite-sized pieces, place in a plastic bag, and sprinkle with potato starch.",
+        "Heat a frying pan over medium heat, add butter and melt. Add the chicken from step 1 and fry until browned on both sides. Add grated garlic and ``Ajipon'' and stir-fry.",
+        "When the ``Ajipon'' has boiled down a little, add the cabbage and stir-fry.",
+        "Place in a bowl and sprinkle with coarsely ground black pepper.",
+        "Spring cabbage and bacon pasta",
+        "Easy microwave steaming of spring cabbage and pork",
+        "In the microwave! Infinite pepper salad with spring cabbage and bacon"
+      ],
+      "zh_tw": [
+        "將高麗菜切成塊狀。如果雞肉很大，將其切成一口大小的塊，放入塑膠袋中，並撒上馬鈴薯澱粉。",
+        "用中火加熱煎鍋，加入奶油並融化。加入步骤 1 中的鸡肉，煎至两面焦黄。加入磨碎的大蒜和“Ajipon”並翻炒。",
+        "「味ぽん」が少し煮詰まったら、キャベツを加え炒めからめる。",
+        "放入碗中，撒上粗磨的黑胡椒。",
+        "春捲心菜培根義大利麵",
+        "微波爐輕鬆蒸春高麗菜和豬肉",
+        "在微波爐裡！無限量辣椒沙拉佐春高麗菜和培根"
+      ],
+      "zh_cn": [
+        "将卷心菜切成块。如果鸡肉很大，将其切成一口大小的块，放入塑料袋中，并撒上马铃薯淀粉。",
+        "用中火加热煎锅，加入黄油并融化。加入步骤 1 中的鸡肉，煎至两面焦黄。加入磨碎的大蒜和“Ajipon”并翻炒。",
+        "当“Ajipon”煮沸一点后，加入卷心菜并炒。",
+        "放入碗中，撒上粗磨的黑胡椒。",
+        "春卷心菜培根意大利面",
+        "微波炉轻松蒸春白菜和猪肉",
+        "在微波炉里！无限量辣椒沙拉配春卷心菜和培根"
+      ],
+      "vi": [
+        "Cắt bắp cải thành khối. Nếu gà lớn thì cắt thành từng miếng vừa ăn, cho vào túi nilon rồi rắc tinh bột khoai tây lên trên.",
+        "Làm nóng chảo rán trên lửa vừa, thêm bơ vào và đun chảy. Cho gà ở bước 1 vào và chiên cho đến khi chín vàng cả hai mặt. Thêm tỏi nghiền và ``Ajipon'' vào xào.",
+        "Khi ``Ajipon'' đã sôi một chút, cho bắp cải vào và xào.",
+        "Cho vào tô và rắc hạt tiêu đen xay thô.",
+        "Mỳ ống bắp cải và thịt xông khói",
+        "Hấp bắp cải và thịt lợn bằng lò vi sóng dễ dàng",
+        "Trong lò vi sóng! Salad tiêu vô hạn với bắp cải và thịt xông khói"
+      ],
+      "hi": [
+        "पत्तागोभी को टुकड़ों में काट लीजिये. यदि चिकन बड़ा है, तो इसे छोटे टुकड़ों में काट लें, प्लास्टिक बैग में रखें और आलू स्टार्च छिड़कें।",
+        "मध्यम आंच पर एक फ्राइंग पैन गरम करें, उसमें मक्खन डालें और पिघलाएं। चरण 1 से चिकन डालें और दोनों तरफ से भूरा होने तक भूनें। कसा हुआ लहसुन और ``अजिपोन'' डालें और हिलाएँ।",
+        "जब ``अजिपोन'' थोड़ा उबल जाए, तो पत्तागोभी डालें और चलाते हुए भूनें।",
+        "एक कटोरे में रखें और दरदरी कुटी हुई काली मिर्च छिड़कें।",
+        "वसंत गोभी और बेकन पास्ता",
+        "स्प्रिंग पत्तागोभी और पोर्क की आसान माइक्रोवेव स्टीमिंग",
+        "माइक्रोवेव में! वसंत पत्तागोभी और बेकन के साथ अनंत काली मिर्च का सलाद"
+      ],
+      "ru": [
+        "Капусту нарезаем кусочками. Если курица большая, нарежьте ее небольшими кусочками, положите в полиэтиленовый пакет и посыпьте картофельным крахмалом.",
+        "Нагрейте сковороду на среднем огне, добавьте сливочное масло и растопите. Добавьте курицу из шага 1 и обжарьте до румяной корочки с обеих сторон. Добавьте тертый чеснок и «Аджипон» и обжарьте.",
+        "Когда «Ахипон» немного выкипит, добавьте капусту и обжарьте.",
+        "Выложите в миску и посыпьте черным молотым перцем.",
+        "Весенняя капуста и макароны с беконом",
+        "Легкое приготовление на пару весенней капусты и свинины в микроволновой печи",
+        "В микроволновке! Бесконечный салат из перца с капустой и беконом"
+      ],
+      "th": [
+        "หั่นกะหล่ำปลีเป็นชิ้น หากไก่มีขนาดใหญ่ ให้หั่นเป็นชิ้นขนาดพอดีคำ ใส่ในถุงพลาสติก แล้วโรยด้วยแป้งมันฝรั่ง",
+        "ตั้งกระทะบนไฟร้อนปานกลาง ใส่เนยและละลาย ใส่ไก่จากขั้นตอนที่ 1 และทอดจนเหลืองทั้งสองด้าน ใส่กระเทียมขูดและ ``อาจิปอง'' แล้วผัด",
+        "เมื่อ ``อาจิปอน'' เดือดเล็กน้อย ให้ใส่กะหล่ำปลีลงไปผัด",
+        "วางในชามแล้วโรยด้วยพริกไทยดำป่นหยาบ",
+        "กะหล่ำปลีฤดูใบไม้ผลิและพาสต้าเบคอน",
+        "นึ่งกะหล่ำปลีและหมูด้วยไมโครเวฟอย่างง่าย",
+        "ในไมโครเวฟ! สลัดพริกไทยไม่มีที่สิ้นสุดกับกะหล่ำปลีฤดูใบไม้ผลิและเบคอน"
+      ],
+      "id": [
+        "Potong kubis menjadi beberapa bagian. Jika ayamnya besar, potong-potong seukuran sekali gigit, masukkan ke dalam kantong plastik, dan taburi tepung kentang.",
+        "Panaskan wajan dengan api sedang, tambahkan mentega dan lelehkan. Tambahkan ayam dari langkah 1 dan goreng hingga kedua sisinya berwarna kecoklatan. Tambahkan bawang putih parut dan ``Ajipon'' lalu tumis.",
+        "Jika ``Ajipon'' sudah agak mendidih, masukkan kubis dan tumis.",
+        "Tempatkan dalam mangkuk dan taburi dengan lada hitam yang digiling kasar.",
+        "Pegas kubis dan pasta bacon",
+        "Mengukus kubis dan daging babi dengan microwave dengan mudah",
+        "Di dalam microwave! Salad lada tanpa batas dengan kubis musim semi dan bacon"
+      ],
+      "ms": [
+        "Potong kubis menjadi kepingan. Jika ayam besar, potong saiz gigitan, masukkan ke dalam beg plastik, dan taburkan kanji kentang.",
+        "Panaskan kuali dengan api sederhana, masukkan mentega dan cair. Masukkan ayam dari langkah 1 dan goreng hingga keperangan di kedua-dua belah. Masukkan bawang putih parut dan ``Ajipon'' dan tumis.",
+        "Apabila ``Ajipon'' telah mendidih sedikit, masukkan kobis dan tumis.",
+        "Letakkan dalam mangkuk dan taburkan dengan lada hitam yang dikisar kasar.",
+        "Kubis musim bunga dan pasta bacon",
+        "Kukus kubis musim bunga dan daging babi dengan mudah melalui gelombang mikro",
+        "Dalam ketuhar gelombang mikro! Salad lada tak terhingga dengan kubis musim bunga dan daging"
+      ],
+      "ko": [
+        "양배추는 자쿠 자른다. 닭고기는 큰 경우 한입 크기로 자르고 비닐 봉투에 넣고 편 가루를 뿌린다.",
+        "프라이팬을 중불에 넣고 버터를 넣고 녹인다. 1의 닭고기를 넣고 양면 휘감기와 구운 색이 붙을 때까지 볶는다. 강판 마늘, \"맛 냄비\"를 넣고 볶음.",
+        "「맛 퐁」이 조금 삶아지면, 양배추를 더해 볶아 낸다.",
+        "그릇에 담아 굵은 까만 후추를 뿌린다.",
+        "봄 양배추와 베이컨 폰 파스타",
+        "봄 양배추와 돼지고기의 편한 레인지 찜",
+        "범위에서! 봄 양배추와 베이컨 무한 후추 샐러드"
+      ]
+    }
+  },
+  {
+    "id": "bdcf25d0",
+    "source_url": "https://www.mizkan.co.jp/ouchirecipe/recipe/?menu_id=22179",
+    "source_site": "Mizkan",
+    "title_ja": "黒酢のクラフト梅シロップ",
+    "description_ja": "",
+    "ingredients": [
+      {
+        "name_ja": "梅",
+        "amount": "１ｋｇ",
+        "name_translated": {
+          "en": "plum",
+          "zh_tw": "李子",
+          "zh_cn": "李子",
+          "vi": "quả mận",
+          "hi": "आलूबुखारा",
+          "ru": "слива",
+          "th": "พลัม",
+          "id": "prem",
+          "ms": "buah plum",
+          "ko": "매화"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E6%A2%85&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E6%A2%85/?tag="
+      },
+      {
+        "name_ja": "氷砂糖",
+        "amount": "１ｋｇ",
+        "name_translated": {
+          "en": "Rock sugar",
+          "zh_tw": "冰糖",
+          "zh_cn": "冰糖",
+          "vi": "Đường phèn",
+          "hi": "मिश्री",
+          "ru": "Каменный сахар",
+          "th": "น้ำตาลกรวด",
+          "id": "Gula batu",
+          "ms": "gula batu",
+          "ko": "얼음설탕"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E6%B0%B7%E7%A0%82%E7%B3%96&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E6%B0%B7%E7%A0%82%E7%B3%96/?tag="
+      },
+      {
+        "name_ja": "ミツカン　純玄米黒酢",
+        "amount": "４００ｍｌ",
+        "name_translated": {
+          "en": "Mizkan pure brown rice black vinegar",
+          "zh_tw": "滋康純糙米黑醋",
+          "zh_cn": "味滋康纯糙米黑醋",
+          "vi": "Giấm đen gạo lứt nguyên chất Mizkan",
+          "hi": "मिज़कान शुद्ध ब्राउन चावल काला सिरका",
+          "ru": "Мизкан чистый коричневый рисовый черный уксус",
+          "th": "มิซคานน้ำส้มสายชูดำข้าวกล้องบริสุทธิ์",
+          "id": "Mizkan cuka hitam beras merah murni",
+          "ms": "Mizkan cuka hitam beras perang tulen",
+          "ko": "미츠칸 순현미 흑초"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E7%B4%94%E7%8E%84%E7%B1%B3%E9%BB%92%E9%85%A2&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E7%B4%94%E7%8E%84%E7%B1%B3%E9%BB%92%E9%85%A2/?tag="
+      },
+      {
+        "name_ja": "１",
+        "amount": "梅はヘタを取り、よく洗って十分に水けをふく。",
+        "name_translated": {
+          "en": "1",
+          "zh_tw": "1",
+          "zh_cn": "1",
+          "vi": "1",
+          "hi": "1",
+          "ru": "1",
+          "th": "1",
+          "id": "1",
+          "ms": "1",
+          "ko": "1"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%91&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%91/?tag="
+      },
+      {
+        "name_ja": "２",
+        "amount": "密封できる広口ビンに梅と氷砂糖を３分の１くらいずつ交互に入れる。「純玄米黒酢」を入れ、ふたをして冷暗所で３週間漬ける。",
+        "name_translated": {
+          "en": "2",
+          "zh_tw": "2",
+          "zh_cn": "2",
+          "vi": "2",
+          "hi": "2",
+          "ru": "2",
+          "th": "2",
+          "id": "2",
+          "ms": "2",
+          "ko": "2"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%92&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%92/?tag="
+      },
+      {
+        "name_ja": "３",
+        "amount": "漬けている間、１日１回、ふたをしたまま軽くふり混ぜる。３週間経ったら果実を取り除く。",
+        "name_translated": {
+          "en": "3",
+          "zh_tw": "3",
+          "zh_cn": "3",
+          "vi": "3",
+          "hi": "3",
+          "ru": "3",
+          "th": "3",
+          "id": "3",
+          "ms": "3",
+          "ko": "3"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%93&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%93/?tag="
+      }
+    ],
+    "steps_ja": [
+      "梅はヘタを取り、よく洗って十分に水けをふく。",
+      "密封できる広口ビンに梅と氷砂糖を３分の１くらいずつ交互に入れる。「純玄米黒酢」を入れ、ふたをして冷暗所で３週間漬ける。",
+      "漬けている間、１日１回、ふたをしたまま軽くふり混ぜる。３週間経ったら果実を取り除く。"
+    ],
+    "image_url": "",
+    "title": {
+      "en": "Black vinegar craft plum syrup",
+      "zh_tw": "黑醋工藝梅子糖漿",
+      "zh_cn": "黑醋工艺梅子糖浆",
+      "vi": "Xi-rô mận thủ công giấm đen",
+      "hi": "काला सिरका शिल्प बेर सिरप",
+      "ru": "Крафтовый сливовый сироп с черным уксусом",
+      "th": "น้ำเชื่อมพลัมน้ำส้มสายชูดำ",
+      "id": "Sirup plum kerajinan cuka hitam",
+      "ms": "Sirap plum kraf cuka hitam",
+      "ko": "검은 식초 공예 매실 시럽"
+    },
+    "description": {
+      "en": "",
+      "zh_tw": "",
+      "zh_cn": "",
+      "vi": "",
+      "hi": "",
+      "ru": "",
+      "th": "",
+      "id": "",
+      "ms": "",
+      "ko": ""
+    },
+    "steps": {
+      "en": [
+        "Remove the stems from the plums, wash them well, and wipe them dry.",
+        "Alternately place about 1/3 of the plums and rock sugar into a wide-mouthed, sealable jar. Add pure brown rice black vinegar, cover, and marinate in a cool, dark place for 3 weeks.",
+        "While soaking, shake gently once a day with the lid on. Remove the fruit after three weeks."
+      ],
+      "zh_tw": [
+        "梅はヘタを取り、よく洗って十分に水けをふく。",
+        "將約 1/3 的李子和冰糖交替放入可密封的廣口罐中。加入純糙米黑醋，蓋上蓋子，在陰涼處醃製3週。",
+        "浸泡时，盖上盖子，每天轻轻摇晃一次。三週後取出水果。"
+      ],
+      "zh_cn": [
+        "将李子的茎去掉，清洗干净，然后擦干。",
+        "将约 1/3 的李子和冰糖交替放入可密封的广口罐中。加入纯糙米黑醋，盖上盖子，在阴凉处腌制3周。",
+        "浸泡时，盖上盖子，每天轻轻摇晃一次。三周后取出水果。"
+      ],
+      "vi": [
+        "Cắt bỏ cuống mận, rửa sạch và lau khô.",
+        "Lần lượt đặt khoảng 1/3 số mận và đường phèn vào lọ có miệng rộng, đậy kín. Thêm giấm đen gạo lứt nguyên chất, đậy nắp và ướp ở nơi tối, mát trong 3 tuần.",
+        "Trong khi ngâm, lắc nhẹ mỗi ngày một lần và đậy nắp lại. Loại bỏ trái cây sau ba tuần."
+      ],
+      "hi": [
+        "आलूबुखारे के डंठल हटा दें, उन्हें अच्छी तरह धो लें और पोंछकर सुखा लें।",
+        "वैकल्पिक रूप से लगभग 1/3 प्लम और रॉक शुगर को एक चौड़े मुंह वाले, सील करने योग्य जार में रखें। शुद्ध ब्राउन चावल का काला सिरका डालें, ढकें और 3 सप्ताह के लिए किसी ठंडी, अंधेरी जगह पर मैरीनेट करें।",
+        "भिगोते समय दिन में एक बार ढक्कन लगाकर धीरे से हिलाएं। तीन सप्ताह के बाद फल हटा दें."
+      ],
+      "ru": [
+        "Удалите плодоножки у слив, хорошо вымойте их и вытрите насухо.",
+        "Поочередно поместите примерно 1/3 слив и сахар в закрывающуюся банку с широким горлышком. Добавьте чистый коричневый рисовый черный уксус, накройте крышкой и маринуйте в темном прохладном месте в течение 3 недель.",
+        "Во время замачивания осторожно встряхивайте один раз в день под закрытой крышкой. Удалите плоды через три недели."
+      ],
+      "th": [
+        "นำก้านออกจากลูกพลัม ล้างให้สะอาด แล้วเช็ดให้แห้ง",
+        "สลับกันใส่ประมาณ 1/3 ของลูกพลัมและน้ำตาลกรวดลงในขวดโหลปากกว้างที่ปิดสนิท เติมน้ำส้มสายชูดำจากข้าวกล้อง ปิดฝา และหมักในที่เย็นและมืดเป็นเวลา 3 สัปดาห์",
+        "ขณะแช่น้ำ ให้เขย่าเบาๆ วันละครั้งโดยปิดฝาไว้ นำผลไม้ออกหลังจากสามสัปดาห์"
+      ],
+      "id": [
+        "Buang batang buah plum, cuci bersih, dan lap hingga kering.",
+        "Secara bergantian, masukkan sekitar 1/3 buah plum dan gula batu ke dalam stoples bermulut lebar yang dapat ditutup rapat. Tambahkan cuka hitam beras merah murni, tutupi, dan rendam di tempat sejuk dan gelap selama 3 minggu.",
+        "Saat berendam, kocok perlahan sekali sehari dengan penutup terpasang. Buang buahnya setelah tiga minggu."
+      ],
+      "ms": [
+        "Keluarkan batang dari plum, basuh dengan baik, dan lap kering.",
+        "Letakkan kira-kira 1/3 buah plum dan gula batu secara bergilir-gilir ke dalam balang bermulut lebar dan boleh ditutup. Masukkan cuka hitam beras perang tulen, tutup, dan perap di tempat yang sejuk dan gelap selama 3 minggu.",
+        "Semasa merendam, goncang perlahan-lahan sekali sehari dengan penutupnya. Keluarkan buah selepas tiga minggu."
+      ],
+      "ko": [
+        "매실은 헤타를 잡고 잘 씻어 충분히 물을 닦는다.",
+        "밀봉할 수 있는 넓은 입병에 매화와 빙설탕을 3분의 1정도씩 교대로 넣는다. '순현미 흑초'를 넣고 뚜껑을 덮고 냉암소에서 3주간 담근다.",
+        "담그고 있는 동안, 1일 1회, 뚜껑을 한 채 가볍게 섞는다. 3주가 지나면 과일을 제거한다."
+      ]
+    }
   }
 ]

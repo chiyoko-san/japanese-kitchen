@@ -191102,5 +191102,413 @@
         "닭 검은 식초 볶음"
       ]
     }
+  },
+  {
+    "id": "a106b722",
+    "source_url": "https://www.mizkan.co.jp/ouchirecipe/recipe/?menu_id=20765",
+    "source_site": "Mizkan",
+    "title_ja": "ザ・定番！基本の冷やし中華",
+    "description_ja": "",
+    "ingredients": [
+      {
+        "name_ja": "中華めん　（乾）",
+        "amount": "２玉",
+        "name_translated": {
+          "en": "Chinese noodles (dry)",
+          "zh_tw": "中式麵條（乾）",
+          "zh_cn": "中式面条（干）",
+          "vi": "Mì Trung Quốc (khô)",
+          "hi": "चीनी नूडल्स (सूखा)",
+          "ru": "Китайская лапша (сухая)",
+          "th": "เส้นหมี่จีน (แห้ง)",
+          "id": "Mie Cina (kering)",
+          "ms": "mi cina (kering)",
+          "ko": "중화면(건)"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E4%B8%AD%E8%8F%AF%E3%82%81%E3%82%93%E3%80%80%EF%BC%88%E4%B9%BE%EF%BC%89&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E4%B8%AD%E8%8F%AF%E3%82%81%E3%82%93%E3%80%80%EF%BC%88%E4%B9%BE%EF%BC%89/?tag="
+      },
+      {
+        "name_ja": "ロースハム",
+        "amount": "３枚",
+        "name_translated": {
+          "en": "roast ham",
+          "zh_tw": "烤火腿",
+          "zh_cn": "烤火腿",
+          "vi": "giăm bông nướng",
+          "hi": "भुना हुआ हैम",
+          "ru": "жареная ветчина",
+          "th": "แฮมย่าง",
+          "id": "ham panggang",
+          "ms": "ham panggang",
+          "ko": "로스햄"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%AD%E3%83%BC%E3%82%B9%E3%83%8F%E3%83%A0&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%AD%E3%83%BC%E3%82%B9%E3%83%8F%E3%83%A0/?tag="
+      },
+      {
+        "name_ja": "きゅうり",
+        "amount": "１本",
+        "name_translated": {
+          "en": "cucumber",
+          "zh_tw": "黃瓜",
+          "zh_cn": "黄瓜",
+          "vi": "quả dưa chuột",
+          "hi": "खीरा",
+          "ru": "огурец",
+          "th": "แตงกวา",
+          "id": "timun",
+          "ms": "timun",
+          "ko": "오이"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%8D%E3%82%85%E3%81%86%E3%82%8A&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%8D%E3%82%85%E3%81%86%E3%82%8A/?tag="
+      },
+      {
+        "name_ja": "トマト",
+        "amount": "小１個",
+        "name_translated": {
+          "en": "tomato",
+          "zh_tw": "番茄",
+          "zh_cn": "番茄",
+          "vi": "cà chua",
+          "hi": "टमाटर",
+          "ru": "помидор",
+          "th": "มะเขือเทศ",
+          "id": "tomat",
+          "ms": "tomato",
+          "ko": "토마토"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%88%E3%83%9E%E3%83%88&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%88%E3%83%9E%E3%83%88/?tag="
+      },
+      {
+        "name_ja": "卵",
+        "amount": "１個",
+        "name_translated": {
+          "en": "egg",
+          "zh_tw": "蛋",
+          "zh_cn": "蛋",
+          "vi": "trứng",
+          "hi": "अंडा",
+          "ru": "яйцо",
+          "th": "ไข่",
+          "id": "telur",
+          "ms": "telur",
+          "ko": "계란"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E5%8D%B5&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E5%8D%B5/?tag="
+      },
+      {
+        "name_ja": "砂糖",
+        "amount": "ひとつまみ",
+        "name_translated": {
+          "en": "sugar",
+          "zh_tw": "糖",
+          "zh_cn": "糖",
+          "vi": "đường",
+          "hi": "चीनी",
+          "ru": "сахар",
+          "th": "น้ำตาล",
+          "id": "gula",
+          "ms": "gula",
+          "ko": "설탕"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E7%A0%82%E7%B3%96&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E7%A0%82%E7%B3%96/?tag="
+      },
+      {
+        "name_ja": "サラダ油",
+        "amount": "小さじ２",
+        "name_translated": {
+          "en": "salad oil",
+          "zh_tw": "沙拉油",
+          "zh_cn": "色拉油",
+          "vi": "dầu trộn salad",
+          "hi": "वनस्पति - तेल",
+          "ru": "салатное масло",
+          "th": "น้ำมันสลัด",
+          "id": "minyak salad",
+          "ms": "minyak salad",
+          "ko": "샐러드 오일"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%82%B5%E3%83%A9%E3%83%80%E6%B2%B9&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%82%B5%E3%83%A9%E3%83%80%E6%B2%B9/?tag="
+      },
+      {
+        "name_ja": "ミツカン  穀物酢",
+        "amount": "大さじ３",
+        "name_translated": {
+          "en": "Mizkan grain vinegar",
+          "zh_tw": "口味滋康穀物醋",
+          "zh_cn": "味滋康谷物醋",
+          "vi": "Giấm ngũ cốc Mizkan",
+          "hi": "मिज़कान अनाज सिरका",
+          "ru": "Мизкан зерновой уксус",
+          "th": "น้ำส้มสายชูหมักจากเมล็ดมิซคาน",
+          "id": "Cuka biji-bijian Mizkan",
+          "ms": "Cuka bijirin mizkan",
+          "ko": "미츠칸 곡물 식초"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%20%20%E7%A9%80%E7%89%A9%E9%85%A2&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%20%20%E7%A9%80%E7%89%A9%E9%85%A2/?tag="
+      },
+      {
+        "name_ja": "しょうゆ",
+        "amount": "大さじ３",
+        "name_translated": {
+          "en": "soy sauce",
+          "zh_tw": "醬油",
+          "zh_cn": "酱油",
+          "vi": "nước tương",
+          "hi": "सोया सॉस",
+          "ru": "соевый соус",
+          "th": "ซอสถั่วเหลือง",
+          "id": "kecap",
+          "ms": "kicap",
+          "ko": "간장"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%97%E3%82%87%E3%81%86%E3%82%86&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%97%E3%82%87%E3%81%86%E3%82%86/?tag="
+      },
+      {
+        "name_ja": "砂糖",
+        "amount": "大さじ２",
+        "name_translated": {
+          "en": "sugar",
+          "zh_tw": "糖",
+          "zh_cn": "糖",
+          "vi": "đường",
+          "hi": "चीनी",
+          "ru": "сахар",
+          "th": "น้ำตาล",
+          "id": "gula",
+          "ms": "gula",
+          "ko": "설탕"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E7%A0%82%E7%B3%96&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E7%A0%82%E7%B3%96/?tag="
+      },
+      {
+        "name_ja": "水",
+        "amount": "大さじ４",
+        "name_translated": {
+          "en": "water",
+          "zh_tw": "水",
+          "zh_cn": "水",
+          "vi": "Nước",
+          "hi": "पानी",
+          "ru": "вода",
+          "th": "น้ำ",
+          "id": "air",
+          "ms": "air",
+          "ko": "물"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E6%B0%B4&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E6%B0%B4/?tag="
+      },
+      {
+        "name_ja": "ごま油",
+        "amount": "大さじ１",
+        "name_translated": {
+          "en": "sesame oil",
+          "zh_tw": "香油",
+          "zh_cn": "香油",
+          "vi": "dầu mè",
+          "hi": "तिल का तेल",
+          "ru": "кунжутное масло",
+          "th": "น้ำมันงา",
+          "id": "minyak wijen",
+          "ms": "minyak bijan",
+          "ko": "참기름"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%94%E3%81%BE%E6%B2%B9&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%94%E3%81%BE%E6%B2%B9/?tag="
+      },
+      {
+        "name_ja": "いりごま",
+        "amount": "適量",
+        "name_translated": {
+          "en": "roasted sesame",
+          "zh_tw": "烤芝麻",
+          "zh_cn": "烤芝麻",
+          "vi": "vừng rang",
+          "hi": "भुना हुआ तिल",
+          "ru": "жареный кунжут",
+          "th": "งาคั่ว",
+          "id": "wijen panggang",
+          "ms": "bijan panggang",
+          "ko": "이리고마"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%84%E3%82%8A%E3%81%94%E3%81%BE&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%84%E3%82%8A%E3%81%94%E3%81%BE/?tag="
+      },
+      {
+        "name_ja": "１",
+        "amount": "にする。",
+        "name_translated": {
+          "en": "1",
+          "zh_tw": "1",
+          "zh_cn": "1",
+          "vi": "1",
+          "hi": "1",
+          "ru": "1",
+          "th": "1",
+          "id": "1",
+          "ms": "1",
+          "ko": "1"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%91&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%91/?tag="
+      },
+      {
+        "name_ja": "２",
+        "amount": "にする。",
+        "name_translated": {
+          "en": "2",
+          "zh_tw": "2",
+          "zh_cn": "2",
+          "vi": "2",
+          "hi": "2",
+          "ru": "2",
+          "th": "2",
+          "id": "2",
+          "ms": "2",
+          "ko": "2"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%92&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%92/?tag="
+      },
+      {
+        "name_ja": "３",
+        "amount": "中華めんは表示の時間通りゆで、冷水にさらして水けをきる。",
+        "name_translated": {
+          "en": "3",
+          "zh_tw": "3",
+          "zh_cn": "3",
+          "vi": "3",
+          "hi": "3",
+          "ru": "3",
+          "th": "3",
+          "id": "3",
+          "ms": "3",
+          "ko": "3"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%93&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%93/?tag="
+      },
+      {
+        "name_ja": "４",
+        "amount": "を彩りよくのせる。混ぜ合わせた＜つゆ＞をかけ、いりごまを散らす。",
+        "name_translated": {
+          "en": "4",
+          "zh_tw": "4",
+          "zh_cn": "4",
+          "vi": "4",
+          "hi": "4",
+          "ru": "4",
+          "th": "4",
+          "id": "4",
+          "ms": "4",
+          "ko": "4"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%94&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%94/?tag="
+      }
+    ],
+    "steps_ja": [
+      "ハムときゅうりはせん切りにし、トマトは半月切りにする。",
+      "卵は砂糖を加えて混ぜ合わせる。フライパンにサラダ油を熱し、卵液を流し入れてフライパンを回しながら全面に薄く広げ、弱火で焼く。焼けたら火からおろして冷まし、細切りにする。",
+      "中華めんは表示の時間通りゆで、冷水にさらして水けをきる。",
+      "器に３を盛り、１、２を彩りよくのせる。混ぜ合わせた＜つゆ＞をかけ、いりごまを散らす。"
+    ],
+    "image_url": "",
+    "title": {
+      "en": "The classic! Basic chilled Chinese food",
+      "zh_tw": "經典！基本的冷冻中餐",
+      "zh_cn": "经典！基本的冷冻中餐",
+      "vi": "Cổ điển! Thực phẩm Trung Quốc ướp lạnh cơ bản",
+      "hi": "पुरातन! बुनियादी ठंडा चीनी भोजन",
+      "ru": "Классика! Основные охлажденные китайские блюда",
+      "th": "คลาสสิค! อาหารจีนแช่เย็นขั้นพื้นฐาน",
+      "id": "Klasik! Makanan Cina dasar yang dingin",
+      "ms": "Yang klasik! Makanan Cina sejuk asas",
+      "ko": "더 클래식! 기본 차가운 중화"
+    },
+    "description": {
+      "en": "",
+      "zh_tw": "",
+      "zh_cn": "",
+      "vi": "",
+      "hi": "",
+      "ru": "",
+      "th": "",
+      "id": "",
+      "ms": "",
+      "ko": ""
+    },
+    "steps": {
+      "en": [
+        "Slice the ham and cucumber, and cut the tomatoes into half moons.",
+        "Add sugar to eggs and mix. Heat the salad oil in a frying pan, pour in the egg mixture, swirl the frying pan to spread it thinly over the entire surface, and fry over low heat. Once cooked, remove from heat, let cool, and cut into thin pieces.",
+        "Boil the Chinese noodles according to the instructions on the label, then drain under cold water.",
+        "Place 3 in a bowl and top with 1 and 2 in a colorful manner. Pour the mixed ``soup'' over it and sprinkle with roasted sesame seeds."
+      ],
+      "zh_tw": [
+        "將火腿和黃瓜切片，番茄切成半月形。",
+        "將糖加入雞蛋中並混合。在煎鍋中加熱沙拉油，倒入雞蛋混合物，旋轉煎鍋，使其薄薄地鋪滿整個表面，然後用小火煎炸。煮熟後，離火，冷卻，切成薄片。",
+        "按照標籤上的說明將中國麵條煮沸，然後用冷水瀝乾。",
+        "將 3 放入碗中，然後以彩色方式將 1 和 2 放在上面。將混合好的「湯」倒在上面，撒上烤芝麻。"
+      ],
+      "zh_cn": [
+        "将火腿和黄瓜切片，西红柿切成半月形。",
+        "将糖加入鸡蛋中并混合。在煎锅中加热色拉油，倒入鸡蛋混合物，旋转煎锅，使其薄薄地铺满整个表面，然后用小火煎炸。煮熟后，离火，冷却，切成薄片。",
+        "按照标签上的说明将中国面条煮沸，然后用冷水沥干。",
+        "将 3 放入碗中，然后以彩色方式将 1 和 2 放在上面。将混合好的“汤”倒在上面，撒上烤芝麻。"
+      ],
+      "vi": [
+        "Cắt giăm bông và dưa chuột, cắt cà chua thành nửa mặt trăng.",
+        "Thêm đường vào trứng và trộn. Đun nóng dầu salad trong chảo rán, đổ hỗn hợp trứng vào, xoay chảo để dàn mỏng khắp bề mặt rồi chiên trên lửa nhỏ. Sau khi chín, tắt bếp, để nguội rồi cắt thành từng miếng mỏng.",
+        "Luộc mì Trung Quốc theo hướng dẫn trên nhãn, sau đó xả dưới nước lạnh.",
+        "Đặt 3 vào tô và đặt 1 và 2 lên trên một cách đầy màu sắc. Đổ ``súp'' hỗn hợp lên trên và rắc hạt vừng rang."
+      ],
+      "hi": [
+        "हैम और खीरे को टुकड़ों में काट लें और टमाटरों को आधे टुकड़ों में काट लें।",
+        "अंडे में चीनी डाल कर मिला दीजिये. एक फ्राइंग पैन में सलाद का तेल गर्म करें, उसमें अंडे का मिश्रण डालें, फ्राइंग पैन को घुमाकर पूरी सतह पर पतला फैला दें और धीमी आंच पर फ्राई करें। पक जाने पर आंच से उतार लें, ठंडा होने दें और पतले टुकड़ों में काट लें।",
+        "चीनी नूडल्स को लेबल पर दिए निर्देशों के अनुसार उबालें, फिर ठंडे पानी में छान लें।",
+        "3 को एक कटोरे में रखें और ऊपर से रंगीन तरीके से 1 और 2 डालें। इसके ऊपर मिश्रित ``सूप'' डालें और भुने हुए तिल छिड़कें।"
+      ],
+      "ru": [
+        "Нарежьте ветчину и огурец, а помидоры нарежьте полумесяцами.",
+        "Добавьте к яйцам сахар и перемешайте. На сковороде разогрейте салатное масло, влейте яичную смесь, покрутите сковороду, чтобы она равномерно распределилась по всей поверхности, и обжарьте на слабом огне. После приготовления снимите с огня, дайте остыть и нарежьте тонкими кусочками.",
+        "Отварите китайскую лапшу согласно инструкции на этикетке, затем слейте воду под холодную воду.",
+        "Поместите 3 в миску и красочно положите сверху 1 и 2. Вылейте смешанный «суп» и посыпьте жареными семенами кунжута."
+      ],
+      "th": [
+        "หั่นแฮมและแตงกวา แล้วหั่นมะเขือเทศเป็นพระจันทร์ครึ่งดวง",
+        "เพิ่มน้ำตาลลงในไข่และผสม ตั้งน้ำมันสลัดในกระทะ เทส่วนผสมไข่ลงไป หมุนกระทะเพื่อเกลี่ยให้ทั่วพื้นผิว แล้วทอดด้วยไฟอ่อน เมื่อสุกแล้ว นำออกจากเตา พักให้เย็น แล้วหั่นเป็นชิ้นบาง ๆ",
+        "ต้มบะหมี่จีนตามคำแนะนำบนฉลาก แล้วสะเด็ดน้ำด้วยน้ำเย็น",
+        "วาง 3 ลงในชามแล้วเติม 1 และ 2 ลงไปอย่างมีสีสัน เท ``ซุป'' ที่ผสมไว้ลงไปแล้วโรยด้วยงาคั่ว"
+      ],
+      "id": [
+        "Iris ham dan mentimun, lalu potong tomat menjadi setengah bulan.",
+        "Tambahkan gula ke telur dan aduk. Panaskan minyak salad dalam wajan, tuang campuran telur, putar penggorengan hingga merata ke seluruh permukaan, lalu goreng dengan api kecil. Setelah matang, angkat, dinginkan, lalu potong tipis-tipis.",
+        "Rebus mie cina sesuai petunjuk pada label, lalu tiriskan dengan air dingin.",
+        "Tempatkan 3 dalam mangkuk dan taburi dengan 1 dan 2 dengan warna-warni. Tuangkan ``sup'' campur di atasnya dan taburi dengan biji wijen panggang."
+      ],
+      "ms": [
+        "Potong ham dan timun, dan potong tomato menjadi separuh bulan.",
+        "Masukkan gula ke dalam telur dan gaul. Panaskan minyak salad dalam kuali, tuangkan ke dalam adunan telur, pusingkan kuali untuk meratakannya ke seluruh permukaan, dan goreng dengan api perlahan. Setelah masak, angkat dari api, biarkan sejuk dan potong nipis.",
+        "Rebus mee Cina mengikut arahan pada label, kemudian toskan di bawah air sejuk.",
+        "Letakkan 3 dalam mangkuk dan atas dengan 1 dan 2 dengan cara yang berwarna-warni. Tuangkan ``sup'' yang telah dicampur tadi ke atasnya dan taburkan bijan panggang."
+      ],
+      "ko": [
+        "햄과 오이는 전단하고 토마토는 반월 자른다.",
+        "계란은 설탕을 넣고 섞는다. 프라이팬에 샐러드유를 가열하고, 달걀액을 흘려 넣고 프라이팬을 돌리면서 전면에 얇게 펼쳐 약화로 구운다. 태우면 불에서 떨어뜨려 식히고 잘게 썬다.",
+        "중화면은 시간이 지남에 따라 삶은 냉수에 노출되어 물을 준다.",
+        "그릇에 3을 담고 1, 2를 물들여 잘 얹는다. 섞은 <츠유>를 뿌려 이리깨를 흩뜨린다."
+      ]
+    }
   }
 ]

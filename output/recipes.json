@@ -191510,5 +191510,330 @@
         "그릇에 3을 담고 1, 2를 물들여 잘 얹는다. 섞은 <츠유>를 뿌려 이리깨를 흩뜨린다."
       ]
     }
+  },
+  {
+    "id": "7b8e65d3",
+    "source_url": "https://www.mizkan.co.jp/ouchirecipe/recipe/?menu_id=23380",
+    "source_site": "Mizkan",
+    "title_ja": "鶏むねとブロッコリーのワンパン蒸し鍋",
+    "description_ja": "",
+    "ingredients": [
+      {
+        "name_ja": "鶏むね肉",
+        "amount": "１枚（２８０ｇ）",
+        "name_translated": {
+          "en": "chicken breast",
+          "zh_tw": "雞胸肉",
+          "zh_cn": "鸡胸肉",
+          "vi": "ức gà",
+          "hi": "चिकन ब्रेस्ट",
+          "ru": "куриная грудка",
+          "th": "อกไก่",
+          "id": "dada ayam",
+          "ms": "dada ayam",
+          "ko": "닭고기 고기"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E9%B6%8F%E3%82%80%E3%81%AD%E8%82%89&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E9%B6%8F%E3%82%80%E3%81%AD%E8%82%89/?tag="
+      },
+      {
+        "name_ja": "ブロッコリー",
+        "amount": "１／2房",
+        "name_translated": {
+          "en": "broccoli",
+          "zh_tw": "綠色花椰菜",
+          "zh_cn": "西兰花",
+          "vi": "bông cải xanh",
+          "hi": "ब्रोकोली",
+          "ru": "брокколи",
+          "th": "บรอกโคลี",
+          "id": "brokoli",
+          "ms": "brokoli",
+          "ko": "브로콜리"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%96%E3%83%AD%E3%83%83%E3%82%B3%E3%83%AA%E3%83%BC&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%96%E3%83%AD%E3%83%83%E3%82%B3%E3%83%AA%E3%83%BC/?tag="
+      },
+      {
+        "name_ja": "赤パプリカ",
+        "amount": "１／２個",
+        "name_translated": {
+          "en": "red paprika",
+          "zh_tw": "紅辣椒粉",
+          "zh_cn": "红辣椒粉",
+          "vi": "ớt đỏ",
+          "hi": "लाल शिमला मिर्च",
+          "ru": "красная паприка",
+          "th": "พริกหยวกแดง",
+          "id": "paprika merah",
+          "ms": "paprika merah",
+          "ko": "레드 파프리카"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E8%B5%A4%E3%83%91%E3%83%97%E3%83%AA%E3%82%AB&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E8%B5%A4%E3%83%91%E3%83%97%E3%83%AA%E3%82%AB/?tag="
+      },
+      {
+        "name_ja": "黄パプリカ",
+        "amount": "１／２個",
+        "name_translated": {
+          "en": "yellow paprika",
+          "zh_tw": "黃辣椒粉",
+          "zh_cn": "黄辣椒粉",
+          "vi": "ớt bột màu vàng",
+          "hi": "पीला लाल शिमला मिर्च",
+          "ru": "желтая паприка",
+          "th": "พริกหยวกสีเหลือง",
+          "id": "paprika kuning",
+          "ms": "paprika kuning",
+          "ko": "노란 파프리카"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E9%BB%84%E3%83%91%E3%83%97%E3%83%AA%E3%82%AB&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E9%BB%84%E3%83%91%E3%83%97%E3%83%AA%E3%82%AB/?tag="
+      },
+      {
+        "name_ja": "たまねぎ",
+        "amount": "１／２個",
+        "name_translated": {
+          "en": "onion",
+          "zh_tw": "洋蔥",
+          "zh_cn": "洋葱",
+          "vi": "củ hành",
+          "hi": "प्याज",
+          "ru": "лук",
+          "th": "หัวหอม",
+          "id": "bawang bombai",
+          "ms": "bawang besar",
+          "ko": "양파"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%9F%E3%81%BE%E3%81%AD%E3%81%8E&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%9F%E3%81%BE%E3%81%AD%E3%81%8E/?tag="
+      },
+      {
+        "name_ja": "オリーブオイル",
+        "amount": "大さじ３",
+        "name_translated": {
+          "en": "olive oil",
+          "zh_tw": "橄欖油",
+          "zh_cn": "橄榄油",
+          "vi": "dầu ô liu",
+          "hi": "जैतून का तेल",
+          "ru": "оливковое масло",
+          "th": "น้ำมันมะกอก",
+          "id": "minyak zaitun",
+          "ms": "minyak zaitun",
+          "ko": "올리브 오일"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%82%AA%E3%83%AA%E3%83%BC%E3%83%96%E3%82%AA%E3%82%A4%E3%83%AB&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%82%AA%E3%83%AA%E3%83%BC%E3%83%96%E3%82%AA%E3%82%A4%E3%83%AB/?tag="
+      },
+      {
+        "name_ja": "ミツカン　味ぽん",
+        "amount": "大さじ１",
+        "name_translated": {
+          "en": "Mizkan Ajipon",
+          "zh_tw": "味滋康味精",
+          "zh_cn": "味滋康味精",
+          "vi": "Mizkan Ajipon",
+          "hi": "मिज़कान अजिपोन",
+          "ru": "Мизкан Аджипон",
+          "th": "มิซกัน อาจิปอน",
+          "id": "Mizkan Ajipon",
+          "ms": "Mizkan Ajipon",
+          "ko": "미츠칸 미포"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E5%91%B3%E3%81%BD%E3%82%93&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E5%91%B3%E3%81%BD%E3%82%93/?tag="
+      },
+      {
+        "name_ja": "マヨネーズ",
+        "amount": "大さじ３",
+        "name_translated": {
+          "en": "mayonnaise",
+          "zh_tw": "美乃滋",
+          "zh_cn": "蛋黄酱",
+          "vi": "sốt mayonnaise",
+          "hi": "मेयोनेज़",
+          "ru": "майонез",
+          "th": "มายองเนส",
+          "id": "mayones",
+          "ms": "mayonis",
+          "ko": "마요네즈"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9E%E3%83%A8%E3%83%8D%E3%83%BC%E3%82%BA&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9E%E3%83%A8%E3%83%8D%E3%83%BC%E3%82%BA/?tag="
+      },
+      {
+        "name_ja": "または",
+        "amount": "適量",
+        "name_translated": {
+          "en": "or",
+          "zh_tw": "或者",
+          "zh_cn": "或者",
+          "vi": "hoặc",
+          "hi": "या",
+          "ru": "или",
+          "th": "หรือ",
+          "id": "atau",
+          "ms": "atau",
+          "ko": "또는"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%BE%E3%81%9F%E3%81%AF&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%BE%E3%81%9F%E3%81%AF/?tag="
+      },
+      {
+        "name_ja": "ミツカン　金のごまだれ　焙煎荒挽き仕上げ",
+        "amount": "適量",
+        "name_translated": {
+          "en": "Mizkan Golden Sesame Sauce Roasted Coarsely Ground Finish",
+          "zh_tw": "滋康黃金芝麻醬 粗磨粉烤",
+          "zh_cn": "味滋康黄金芝麻酱 粗磨粉烤",
+          "vi": "Nước sốt mè vàng Mizkan rang xay thô",
+          "hi": "मिज़कान गोल्डन तिल सॉस भुना हुआ दरदरा पिसा हुआ फिनिश",
+          "ru": "Мизкан Золотой кунжутный соус, обжаренный в крупном помоле",
+          "th": "มิซคาน ซอสงาทองคั่วบดหยาบ",
+          "id": "Mizkan Saus Wijen Emas Dipanggang Kasar sampai Giling",
+          "ms": "Mizkan Sos Bijan Emas Panggang Kisar Kasar Habis",
+          "ko": "미츠칸 금 참깨 볶은 황갈색 마무리"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E9%87%91%E3%81%AE%E3%81%94%E3%81%BE%E3%81%A0%E3%82%8C%E3%80%80%E7%84%99%E7%85%8E%E8%8D%92%E6%8C%BD%E3%81%8D%E4%BB%95%E4%B8%8A%E3%81%92&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E9%87%91%E3%81%AE%E3%81%94%E3%81%BE%E3%81%A0%E3%82%8C%E3%80%80%E7%84%99%E7%85%8E%E8%8D%92%E6%8C%BD%E3%81%8D%E4%BB%95%E4%B8%8A%E3%81%92/?tag="
+      },
+      {
+        "name_ja": "１",
+        "amount": "にする。",
+        "name_translated": {
+          "en": "1",
+          "zh_tw": "1",
+          "zh_cn": "1",
+          "vi": "1",
+          "hi": "1",
+          "ru": "1",
+          "th": "1",
+          "id": "1",
+          "ms": "1",
+          "ko": "1"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%91&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%91/?tag="
+      },
+      {
+        "name_ja": "２",
+        "amount": "フライパンに［１］、オリーブオイルを入れ、ふたをして中火で10分ほど蒸す。",
+        "name_translated": {
+          "en": "2",
+          "zh_tw": "2",
+          "zh_cn": "2",
+          "vi": "2",
+          "hi": "2",
+          "ru": "2",
+          "th": "2",
+          "id": "2",
+          "ms": "2",
+          "ko": "2"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%92&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%92/?tag="
+      },
+      {
+        "name_ja": "３",
+        "amount": "に添える。",
+        "name_translated": {
+          "en": "3",
+          "zh_tw": "3",
+          "zh_cn": "3",
+          "vi": "3",
+          "hi": "3",
+          "ru": "3",
+          "th": "3",
+          "id": "3",
+          "ms": "3",
+          "ko": "3"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%93&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%93/?tag="
+      }
+    ],
+    "steps_ja": [
+      "鶏むね肉は食べやすい大きさに切る。ブロッコリーは小房に分ける。赤パプリカ、黄パプリカは一口大に切る。たまねぎはくし形切りにする。",
+      "フライパンに［１］、オリーブオイルを入れ、ふたをして中火で10分ほど蒸す。",
+      "よく混ぜた＜A＞を２に添える。"
+    ],
+    "image_url": "",
+    "title": {
+      "en": "One-pan steamed chicken breast and broccoli",
+      "zh_tw": "一鍋蒸雞胸肉和青花菜",
+      "zh_cn": "一锅蒸鸡胸肉和西兰花",
+      "vi": "Ức gà hấp bông cải xanh một chảo",
+      "hi": "एक-पैन उबले हुए चिकन ब्रेस्ट और ब्रोकोली",
+      "ru": "Куриная грудка, приготовленная на пару, и брокколи в одной кастрюле",
+      "th": "鶏むねとブロッコリーのワンパン蒸し鍋",
+      "id": "Dada ayam kukus dan brokoli satu panci",
+      "ms": "Dada ayam kukus satu kuali dan brokoli",
+      "ko": "닭고기와 브로콜리의 한 빵 찜 냄비"
+    },
+    "description": {
+      "en": "",
+      "zh_tw": "",
+      "zh_cn": "",
+      "vi": "",
+      "hi": "",
+      "ru": "",
+      "th": "",
+      "id": "",
+      "ms": "",
+      "ko": ""
+    },
+    "steps": {
+      "en": [
+        "Cut the chicken breast into bite-sized pieces. Divide the broccoli into florets. Cut the red and yellow bell peppers into bite-sized pieces. Cut the onion into wedges.",
+        "Add olive oil to a frying pan [1], cover and steam over medium heat for about 10 minutes.",
+        "Mix well and add <A> to 2."
+      ],
+      "zh_tw": [
+        "將雞胸肉切成一口大小的塊狀。將西蘭花分成小花。將紅色和黃色甜椒切成一口大小的塊狀。將洋蔥切成楔形。",
+        "將橄欖油加入煎鍋 [1]，蓋上鍋蓋，以中火蒸約 10 分鐘。",
+        "充分混合並將<A>加入2中。"
+      ],
+      "zh_cn": [
+        "将鸡胸肉切成一口大小的块。将西兰花分成小花。将红色和黄色甜椒切成一口大小的块。将洋葱切成楔形。",
+        "将橄榄油加入煎锅 [1]，盖上锅盖，中火蒸约 10 分钟。",
+        "充分混合并将<A>添加到2中。"
+      ],
+      "vi": [
+        "Cắt ức gà thành miếng vừa ăn. Chia bông cải xanh thành những bông hoa. Cắt ớt chuông đỏ và vàng thành miếng vừa ăn. Cắt hành tây thành nêm.",
+        "Cho dầu ô liu vào chảo [1], đậy nắp và hấp trên lửa vừa trong khoảng 10 phút.",
+        "Trộn đều và thêm <A> vào 2."
+      ],
+      "hi": [
+        "चिकन ब्रेस्ट को छोटे टुकड़ों में काट लें। ब्रोकली को फूलों में बाँट लें। लाल और पीली शिमला मिर्च को छोटे टुकड़ों में काट लीजिये. प्याज को वेजेज में काट लें.",
+        "एक फ्राइंग पैन में जैतून का तेल डालें [1], ढक दें और मध्यम आंच पर लगभग 10 मिनट तक भाप में पकाएँ।",
+        "अच्छी तरह मिलाएं और <A> को 2 में जोड़ें।"
+      ],
+      "ru": [
+        "Куриную грудку нарезаем некрупными кусочками. Разделите брокколи на соцветия. Красный и желтый болгарский перец нарежьте небольшими кусочками. Лук нарезаем дольками.",
+        "Добавьте оливковое масло в сковороду [1], накройте крышкой и готовьте на среднем огне около 10 минут.",
+        "Хорошо перемешайте и добавьте <A> к 2."
+      ],
+      "th": [
+        "หั่นอกไก่เป็นชิ้นขนาดพอดีคำ แบ่งบรอกโคลีออกเป็นดอกย่อย หั่นพริกหยวกสีแดงและเหลืองเป็นชิ้นขนาดพอดีคำ ตัดหัวหอมเป็นเวดจ์",
+        "ใส่น้ำมันมะกอกลงในกระทะ [1] ปิดฝาแล้วนึ่งด้วยไฟปานกลางประมาณ 10 นาที",
+        "ผสมให้เข้ากันแล้วเติม <A> เป็น 2"
+      ],
+      "id": [
+        "Potong dada ayam menjadi potongan-potongan kecil. Bagi brokoli menjadi kuntum. Potong paprika merah dan kuning menjadi potongan-potongan kecil. Potong bawang menjadi irisan.",
+        "Tambahkan minyak zaitun ke dalam penggorengan [1], tutup dan kukus dengan api sedang selama kurang lebih 10 menit.",
+        "Aduk rata dan tambahkan <A> ke 2."
+      ],
+      "ms": [
+        "Potong dada ayam menjadi kepingan bersaiz gigitan. Bahagikan brokoli kepada kuntum bunga. Potong lada benggala merah dan kuning menjadi kepingan bersaiz gigitan. Potong bawang menjadi kepingan.",
+        "Masukkan minyak zaitun ke dalam kuali [1], tutup dan kukus dengan api sederhana selama kira-kira 10 minit.",
+        "Gaul rata dan tambah <A> kepada 2."
+      ],
+      "ko": [
+        "닭고기 고기는 먹기 쉬운 크기로 자른다. 브로콜리는 소방으로 나눈다. 붉은 파프리카, 황색 파프리카는 한입 크기로 자른다. 양파는 빗 모양으로 자른다.",
+        "프라이팬에 [1], 올리브 오일을 넣고 뚜껑을 덮고 중불로 10분 정도 찐다.",
+        "잘 섞은 <A>를 2에 더한다."
+      ]
+    }
   }
 ]

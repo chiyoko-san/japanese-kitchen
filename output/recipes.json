@@ -191835,5 +191835,374 @@
         "잘 섞은 <A>를 2에 더한다."
       ]
     }
+  },
+  {
+    "id": "3527b278",
+    "source_url": "https://www.mizkan.co.jp/ouchirecipe/recipe/?menu_id=18960",
+    "source_site": "Mizkan",
+    "title_ja": "厚切り大根と鶏手羽元のさっぱり煮",
+    "description_ja": "",
+    "ingredients": [
+      {
+        "name_ja": "鶏手羽元",
+        "amount": "６本（３６０ｇ）",
+        "name_translated": {
+          "en": "chicken wings",
+          "zh_tw": "雞翅",
+          "zh_cn": "鸡翅",
+          "vi": "cánh gà",
+          "hi": "चिकन विंग्स",
+          "ru": "куриные крылышки",
+          "th": "ปีกไก่",
+          "id": "sayap ayam",
+          "ms": "kepak ayam",
+          "ko": "닭 날개"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E9%B6%8F%E6%89%8B%E7%BE%BD%E5%85%83&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E9%B6%8F%E6%89%8B%E7%BE%BD%E5%85%83/?tag="
+      },
+      {
+        "name_ja": "大根",
+        "amount": "１／４本",
+        "name_translated": {
+          "en": "Japanese white radish",
+          "zh_tw": "日本白蘿蔔",
+          "zh_cn": "日本白萝卜",
+          "vi": "Củ cải trắng Nhật Bản",
+          "hi": "जापानी सफेद मूली",
+          "ru": "Японская белая редька",
+          "th": "หัวไชเท้าขาวญี่ปุ่น",
+          "id": "lobak putih jepang",
+          "ms": "lobak putih jepun",
+          "ko": "무"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E5%A4%A7%E6%A0%B9&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E5%A4%A7%E6%A0%B9/?tag="
+      },
+      {
+        "name_ja": "小ねぎ　（小口切り）",
+        "amount": "適宜",
+        "name_translated": {
+          "en": "Onion (cut into small pieces)",
+          "zh_tw": "洋蔥（切小塊）",
+          "zh_cn": "洋葱（切小块）",
+          "vi": "Hành tây (cắt thành miếng nhỏ)",
+          "hi": "प्याज (छोटे टुकड़ों में कटा हुआ)",
+          "ru": "Лук (нарезать небольшими кусочками)",
+          "th": "หัวหอม (หั่นเป็นชิ้นเล็กๆ)",
+          "id": "Bawang bombay (potong kecil-kecil)",
+          "ms": "Bawang besar (potong kecil)",
+          "ko": "작은 양파 (작은 컷)"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E5%B0%8F%E3%81%AD%E3%81%8E%E3%80%80%EF%BC%88%E5%B0%8F%E5%8F%A3%E5%88%87%E3%82%8A%EF%BC%89&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E5%B0%8F%E3%81%AD%E3%81%8E%E3%80%80%EF%BC%88%E5%B0%8F%E5%8F%A3%E5%88%87%E3%82%8A%EF%BC%89/?tag="
+      },
+      {
+        "name_ja": "ミツカン　味ぽん",
+        "amount": "１００ｍｌ",
+        "name_translated": {
+          "en": "Mizkan Ajipon",
+          "zh_tw": "味滋康味精",
+          "zh_cn": "味滋康味精",
+          "vi": "Mizkan Ajipon",
+          "hi": "मिज़कान अजिपोन",
+          "ru": "Мизкан Аджипон",
+          "th": "มิซกัน อาจิปอน",
+          "id": "Mizkan Ajipon",
+          "ms": "Mizkan Ajipon",
+          "ko": "미츠칸 미포"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E5%91%B3%E3%81%BD%E3%82%93&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E5%91%B3%E3%81%BD%E3%82%93/?tag="
+      },
+      {
+        "name_ja": "水",
+        "amount": "１００ｍｌ",
+        "name_translated": {
+          "en": "water",
+          "zh_tw": "水",
+          "zh_cn": "水",
+          "vi": "Nước",
+          "hi": "पानी",
+          "ru": "вода",
+          "th": "น้ำ",
+          "id": "air",
+          "ms": "air",
+          "ko": "물"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E6%B0%B4&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E6%B0%B4/?tag="
+      },
+      {
+        "name_ja": "みりん",
+        "amount": "５０ｍｌ",
+        "name_translated": {
+          "en": "Mirin",
+          "zh_tw": "味醂",
+          "zh_cn": "味醂",
+          "vi": "Mirin",
+          "hi": "मिरिन",
+          "ru": "Мирин",
+          "th": "มิริน",
+          "id": "Mirin",
+          "ms": "Mirin",
+          "ko": "미린"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%BF%E3%82%8A%E3%82%93&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%BF%E3%82%8A%E3%82%93/?tag="
+      },
+      {
+        "name_ja": "１",
+        "amount": "にする。耐熱皿にのせ、ふんわりとラップをして電子レンジ（６００Ｗ）で５分加熱する（うっすら透明になるくらい）。手羽元は水けをペーパータオル等でふき取る。",
+        "name_translated": {
+          "en": "1",
+          "zh_tw": "1",
+          "zh_cn": "1",
+          "vi": "1",
+          "hi": "1",
+          "ru": "1",
+          "th": "1",
+          "id": "1",
+          "ms": "1",
+          "ko": "1"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%91&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%91/?tag="
+      },
+      {
+        "name_ja": "２",
+        "amount": "と＜調味料＞を入れ、強めの中火にかける。",
+        "name_translated": {
+          "en": "2",
+          "zh_tw": "2",
+          "zh_cn": "2",
+          "vi": "2",
+          "hi": "2",
+          "ru": "2",
+          "th": "2",
+          "id": "2",
+          "ms": "2",
+          "ko": "2"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%92&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%92/?tag="
+      },
+      {
+        "name_ja": "３",
+        "amount": "煮立ったらふたをして中火で２０分ほど煮る。（途中、まんべんなく味がしみるように上下を返してください。）",
+        "name_translated": {
+          "en": "3",
+          "zh_tw": "3",
+          "zh_cn": "3",
+          "vi": "3",
+          "hi": "3",
+          "ru": "3",
+          "th": "3",
+          "id": "3",
+          "ms": "3",
+          "ko": "3"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%93&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%93/?tag="
+      },
+      {
+        "name_ja": "４",
+        "amount": "器に盛り、お好みで小ねぎを飾る。",
+        "name_translated": {
+          "en": "4",
+          "zh_tw": "4",
+          "zh_cn": "4",
+          "vi": "4",
+          "hi": "4",
+          "ru": "4",
+          "th": "4",
+          "id": "4",
+          "ms": "4",
+          "ko": "4"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%94&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%94/?tag="
+      },
+      {
+        "name_ja": "「穀物酢」で作る鶏のさっぱり煮",
+        "amount": "適量",
+        "name_translated": {
+          "en": "Refreshing chicken stew made with “cereal vinegar”",
+          "zh_tw": "用「穀物醋」製作的清爽燉雞",
+          "zh_cn": "用“谷物醋”制作的清爽炖鸡",
+          "vi": "Món gà hầm giải khát làm từ “dấm ngũ cốc”",
+          "hi": "\"अनाज के सिरके\" से बना ताज़ा चिकन स्टू",
+          "ru": "Освежающее куриное рагу с «зерновым уксусом»",
+          "th": "สตูว์ไก่เพิ่มความสดชื่นด้วย “น้ำส้มสายชูธัญพืช”",
+          "id": "Sup ayam menyegarkan yang dibuat dengan “cuka sereal”",
+          "ms": "Rebusan ayam yang menyegarkan dibuat dengan \"cuka bijirin\"",
+          "ko": "\"곡물 식초\"로 만드는 닭의 깔끔한 삶은"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%80%8C%E7%A9%80%E7%89%A9%E9%85%A2%E3%80%8D%E3%81%A7%E4%BD%9C%E3%82%8B%E9%B6%8F%E3%81%AE%E3%81%95%E3%81%A3%E3%81%B1%E3%82%8A%E7%85%AE&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%80%8C%E7%A9%80%E7%89%A9%E9%85%A2%E3%80%8D%E3%81%A7%E4%BD%9C%E3%82%8B%E9%B6%8F%E3%81%AE%E3%81%95%E3%81%A3%E3%81%B1%E3%82%8A%E7%85%AE/?tag="
+      },
+      {
+        "name_ja": "「味ぽん」で作る鶏のさっぱり煮",
+        "amount": "適量",
+        "name_translated": {
+          "en": "Refreshingly boiled chicken made with “Ajipon”",
+          "zh_tw": "使用“Ajipon”製作的清爽的水煮雞肉",
+          "zh_cn": "使用“Ajipon”制作的清爽的水煮鸡肉",
+          "vi": "Thịt gà luộc tươi làm từ “Ajipon”",
+          "hi": "\"अजिपोन\" से बना ताज़ा उबला हुआ चिकन",
+          "ru": "Освежающе-вареная курица с «Аджипоном»",
+          "th": "ไก่ต้มเพิ่มความสดชื่นจาก “อาจิปง”",
+          "id": "Ayam rebus segar yang dibuat dengan “Ajipon”",
+          "ms": "Ayam rebus segar dibuat dengan \"Ajipon\"",
+          "ko": "\"아이폰\"으로 만드는 닭의 깔끔한 삶은"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%80%8C%E5%91%B3%E3%81%BD%E3%82%93%E3%80%8D%E3%81%A7%E4%BD%9C%E3%82%8B%E9%B6%8F%E3%81%AE%E3%81%95%E3%81%A3%E3%81%B1%E3%82%8A%E7%85%AE&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%80%8C%E5%91%B3%E3%81%BD%E3%82%93%E3%80%8D%E3%81%A7%E4%BD%9C%E3%82%8B%E9%B6%8F%E3%81%AE%E3%81%95%E3%81%A3%E3%81%B1%E3%82%8A%E7%85%AE/?tag="
+      },
+      {
+        "name_ja": "「カンタン酢」で作る鶏のさっぱり煮",
+        "amount": "適量",
+        "name_translated": {
+          "en": "「カンタン酢」で作る鶏のさっぱり煮",
+          "zh_tw": "用「簡單的醋」做的清爽的水煮雞",
+          "zh_cn": "用“简单的醋”做的清爽的水煮鸡",
+          "vi": "Gà luộc tươi ngon làm từ “dấm đơn giản”",
+          "hi": "\"सरल सिरके\" से बना ताज़ा उबला हुआ चिकन",
+          "ru": "Освежающе-вареная курица, приготовленная с «простым уксусом»",
+          "th": "ไก่ต้มสดชื่นด้วย “น้ำส้มสายชูธรรมดา”",
+          "id": "Ayam rebus menyegarkan yang dibuat dengan “cuka sederhana”",
+          "ms": "Ayam rebus yang menyegarkan dibuat dengan \"cuka ringkas\"",
+          "ko": "\"간단 식초\"로 만드는 닭의 깔끔한 삶은"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%80%8C%E3%82%AB%E3%83%B3%E3%82%BF%E3%83%B3%E9%85%A2%E3%80%8D%E3%81%A7%E4%BD%9C%E3%82%8B%E9%B6%8F%E3%81%AE%E3%81%95%E3%81%A3%E3%81%B1%E3%82%8A%E7%85%AE&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%80%8C%E3%82%AB%E3%83%B3%E3%82%BF%E3%83%B3%E9%85%A2%E3%80%8D%E3%81%A7%E4%BD%9C%E3%82%8B%E9%B6%8F%E3%81%AE%E3%81%95%E3%81%A3%E3%81%B1%E3%82%8A%E7%85%AE/?tag="
+      }
+    ],
+    "steps_ja": [
+      "大根は、２ｃｍ厚さの半月切りにする。耐熱皿にのせ、ふんわりとラップをして電子レンジ（６００Ｗ）で５分加熱する（うっすら透明になるくらい）。手羽元は水けをペーパータオル等でふき取る。",
+      "鍋に１と＜調味料＞を入れ、強めの中火にかける。",
+      "煮立ったらふたをして中火で２０分ほど煮る。（途中、まんべんなく味がしみるように上下を返してください。）",
+      "器に盛り、お好みで小ねぎを飾る。",
+      "「穀物酢」で作る鶏のさっぱり煮",
+      "「味ぽん」で作る鶏のさっぱり煮",
+      "「カンタン酢」で作る鶏のさっぱり煮"
+    ],
+    "image_url": "",
+    "title": {
+      "en": "Refreshingly boiled thick-sliced ​​radish and chicken wings",
+      "zh_tw": "清爽水煮厚片蘿蔔和雞翅",
+      "zh_cn": "清爽水煮厚片萝卜和鸡翅",
+      "vi": "Cánh gà và củ cải thái lát dày luộc tươi",
+      "hi": "ताज़ा उबली हुई मोटी कटी हुई मूली और चिकन विंग्स",
+      "ru": "Освежающе отварная толсто нарезанная редиска и куриные крылышки",
+      "th": "หัวไชเท้าสไลซ์หนาและปีกไก่ต้มจนสดชื่น",
+      "id": "Lobak irisan tebal dan sayap ayam yang direbus menyegarkan",
+      "ms": "Lobak dihiris tebal dan kepak ayam yang baru direbus",
+      "ko": "두껍게 썬 무와 닭 닭 날개를 끓인다."
+    },
+    "description": {
+      "en": "",
+      "zh_tw": "",
+      "zh_cn": "",
+      "vi": "",
+      "hi": "",
+      "ru": "",
+      "th": "",
+      "id": "",
+      "ms": "",
+      "ko": ""
+    },
+    "steps": {
+      "en": [
+        "大根は、２ｃｍ厚さの半月切りにする。耐熱皿にのせ、ふんわりとラップをして電子レンジ（６００Ｗ）で５分加熱する（うっすら透明になるくらい）。手羽元は水けをペーパータオル等でふき取る。",
+        "Add 1 and <seasonings> to a pot and heat over medium-high heat.",
+        "Once it boils, cover and simmer over medium heat for about 20 minutes. (Be sure to turn it upside down halfway through so that the flavor is evenly absorbed.)",
+        "Place in a bowl and garnish with green onions if desired.",
+        "Refreshing chicken stew made with “cereal vinegar”",
+        "Refreshingly boiled chicken made with “Ajipon”",
+        "Refreshingly boiled chicken made with “simple vinegar”"
+      ],
+      "zh_tw": [
+        "將蘿蔔切成2公分厚的半月形。放在耐热盘上，松松地盖上保鲜膜，然后在微波炉（600W）中加热5分钟（直至变得稍微透明）。用紙巾擦去雞翅上的水。",
+        "將1和<調味料>放入鍋中，以中火加熱。",
+        "煮沸後，蓋上鍋蓋，用中火煮約20分鐘。 （中途一定要翻過來，這樣味道才能均勻吸收。）",
+        "如果需要的話，放入碗中並用蔥裝飾。",
+        "用「穀物醋」製作的清爽燉雞",
+        "使用“Ajipon”製作的清爽的水煮雞肉",
+        "用「簡單的醋」做的清爽的水煮雞"
+      ],
+      "zh_cn": [
+        "将萝卜切成2厘米厚的半月形。放在耐热盘上，松松地盖上保鲜膜，然后在微波炉（600W）中加热5分钟（直至变得稍微透明）。用纸巾擦去鸡翅上的水。",
+        "将1和<调味料>放入锅中，用中火加热。",
+        "煮沸后，盖上锅盖，用中火煮约20分钟。 （中途一定要翻过来，这样味道才能均匀吸收。）",
+        "如果需要的话，放入碗中并用葱装饰。",
+        "用“谷物醋”制作的清爽炖鸡",
+        "使用“Ajipon”制作的清爽的水煮鸡肉",
+        "用“简单的醋”做的清爽的水煮鸡"
+      ],
+      "vi": [
+        "Cắt củ cải thành hình bán nguyệt dày 2 cm. Đặt trên một tấm chịu nhiệt, đậy nhẹ bằng màng bọc thực phẩm và đun nóng trong lò vi sóng (600W) trong 5 phút (cho đến khi nó hơi trong suốt). Lau sạch nước trên cánh gà bằng khăn giấy.",
+        "Thêm 1 và <gia vị> vào nồi và đun trên lửa vừa cao.",
+        "Sau khi sôi, đậy nắp và đun trên lửa vừa trong khoảng 20 phút. (Hãy nhớ lật ngược nửa chừng để hương vị được thấm đều.)",
+        "Cho vào tô và trang trí với hành lá nếu muốn.",
+        "Món gà hầm giải khát làm từ “dấm ngũ cốc”",
+        "Thịt gà luộc tươi làm từ “Ajipon”",
+        "Gà luộc tươi ngon làm từ “dấm đơn giản”"
+      ],
+      "hi": [
+        "मूली को 2 सेमी मोटे आधे टुकड़ों में काट लें। गर्मी प्रतिरोधी प्लेट पर रखें, प्लास्टिक रैप से ढकें और माइक्रोवेव (600W) में 5 मिनट तक गर्म करें (जब तक कि यह थोड़ा पारदर्शी न हो जाए)। चिकन विंग्स से पानी को कागज़ के तौलिये से पोंछ लें।",
+        "एक बर्तन में 1 और <सीजनिंग> डालें और मध्यम-उच्च गर्मी पर गर्म करें।",
+        "एक बार जब यह उबल जाए, तो ढककर मध्यम आंच पर लगभग 20 मिनट तक पकाएं। (सुनिश्चित करें कि इसे बीच-बीच में उल्टा कर दें ताकि स्वाद समान रूप से अवशोषित हो जाए।)",
+        "एक कटोरे में रखें और चाहें तो हरे प्याज से सजाएँ।",
+        "\"अनाज के सिरके\" से बना ताज़ा चिकन स्टू",
+        "\"अजिपोन\" से बना ताज़ा उबला हुआ चिकन",
+        "\"सरल सिरके\" से बना ताज़ा उबला हुआ चिकन"
+      ],
+      "ru": [
+        "Редис нарезаем полумесяцами толщиной 2 см. Выложите на термостойкую тарелку, неплотно накройте полиэтиленовой пленкой и нагревайте в микроволновой печи (600 Вт) в течение 5 минут (пока она не станет слегка прозрачной). Вытрите воду с куриных крылышек бумажным полотенцем.",
+        "Добавьте 1 и <приправы> в кастрюлю и нагрейте на среднем или сильном огне.",
+        "Как только закипит, накройте крышкой и тушите на среднем огне около 20 минут. (Обязательно переверните его в середине приготовления, чтобы аромат равномерно впитался.)",
+        "Выложите в миску и по желанию украсьте зеленым луком.",
+        "Освежающее куриное рагу с «зерновым уксусом»",
+        "Освежающе-вареная курица с «Аджипоном»",
+        "Освежающе-вареная курица, приготовленная с «простым уксусом»"
+      ],
+      "th": [
+        "ตัดหัวไชเท้าเป็นพระจันทร์ครึ่งเสี้ยวหนา 2 ซม. วางบนจานทนความร้อน ปิดด้วยพลาสติกแร็ป แล้วให้ความร้อนในไมโครเวฟ (600W) เป็นเวลา 5 นาที (จนจะใสเล็กน้อย) เช็ดน้ำออกจากปีกไก่ด้วยผ้ากระดาษ",
+        "เพิ่ม 1 และ <เครื่องปรุงรส> ลงในหม้อแล้วตั้งไฟบนไฟร้อนปานกลาง",
+        "เมื่อเดือดแล้วให้ปิดฝาและเคี่ยวบนไฟร้อนปานกลางประมาณ 20 นาที (อย่าลืมพลิกกลับด้านครึ่งหนึ่งเพื่อให้รสชาติดูดซึมได้ทั่วถึง)",
+        "วางในชามและโรยหน้าด้วยหัวหอมสีเขียวหากต้องการ",
+        "สตูว์ไก่เพิ่มความสดชื่นด้วย “น้ำส้มสายชูธัญพืช”",
+        "ไก่ต้มเพิ่มความสดชื่นจาก “อาจิปง”",
+        "ไก่ต้มสดชื่นด้วย “น้ำส้มสายชูธรรมดา”"
+      ],
+      "id": [
+        "Potong lobak menjadi setengah bulan setebal 2 cm. Letakkan di piring tahan panas, tutup rapat dengan plastik wrap, lalu panaskan di microwave (600W) selama 5 menit (sampai agak transparan). Bersihkan air dari sayap ayam dengan handuk kertas.",
+        "Tambahkan 1 dan <bumbu> ke dalam panci dan panaskan dengan api sedang-besar.",
+        "Setelah mendidih, tutup dan masak dengan api sedang selama sekitar 20 menit. (Pastikan untuk membalikkannya di tengah proses agar rasanya terserap secara merata.)",
+        "Tempatkan dalam mangkuk dan hiasi dengan daun bawang jika diinginkan.",
+        "Sup ayam menyegarkan yang dibuat dengan “cuka sereal”",
+        "Ayam rebus segar yang dibuat dengan “Ajipon”",
+        "Ayam rebus menyegarkan yang dibuat dengan “cuka sederhana”"
+      ],
+      "ms": [
+        "Potong lobak menjadi separuh bulan setebal 2cm. Letakkan di atas pinggan tahan panas, tutup longgar dengan bungkus plastik, dan panaskan dalam ketuhar gelombang mikro (600W) selama 5 minit (sehingga ia menjadi sedikit lutsinar). Lap air kepak ayam dengan tuala kertas.",
+        "Masukkan 1 dan <perasa> ke dalam periuk dan panaskan dengan api sederhana tinggi.",
+        "Setelah mendidih, tutup dan reneh dengan api sederhana selama kira-kira 20 minit. (Pastikan terbalikkan separuh supaya rasa sebati.)",
+        "Letakkan dalam mangkuk dan hiaskan dengan bawang hijau jika suka.",
+        "Rebusan ayam yang menyegarkan dibuat dengan \"cuka bijirin\"",
+        "Ayam rebus segar dibuat dengan \"Ajipon\"",
+        "Ayam rebus yang menyegarkan dibuat dengan \"cuka ringkas\""
+      ],
+      "ko": [
+        "무는 2cm 두께의 반월 자른다. 내열 접시에 얹어 부드럽게 랩을 하고 전자 레인지(600W)로 5분 가열한다(희미하게 투명해질 정도). 닭날개는 물기를 종이 타월 등으로 닦아낸다.",
+        "냄비에 1과 <조미료>를 넣고 강한 중불에 뿌린다.",
+        "끓으면 뚜껑을 하고 중불로 20분 정도 끓인다. (도중에 골고루 맛을 내기 위해 상하를 돌려주세요.)",
+        "그릇에 담고 기호로 양파를 장식한다.",
+        "\"곡물 식초\"로 만드는 닭의 깔끔한 삶은",
+        "\"아이폰\"으로 만드는 닭의 깔끔한 삶은",
+        "\"간단 식초\"로 만드는 닭의 깔끔한 삶은"
+      ]
+    }
   }
 ]

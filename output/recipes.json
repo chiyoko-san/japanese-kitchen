@@ -217915,5 +217915,128 @@
         "고기에 불이 지나면, 재료를 대고 중앙을 비우고, 치즈를 더해 약불로 하고, 치즈가 녹을 때까지 불을 통과시킨다."
       ]
     }
+  },
+  {
+    "id": "16e4bf65",
+    "source_url": "https://www.mizkan.co.jp/ouchirecipe/recipe/?menu_id=23206",
+    "source_site": "Mizkan",
+    "title_ja": "「味ぽんスパイス」ポテト",
+    "description_ja": "",
+    "ingredients": [
+      {
+        "name_ja": "フライドポテト",
+        "amount": "８０ｇ",
+        "name_translated": {
+          "en": "french fries",
+          "zh_tw": "薯條",
+          "zh_cn": "炸薯条",
+          "vi": "khoai tây chiên",
+          "hi": "फ्रेंच फ्राइज़",
+          "ru": "картофель фри",
+          "th": "มันฝรั่งทอด",
+          "id": "kentang goreng",
+          "ms": "kentang goreng",
+          "ko": "감자 튀김"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%95%E3%83%A9%E3%82%A4%E3%83%89%E3%83%9D%E3%83%86%E3%83%88&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%95%E3%83%A9%E3%82%A4%E3%83%89%E3%83%9D%E3%83%86%E3%83%88/?tag="
+      },
+      {
+        "name_ja": "ミツカン　無限さっぱりスパイスｂｙ味ぽん",
+        "amount": "適量",
+        "name_translated": {
+          "en": "Mizkan Mugen Refreshing Spice by Ajipon",
+          "zh_tw": "Ajipon 滋康 Mugen 清爽香料",
+          "zh_cn": "Ajipon 味滋康 Mugen 清爽香料",
+          "vi": "Gia vị làm mới Mizkan Mugen của Ajipon",
+          "hi": "अजिपोन द्वारा मिज़कान मुगेन रिफ्रेशिंग स्पाइस",
+          "ru": "Освежающая специя Mizkan Mugen от Ajipon",
+          "th": "มิซกัน มูเกน รีเฟรชชิ่ง สไปซ์ บาย อาจิปอน",
+          "id": "Mizkan Mugen Rempah Menyegarkan by Ajipon",
+          "ms": "Mizkan Mugen Refreshing Spice by Ajipon",
+          "ko": "미츠칸 무한 깔끔한 향신료 by 맛"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E7%84%A1%E9%99%90%E3%81%95%E3%81%A3%E3%81%B1%E3%82%8A%E3%82%B9%E3%83%91%E3%82%A4%E3%82%B9%EF%BD%82%EF%BD%99%E5%91%B3%E3%81%BD%E3%82%93&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E7%84%A1%E9%99%90%E3%81%95%E3%81%A3%E3%81%B1%E3%82%8A%E3%82%B9%E3%83%91%E3%82%A4%E3%82%B9%EF%BD%82%EF%BD%99%E5%91%B3%E3%81%BD%E3%82%93/?tag="
+      },
+      {
+        "name_ja": "１",
+        "amount": "フライドポテトを器に盛り、「無限さっぱりスパイスby味ぽん」を適量かける。",
+        "name_translated": {
+          "en": "1",
+          "zh_tw": "1",
+          "zh_cn": "1",
+          "vi": "1",
+          "hi": "1",
+          "ru": "1",
+          "th": "1",
+          "id": "1",
+          "ms": "1",
+          "ko": "1"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%91&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%91/?tag="
+      }
+    ],
+    "steps_ja": [
+      "フライドポテトを器に盛り、「無限さっぱりスパイスby味ぽん」を適量かける。"
+    ],
+    "image_url": "",
+    "title": {
+      "en": "\"Ajipon Spice\" potatoes",
+      "zh_tw": "“Ajipon香料”土豆",
+      "zh_cn": "“Ajipon香料”土豆",
+      "vi": "Khoai tây \"Gia vị Ajipon\"",
+      "hi": "\"अजिपोन स्पाइस\" आलू",
+      "ru": "Картофель \"Аджипон Спайс\"",
+      "th": "มันฝรั่ง \"อาจิปอน สไปซ์\"",
+      "id": "Kentang \"Ajipon Bumbu\".",
+      "ms": "Kentang \"Rempah Ajipon\".",
+      "ko": "'아이폰 향신료' 감자"
+    },
+    "description": {
+      "en": "",
+      "zh_tw": "",
+      "zh_cn": "",
+      "vi": "",
+      "hi": "",
+      "ru": "",
+      "th": "",
+      "id": "",
+      "ms": "",
+      "ko": ""
+    },
+    "steps": {
+      "en": [
+        "Place the fries in a bowl and sprinkle with an appropriate amount of ``Mugen Refreshing Spice by Ajipon.''"
+      ],
+      "zh_tw": [
+        "將薯條放入碗中，撒上適量的「Mugen Refreshing Spice by Ajipon」。"
+      ],
+      "zh_cn": [
+        "将薯条放入碗中，撒上适量的“Mugen Refreshing Spice by Ajipon”。"
+      ],
+      "vi": [
+        "Đặt khoai tây chiên vào tô và rắc một lượng thích hợp ``Mugen Refreshing Spice của Ajipon.''"
+      ],
+      "hi": [
+        "फ्राइज़ को एक कटोरे में रखें और उचित मात्रा में ``अजिपोन द्वारा मुगेन रिफ्रेशिंग स्पाइस'' छिड़कें।"
+      ],
+      "ru": [
+        "Положите картофель фри в миску и посыпьте соответствующим количеством освежающей специи Mugen от Ajipon."
+      ],
+      "th": [
+        "วางมันฝรั่งทอดลงในชามแล้วโรยด้วย ``Mugen Refreshing Spice by Ajipon ในปริมาณที่เหมาะสม''"
+      ],
+      "id": [
+        "Tempatkan kentang goreng dalam mangkuk dan taburi dengan ``Mugen Refreshing Spice by Ajipon'' secukupnya."
+      ],
+      "ms": [
+        "Letakkan kentang goreng dalam mangkuk dan taburkan dengan jumlah yang sesuai dengan ``Mugen Refreshing Spice by Ajipon.''"
+      ],
+      "ko": [
+        "감자 튀김을 그릇에 담아 \"무한 상쾌 향신료 by 맛 폰\"을 적당량 걸린다."
+      ]
+    }
   }
 ]

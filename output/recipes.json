@@ -229196,5 +229196,464 @@
         "그릇에 랩을 떼어 담고, 십자의 노치를 넣고 버터를 얹고, 「아지노모토®」를 한다."
       ]
     }
+  },
+  {
+    "id": "bb992bce",
+    "source_url": "https://www.mizkan.co.jp/ouchirecipe/recipe/?menu_id=9367",
+    "source_site": "Mizkan",
+    "title_ja": "「カンタン酢」で作る鶏のさっぱり煮",
+    "description_ja": "",
+    "ingredients": [
+      {
+        "name_ja": "鶏手羽元",
+        "amount": "８本（４８０ｇ）",
+        "name_translated": {
+          "en": "chicken wings",
+          "zh_tw": "雞翅",
+          "zh_cn": "鸡翅",
+          "vi": "cánh gà",
+          "hi": "चिकन विंग्स",
+          "ru": "куриные крылышки",
+          "th": "ปีกไก่",
+          "id": "sayap ayam",
+          "ms": "kepak ayam",
+          "ko": "닭 날개"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E9%B6%8F%E6%89%8B%E7%BE%BD%E5%85%83&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E9%B6%8F%E6%89%8B%E7%BE%BD%E5%85%83/?tag="
+      },
+      {
+        "name_ja": "ゆで卵",
+        "amount": "２個",
+        "name_translated": {
+          "en": "boiled egg",
+          "zh_tw": "煮雞蛋",
+          "zh_cn": "煮鸡蛋",
+          "vi": "trứng luộc",
+          "hi": "उबले हुए अंडे",
+          "ru": "вареное яйцо",
+          "th": "ไข่ต้ม",
+          "id": "telur rebus",
+          "ms": "telur rebus",
+          "ko": "삶은 달걀"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%82%86%E3%81%A7%E5%8D%B5&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%82%86%E3%81%A7%E5%8D%B5/?tag="
+      },
+      {
+        "name_ja": "ブロッコリー",
+        "amount": "適量",
+        "name_translated": {
+          "en": "broccoli",
+          "zh_tw": "綠色花椰菜",
+          "zh_cn": "西兰花",
+          "vi": "bông cải xanh",
+          "hi": "ब्रोकोली",
+          "ru": "брокколи",
+          "th": "บรอกโคลี",
+          "id": "brokoli",
+          "ms": "brokoli",
+          "ko": "브로콜리"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%96%E3%83%AD%E3%83%83%E3%82%B3%E3%83%AA%E3%83%BC&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%96%E3%83%AD%E3%83%83%E3%82%B3%E3%83%AA%E3%83%BC/?tag="
+      },
+      {
+        "name_ja": "ミツカン　カンタン酢",
+        "amount": "１５０ｍｌ",
+        "name_translated": {
+          "en": "Mizkan Kantan Vinegar",
+          "zh_tw": "味滋康甘丹醋",
+          "zh_cn": "味滋康甘丹醋",
+          "vi": "Giấm Mizkan Kantan",
+          "hi": "मिज़कान कंटन सिरका",
+          "ru": "Мизкан Кантанский уксус",
+          "th": "น้ำส้มสายชูมิซกัน กันตัน",
+          "id": "Cuka Mizkan Kantan",
+          "ms": "Cuka Mizkan Kantan",
+          "ko": "미츠칸 칸탄초"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E3%82%AB%E3%83%B3%E3%82%BF%E3%83%B3%E9%85%A2&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E3%82%AB%E3%83%B3%E3%82%BF%E3%83%B3%E9%85%A2/?tag="
+      },
+      {
+        "name_ja": "または",
+        "amount": "適量",
+        "name_translated": {
+          "en": "or",
+          "zh_tw": "或者",
+          "zh_cn": "或者",
+          "vi": "hoặc",
+          "hi": "या",
+          "ru": "или",
+          "th": "หรือ",
+          "id": "atau",
+          "ms": "atau",
+          "ko": "또는"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%BE%E3%81%9F%E3%81%AF&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%BE%E3%81%9F%E3%81%AF/?tag="
+      },
+      {
+        "name_ja": "ミツカン　カンタン黒酢",
+        "amount": "１５０ｍｌ",
+        "name_translated": {
+          "en": "Mizkan Easy Black Vinegar",
+          "zh_tw": "味滋康簡易黑醋",
+          "zh_cn": "味滋康简易黑醋",
+          "vi": "Giấm đen Mizkan dễ dàng",
+          "hi": "मिज़कान इज़ी ब्लैक विनेगर",
+          "ru": "Мизкан Легкий черный уксус",
+          "th": "มิซคาน อีซี่ น้ำส้มสายชูดำ",
+          "id": "Mizkan Cuka Hitam Mudah",
+          "ms": "Mizkan Cuka Hitam Mudah",
+          "ko": "미츠칸 칸탄 흑초"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E3%82%AB%E3%83%B3%E3%82%BF%E3%83%B3%E9%BB%92%E9%85%A2&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E3%82%AB%E3%83%B3%E3%82%BF%E3%83%B3%E9%BB%92%E9%85%A2/?tag="
+      },
+      {
+        "name_ja": "または",
+        "amount": "適量",
+        "name_translated": {
+          "en": "or",
+          "zh_tw": "或者",
+          "zh_cn": "或者",
+          "vi": "hoặc",
+          "hi": "या",
+          "ru": "или",
+          "th": "หรือ",
+          "id": "atau",
+          "ms": "atau",
+          "ko": "또는"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%BE%E3%81%9F%E3%81%AF&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%BE%E3%81%9F%E3%81%AF/?tag="
+      },
+      {
+        "name_ja": "ミツカン　カンタン純米酢",
+        "amount": "１５０ｍｌ",
+        "name_translated": {
+          "en": "Mizkan Easy Junmai Vinegar",
+          "zh_tw": "滋康簡易純米醋",
+          "zh_cn": "味滋康简易纯米醋",
+          "vi": "Giấm Mizkan Easy Junmai",
+          "hi": "मिज़कान आसान जुनमई सिरका",
+          "ru": "Мизкан Легкий уксус Джунмай",
+          "th": "มิซกัน อีซี่ จุนไม น้ำส้มสายชู",
+          "id": "Cuka Mizkan Easy Junmai",
+          "ms": "Mizkan Cuka Junmai Mudah",
+          "ko": "미츠칸 간단 순미 식초"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E3%82%AB%E3%83%B3%E3%82%BF%E3%83%B3%E7%B4%94%E7%B1%B3%E9%85%A2&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E3%82%AB%E3%83%B3%E3%82%BF%E3%83%B3%E7%B4%94%E7%B1%B3%E9%85%A2/?tag="
+      },
+      {
+        "name_ja": "または",
+        "amount": "適量",
+        "name_translated": {
+          "en": "or",
+          "zh_tw": "或者",
+          "zh_cn": "或者",
+          "vi": "hoặc",
+          "hi": "या",
+          "ru": "или",
+          "th": "หรือ",
+          "id": "atau",
+          "ms": "atau",
+          "ko": "또는"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%BE%E3%81%9F%E3%81%AF&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%BE%E3%81%9F%E3%81%AF/?tag="
+      },
+      {
+        "name_ja": "ミツカン　カンタン酢　レモン",
+        "amount": "１５０ｍｌ",
+        "name_translated": {
+          "en": "Mizkan Easy Vinegar Lemon",
+          "zh_tw": "味滋康簡易醋檸檬",
+          "zh_cn": "味滋康简易醋柠檬",
+          "vi": "Mizkan Easy Giấm chanh",
+          "hi": "मिज़कान आसान सिरका नींबू",
+          "ru": "Мизкан Легкий Уксус Лимон",
+          "th": "มิซคาน อีซี่ วีนีการ์ เลมอน",
+          "id": "Mizkan Cuka Lemon Mudah",
+          "ms": "Mizkan Easy Vinegar Lemon",
+          "ko": "미츠칸 칸탄초 레몬"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E3%82%AB%E3%83%B3%E3%82%BF%E3%83%B3%E9%85%A2%E3%80%80%E3%83%AC%E3%83%A2%E3%83%B3&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E3%82%AB%E3%83%B3%E3%82%BF%E3%83%B3%E9%85%A2%E3%80%80%E3%83%AC%E3%83%A2%E3%83%B3/?tag="
+      },
+      {
+        "name_ja": "しょうゆ",
+        "amount": "大さじ１",
+        "name_translated": {
+          "en": "soy sauce",
+          "zh_tw": "醬油",
+          "zh_cn": "酱油",
+          "vi": "nước tương",
+          "hi": "सोया सॉस",
+          "ru": "соевый соус",
+          "th": "ซอสถั่วเหลือง",
+          "id": "kecap",
+          "ms": "kicap",
+          "ko": "간장"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%97%E3%82%87%E3%81%86%E3%82%86&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%97%E3%82%87%E3%81%86%E3%82%86/?tag="
+      },
+      {
+        "name_ja": "１",
+        "amount": "手羽元はよく水けをふく。",
+        "name_translated": {
+          "en": "1",
+          "zh_tw": "1",
+          "zh_cn": "1",
+          "vi": "1",
+          "hi": "1",
+          "ru": "1",
+          "th": "1",
+          "id": "1",
+          "ms": "1",
+          "ko": "1"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%91&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%91/?tag="
+      },
+      {
+        "name_ja": "２",
+        "amount": "と＜お好みのカンタン酢＞、しょうゆを入れ、強めの中火にかける。",
+        "name_translated": {
+          "en": "2",
+          "zh_tw": "2",
+          "zh_cn": "2",
+          "vi": "2",
+          "hi": "2",
+          "ru": "2",
+          "th": "2",
+          "id": "2",
+          "ms": "2",
+          "ko": "2"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%92&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%92/?tag="
+      },
+      {
+        "name_ja": "３",
+        "amount": "煮立ったらふたをして、中火で１５分ほど、煮汁が１／２～１／３程度になるまで煮る。",
+        "name_translated": {
+          "en": "3",
+          "zh_tw": "3",
+          "zh_cn": "3",
+          "vi": "3",
+          "hi": "3",
+          "ru": "3",
+          "th": "3",
+          "id": "3",
+          "ms": "3",
+          "ko": "3"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%93&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%93/?tag="
+      },
+      {
+        "name_ja": "４",
+        "amount": "ゆで卵を加えて煮汁をからめ、手羽元と一緒に器に盛り、ゆでたブロッコリーを添える。",
+        "name_translated": {
+          "en": "4",
+          "zh_tw": "4",
+          "zh_cn": "4",
+          "vi": "4",
+          "hi": "4",
+          "ru": "4",
+          "th": "4",
+          "id": "4",
+          "ms": "4",
+          "ko": "4"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%94&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%94/?tag="
+      },
+      {
+        "name_ja": "「穀物酢」で作る鶏のさっぱり煮",
+        "amount": "適量",
+        "name_translated": {
+          "en": "Refreshing chicken stew made with “cereal vinegar”",
+          "zh_tw": "用「穀物醋」製作的清爽燉雞",
+          "zh_cn": "用“谷物醋”制作的清爽炖鸡",
+          "vi": "Món gà hầm giải khát làm từ “dấm ngũ cốc”",
+          "hi": "\"अनाज के सिरके\" से बना ताज़ा चिकन स्टू",
+          "ru": "Освежающее куриное рагу с «зерновым уксусом»",
+          "th": "สตูว์ไก่เพิ่มความสดชื่นด้วย “น้ำส้มสายชูธัญพืช”",
+          "id": "Sup ayam menyegarkan yang dibuat dengan “cuka sereal”",
+          "ms": "Rebusan ayam yang menyegarkan dibuat dengan \"cuka bijirin\"",
+          "ko": "\"곡물 식초\"로 만드는 닭의 깔끔한 삶은"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%80%8C%E7%A9%80%E7%89%A9%E9%85%A2%E3%80%8D%E3%81%A7%E4%BD%9C%E3%82%8B%E9%B6%8F%E3%81%AE%E3%81%95%E3%81%A3%E3%81%B1%E3%82%8A%E7%85%AE&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%80%8C%E7%A9%80%E7%89%A9%E9%85%A2%E3%80%8D%E3%81%A7%E4%BD%9C%E3%82%8B%E9%B6%8F%E3%81%AE%E3%81%95%E3%81%A3%E3%81%B1%E3%82%8A%E7%85%AE/?tag="
+      },
+      {
+        "name_ja": "「味ぽん」で作る鶏のさっぱり煮",
+        "amount": "適量",
+        "name_translated": {
+          "en": "Refreshingly boiled chicken made with “Ajipon”",
+          "zh_tw": "使用“Ajipon”製作的清爽的水煮雞肉",
+          "zh_cn": "使用“Ajipon”制作的清爽的水煮鸡肉",
+          "vi": "Thịt gà luộc tươi làm từ “Ajipon”",
+          "hi": "\"अजिपोन\" से बना ताज़ा उबला हुआ चिकन",
+          "ru": "Освежающе-вареная курица с «Аджипоном»",
+          "th": "ไก่ต้มเพิ่มความสดชื่นจาก “อาจิปง”",
+          "id": "Ayam rebus segar yang dibuat dengan “Ajipon”",
+          "ms": "Ayam rebus segar dibuat dengan \"Ajipon\"",
+          "ko": "\"아이폰\"으로 만드는 닭의 깔끔한 삶은"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%80%8C%E5%91%B3%E3%81%BD%E3%82%93%E3%80%8D%E3%81%A7%E4%BD%9C%E3%82%8B%E9%B6%8F%E3%81%AE%E3%81%95%E3%81%A3%E3%81%B1%E3%82%8A%E7%85%AE&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%80%8C%E5%91%B3%E3%81%BD%E3%82%93%E3%80%8D%E3%81%A7%E4%BD%9C%E3%82%8B%E9%B6%8F%E3%81%AE%E3%81%95%E3%81%A3%E3%81%B1%E3%82%8A%E7%85%AE/?tag="
+      },
+      {
+        "name_ja": "てりてり！鶏のさっぱり煮",
+        "amount": "適量",
+        "name_translated": {
+          "en": "Teri Teri! Refreshing boiled chicken",
+          "zh_tw": "泰瑞泰瑞！清爽的水煮雞",
+          "zh_cn": "泰瑞泰瑞！清爽的水煮鸡",
+          "vi": "Teri Teri! Gà luộc giải khát",
+          "hi": "तेरी तेरी! ताज़ा उबला हुआ चिकन",
+          "ru": "Тери Тери! Освежающая вареная курица",
+          "th": "เทริ เทรี! ไก่ต้มเพิ่มความสดชื่น",
+          "id": "Teri Teri! Ayam rebus yang menyegarkan",
+          "ms": "Teri Teri! Ayam rebus yang menyegarkan",
+          "ko": "테리테리! 닭고기 끓여"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%A6%E3%82%8A%E3%81%A6%E3%82%8A%EF%BC%81%E9%B6%8F%E3%81%AE%E3%81%95%E3%81%A3%E3%81%B1%E3%82%8A%E7%85%AE&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%A6%E3%82%8A%E3%81%A6%E3%82%8A%EF%BC%81%E9%B6%8F%E3%81%AE%E3%81%95%E3%81%A3%E3%81%B1%E3%82%8A%E7%85%AE/?tag="
+      }
+    ],
+    "steps_ja": [
+      "手羽元はよく水けをふく。",
+      "鍋に１と＜お好みのカンタン酢＞、しょうゆを入れ、強めの中火にかける。",
+      "煮立ったらふたをして、中火で１５分ほど、煮汁が１／２～１／３程度になるまで煮る。",
+      "ゆで卵を加えて煮汁をからめ、手羽元と一緒に器に盛り、ゆでたブロッコリーを添える。",
+      "「穀物酢」で作る鶏のさっぱり煮",
+      "「味ぽん」で作る鶏のさっぱり煮",
+      "てりてり！鶏のさっぱり煮"
+    ],
+    "image_url": "",
+    "title": {
+      "en": "Refreshingly boiled chicken made with “simple vinegar”",
+      "zh_tw": "用「簡單的醋」做的清爽的水煮雞",
+      "zh_cn": "用“简单的醋”做的清爽的水煮鸡",
+      "vi": "Gà luộc tươi ngon làm từ “dấm đơn giản”",
+      "hi": "\"सरल सिरके\" से बना ताज़ा उबला हुआ चिकन",
+      "ru": "Освежающе-вареная курица, приготовленная с «простым уксусом»",
+      "th": "ไก่ต้มสดชื่นด้วย “น้ำส้มสายชูธรรมดา”",
+      "id": "Ayam rebus menyegarkan yang dibuat dengan “cuka sederhana”",
+      "ms": "Ayam rebus yang menyegarkan dibuat dengan \"cuka ringkas\"",
+      "ko": "\"간단 식초\"로 만드는 닭의 깔끔한 삶은"
+    },
+    "description": {
+      "en": "",
+      "zh_tw": "",
+      "zh_cn": "",
+      "vi": "",
+      "hi": "",
+      "ru": "",
+      "th": "",
+      "id": "",
+      "ms": "",
+      "ko": ""
+    },
+    "steps": {
+      "en": [
+        "Dry the chicken wings well.",
+        "Add Step 1, your favorite simple vinegar, and soy sauce to a pot and heat over medium-high heat.",
+        "When it comes to a boil, cover and simmer over medium heat for about 15 minutes until the liquid has reduced to about 1/2 to 1/3.",
+        "Add the boiled eggs, toss with the broth, place in a bowl with the chicken wings, and garnish with the boiled broccoli.",
+        "Refreshing chicken stew made with “cereal vinegar”",
+        "Refreshingly boiled chicken made with “Ajipon”",
+        "Teri Teri! Refreshing boiled chicken"
+      ],
+      "zh_tw": [
+        "將雞翅充分晾乾。",
+        "將步驟 1、您最喜歡的簡單醋和醬油放入鍋中，以中高火加熱。",
+        "煮沸後，蓋上鍋蓋，以中火煮約15分鐘，直到液體減少至約1/2至1/3。",
+        "加入煮雞蛋，與高湯攪拌，與雞翅一起放入碗中，並用煮西蘭花裝飾。",
+        "用「穀物醋」製作的清爽燉雞",
+        "使用“Ajipon”製作的清爽的水煮雞肉",
+        "泰瑞泰瑞！清爽的水煮雞"
+      ],
+      "zh_cn": [
+        "将鸡翅充分晾干。",
+        "将步骤 1、您最喜欢的简单醋和酱油放入锅中，用中高火加热。",
+        "煮沸后，盖上锅盖，中火煮约15分钟，直至液体减少至约1/2至1/3。",
+        "加入煮鸡蛋，与肉汤搅拌，与鸡翅一起放入碗中，并用煮西兰花装饰。",
+        "用“谷物醋”制作的清爽炖鸡",
+        "使用“Ajipon”制作的清爽的水煮鸡肉",
+        "泰瑞泰瑞！清爽的水煮鸡"
+      ],
+      "vi": [
+        "Làm khô cánh gà thật kỹ.",
+        "Thêm Bước 1, giấm đơn giản yêu thích của bạn và nước tương vào nồi và đun nóng trên lửa vừa cao.",
+        "Khi sôi, đậy nắp và đun trên lửa vừa trong khoảng 15 phút cho đến khi chất lỏng giảm còn khoảng 1/2 đến 1/3.",
+        "Thêm trứng luộc, trộn với nước dùng, cho vào tô cùng với cánh gà và trang trí với bông cải xanh luộc.",
+        "Món gà hầm giải khát làm từ “dấm ngũ cốc”",
+        "Thịt gà luộc tươi làm từ “Ajipon”",
+        "Teri Teri! Gà luộc giải khát"
+      ],
+      "hi": [
+        "चिकन विंग्स को अच्छे से सुखा लें.",
+        "चरण 1, अपना पसंदीदा साधारण सिरका और सोया सॉस एक बर्तन में डालें और मध्यम-उच्च गर्मी पर गर्म करें।",
+        "जब इसमें उबाल आ जाए, तो ढक दें और मध्यम आंच पर लगभग 15 मिनट तक पकाएं जब तक कि तरल लगभग 1/2 से 1/3 तक कम न हो जाए।",
+        "उबले अंडे डालें, शोरबा के साथ मिलाएं, चिकन विंग्स के साथ एक कटोरे में रखें और उबली हुई ब्रोकोली से गार्निश करें।",
+        "\"अनाज के सिरके\" से बना ताज़ा चिकन स्टू",
+        "\"अजिपोन\" से बना ताज़ा उबला हुआ चिकन",
+        "तेरी तेरी! ताज़ा उबला हुआ चिकन"
+      ],
+      "ru": [
+        "Куриные крылышки хорошо просушите.",
+        "Добавьте Шаг 1, ваш любимый простой уксус и соевый соус в кастрюлю и нагрейте на среднем или сильном огне.",
+        "Когда дело дойдет до кипения, накройте крышкой и варите на среднем огне около 15 минут, пока жидкость не уменьшится примерно до 1/2–1/3.",
+        "Добавьте вареные яйца, перемешайте с бульоном, переложите в миску с куриными крылышками и украсьте отварной брокколи.",
+        "Освежающее куриное рагу с «зерновым уксусом»",
+        "Освежающе-вареная курица с «Аджипоном»",
+        "Тери Тери! Освежающая вареная курица"
+      ],
+      "th": [
+        "ทำให้ปีกไก่แห้งดี",
+        "เพิ่มขั้นตอนที่ 1 น้ำส้มสายชูธรรมดาที่คุณชื่นชอบและซีอิ๊วลงในหม้อแล้วตั้งไฟบนไฟร้อนปานกลาง",
+        "เมื่อเดือด ให้ปิดฝาและเคี่ยวบนไฟร้อนปานกลางประมาณ 15 นาที จนของเหลวลดลงเหลือประมาณ 1/2 ถึง 1/3",
+        "ใส่ไข่ต้ม เติมน้ำซุป ใส่ชามที่มีปีกไก่ ตกแต่งด้วยบรอกโคลีต้ม",
+        "สตูว์ไก่เพิ่มความสดชื่นด้วย “น้ำส้มสายชูธัญพืช”",
+        "ไก่ต้มเพิ่มความสดชื่นจาก “อาจิปง”",
+        "เทริ เทรี! ไก่ต้มเพิ่มความสดชื่น"
+      ],
+      "id": [
+        "Keringkan sayap ayam dengan baik.",
+        "Tambahkan Langkah 1, cuka sederhana favorit Anda, dan kecap asin ke dalam panci dan panaskan dengan api sedang-besar.",
+        "Jika sudah mendidih, tutup dan biarkan mendidih dengan api sedang selama sekitar 15 menit hingga cairan berkurang menjadi sekitar 1/2 hingga 1/3.",
+        "Tambahkan telur rebus, aduk dengan kaldu, masukkan ke dalam mangkuk berisi sayap ayam, dan hiasi dengan brokoli rebus.",
+        "Sup ayam menyegarkan yang dibuat dengan “cuka sereal”",
+        "Ayam rebus segar yang dibuat dengan “Ajipon”",
+        "Teri Teri! Ayam rebus yang menyegarkan"
+      ],
+      "ms": [
+        "Keringkan kepak ayam dengan baik.",
+        "Tambah Langkah 1, cuka ringkas kegemaran anda, dan kicap ke dalam periuk dan panaskan dengan api yang sederhana tinggi.",
+        "Apabila ia mendidih, tutup dan reneh dengan api sederhana selama kira-kira 15 minit sehingga cecair telah berkurangan kepada kira-kira 1/2 hingga 1/3.",
+        "Masukkan telur rebus, toskan dengan kuahnya, letak dalam mangkuk dengan sayap ayam, dan hiaskan dengan brokoli yang telah direbus.",
+        "Rebusan ayam yang menyegarkan dibuat dengan \"cuka bijirin\"",
+        "Ayam rebus segar dibuat dengan \"Ajipon\"",
+        "Teri Teri! Ayam rebus yang menyegarkan"
+      ],
+      "ko": [
+        "닭 날개는 잘 물을 닦는다.",
+        "냄비에 1과 <좋아하는 간초 식초>, 간장을 넣고 강한 중불에 뿌린다.",
+        "끓인다면 뚜껑을 하고, 중불로 15분 정도, 삶은 국물이 1/2~1/3 정도가 될 때까지 끓인다.",
+        "삶은 달걀을 넣고 삶은 국물을 볶고 닭 날개와 함께 그릇에 담아 삶은 브로콜리를 곁들인다.",
+        "\"곡물 식초\"로 만드는 닭의 깔끔한 삶은",
+        "\"아이폰\"으로 만드는 닭의 깔끔한 삶은",
+        "테리테리! 닭고기 끓여"
+      ]
+    }
   }
 ]

@@ -243889,5 +243889,323 @@
         "고등어 캔으로 만드는 튀김 없는 남만 절임"
       ]
     }
+  },
+  {
+    "id": "6d39b140",
+    "source_url": "https://www.mizkan.co.jp/ouchirecipe/recipe/?menu_id=18014",
+    "source_site": "Mizkan",
+    "title_ja": "ズッキーニのはさみ焼き　甘酢だれ",
+    "description_ja": "",
+    "ingredients": [
+      {
+        "name_ja": "ズッキーニ",
+        "amount": "１本（１７０ｇ）",
+        "name_translated": {
+          "en": "zucchini",
+          "zh_tw": "西葫蘆",
+          "zh_cn": "西葫芦",
+          "vi": "bí xanh",
+          "hi": "तोरी",
+          "ru": "цуккини",
+          "th": "บวบ",
+          "id": "timun Jepang",
+          "ms": "zucchini",
+          "ko": "호박"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%82%BA%E3%83%83%E3%82%AD%E3%83%BC%E3%83%8B&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%82%BA%E3%83%83%E3%82%AD%E3%83%BC%E3%83%8B/?tag="
+      },
+      {
+        "name_ja": "合びき肉",
+        "amount": "１５０ｇ",
+        "name_translated": {
+          "en": "minced meat",
+          "zh_tw": "碎肉",
+          "zh_cn": "碎肉",
+          "vi": "thịt băm",
+          "hi": "कीमा",
+          "ru": "фарш",
+          "th": "เนื้อสับ",
+          "id": "daging cincang",
+          "ms": "daging cincang",
+          "ko": "어울리는 고기"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E5%90%88%E3%81%B3%E3%81%8D%E8%82%89&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E5%90%88%E3%81%B3%E3%81%8D%E8%82%89/?tag="
+      },
+      {
+        "name_ja": "水",
+        "amount": "大さじ２",
+        "name_translated": {
+          "en": "water",
+          "zh_tw": "水",
+          "zh_cn": "水",
+          "vi": "Nước",
+          "hi": "पानी",
+          "ru": "вода",
+          "th": "น้ำ",
+          "id": "air",
+          "ms": "air",
+          "ko": "물"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E6%B0%B4&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E6%B0%B4/?tag="
+      },
+      {
+        "name_ja": "片栗粉",
+        "amount": "大さじ１",
+        "name_translated": {
+          "en": "potato starch",
+          "zh_tw": "馬鈴薯澱粉",
+          "zh_cn": "马铃薯淀粉",
+          "vi": "tinh bột khoai tây",
+          "hi": "आलू स्टार्च",
+          "ru": "картофельный крахмал",
+          "th": "แป้งมันฝรั่ง",
+          "id": "tepung kentang",
+          "ms": "kanji kentang",
+          "ko": "가문 가루"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E7%89%87%E6%A0%97%E7%B2%89&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E7%89%87%E6%A0%97%E7%B2%89/?tag="
+      },
+      {
+        "name_ja": "塩",
+        "amount": "小さじ１／３",
+        "name_translated": {
+          "en": "salt",
+          "zh_tw": "鹽",
+          "zh_cn": "盐",
+          "vi": "muối",
+          "hi": "नमक",
+          "ru": "соль",
+          "th": "เกลือ",
+          "id": "garam",
+          "ms": "garam",
+          "ko": "소금"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E5%A1%A9&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E5%A1%A9/?tag="
+      },
+      {
+        "name_ja": "小麦粉",
+        "amount": "適量",
+        "name_translated": {
+          "en": "flour",
+          "zh_tw": "麵粉",
+          "zh_cn": "面粉",
+          "vi": "bột mì",
+          "hi": "आटा",
+          "ru": "мука",
+          "th": "แป้ง",
+          "id": "tepung",
+          "ms": "tepung",
+          "ko": "밀가루"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E5%B0%8F%E9%BA%A6%E7%B2%89&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E5%B0%8F%E9%BA%A6%E7%B2%89/?tag="
+      },
+      {
+        "name_ja": "サラダ油",
+        "amount": "大さじ１／２",
+        "name_translated": {
+          "en": "salad oil",
+          "zh_tw": "沙拉油",
+          "zh_cn": "色拉油",
+          "vi": "dầu trộn salad",
+          "hi": "वनस्पति - तेल",
+          "ru": "салатное масло",
+          "th": "น้ำมันสลัด",
+          "id": "minyak salad",
+          "ms": "minyak salad",
+          "ko": "샐러드 오일"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%82%B5%E3%83%A9%E3%83%80%E6%B2%B9&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%82%B5%E3%83%A9%E3%83%80%E6%B2%B9/?tag="
+      },
+      {
+        "name_ja": "ミツカン　カンタン酢",
+        "amount": "大さじ６",
+        "name_translated": {
+          "en": "Mizkan Kantan Vinegar",
+          "zh_tw": "味滋康甘丹醋",
+          "zh_cn": "味滋康甘丹醋",
+          "vi": "Giấm Mizkan Kantan",
+          "hi": "मिज़कान कंटन सिरका",
+          "ru": "Мизкан Кантанский уксус",
+          "th": "น้ำส้มสายชูมิซกัน กันตัน",
+          "id": "Cuka Mizkan Kantan",
+          "ms": "Cuka Mizkan Kantan",
+          "ko": "미츠칸 칸탄초"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E3%82%AB%E3%83%B3%E3%82%BF%E3%83%B3%E9%85%A2&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E3%82%AB%E3%83%B3%E3%82%BF%E3%83%B3%E9%85%A2/?tag="
+      },
+      {
+        "name_ja": "１",
+        "amount": "にし、小麦粉をまぶす。",
+        "name_translated": {
+          "en": "1",
+          "zh_tw": "1",
+          "zh_cn": "1",
+          "vi": "1",
+          "hi": "1",
+          "ru": "1",
+          "th": "1",
+          "id": "1",
+          "ms": "1",
+          "ko": "1"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%91&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%91/?tag="
+      },
+      {
+        "name_ja": "２",
+        "amount": "ではさむ。",
+        "name_translated": {
+          "en": "2",
+          "zh_tw": "2",
+          "zh_cn": "2",
+          "vi": "2",
+          "hi": "2",
+          "ru": "2",
+          "th": "2",
+          "id": "2",
+          "ms": "2",
+          "ko": "2"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%92&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%92/?tag="
+      },
+      {
+        "name_ja": "３",
+        "amount": "を入れ、焼き目がついたら裏返し、弱めの中火でふたをして３～４分焼く。",
+        "name_translated": {
+          "en": "3",
+          "zh_tw": "3",
+          "zh_cn": "3",
+          "vi": "3",
+          "hi": "3",
+          "ru": "3",
+          "th": "3",
+          "id": "3",
+          "ms": "3",
+          "ko": "3"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%93&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%93/?tag="
+      },
+      {
+        "name_ja": "４",
+        "amount": "油をふき取り、「カンタン酢」を加える。さわらず中火で沸騰させ、液にとろみが出て泡が大きくなってきたら火を弱め、きつね色になって照りが出たら、上下を返してからめる。",
+        "name_translated": {
+          "en": "4",
+          "zh_tw": "4",
+          "zh_cn": "4",
+          "vi": "4",
+          "hi": "4",
+          "ru": "4",
+          "th": "4",
+          "id": "4",
+          "ms": "4",
+          "ko": "4"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%94&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%94/?tag="
+      }
+    ],
+    "steps_ja": [
+      "ズッキーニは５ｍｍ厚さの輪切りにし、小麦粉をまぶす。",
+      "ポリ袋に合びき肉、＜Ａ＞を混ぜ合わせたら、１ではさむ。",
+      "フライパンにサラダ油を中火で熱して２を入れ、焼き目がついたら裏返し、弱めの中火でふたをして３～４分焼く。",
+      "油をふき取り、「カンタン酢」を加える。さわらず中火で沸騰させ、液にとろみが出て泡が大きくなってきたら火を弱め、きつね色になって照りが出たら、上下を返してからめる。"
+    ],
+    "image_url": "",
+    "title": {
+      "en": "Grilled zucchini with scissors, sweet and sour sauce",
+      "zh_tw": "剪刀烤西葫蘆，酸甜醬",
+      "zh_cn": "剪刀烤西葫芦，酸甜酱",
+      "vi": "Bí ngòi nướng kéo sốt chua ngọt",
+      "hi": "कैंची, मीठी और खट्टी चटनी के साथ ग्रील्ड तोरी",
+      "ru": "Жареные кабачки с ножницами и кисло-сладким соусом",
+      "th": "บวบย่างด้วยกรรไกร ซอสเปรี้ยวหวาน",
+      "id": "Zucchini panggang dengan gunting, saus asam manis",
+      "ms": "Zucchini panggang dengan gunting, sos masam manis",
+      "ko": "호박의 가위 구이 달콤한 식초"
+    },
+    "description": {
+      "en": "",
+      "zh_tw": "",
+      "zh_cn": "",
+      "vi": "",
+      "hi": "",
+      "ru": "",
+      "th": "",
+      "id": "",
+      "ms": "",
+      "ko": ""
+    },
+    "steps": {
+      "en": [
+        "Cut the zucchini into 5mm thick rounds and sprinkle with flour.",
+        "Mix minced meat and <A> in a plastic bag, then sandwich with 1.",
+        "Heat salad oil in a frying pan over medium heat, add 2, and when it gets browned, turn it over and fry for 3 to 4 minutes on low medium heat with a lid on.",
+        "Wipe off the oil and add ``simple vinegar''. Bring to a boil over medium heat without touching. When the liquid thickens and the bubbles get bigger, lower the heat, and when it turns golden brown and shines, turn it over and stir."
+      ],
+      "zh_tw": [
+        "將西葫蘆切成5毫米厚的圓片，撒上麵粉。",
+        "將肉末和<A>放入塑膠袋中混合，然後與1夾在一起。",
+        "煎鍋中中火加熱沙拉油，加入2，待其變成褐色時，翻面，蓋上蓋子，以中小火煎3至4分鐘。",
+        "擦掉油並添加“簡單的醋”。用中火煮沸，但不要接觸。當液體變稠、氣泡變大時，將火調低，當顏色變成金黃色並發光時，翻面攪拌。"
+      ],
+      "zh_cn": [
+        "将西葫芦切成5毫米厚的圆片，撒上面粉。",
+        "将肉末和<A>放入塑料袋中混合，然后与1夹在一起。",
+        "煎锅中中火加热色拉油，加入2，待其变成褐色时，翻面，盖上盖子，中小火煎3至4分钟。",
+        "擦掉油并添加“简单的醋”。用中火煮沸，但不要接触。当液体变稠、气泡变大时，将火调低，当颜色变成金黄色并发光时，翻面搅拌。"
+      ],
+      "vi": [
+        "Cắt bí xanh thành từng khoanh dày 5 mm và rắc bột mì.",
+        "Trộn thịt băm và <A> trong túi nhựa, sau đó kẹp với 1.",
+        "Đun nóng dầu salad trong chảo rán trên lửa vừa, thêm 2 dầu vào, khi dầu chín vàng, lật lại và chiên trong 3 đến 4 phút ở lửa vừa thấp và đậy nắp.",
+        "Lau sạch dầu và thêm ''giấm đơn giản''. Đun sôi trên lửa vừa mà không cần chạm vào. Khi chất lỏng đặc lại và sủi bọt nhiều hơn thì giảm nhiệt, khi thấy chuyển sang màu nâu vàng và sáng bóng thì lật lại và khuấy đều."
+      ],
+      "hi": [
+        "तोरी को 5 मिमी मोटे गोल टुकड़ों में काटें और आटे के साथ छिड़कें।",
+        "एक प्लास्टिक बैग में कीमा और <ए> मिलाएं, फिर 1 के साथ सैंडविच बनाएं।",
+        "मध्यम आंच पर एक कड़ाही में सलाद तेल गर्म करें, 2 डालें और जब यह ब्राउन हो जाए तो इसे पलट दें और ढक्कन लगाकर धीमी मध्यम आंच पर 3 से 4 मिनट तक भूनें।",
+        "तेल पोंछ लें और ``साधारण सिरका'' डालें। बिना छुए मध्यम आंच पर उबाल लें। जब तरल गाढ़ा हो जाए और बुलबुले बड़े हो जाएं, तो आंच कम कर दें और जब यह सुनहरा भूरा हो जाए और चमकने लगे, तो इसे पलट दें और हिलाएं।"
+      ],
+      "ru": [
+        "Нарезаем кабачки кружочками толщиной 5 мм и присыпаем мукой.",
+        "Смешайте фарш и <A> в полиэтиленовом пакете, затем сделайте сэндвич с 1.",
+        "Нагрейте салатное масло в сковороде на среднем огне, добавьте 2, а когда оно подрумянится, переверните и жарьте 3–4 минуты на слабом среднем огне под крышкой.",
+        "Вытрите масло и добавьте «простой уксус». Доведите до кипения на среднем огне, не трогая. Когда жидкость загустеет и пузырьки станут больше, уменьшите огонь, а когда она станет золотисто-коричневой и засияет, переверните ее и перемешайте."
+      ],
+      "th": [
+        "ตัดบวบเป็นวงกลมหนา 5 มม. แล้วโรยด้วยแป้ง",
+        "ผสมเนื้อสับและ <A> ในถุงพลาสติก จากนั้นจึงแซนด์วิชด้วย 1",
+        "ตั้งน้ำมันสลัดในกระทะบนไฟร้อนปานกลาง ใส่ 2 ลงไป และเมื่อเปลี่ยนเป็นสีน้ำตาล ให้พลิกกลับด้านแล้วทอดประมาณ 3 ถึง 4 นาทีโดยใช้ไฟปานกลางต่ำพร้อมปิดฝา",
+        "เช็ดน้ำมันออกแล้วเติม ``น้ำส้มสายชูธรรมดา'' นำไปตั้งไฟปานกลางโดยไม่ต้องสัมผัส เมื่อของเหลวข้นขึ้นและฟองใหญ่ขึ้น ให้ลดไฟลง และเมื่อมันเปลี่ยนเป็นสีน้ำตาลทองและเป็นประกาย ให้พลิกกลับด้านแล้วคนให้เข้ากัน"
+      ],
+      "id": [
+        "Potong zucchini menjadi bulatan setebal 5 mm dan taburi tepung.",
+        "Campur daging cincang dan <A> ke dalam kantong plastik, lalu lapisi dengan 1.",
+        "Panaskan minyak salad dalam wajan dengan api sedang, tambahkan 2, dan jika sudah kecoklatan, balikkan dan goreng selama 3 hingga 4 menit dengan api kecil sedang dengan penutup.",
+        "Bersihkan minyak dan tambahkan ``cuka sederhana''. Didihkan dengan api sedang tanpa menyentuhnya. Jika cairan sudah mengental dan gelembung semakin besar, kecilkan api, dan jika sudah berwarna coklat keemasan dan mengkilat, balikkan dan aduk."
+      ],
+      "ms": [
+        "Potong zucchini menjadi bulatan setebal 5mm dan taburkan dengan tepung.",
+        "Campurkan daging cincang dan <A> dalam beg plastik, kemudian sandwic dengan 1.",
+        "Panaskan minyak salad dalam kuali dengan api sederhana, tambah 2, dan apabila ia menjadi perang, terbalikkan dan goreng selama 3 hingga 4 minit dengan api sederhana rendah dengan penutup.",
+        "Sapu minyak dan masukkan ``cuka ringkas''. Didihkan dengan api sederhana tanpa disentuh. Apabila cecair pekat dan buih menjadi lebih besar, kecilkan api, dan apabila ia bertukar menjadi perang keemasan dan bersinar, terbalikkan dan kacau."
+      ],
+      "ko": [
+        "호박은 5mm 두께의 둥글게 자르고 밀가루를 뿌린다.",
+        "비닐 봉지에 맞는 고기, <A>를 섞으면 1로 가라.",
+        "프라이팬에 샐러드유를 중불로 가열하여 2를 넣고 구운 것이 붙으면 뒤집어 약한 중불로 뚜껑을 덮고 3~4분 굽는다.",
+        "기름을 닦아내고 \"간단식초\"를 넣는다. 비록 중불로 끓여서 액에 녹이 나오고 거품이 커지면 불을 약하게 하고 여우가 되어 빛이 나오면 상하를 돌려준다."
+      ]
+    }
   }
 ]

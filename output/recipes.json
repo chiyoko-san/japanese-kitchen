@@ -245634,5 +245634,540 @@
         "지퍼가 달린 보존 봉투에 1을 넣고 \"간단 식초\"를 붓는다. 지퍼를 닫고 30회 정도 한다. 접시에 얹어 냉장고로 30분간 절인다."
       ]
     }
+  },
+  {
+    "id": "efaff64a",
+    "source_url": "https://www.mizkan.co.jp/ouchirecipe/recipe/?menu_id=21780",
+    "source_site": "Mizkan",
+    "title_ja": "ミニトマトのてりうま肉巻き",
+    "description_ja": "",
+    "ingredients": [
+      {
+        "name_ja": "豚バラ肉　薄切り",
+        "amount": "２００ｇ",
+        "name_translated": {
+          "en": "Thinly sliced ​​pork belly",
+          "zh_tw": "五花肉切成薄片",
+          "zh_cn": "五花肉切成薄片",
+          "vi": "Thịt ba chỉ thái mỏng",
+          "hi": "पतले कटा हुआ सूअर का मांस पेट",
+          "ru": "Тонко нарезанная свиная грудинка",
+          "th": "หมูสามชั้นหั่นบางๆ",
+          "id": "Perut babi diiris tipis",
+          "ms": "Perut babi yang dihiris nipis",
+          "ko": "돼지 장미 고기 얇게 썬다."
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E8%B1%9A%E3%83%90%E3%83%A9%E8%82%89%E3%80%80%E8%96%84%E5%88%87%E3%82%8A&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E8%B1%9A%E3%83%90%E3%83%A9%E8%82%89%E3%80%80%E8%96%84%E5%88%87%E3%82%8A/?tag="
+      },
+      {
+        "name_ja": "ミニトマト",
+        "amount": "４個",
+        "name_translated": {
+          "en": "cherry tomatoes",
+          "zh_tw": "櫻桃番茄",
+          "zh_cn": "樱桃番茄",
+          "vi": "cà chua bi",
+          "hi": "चैरी टमाटर",
+          "ru": "помидоры черри",
+          "th": "มะเขือเทศเชอร์รี่",
+          "id": "tomat ceri",
+          "ms": "tomato ceri",
+          "ko": "미니 토마토"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9F%E3%83%8B%E3%83%88%E3%83%9E%E3%83%88&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9F%E3%83%8B%E3%83%88%E3%83%9E%E3%83%88/?tag="
+      },
+      {
+        "name_ja": "ミツカン　カンタン酢",
+        "amount": "適量（１００ｍｌ程度）",
+        "name_translated": {
+          "en": "Mizkan Kantan Vinegar",
+          "zh_tw": "味滋康甘丹醋",
+          "zh_cn": "味滋康甘丹醋",
+          "vi": "Giấm Mizkan Kantan",
+          "hi": "मिज़कान कंटन सिरका",
+          "ru": "Мизкан Кантанский уксус",
+          "th": "น้ำส้มสายชูมิซกัน กันตัน",
+          "id": "Cuka Mizkan Kantan",
+          "ms": "Cuka Mizkan Kantan",
+          "ko": "미츠칸 칸탄초"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E3%82%AB%E3%83%B3%E3%82%BF%E3%83%B3%E9%85%A2&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E3%82%AB%E3%83%B3%E3%82%BF%E3%83%B3%E9%85%A2/?tag="
+      },
+      {
+        "name_ja": "１",
+        "amount": "まな板を縦に置き、ラップをしいて、パックから出したままの豚肉を縦に置く。端が折られている場合は広げる（重なっている場合は、少しずつずらして置く）。",
+        "name_translated": {
+          "en": "1",
+          "zh_tw": "1",
+          "zh_cn": "1",
+          "vi": "1",
+          "hi": "1",
+          "ru": "1",
+          "th": "1",
+          "id": "1",
+          "ms": "1",
+          "ko": "1"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%91&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%91/?tag="
+      },
+      {
+        "name_ja": "２",
+        "amount": "豚肉の手前側にミニトマトを並べて置き、手前からしっかりと巻く。",
+        "name_translated": {
+          "en": "2",
+          "zh_tw": "2",
+          "zh_cn": "2",
+          "vi": "2",
+          "hi": "2",
+          "ru": "2",
+          "th": "2",
+          "id": "2",
+          "ms": "2",
+          "ko": "2"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%92&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%92/?tag="
+      },
+      {
+        "name_ja": "３",
+        "amount": "の巻き終わりを下にして入れ、焼く。途中で向きを変え、全面に焼き色がつくまで焼く。",
+        "name_translated": {
+          "en": "3",
+          "zh_tw": "3",
+          "zh_cn": "3",
+          "vi": "3",
+          "hi": "3",
+          "ru": "3",
+          "th": "3",
+          "id": "3",
+          "ms": "3",
+          "ko": "3"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%93&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%93/?tag="
+      },
+      {
+        "name_ja": "４",
+        "amount": "「カンタン酢」をたっぷり注ぎ入れ、ふたをして７分、時々転がしながら蒸し焼きにする。",
+        "name_translated": {
+          "en": "4",
+          "zh_tw": "4",
+          "zh_cn": "4",
+          "vi": "4",
+          "hi": "4",
+          "ru": "4",
+          "th": "4",
+          "id": "4",
+          "ms": "4",
+          "ko": "4"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%94&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%94/?tag="
+      },
+      {
+        "name_ja": "５",
+        "amount": "ふたを開けて２分ほど、たれにとろみが出てきつね色に変わり、肉に照りが出るまで焼く。",
+        "name_translated": {
+          "en": "5",
+          "zh_tw": "5",
+          "zh_cn": "5",
+          "vi": "5",
+          "hi": "5",
+          "ru": "5",
+          "th": "5",
+          "id": "5",
+          "ms": "5",
+          "ko": "5"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%95&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%95/?tag="
+      }
+    ],
+    "steps_ja": [
+      "まな板を縦に置き、ラップをしいて、パックから出したままの豚肉を縦に置く。端が折られている場合は広げる（重なっている場合は、少しずつずらして置く）。",
+      "豚肉の手前側にミニトマトを並べて置き、手前からしっかりと巻く。",
+      "フライパンを中火で熱し、２の巻き終わりを下にして入れ、焼く。途中で向きを変え、全面に焼き色がつくまで焼く。",
+      "「カンタン酢」をたっぷり注ぎ入れ、ふたをして７分、時々転がしながら蒸し焼きにする。",
+      "ふたを開けて２分ほど、たれにとろみが出てきつね色に変わり、肉に照りが出るまで焼く。"
+    ],
+    "image_url": "",
+    "title": {
+      "en": "Cherry tomato teriyaki meat roll",
+      "zh_tw": "櫻桃番茄照燒肉捲",
+      "zh_cn": "樱桃番茄照烧肉卷",
+      "vi": "Thịt cuộn teriyaki cà chua bi",
+      "hi": "चेरी टमाटर टेरीयाकी मीट रोल",
+      "ru": "Мясной рулет терияки с помидорами черри",
+      "th": "ม้วนเนื้อมะเขือเทศเชอร์รี่เทอริยากิ",
+      "id": "Gulungan daging teriyaki tomat ceri",
+      "ms": "Gulung daging teriyaki tomato ceri",
+      "ko": "미니 토마토 테리 우마 고기 감기"
+    },
+    "description": {
+      "en": "",
+      "zh_tw": "",
+      "zh_cn": "",
+      "vi": "",
+      "hi": "",
+      "ru": "",
+      "th": "",
+      "id": "",
+      "ms": "",
+      "ko": ""
+    },
+    "steps": {
+      "en": [
+        "Place a cutting board vertically, cover with plastic wrap, and place the pork straight from the package vertically. If the edges are folded, spread them out (if they overlap, shift them slightly).",
+        "Arrange the cherry tomatoes on the front side of the pork and wrap tightly from the front.",
+        "Heat a frying pan over medium heat, put the second roll in with the end facing down, and fry. Turn halfway through and cook until browned on all sides.",
+        "Pour in plenty of ``simple vinegar,'' cover, and simmer for 7 minutes, turning occasionally.",
+        "Open the lid and cook for about 2 minutes, until the sauce thickens and turns golden brown, and the meat is browned."
+      ],
+      "zh_tw": [
+        "垂直放置切菜板，蓋上保鮮膜，然後將直接從包裝中取出的豬肉垂直放置。如果邊緣折疊，請將它們展開（如果重疊，請稍微移動它們）。",
+        "將櫻桃番茄放在豬肉的正面，並從正面緊緊包裹起來。",
+        "以中火加熱煎鍋，將第二個卷放入，一端朝下，煎。中途翻面，煮至各面都變成棕色。",
+        "倒入大量“單醋”，蓋上鍋蓋，小火煮 7 分鐘，偶爾翻動。",
+        "打開蓋子煮約2分鐘，直到醬汁變稠呈金黃色，肉也呈現褐色。"
+      ],
+      "zh_cn": [
+        "垂直放置切菜板，盖上保鲜膜，然后将直接从包装中取出的猪肉垂直放置。如果边缘折叠，请将它们展开（如果重叠，请稍微移动它们）。",
+        "将樱桃番茄放在猪肉的正面，并从正面紧紧包裹起来。",
+        "用中火加热煎锅，将第二个卷放入，一端朝下，煎。中途翻面，煮至各面都变成棕色。",
+        "倒入大量“单醋”，盖上锅盖，小火煮 7 分钟，偶尔翻动。",
+        "打开盖子煮约2分钟，直至酱汁变稠呈金黄色，肉也呈褐色。"
+      ],
+      "vi": [
+        "Đặt thớt theo chiều dọc, dùng màng bọc thực phẩm bọc lại và đặt thịt lợn thẳng ra khỏi gói theo chiều dọc. Nếu các cạnh được gấp lại, hãy trải chúng ra (nếu chúng chồng lên nhau, hãy dịch chuyển chúng một chút).",
+        "Xếp cà chua bi lên mặt trước của thịt lợn và bọc chặt từ phía trước.",
+        "Làm nóng chảo rán trên lửa vừa, đặt cuộn thứ hai vào với đầu úp xuống và chiên. Lật nửa chừng và nấu cho đến khi chín vàng các mặt.",
+        "Đổ nhiều giấm đơn giản vào, đậy nắp và đun nhỏ lửa trong 7 phút, thỉnh thoảng quay lại.",
+        "Mở nắp và nấu khoảng 2 phút cho đến khi nước sốt đặc lại và chuyển sang màu vàng nâu, thịt chín vàng."
+      ],
+      "hi": [
+        "एक कटिंग बोर्ड को लंबवत रखें, प्लास्टिक रैप से ढकें, और पोर्क को पैकेज से सीधे लंबवत रखें। यदि किनारे मुड़े हुए हैं, तो उन्हें फैलाएं (यदि वे ओवरलैप होते हैं, तो उन्हें थोड़ा सा स्थानांतरित करें)।",
+        "चेरी टमाटरों को पोर्क के सामने की तरफ व्यवस्थित करें और सामने से कसकर लपेटें।",
+        "मध्यम आंच पर एक फ्राइंग पैन गरम करें, दूसरा रोल नीचे की ओर करके उसमें दूसरा रोल डालें और भूनें। आधा पलटें और सभी तरफ से भूरा होने तक पकाएं।",
+        "खूब सारा ``साधारण सिरका'' डालें, ढकें और बीच-बीच में पलटते हुए 7 मिनट तक धीमी आंच पर पकाएं।",
+        "ढक्कन खोलें और लगभग 2 मिनट तक पकाएं, जब तक कि सॉस गाढ़ा और सुनहरा भूरा न हो जाए, और मांस भी भूरा न हो जाए।"
+      ],
+      "ru": [
+        "Поставьте разделочную доску вертикально, накройте полиэтиленовой пленкой и поместите свинину прямо из упаковки вертикально. Если края загнуты, разведите их (если перекрываются, слегка сдвиньте).",
+        "Разложите помидоры черри на передней стороне свинины и плотно заверните спереди.",
+        "Нагрейте сковороду на среднем огне, положите туда второй рулет торцом вниз и обжарьте. В середине приготовления переверните и готовьте, пока не подрумянится со всех сторон.",
+        "Налейте большое количество «простого уксуса», накройте крышкой и варите 7 минут, время от времени переворачивая.",
+        "Откройте крышку и готовьте около 2 минут, пока соус не загустеет и не станет золотисто-коричневым, а мясо не подрумянится."
+      ],
+      "th": [
+        "วางเขียงในแนวตั้ง ปิดด้วยพลาสติกแร็ป แล้ววางเนื้อหมูตรงจากบรรจุภัณฑ์ในแนวตั้ง หากพับขอบ ให้กางออก (หากเหลื่อมกัน ให้ขยับเล็กน้อย)",
+        "จัดเรียงมะเขือเทศเชอรี่ไว้ที่ด้านหน้าของหมู และห่อให้แน่นจากด้านหน้า",
+        "ตั้งกระทะบนไฟร้อนปานกลาง ใส่ม้วนที่สองลงไปโดยคว่ำด้านลงแล้วทอด พลิกกลับครึ่งทางแล้วปรุงจนเป็นสีน้ำตาลทุกด้าน",
+        "เท ``น้ำส้มสายชูธรรมดา'' ลงไปจำนวนมาก ปิดฝา และเคี่ยวเป็นเวลา 7 นาที โดยพลิกกลับเป็นครั้งคราว",
+        "เปิดฝาแล้วปรุงประมาณ 2 นาที จนกระทั่งซอสข้นและเป็นสีน้ำตาลทอง และเนื้อก็เป็นสีน้ำตาล"
+      ],
+      "id": [
+        "Letakkan talenan secara vertikal, tutup dengan bungkus plastik, dan letakkan daging babi langsung dari kemasannya secara vertikal. Jika ujung-ujungnya terlipat, rentangkan (jika tumpang tindih, geser sedikit).",
+        "Susun tomat ceri di bagian depan daging babi dan bungkus rapat dari depan.",
+        "Panaskan penggorengan dengan api sedang, masukkan gulungan kedua dengan ujung menghadap ke bawah, lalu goreng. Balik setengahnya dan masak sampai semua sisinya kecoklatan.",
+        "Tuangkan banyak ``cuka sederhana'', tutup, dan biarkan mendidih selama 7 menit, balik sesekali.",
+        "Buka tutupnya dan masak selama kurang lebih 2 menit, hingga saus mengental dan berubah warna menjadi coklat keemasan, dan daging berwarna kecoklatan."
+      ],
+      "ms": [
+        "Letakkan papan pemotong secara menegak, tutup dengan bungkus plastik, dan letakkan daging babi terus dari bungkusan secara menegak. Jika tepi dilipat, bentangkannya (jika bertindih, alihkan sedikit).",
+        "Susun tomato ceri di bahagian hadapan daging babi dan bungkus rapat dari hadapan.",
+        "Panaskan kuali dengan api sederhana, masukkan gulungan kedua dengan hujungnya menghadap ke bawah, dan goreng. Putar separuh dan masak sehingga keperangan di semua bahagian.",
+        "Tuangkan banyak ``cuka ringkas,'' penutup, dan reneh selama 7 minit, pusing sekali-sekala.",
+        "Buka penutup dan masak selama kira-kira 2 minit, sehingga sos menjadi pekat dan bertukar menjadi perang keemasan, dan daging menjadi perang."
+      ],
+      "ko": [
+        "도마를 세로에 놓고 랩을 하고 팩에서 낸 돼지고기를 세로에 둔다. 가장자리가 접히면 펼쳐집니다 (겹치면 조금씩 밀어 넣습니다).",
+        "돼지고기 앞쪽에 미니 토마토를 나란히 놓고 앞에서 제대로 감는다.",
+        "프라이팬을 중불로 가열하고 2의 감기 끝을 아래로 넣고 굽는다. 도중에 방향을 바꾸고 전면에 구운 색이 붙을 때까지 굽는다.",
+        "'간단식초'를 듬뿍 붓고 뚜껑을 덮고 7분, 가끔 구르면서 찜구이로 만든다.",
+        "뚜껑을 열고 2분 정도, 양념장에 녹이 나오고 여우 색으로 바뀌고 고기에 빛이 나올 때까지 굽는다."
+      ]
+    }
+  },
+  {
+    "id": "4a84c360",
+    "source_url": "https://www.mizkan.co.jp/ouchirecipe/recipe/?menu_id=20669",
+    "source_site": "Mizkan",
+    "title_ja": "５分でできる！冷やし納豆担々風うどん",
+    "description_ja": "",
+    "ingredients": [
+      {
+        "name_ja": "うどん　（冷凍）",
+        "amount": "１玉",
+        "name_translated": {
+          "en": "Udon (frozen)",
+          "zh_tw": "烏龍麵（冷凍）",
+          "zh_cn": "乌冬面（冷冻）",
+          "vi": "Udon (đông lạnh)",
+          "hi": "उडोन (जमे हुए)",
+          "ru": "Удон (замороженный)",
+          "th": "อุด้ง (แช่แข็ง)",
+          "id": "Udon (beku)",
+          "ms": "Udon (beku)",
+          "ko": "우동(냉동)"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%86%E3%81%A9%E3%82%93%E3%80%80%EF%BC%88%E5%86%B7%E5%87%8D%EF%BC%89&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%86%E3%81%A9%E3%82%93%E3%80%80%EF%BC%88%E5%86%B7%E5%87%8D%EF%BC%89/?tag="
+      },
+      {
+        "name_ja": "納豆",
+        "amount": "１パック",
+        "name_translated": {
+          "en": "Natto",
+          "zh_tw": "納豆",
+          "zh_cn": "纳豆",
+          "vi": "Natto",
+          "hi": "मैन ~",
+          "ru": "Натто",
+          "th": "นัตโตะ",
+          "id": "Natto",
+          "ms": "Natto",
+          "ko": "낫토"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E7%B4%8D%E8%B1%86&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E7%B4%8D%E8%B1%86/?tag="
+      },
+      {
+        "name_ja": "牛乳",
+        "amount": "５０ｍｌ",
+        "name_translated": {
+          "en": "milk",
+          "zh_tw": "牛奶",
+          "zh_cn": "牛奶",
+          "vi": "sữa",
+          "hi": "दूध",
+          "ru": "молоко",
+          "th": "น้ำนม",
+          "id": "susu",
+          "ms": "susu",
+          "ko": "우유"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E7%89%9B%E4%B9%B3&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E7%89%9B%E4%B9%B3/?tag="
+      },
+      {
+        "name_ja": "ミツカン　追いがつおつゆ２倍",
+        "amount": "大さじ１",
+        "name_translated": {
+          "en": "Mizkan Oigatsu Otsuyu x2",
+          "zh_tw": "味滋館大月大津 x2",
+          "zh_cn": "味滋馆大月大津 x2",
+          "vi": "Mizkan Oigatsu Otsuyu x2",
+          "hi": "मिज़कान ओइगात्सु ओत्सुयु x2",
+          "ru": "Мизкан Ойгацу Оцую x2",
+          "th": "มิซคัง โออิงัตสึ โอทสึยุ x2",
+          "id": "Mizkan Oigatsu Otsuyu x2",
+          "ms": "Mizkan Oigatsu Otsuyu x2",
+          "ko": "미쓰칸 쫓는 츠츠유 2배"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E8%BF%BD%E3%81%84%E3%81%8C%E3%81%A4%E3%81%8A%E3%81%A4%E3%82%86%EF%BC%92%E5%80%8D&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E8%BF%BD%E3%81%84%E3%81%8C%E3%81%A4%E3%81%8A%E3%81%A4%E3%82%86%EF%BC%92%E5%80%8D/?tag="
+      },
+      {
+        "name_ja": "すりごま　（白）",
+        "amount": "大さじ２",
+        "name_translated": {
+          "en": "Ground sesame (white)",
+          "zh_tw": "芝麻粉（白）",
+          "zh_cn": "芝麻粉（白）",
+          "vi": "Mè xay (trắng)",
+          "hi": "पिसा हुआ तिल (सफेद)",
+          "ru": "Кунжут молотый (белый)",
+          "th": "งาบด (สีขาว)",
+          "id": "Wijen halus (putih)",
+          "ms": "Bijan kisar (putih)",
+          "ko": "스리 고마 (흰색)"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%99%E3%82%8A%E3%81%94%E3%81%BE%E3%80%80%EF%BC%88%E7%99%BD%EF%BC%89&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%99%E3%82%8A%E3%81%94%E3%81%BE%E3%80%80%EF%BC%88%E7%99%BD%EF%BC%89/?tag="
+      },
+      {
+        "name_ja": "おろしにんにく",
+        "amount": "１ｃｍ分",
+        "name_translated": {
+          "en": "grated garlic",
+          "zh_tw": "磨碎的大蒜",
+          "zh_cn": "磨碎的大蒜",
+          "vi": "tỏi nghiền",
+          "hi": "कसा हुआ लहसुन",
+          "ru": "тертый чеснок",
+          "th": "กระเทียมขูด",
+          "id": "bawang putih parut",
+          "ms": "bawang putih parut",
+          "ko": "마늘 마늘"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%8A%E3%82%8D%E3%81%97%E3%81%AB%E3%82%93%E3%81%AB%E3%81%8F&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%8A%E3%82%8D%E3%81%97%E3%81%AB%E3%82%93%E3%81%AB%E3%81%8F/?tag="
+      },
+      {
+        "name_ja": "おろししょうが",
+        "amount": "１ｃｍ分",
+        "name_translated": {
+          "en": "Grated ginger",
+          "zh_tw": "薑末",
+          "zh_cn": "姜末",
+          "vi": "Gừng bào sợi",
+          "hi": "कसा हुआ अदरक",
+          "ru": "Тертый имбирь",
+          "th": "ขิงขูด",
+          "id": "jahe parut",
+          "ms": "Halia parut",
+          "ko": "오로시 생강"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%8A%E3%82%8D%E3%81%97%E3%81%97%E3%82%87%E3%81%86%E3%81%8C&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%8A%E3%82%8D%E3%81%97%E3%81%97%E3%82%87%E3%81%86%E3%81%8C/?tag="
+      },
+      {
+        "name_ja": "青じそ",
+        "amount": "２枚",
+        "name_translated": {
+          "en": "Blue perilla",
+          "zh_tw": "藍紫蘇",
+          "zh_cn": "蓝紫苏",
+          "vi": "Tía tô xanh",
+          "hi": "नीला पेरिला",
+          "ru": "Голубая перилла",
+          "th": "เพริลล่าสีน้ำเงิน",
+          "id": "Perila biru",
+          "ms": "Perilla biru",
+          "ko": "청지소"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E9%9D%92%E3%81%98%E3%81%9D&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E9%9D%92%E3%81%98%E3%81%9D/?tag="
+      },
+      {
+        "name_ja": "ラー油",
+        "amount": "適量",
+        "name_translated": {
+          "en": "chili oil",
+          "zh_tw": "辣椒油",
+          "zh_cn": "辣椒油",
+          "vi": "dầu ớt",
+          "hi": "मिर्च का तेल",
+          "ru": "масло чили",
+          "th": "น้ำมันพริก",
+          "id": "minyak cabai",
+          "ms": "minyak cili",
+          "ko": "라 오일"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%A9%E3%83%BC%E6%B2%B9&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%A9%E3%83%BC%E6%B2%B9/?tag="
+      },
+      {
+        "name_ja": "１",
+        "amount": "冷凍うどんは表示通り電子レンジにかけ、冷水に取り冷やす。納豆は添付のたれを混ぜる。＜Ａ＞の材料を合わせて混ぜる。",
+        "name_translated": {
+          "en": "1",
+          "zh_tw": "1",
+          "zh_cn": "1",
+          "vi": "1",
+          "hi": "1",
+          "ru": "1",
+          "th": "1",
+          "id": "1",
+          "ms": "1",
+          "ko": "1"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%91&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%91/?tag="
+      },
+      {
+        "name_ja": "２",
+        "amount": "器に、うどんを入れ＜Ａ＞をかけ、納豆をのせる。青じそをちぎりながら散らし、ラー油を回しかける。",
+        "name_translated": {
+          "en": "2",
+          "zh_tw": "2",
+          "zh_cn": "2",
+          "vi": "2",
+          "hi": "2",
+          "ru": "2",
+          "th": "2",
+          "id": "2",
+          "ms": "2",
+          "ko": "2"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%92&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%92/?tag="
+      }
+    ],
+    "steps_ja": [
+      "冷凍うどんは表示通り電子レンジにかけ、冷水に取り冷やす。納豆は添付のたれを混ぜる。＜Ａ＞の材料を合わせて混ぜる。",
+      "器に、うどんを入れ＜Ａ＞をかけ、納豆をのせる。青じそをちぎりながら散らし、ラー油を回しかける。"
+    ],
+    "image_url": "",
+    "title": {
+      "en": "You can do it in 5 minutes! Chilled natto tantan style udon",
+      "zh_tw": "5分鐘內你就可以完成！冰鎮納豆擔擔烏龍麵",
+      "zh_cn": "5分钟内你就可以完成！冰镇纳豆担担乌冬面",
+      "vi": "Bạn có thể làm điều đó trong 5 phút! Udon kiểu natto tantan ướp lạnh",
+      "hi": "आप इसे 5 मिनट में कर सकते हैं! ठंडा नट्टो टैनटन स्टाइल उडॉन",
+      "ru": "Вы можете сделать это за 5 минут! Охлажденный удон в стиле натто-тантан",
+      "th": "คุณสามารถทำได้ใน 5 นาที! อุด้งสไตล์นัตโตะทันทันแช่เย็น",
+      "id": "Anda dapat melakukannya dalam 5 menit! Udon ala natto tantan dingin",
+      "ms": "Anda boleh melakukannya dalam masa 5 minit! Udon ala natto tantan sejuk",
+      "ko": "5분만에 할 수 있다! 차가운 낫토 담들 바람 우동"
+    },
+    "description": {
+      "en": "",
+      "zh_tw": "",
+      "zh_cn": "",
+      "vi": "",
+      "hi": "",
+      "ru": "",
+      "th": "",
+      "id": "",
+      "ms": "",
+      "ko": ""
+    },
+    "steps": {
+      "en": [
+        "Microwave frozen udon noodles as directed, then cool in cold water. Mix the attached sauce with the natto. Combine <A> ingredients and mix.",
+        "Put the udon noodles in a bowl, pour over <A>, and top with the natto. Tear up the green perilla and sprinkle with chili oil."
+      ],
+      "zh_tw": [
+        "依照指示用微波爐加熱冷凍烏冬面，然後用冷水冷卻。將附贈的醬汁與納豆混合。將<A>成分混合混合。",
+        "將烏龍麵放入碗中，倒在<A>上，然後在上面放上納豆。將青紫蘇撕碎，撒上辣椒油。"
+      ],
+      "zh_cn": [
+        "按照指示用微波炉加热冷冻乌冬面，然后用冷水冷却。将附带的酱汁与纳豆混合。将<A>成分混合并混合。",
+        "将乌冬面放入碗中，倒在<A>上，然后在上面放上纳豆。将青紫苏撕碎，撒上辣椒油。"
+      ],
+      "vi": [
+        "Mì udon đông lạnh bằng lò vi sóng theo hướng dẫn, sau đó để nguội trong nước lạnh. Trộn nước sốt kèm theo với natto. Kết hợp các thành phần <A> và trộn.",
+        "Cho mì udon vào tô, đổ lên <A> và phủ natto lên trên. Xé tía tô xanh và rắc dầu ớt."
+      ],
+      "hi": [
+        "निर्देशानुसार जमे हुए उडॉन नूडल्स को माइक्रोवेव करें, फिर ठंडे पानी में ठंडा करें। संलग्न सॉस को नट्टो के साथ मिलाएं। <ए> सामग्री को मिलाएं और मिश्रण करें।",
+        "उडॉन नूडल्स को एक कटोरे में रखें, <ए> डालें और ऊपर से नट्टो डालें। हरे पेरिला को तोड़ें और मिर्च का तेल छिड़कें।"
+      ],
+      "ru": [
+        "Разогрейте замороженную лапшу удон в микроволновой печи, как указано, затем охладите в холодной воде. Смешайте прилагаемый соус с натто. Объедините ингредиенты <A> и перемешайте.",
+        "Положите лапшу удон в миску, залейте <A> и сверху выложите натто. Зеленую периллу порвите и сбрызните маслом чили."
+      ],
+      "th": [
+        "เส้นอุด้งแช่แข็งด้วยไมโครเวฟตามคำแนะนำ จากนั้นทำให้เย็นในน้ำเย็น ผสมซอสที่แนบมากับนัตโตะ รวมส่วนผสม <A> และผสม",
+        "ใส่เส้นอุด้งลงในชาม เท <A> และโรยหน้าด้วยนัตโตะ ฉีกพริกเขียวแล้วโรยด้วยน้ำมันพริก"
+      ],
+      "id": [
+        "Mie udon beku di microwave sesuai petunjuk, lalu dinginkan dengan air dingin. Campur saus terlampir dengan natto. Campurkan bahan <A> dan aduk.",
+        "Masukkan mie udon ke dalam mangkuk, tuangkan <A>, dan taburi dengan natto. Sobek perilla hijau dan taburi dengan minyak cabai."
+      ],
+      "ms": [
+        "Panaskan mi udon beku seperti yang diarahkan, kemudian sejukkan dalam air sejuk. Campurkan sos yang disertakan dengan natto. Satukan bahan <A> dan gaul.",
+        "Masukkan mee udon dalam mangkuk, tuangkan <A>, dan atas dengan natto. Koyakkan perilla hijau dan taburkan minyak cili."
+      ],
+      "ko": [
+        "냉동 우동은 표시대로 전자레인지에 걸쳐 냉수에 담가 식힌다. 낫토는 첨부의 양념장을 섞는다. <A>의 재료를 합하여 혼합한다.",
+        "그릇에 우동을 넣고 <A>를 넣고 낫토를 얹는다. 청지소를 찢어 뿌려 라유를 돌린다."
+      ]
+    }
   }
 ]

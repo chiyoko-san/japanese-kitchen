@@ -246169,5 +246169,699 @@
         "그릇에 우동을 넣고 <A>를 넣고 낫토를 얹는다. 청지소를 찢어 뿌려 라유를 돌린다."
       ]
     }
+  },
+  {
+    "id": "8c956b99",
+    "source_url": "https://www.mizkan.co.jp/ouchirecipe/recipe/?menu_id=20666",
+    "source_site": "Mizkan",
+    "title_ja": "レンジでカンタン！きゅうりとハムの春雨サラダ",
+    "description_ja": "",
+    "ingredients": [
+      {
+        "name_ja": "はるさめ",
+        "amount": "３０ｇ（緑豆・乾燥）",
+        "name_translated": {
+          "en": "Harusame",
+          "zh_tw": "春雨",
+          "zh_cn": "春雨",
+          "vi": "Harusame",
+          "hi": "हारुसेम",
+          "ru": "Харусаме",
+          "th": "ฮารุซาเมะ",
+          "id": "Harusame",
+          "ms": "Harusame",
+          "ko": "하루사메"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%AF%E3%82%8B%E3%81%95%E3%82%81&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%AF%E3%82%8B%E3%81%95%E3%82%81/?tag="
+      },
+      {
+        "name_ja": "きゅうり",
+        "amount": "１本",
+        "name_translated": {
+          "en": "cucumber",
+          "zh_tw": "黃瓜",
+          "zh_cn": "黄瓜",
+          "vi": "quả dưa chuột",
+          "hi": "खीरा",
+          "ru": "огурец",
+          "th": "แตงกวา",
+          "id": "timun",
+          "ms": "timun",
+          "ko": "오이"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%8D%E3%82%85%E3%81%86%E3%82%8A&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%8D%E3%82%85%E3%81%86%E3%82%8A/?tag="
+      },
+      {
+        "name_ja": "ハム",
+        "amount": "３枚",
+        "name_translated": {
+          "en": "ham",
+          "zh_tw": "火腿",
+          "zh_cn": "火腿",
+          "vi": "giăm bông",
+          "hi": "जांघ",
+          "ru": "ветчина",
+          "th": "แฮม",
+          "id": "ham",
+          "ms": "ham",
+          "ko": "햄"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%8F%E3%83%A0&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%8F%E3%83%A0/?tag="
+      },
+      {
+        "name_ja": "水",
+        "amount": "１００ｍｌ",
+        "name_translated": {
+          "en": "water",
+          "zh_tw": "水",
+          "zh_cn": "水",
+          "vi": "Nước",
+          "hi": "पानी",
+          "ru": "вода",
+          "th": "น้ำ",
+          "id": "air",
+          "ms": "air",
+          "ko": "물"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E6%B0%B4&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E6%B0%B4/?tag="
+      },
+      {
+        "name_ja": "ミツカン　味ぽん",
+        "amount": "大さじ２と１／２",
+        "name_translated": {
+          "en": "Mizkan Ajipon",
+          "zh_tw": "味滋康味精",
+          "zh_cn": "味滋康味精",
+          "vi": "Mizkan Ajipon",
+          "hi": "मिज़कान अजिपोन",
+          "ru": "Мизкан Аджипон",
+          "th": "มิซกัน อาจิปอน",
+          "id": "Mizkan Ajipon",
+          "ms": "Mizkan Ajipon",
+          "ko": "미츠칸 미포"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E5%91%B3%E3%81%BD%E3%82%93&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E5%91%B3%E3%81%BD%E3%82%93/?tag="
+      },
+      {
+        "name_ja": "砂糖",
+        "amount": "大さじ１",
+        "name_translated": {
+          "en": "sugar",
+          "zh_tw": "糖",
+          "zh_cn": "糖",
+          "vi": "đường",
+          "hi": "चीनी",
+          "ru": "сахар",
+          "th": "น้ำตาล",
+          "id": "gula",
+          "ms": "gula",
+          "ko": "설탕"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E7%A0%82%E7%B3%96&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E7%A0%82%E7%B3%96/?tag="
+      },
+      {
+        "name_ja": "ごま油",
+        "amount": "大さじ１",
+        "name_translated": {
+          "en": "sesame oil",
+          "zh_tw": "香油",
+          "zh_cn": "香油",
+          "vi": "dầu mè",
+          "hi": "तिल का तेल",
+          "ru": "кунжутное масло",
+          "th": "น้ำมันงา",
+          "id": "minyak wijen",
+          "ms": "minyak bijan",
+          "ko": "참기름"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%94%E3%81%BE%E6%B2%B9&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%94%E3%81%BE%E6%B2%B9/?tag="
+      },
+      {
+        "name_ja": "いりごま　（白）",
+        "amount": "適量",
+        "name_translated": {
+          "en": "Roasted sesame seeds (white)",
+          "zh_tw": "烤芝麻（白）",
+          "zh_cn": "烤芝麻（白）",
+          "vi": "Hạt vừng rang (trắng)",
+          "hi": "भुने हुए तिल (सफेद)",
+          "ru": "Семена кунжута жареные (белые)",
+          "th": "งาคั่ว (สีขาว)",
+          "id": "Biji wijen sangrai (putih)",
+          "ms": "Bijan panggang (putih)",
+          "ko": "이리 고마 (흰색)"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%84%E3%82%8A%E3%81%94%E3%81%BE%E3%80%80%EF%BC%88%E7%99%BD%EF%BC%89&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%84%E3%82%8A%E3%81%94%E3%81%BE%E3%80%80%EF%BC%88%E7%99%BD%EF%BC%89/?tag="
+      },
+      {
+        "name_ja": "１",
+        "amount": "にする。",
+        "name_translated": {
+          "en": "1",
+          "zh_tw": "1",
+          "zh_cn": "1",
+          "vi": "1",
+          "hi": "1",
+          "ru": "1",
+          "th": "1",
+          "id": "1",
+          "ms": "1",
+          "ko": "1"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%91&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%91/?tag="
+      },
+      {
+        "name_ja": "２",
+        "amount": "耐熱ボウルに＜Ａ＞とはるさめを入れてざっくり混ぜ、ラップをせずに電子レンジ（６００Ｗ）で５分加熱する。",
+        "name_translated": {
+          "en": "2",
+          "zh_tw": "2",
+          "zh_cn": "2",
+          "vi": "2",
+          "hi": "2",
+          "ru": "2",
+          "th": "2",
+          "id": "2",
+          "ms": "2",
+          "ko": "2"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%92&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%92/?tag="
+      },
+      {
+        "name_ja": "３",
+        "amount": "電子レンジから取り出したらよく混ぜ、そのまま７～８分おいて粗熱を取り、きゅうり、ハム、ごま油を加えて混ぜ、冷蔵庫で冷やす。",
+        "name_translated": {
+          "en": "3",
+          "zh_tw": "3",
+          "zh_cn": "3",
+          "vi": "3",
+          "hi": "3",
+          "ru": "3",
+          "th": "3",
+          "id": "3",
+          "ms": "3",
+          "ko": "3"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%93&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%93/?tag="
+      },
+      {
+        "name_ja": "４",
+        "amount": "器に盛り、いりごまをかける。",
+        "name_translated": {
+          "en": "4",
+          "zh_tw": "4",
+          "zh_cn": "4",
+          "vi": "4",
+          "hi": "4",
+          "ru": "4",
+          "th": "4",
+          "id": "4",
+          "ms": "4",
+          "ko": "4"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%94&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%94/?tag="
+      },
+      {
+        "name_ja": "春雨サラダ",
+        "amount": "適量",
+        "name_translated": {
+          "en": "vermicelli salad",
+          "zh_tw": "粉絲沙拉",
+          "zh_cn": "粉丝沙拉",
+          "vi": "gỏi miến",
+          "hi": "सेंवई सलाद",
+          "ru": "салат с вермишелью",
+          "th": "สลัดวุ้นเส้น",
+          "id": "salad bihun",
+          "ms": "salad bihun",
+          "ko": "봄비 샐러드"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E6%98%A5%E9%9B%A8%E3%82%B5%E3%83%A9%E3%83%80&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E6%98%A5%E9%9B%A8%E3%82%B5%E3%83%A9%E3%83%80/?tag="
+      },
+      {
+        "name_ja": "ヤムウンセン",
+        "amount": "適量",
+        "name_translated": {
+          "en": "Yamunsen",
+          "zh_tw": "亞蒙森",
+          "zh_cn": "亚蒙森",
+          "vi": "Yamunsen",
+          "hi": "यमुनसेन",
+          "ru": "Ямунсен",
+          "th": "ยามุนเซ็น",
+          "id": "Yamunsen",
+          "ms": "Yamunsen",
+          "ko": "야무은센"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%A4%E3%83%A0%E3%82%A6%E3%83%B3%E3%82%BB%E3%83%B3&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%A4%E3%83%A0%E3%82%A6%E3%83%B3%E3%82%BB%E3%83%B3/?tag="
+      },
+      {
+        "name_ja": "レンジでカンタン！春雨サラダ",
+        "amount": "適量",
+        "name_translated": {
+          "en": "Easy to use in the microwave! vermicelli salad",
+          "zh_tw": "方便在微波爐中使用！粉絲沙拉",
+          "zh_cn": "方便在微波炉中使用！粉丝沙拉",
+          "vi": "Dễ dàng sử dụng trong lò vi sóng! gỏi miến",
+          "hi": "माइक्रोवेव में उपयोग करना आसान! सेंवई सलाद",
+          "ru": "Удобно использовать в микроволновке! салат с вермишелью",
+          "th": "ใช้งานง่ายในไมโครเวฟ! สลัดวุ้นเส้น",
+          "id": "Mudah digunakan dalam microwave! salad bihun",
+          "ms": "Mudah digunakan dalam ketuhar gelombang mikro! salad bihun",
+          "ko": "레인지로 간단! 봄비 샐러드"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%AC%E3%83%B3%E3%82%B8%E3%81%A7%E3%82%AB%E3%83%B3%E3%82%BF%E3%83%B3%EF%BC%81%E6%98%A5%E9%9B%A8%E3%82%B5%E3%83%A9%E3%83%80&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%AC%E3%83%B3%E3%82%B8%E3%81%A7%E3%82%AB%E3%83%B3%E3%82%BF%E3%83%B3%EF%BC%81%E6%98%A5%E9%9B%A8%E3%82%B5%E3%83%A9%E3%83%80/?tag="
+      }
+    ],
+    "steps_ja": [
+      "はるさめは長い場合、半分に切る。きゅうりとハムは細切りにする。",
+      "耐熱ボウルに＜Ａ＞とはるさめを入れてざっくり混ぜ、ラップをせずに電子レンジ（６００Ｗ）で５分加熱する。",
+      "電子レンジから取り出したらよく混ぜ、そのまま７～８分おいて粗熱を取り、きゅうり、ハム、ごま油を加えて混ぜ、冷蔵庫で冷やす。",
+      "器に盛り、いりごまをかける。",
+      "春雨サラダ",
+      "ヤムウンセン",
+      "レンジでカンタン！春雨サラダ"
+    ],
+    "image_url": "",
+    "title": {
+      "en": "Easy to use in the microwave! Cucumber and ham vermicelli salad",
+      "zh_tw": "方便在微波爐中使用！黃瓜火腿粉絲沙拉",
+      "zh_cn": "方便在微波炉中使用！黄瓜火腿粉丝沙拉",
+      "vi": "Dễ dàng sử dụng trong lò vi sóng! Gỏi bún dưa chuột giăm bông",
+      "hi": "माइक्रोवेव में उपयोग करना आसान! ककड़ी और हैम सेंवई सलाद",
+      "ru": "Удобно использовать в микроволновке! Салат из огурцов и ветчины с вермишелью",
+      "th": "ใช้งานง่ายในไมโครเวฟ! สลัดวุ้นเส้นแตงกวาและแฮม",
+      "id": "Mudah digunakan dalam microwave! Salad mentimun dan bihun ham",
+      "ms": "Mudah digunakan dalam ketuhar gelombang mikro! Salad bihun timun dan ham",
+      "ko": "레인지로 간단! 오이와 햄의 봄비 샐러드"
+    },
+    "description": {
+      "en": "",
+      "zh_tw": "",
+      "zh_cn": "",
+      "vi": "",
+      "hi": "",
+      "ru": "",
+      "th": "",
+      "id": "",
+      "ms": "",
+      "ko": ""
+    },
+    "steps": {
+      "en": [
+        "If the Harusame is long, cut it in half. Cut cucumber and ham into thin pieces.",
+        "Add <A> and Harusame to a heat-resistant bowl, mix well, and heat in the microwave (600W) for 5 minutes without wrapping.",
+        "Remove from the microwave, mix well, leave for 7-8 minutes, remove from heat, add cucumber, ham, and sesame oil, mix, and cool in the refrigerator.",
+        "Place in a bowl and sprinkle with toasted sesame seeds.",
+        "vermicelli salad",
+        "Yamunsen",
+        "Easy to use in the microwave! vermicelli salad"
+      ],
+      "zh_tw": [
+        "如果春雨很長，就把它切成兩半。將黃瓜和火腿切成薄片。",
+        "將<A>和Harusame放入耐熱碗中，充分混合，然後在微波爐（600W）中加熱5分鐘（無需包裝）。",
+        "從微波爐中取出，攪拌均勻，放置7-8分鐘，離火，加入黃瓜、火腿和芝麻油，攪拌均勻，放入冰箱冷卻。",
+        "放入碗中，撒上烤芝麻。",
+        "粉絲沙拉",
+        "亞蒙森",
+        "方便在微波爐中使用！粉絲沙拉"
+      ],
+      "zh_cn": [
+        "如果春雨很长，就把它切成两半。将黄瓜和火腿切成薄片。",
+        "将<A>和Harusame放入耐热碗中，充分混合，然后在微波炉（600W）中加热5分钟（无需包装）。",
+        "从微波炉中取出，搅拌均匀，放置7-8分钟，离火，加入黄瓜、火腿和芝麻油，搅拌均匀，放入冰箱冷却。",
+        "放入碗中，撒上烤芝麻。",
+        "粉丝沙拉",
+        "亚蒙森",
+        "方便在微波炉中使用！粉丝沙拉"
+      ],
+      "vi": [
+        "Nếu Harusame dài thì hãy cắt nó làm đôi. Cắt dưa chuột và giăm bông thành miếng mỏng.",
+        "Cho <A> và Harusame vào tô chịu nhiệt, trộn đều và đun nóng trong lò vi sóng (600W) trong 5 phút mà không cần bọc lại.",
+        "Lấy ra khỏi lò vi sóng, trộn đều, để khoảng 7-8 phút thì tắt bếp, thêm dưa chuột, giăm bông và dầu mè vào, trộn đều rồi để nguội trong tủ lạnh.",
+        "Cho vào tô và rắc mè rang.",
+        "gỏi miến",
+        "Yamunsen",
+        "Dễ dàng sử dụng trong lò vi sóng! gỏi miến"
+      ],
+      "hi": [
+        "यदि हरुसेम लंबा है, तो उसे आधा काट लें। खीरे और हैम को पतले टुकड़ों में काट लें.",
+        "एक गर्मी प्रतिरोधी कटोरे में <ए> और हारुसेम डालें, अच्छी तरह मिलाएं, और बिना लपेटे 5 मिनट के लिए माइक्रोवेव (600W) में गर्म करें।",
+        "माइक्रोवेव से निकालें, अच्छी तरह मिलाएँ, 7-8 मिनट के लिए छोड़ दें, आँच से हटाएँ, खीरा, हैम और तिल का तेल डालें, मिलाएँ और रेफ्रिजरेटर में ठंडा करें।",
+        "एक कटोरे में रखें और भुने हुए तिल छिड़कें।",
+        "सेंवई सलाद",
+        "यमुनसेन",
+        "माइक्रोवेव में उपयोग करना आसान! सेंवई सलाद"
+      ],
+      "ru": [
+        "Если Харусаме длинный, разрежьте его пополам. Огурец и ветчину нарежьте тонкими кусочками.",
+        "Добавьте <A> и Харусаме в жаропрочную миску, хорошо перемешайте и нагрейте в микроволновой печи (600 Вт) в течение 5 минут, не накрывая.",
+        "Вынуть из микроволновой печи, хорошо перемешать, оставить на 7-8 минут, снять с огня, добавить огурец, ветчину и кунжутное масло, перемешать и охладить в холодильнике.",
+        "Выложите в миску и посыпьте жареным кунжутом.",
+        "салат с вермишелью",
+        "Ямунсен",
+        "Удобно использовать в микроволновке! салат с вермишелью"
+      ],
+      "th": [
+        "ถ้าฮารุซาเมะยาว ให้ผ่าครึ่ง ตัดแตงกวาและแฮมเป็นชิ้นบาง ๆ",
+        "ใส่ <A> และ Harusame ลงในชามทนความร้อน ผสมให้เข้ากัน และนำไปให้ความร้อนในไมโครเวฟ (600W) เป็นเวลา 5 นาที โดยไม่ต้องห่อ",
+        "นำออกจากไมโครเวฟ ผสมให้เข้ากัน ทิ้งไว้ 7-8 นาที นำออกจากเตา ใส่แตงกวา แฮม และน้ำมันงา ผสมให้เข้ากัน แช่เย็นในตู้เย็น",
+        "วางในชามแล้วโรยด้วยงาคั่ว",
+        "สลัดวุ้นเส้น",
+        "ยามุนเซ็น",
+        "ใช้งานง่ายในไมโครเวฟ! สลัดวุ้นเส้น"
+      ],
+      "id": [
+        "Jika Harusame panjang, potong menjadi dua. Potong mentimun dan ham menjadi potongan tipis.",
+        "Tambahkan <A> dan Harusame ke dalam mangkuk tahan panas, aduk rata, dan panaskan dalam microwave (600W) selama 5 menit tanpa dibungkus.",
+        "Keluarkan dari microwave, aduk rata, biarkan selama 7-8 menit, angkat, tambahkan mentimun, ham, dan minyak wijen, aduk, dan dinginkan di lemari es.",
+        "Tempatkan dalam mangkuk dan taburi dengan biji wijen panggang.",
+        "salad bihun",
+        "Yamunsen",
+        "Mudah digunakan dalam microwave! salad bihun"
+      ],
+      "ms": [
+        "Jika Harusame panjang, potong dua. Potong timun dan ham menjadi kepingan nipis.",
+        "Masukkan <A> dan Harusame ke dalam mangkuk tahan panas, gaul rata, dan panaskan dalam ketuhar gelombang mikro (600W) selama 5 minit tanpa membalut.",
+        "Keluarkan dari ketuhar gelombang mikro, gaul rata, biarkan selama 7-8 minit, keluarkan dari api, masukkan timun, ham, dan minyak bijan, gaul dan sejukkan di dalam peti sejuk.",
+        "Letakkan dalam mangkuk dan taburkan dengan bijan panggang.",
+        "salad bihun",
+        "Yamunsen",
+        "Mudah digunakan dalam ketuhar gelombang mikro! salad bihun"
+      ],
+      "ko": [
+        "하루가 길면 반으로 자른다. 오이와 햄은 잘게 썬다.",
+        "내열 그릇에 <A>와 느슨함을 넣고 푹 섞어 랩을 하지 않고 전자레인지(600W)로 5분 가열한다.",
+        "전자레인지에서 꺼내면 잘 섞고, 그대로 7~8분두고 조열을 취해, 오이, 햄, 참기름을 더해 섞어, 냉장고에서 식힌다.",
+        "그릇에 담아, 참깨를 뿌린다.",
+        "봄비 샐러드",
+        "야무은센",
+        "레인지로 간단! 봄비 샐러드"
+      ]
+    }
+  },
+  {
+    "id": "89d3c578",
+    "source_url": "https://www.mizkan.co.jp/ouchirecipe/recipe/?menu_id=9488",
+    "source_site": "Mizkan",
+    "title_ja": "豚肉とトマトと卵のシンプル甘酢炒め",
+    "description_ja": "",
+    "ingredients": [
+      {
+        "name_ja": "豚バラ肉　薄切り",
+        "amount": "１００ｇ",
+        "name_translated": {
+          "en": "Thinly sliced ​​pork belly",
+          "zh_tw": "五花肉切成薄片",
+          "zh_cn": "五花肉切成薄片",
+          "vi": "Thịt ba chỉ thái mỏng",
+          "hi": "पतले कटा हुआ सूअर का मांस पेट",
+          "ru": "Тонко нарезанная свиная грудинка",
+          "th": "หมูสามชั้นหั่นบางๆ",
+          "id": "Perut babi diiris tipis",
+          "ms": "Perut babi yang dihiris nipis",
+          "ko": "돼지 장미 고기 얇게 썬다."
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E8%B1%9A%E3%83%90%E3%83%A9%E8%82%89%E3%80%80%E8%96%84%E5%88%87%E3%82%8A&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E8%B1%9A%E3%83%90%E3%83%A9%E8%82%89%E3%80%80%E8%96%84%E5%88%87%E3%82%8A/?tag="
+      },
+      {
+        "name_ja": "トマト",
+        "amount": "大１個",
+        "name_translated": {
+          "en": "tomato",
+          "zh_tw": "番茄",
+          "zh_cn": "番茄",
+          "vi": "cà chua",
+          "hi": "टमाटर",
+          "ru": "помидор",
+          "th": "มะเขือเทศ",
+          "id": "tomat",
+          "ms": "tomato",
+          "ko": "토마토"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%88%E3%83%9E%E3%83%88&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%88%E3%83%9E%E3%83%88/?tag="
+      },
+      {
+        "name_ja": "卵",
+        "amount": "２個",
+        "name_translated": {
+          "en": "egg",
+          "zh_tw": "蛋",
+          "zh_cn": "蛋",
+          "vi": "trứng",
+          "hi": "अंडा",
+          "ru": "яйцо",
+          "th": "ไข่",
+          "id": "telur",
+          "ms": "telur",
+          "ko": "계란"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E5%8D%B5&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E5%8D%B5/?tag="
+      },
+      {
+        "name_ja": "塩",
+        "amount": "少々（０．２ｇ）",
+        "name_translated": {
+          "en": "salt",
+          "zh_tw": "鹽",
+          "zh_cn": "盐",
+          "vi": "muối",
+          "hi": "नमक",
+          "ru": "соль",
+          "th": "เกลือ",
+          "id": "garam",
+          "ms": "garam",
+          "ko": "소금"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E5%A1%A9&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E5%A1%A9/?tag="
+      },
+      {
+        "name_ja": "サラダ油",
+        "amount": "大さじ１",
+        "name_translated": {
+          "en": "salad oil",
+          "zh_tw": "沙拉油",
+          "zh_cn": "色拉油",
+          "vi": "dầu trộn salad",
+          "hi": "वनस्पति - तेल",
+          "ru": "салатное масло",
+          "th": "น้ำมันสลัด",
+          "id": "minyak salad",
+          "ms": "minyak salad",
+          "ko": "샐러드 오일"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%82%B5%E3%83%A9%E3%83%80%E6%B2%B9&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%82%B5%E3%83%A9%E3%83%80%E6%B2%B9/?tag="
+      },
+      {
+        "name_ja": "ミツカン　カンタン酢",
+        "amount": "大さじ２",
+        "name_translated": {
+          "en": "Mizkan Kantan Vinegar",
+          "zh_tw": "味滋康甘丹醋",
+          "zh_cn": "味滋康甘丹醋",
+          "vi": "Giấm Mizkan Kantan",
+          "hi": "मिज़कान कंटन सिरका",
+          "ru": "Мизкан Кантанский уксус",
+          "th": "น้ำส้มสายชูมิซกัน กันตัน",
+          "id": "Cuka Mizkan Kantan",
+          "ms": "Cuka Mizkan Kantan",
+          "ko": "미츠칸 칸탄초"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E3%82%AB%E3%83%B3%E3%82%BF%E3%83%B3%E9%85%A2&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E3%82%AB%E3%83%B3%E3%82%BF%E3%83%B3%E9%85%A2/?tag="
+      },
+      {
+        "name_ja": "塩",
+        "amount": "少々（０．１ｇ）",
+        "name_translated": {
+          "en": "salt",
+          "zh_tw": "鹽",
+          "zh_cn": "盐",
+          "vi": "muối",
+          "hi": "नमक",
+          "ru": "соль",
+          "th": "เกลือ",
+          "id": "garam",
+          "ms": "garam",
+          "ko": "소금"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E5%A1%A9&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E5%A1%A9/?tag="
+      },
+      {
+        "name_ja": "こしょう",
+        "amount": "少々",
+        "name_translated": {
+          "en": "pepper",
+          "zh_tw": "胡椒",
+          "zh_cn": "胡椒",
+          "vi": "hạt tiêu",
+          "hi": "काली मिर्च",
+          "ru": "перец",
+          "th": "พริกไทย",
+          "id": "merica",
+          "ms": "lada",
+          "ko": "코쇼"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%93%E3%81%97%E3%82%87%E3%81%86&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%93%E3%81%97%E3%82%87%E3%81%86/?tag="
+      },
+      {
+        "name_ja": "１",
+        "amount": "にする。卵は塩少々入れよく溶いておく。",
+        "name_translated": {
+          "en": "1",
+          "zh_tw": "1",
+          "zh_cn": "1",
+          "vi": "1",
+          "hi": "1",
+          "ru": "1",
+          "th": "1",
+          "id": "1",
+          "ms": "1",
+          "ko": "1"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%91&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%91/?tag="
+      },
+      {
+        "name_ja": "２",
+        "amount": "フライパンにサラダ油の半量を熱し、卵を流し入れ、かき混ぜてふんわりとしたらすぐに取り出す。",
+        "name_translated": {
+          "en": "2",
+          "zh_tw": "2",
+          "zh_cn": "2",
+          "vi": "2",
+          "hi": "2",
+          "ru": "2",
+          "th": "2",
+          "id": "2",
+          "ms": "2",
+          "ko": "2"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%92&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%92/?tag="
+      },
+      {
+        "name_ja": "３",
+        "amount": "の卵を戻し入れ、強火でサッとひと混ぜしたらすぐに火を止める。",
+        "name_translated": {
+          "en": "3",
+          "zh_tw": "3",
+          "zh_cn": "3",
+          "vi": "3",
+          "hi": "3",
+          "ru": "3",
+          "th": "3",
+          "id": "3",
+          "ms": "3",
+          "ko": "3"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%93&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%93/?tag="
+      }
+    ],
+    "steps_ja": [
+      "豚バラ肉は食べやすく切る。トマトはヘタを除き、一口大の乱切りにする。卵は塩少々入れよく溶いておく。",
+      "フライパンにサラダ油の半量を熱し、卵を流し入れ、かき混ぜてふんわりとしたらすぐに取り出す。",
+      "フライパンに残りのサラダ油を中火で熱し、豚バラ肉を炒め軽く塩こしょうする。豚バラ肉の色が変わったらトマトを加えて強火でサッと炒め、「カンタン酢」を入れ、２の卵を戻し入れ、強火でサッとひと混ぜしたらすぐに火を止める。"
+    ],
+    "image_url": "",
+    "title": {
+      "en": "Simple sweet and sour stir-fried pork, tomato, and egg",
+      "zh_tw": "簡單的糖醋肉番茄雞蛋",
+      "zh_cn": "简单的糖醋肉番茄鸡蛋",
+      "vi": "Thịt heo xào chua ngọt đơn giản, cà chua và trứng",
+      "hi": "सरल मीठा और खट्टा तली हुई सूअर का मांस, टमाटर, और अंडा",
+      "ru": "Простая кисло-сладкая жареная свинина, помидоры и яйцо",
+      "th": "ผัดเปรี้ยวหวานหมู มะเขือเทศ และไข่แบบง่ายๆ",
+      "id": "Daging babi tumis asam manis sederhana, tomat, dan telur",
+      "ms": "Babi tumis masam manis yang ringkas, tomato dan telur",
+      "ko": "돼지고기와 토마토와 계란의 간단한 감초 볶음"
+    },
+    "description": {
+      "en": "",
+      "zh_tw": "",
+      "zh_cn": "",
+      "vi": "",
+      "hi": "",
+      "ru": "",
+      "th": "",
+      "id": "",
+      "ms": "",
+      "ko": ""
+    },
+    "steps": {
+      "en": [
+        "Cut the pork belly into easy-to-eat pieces. Remove the stems from the tomatoes and cut them into bite-sized pieces. Add a little salt to the eggs and mix well.",
+        "Heat half of the salad oil in a frying pan, pour in the eggs, stir until fluffy, then remove immediately.",
+        "Heat the remaining oil in a frying pan over medium heat, stir-fry the pork belly, and season lightly with salt and pepper. When the pork belly changes color, add the tomatoes and fry quickly over high heat. Add the ``simple vinegar'' and add the egg from step 2 back in. Mix quickly over high heat and immediately turn off the heat."
+      ],
+      "zh_tw": [
+        "將五花肉切成易於食用的塊狀。把番茄的莖去掉，切成一口大小的塊狀。雞蛋中加入少許鹽，攪拌均勻。",
+        "煎鍋中燒熱一半沙拉油，倒入雞蛋，攪拌至蓬鬆，然後立即取出。",
+        "中火將煎鍋中剩餘的油燒熱，將五花肉炒香，用鹽和胡椒粉稍微調味。當五花肉變色時，加入西紅柿，用大火快速炒。加入“簡單的醋”，然後將步驟 2 中的雞蛋重新加入。用高火快速混合，然後立即關火。"
+      ],
+      "zh_cn": [
+        "将五花肉切成易于食用的块。把西红柿的茎去掉，切成一口大小的块。鸡蛋中加入少许盐，搅拌均匀。",
+        "煎锅中烧热一半色拉油，倒入鸡蛋，搅拌至蓬松，然后立即取出。",
+        "中火将煎锅中剩余的油烧热，将五花肉炒香，用盐和胡椒粉稍微调味。当五花肉变色时，加入西红柿，用大火快速炒。加入“简单的醋”，然后将步骤 2 中的鸡蛋重新加入。用高火快速混合，然后立即关火。"
+      ],
+      "vi": [
+        "Cắt thịt ba chỉ thành miếng vừa ăn. Loại bỏ cuống cà chua và cắt chúng thành miếng vừa ăn. Thêm một chút muối vào trứng và trộn đều.",
+        "Đun nóng một nửa dầu salad trong chảo, đổ trứng vào, khuấy đều cho đến khi bông mịn rồi vớt ra ngay.",
+        "Đun nóng lượng dầu còn lại trong chảo trên lửa vừa, xào thịt ba chỉ rồi nêm nhẹ muối và tiêu. Khi bụng heo đổi màu thì cho cà chua vào xào nhanh trên lửa lớn. Thêm ``giấm đơn giản'' và thêm trứng từ bước 2 trở lại. Trộn nhanh trên lửa cao và tắt lửa ngay lập tức."
+      ],
+      "hi": [
+        "पोर्क बेली को खाने में आसान टुकड़ों में काटें। टमाटरों के डंठल हटा दीजिए और उन्हें छोटे टुकड़ों में काट लीजिए. अंडों में थोड़ा सा नमक डालें और अच्छी तरह मिलाएँ।",
+        "एक फ्राइंग पैन में सलाद का आधा तेल गर्म करें, अंडे डालें, फूलने तक हिलाएं, फिर तुरंत हटा दें।",
+        "मध्यम आँच पर एक फ्राइंग पैन में बचा हुआ तेल गरम करें, पोर्क बेली को हिलाएँ और हल्के से नमक और काली मिर्च डालें। जब पोर्क बेली का रंग बदल जाए, तो टमाटर डालें और तेज़ आंच पर जल्दी से भूनें। ``साधारण सिरका'' मिलाएं और चरण 2 से वापस अंडा डालें। तेज आंच पर जल्दी से मिलाएं और तुरंत आंच बंद कर दें।"
+      ],
+      "ru": [
+        "Нарезаем свиную грудинку удобными для еды кусочками. У помидоров удалите плодоножки и нарежьте их небольшими кусочками. Добавьте к яйцам немного соли и хорошо перемешайте.",
+        "На сковороде разогрейте половину салатного масла, влейте яйца, перемешайте до пышности, затем сразу вытащите.",
+        "Нагрейте оставшееся масло в сковороде на среднем огне, обжарьте свиную грудинку, слегка приправьте солью и перцем. Когда грудинка поменяет цвет, добавьте помидоры и быстро обжарьте на сильном огне. Добавьте «простой уксус» и снова добавьте яйцо из шага 2. Быстро перемешайте на сильном огне и сразу же выключите огонь."
+      ],
+      "th": [
+        "หั่นหมูสามชั้นเป็นชิ้นกินง่าย เอาก้านออกจากมะเขือเทศแล้วหั่นเป็นชิ้นขนาดพอดีคำ เพิ่มเกลือเล็กน้อยลงในไข่และผสมให้เข้ากัน",
+        "ตั้งน้ำมันสลัดครึ่งหนึ่งในกระทะ เทไข่ลงไป ผัดจนขึ้นฟู จากนั้นนำออกทันที",
+        "ตั้งน้ำมันที่เหลือในกระทะบนไฟร้อนปานกลาง ผัดหมูสามชั้น และปรุงรสเล็กน้อยด้วยเกลือและพริกไทย เมื่อหมูสามชั้นเปลี่ยนสี ให้ใส่มะเขือเทศลงไปผัดเร็วๆ ด้วยไฟแรง เติม ``น้ำส้มสายชูธรรมดา'' แล้วใส่ไข่จากขั้นตอนที่ 2 กลับเข้าไป ผสมเร็วๆ ด้วยไฟแรง แล้วปิดไฟทันที"
+      ],
+      "id": [
+        "Potong perut babi menjadi potongan-potongan yang mudah dimakan. Buang batang tomat dan potong menjadi potongan-potongan kecil. Tambahkan sedikit garam ke telur dan aduk rata.",
+        "Panaskan setengah minyak salad dalam wajan, tuang telur, aduk hingga mengembang, lalu segera angkat.",
+        "Panaskan sisa minyak dalam wajan dengan api sedang, tumis perut babi, dan bumbui sedikit dengan garam dan merica. Saat perut babi berubah warna, tambahkan tomat dan goreng cepat dengan api besar. Tambahkan ``cuka sederhana'' dan tambahkan kembali telur dari langkah 2. Aduk cepat dengan api besar dan segera matikan api."
+      ],
+      "ms": [
+        "Potong perut babi menjadi kepingan yang mudah dimakan. Keluarkan batang dari tomato dan potong menjadi kepingan bersaiz gigitan. Masukkan sedikit garam ke dalam telur dan gaul rata.",
+        "Panaskan separuh minyak salad dalam kuali, tuangkan telur, kacau hingga kembang, kemudian keluarkan segera.",
+        "Panaskan baki minyak dalam kuali dengan api sederhana, tumis perut babi, dan perasakan sedikit dengan garam dan lada sulah. Apabila perut babi berubah warna, masukkan tomato dan goreng dengan api besar. Masukkan ``cuka ringkas'' dan masukkan telur dari langkah 2 semula. Gaulkan dengan cepat dengan api besar dan segera tutup api."
+      ],
+      "ko": [
+        "돼지 장미 고기는 먹기 쉽게 자른다. 토마토는 헤타를 제외하고 한입 큰 방해로 만든다. 계란은 소금 조금 넣어 잘 녹아 둔다.",
+        "프라이팬에 샐러드유의 반량을 가열하고, 달걀을 흘려 넣고 저어서 부드럽게 하면 곧 꺼낸다.",
+        "프라이팬에 남은 샐러드 기름을 중불로 가열하고 돼지 장미 고기를 볶아 가볍게 소금 고수한다. 돼지 장미 고기의 색이 바뀌면 토마토를 넣고 강한 불로 얼른 볶고 \"간단 식초\"를 넣고 2 계란을 되돌려 넣고 강한 불로 얼른 섞으면 즉시 불을 멈춘다."
+      ]
+    }
   }
 ]

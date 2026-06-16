@@ -272960,5 +272960,229 @@
         "매실과 오오바의 차가운 낫토 파스타"
       ]
     }
+  },
+  {
+    "id": "e2f67a8d",
+    "source_url": "https://www.mizkan.co.jp/ouchirecipe/recipe/?menu_id=19573",
+    "source_site": "Mizkan",
+    "title_ja": "ねぎたっぷりトマト",
+    "description_ja": "",
+    "ingredients": [
+      {
+        "name_ja": "トマト",
+        "amount": "大１個（２５０ｇ）",
+        "name_translated": {
+          "en": "tomato",
+          "zh_tw": "番茄",
+          "zh_cn": "番茄",
+          "vi": "cà chua",
+          "hi": "टमाटर",
+          "ru": "помидор",
+          "th": "มะเขือเทศ",
+          "id": "tomat",
+          "ms": "tomato",
+          "ko": "토마토"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%88%E3%83%9E%E3%83%88&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%88%E3%83%9E%E3%83%88/?tag="
+      },
+      {
+        "name_ja": "小ねぎ　（小口切り）",
+        "amount": "１／２束分（５０ｇ）",
+        "name_translated": {
+          "en": "Onion (cut into small pieces)",
+          "zh_tw": "洋蔥（切小塊）",
+          "zh_cn": "洋葱（切小块）",
+          "vi": "Hành tây (cắt thành miếng nhỏ)",
+          "hi": "प्याज (छोटे टुकड़ों में कटा हुआ)",
+          "ru": "Лук (нарезать небольшими кусочками)",
+          "th": "หัวหอม (หั่นเป็นชิ้นเล็กๆ)",
+          "id": "Bawang bombay (potong kecil-kecil)",
+          "ms": "Bawang besar (potong kecil)",
+          "ko": "작은 양파 (작은 컷)"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E5%B0%8F%E3%81%AD%E3%81%8E%E3%80%80%EF%BC%88%E5%B0%8F%E5%8F%A3%E5%88%87%E3%82%8A%EF%BC%89&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E5%B0%8F%E3%81%AD%E3%81%8E%E3%80%80%EF%BC%88%E5%B0%8F%E5%8F%A3%E5%88%87%E3%82%8A%EF%BC%89/?tag="
+      },
+      {
+        "name_ja": "ミツカン　味ぽん",
+        "amount": "大さじ３",
+        "name_translated": {
+          "en": "Mizkan Ajipon",
+          "zh_tw": "味滋康味精",
+          "zh_cn": "味滋康味精",
+          "vi": "Mizkan Ajipon",
+          "hi": "मिज़कान अजिपोन",
+          "ru": "Мизкан Аджипон",
+          "th": "มิซกัน อาจิปอน",
+          "id": "Mizkan Ajipon",
+          "ms": "Mizkan Ajipon",
+          "ko": "미츠칸 미포"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E5%91%B3%E3%81%BD%E3%82%93&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E5%91%B3%E3%81%BD%E3%82%93/?tag="
+      },
+      {
+        "name_ja": "ごま油",
+        "amount": "大さじ１",
+        "name_translated": {
+          "en": "sesame oil",
+          "zh_tw": "香油",
+          "zh_cn": "香油",
+          "vi": "dầu mè",
+          "hi": "तिल का तेल",
+          "ru": "кунжутное масло",
+          "th": "น้ำมันงา",
+          "id": "minyak wijen",
+          "ms": "minyak bijan",
+          "ko": "참기름"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%94%E3%81%BE%E6%B2%B9&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%94%E3%81%BE%E6%B2%B9/?tag="
+      },
+      {
+        "name_ja": "砂糖",
+        "amount": "小さじ１／３",
+        "name_translated": {
+          "en": "sugar",
+          "zh_tw": "糖",
+          "zh_cn": "糖",
+          "vi": "đường",
+          "hi": "चीनी",
+          "ru": "сахар",
+          "th": "น้ำตาล",
+          "id": "gula",
+          "ms": "gula",
+          "ko": "설탕"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E7%A0%82%E7%B3%96&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E7%A0%82%E7%B3%96/?tag="
+      },
+      {
+        "name_ja": "かつお節",
+        "amount": "１パック",
+        "name_translated": {
+          "en": "Bonito flakes",
+          "zh_tw": "鰹魚片",
+          "zh_cn": "鲣鱼片",
+          "vi": "mảnh cá ngừ",
+          "hi": "बोनिटो गुच्छे",
+          "ru": "хлопья скумбрии",
+          "th": "โบนิโตเกล็ด",
+          "id": "serpihan bonito",
+          "ms": "Serpihan bonito",
+          "ko": "가다랭이"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%8B%E3%81%A4%E3%81%8A%E7%AF%80&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%8B%E3%81%A4%E3%81%8A%E7%AF%80/?tag="
+      },
+      {
+        "name_ja": "１",
+        "amount": "にする。小ねぎと＜Ａ＞を合わせ、たれを作る。",
+        "name_translated": {
+          "en": "1",
+          "zh_tw": "1",
+          "zh_cn": "1",
+          "vi": "1",
+          "hi": "1",
+          "ru": "1",
+          "th": "1",
+          "id": "1",
+          "ms": "1",
+          "ko": "1"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%91&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%91/?tag="
+      },
+      {
+        "name_ja": "２",
+        "amount": "器にトマトを盛り、たれをかける。",
+        "name_translated": {
+          "en": "2",
+          "zh_tw": "2",
+          "zh_cn": "2",
+          "vi": "2",
+          "hi": "2",
+          "ru": "2",
+          "th": "2",
+          "id": "2",
+          "ms": "2",
+          "ko": "2"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%92&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%92/?tag="
+      }
+    ],
+    "steps_ja": [
+      "トマトは乱切りにする。小ねぎと＜Ａ＞を合わせ、たれを作る。",
+      "器にトマトを盛り、たれをかける。"
+    ],
+    "image_url": "",
+    "title": {
+      "en": "Tomato with lots of green onions",
+      "zh_tw": "番茄加很多蔥",
+      "zh_cn": "番茄加很多葱",
+      "vi": "Cà chua với nhiều hành lá",
+      "hi": "ढेर सारे हरे प्याज के साथ टमाटर",
+      "ru": "Помидоры с большим количеством зеленого лука",
+      "th": "มะเขือเทศที่มีหัวหอมสีเขียวจำนวนมาก",
+      "id": "Tomat dengan banyak daun bawang",
+      "ms": "Tomato dengan banyak bawang hijau",
+      "ko": "파 듬뿍 토마토"
+    },
+    "description": {
+      "en": "",
+      "zh_tw": "",
+      "zh_cn": "",
+      "vi": "",
+      "hi": "",
+      "ru": "",
+      "th": "",
+      "id": "",
+      "ms": "",
+      "ko": ""
+    },
+    "steps": {
+      "en": [
+        "Cut the tomatoes into chunks. Combine the onions and <A> to make the sauce.",
+        "Place the tomatoes in a bowl and cover with the sauce."
+      ],
+      "zh_tw": [
+        "將西紅柿切成塊。將洋蔥和<A>混合製成醬汁。",
+        "將番茄放入碗中，蓋上醬汁。"
+      ],
+      "zh_cn": [
+        "将西红柿切成块。将洋葱和<A>混合制成酱汁。",
+        "将西红柿放入碗中，盖上酱汁。"
+      ],
+      "vi": [
+        "Cắt cà chua thành khối. Kết hợp hành tây và <A> để làm nước sốt.",
+        "Đặt cà chua vào tô và phủ nước sốt."
+      ],
+      "hi": [
+        "टमाटर को टुकड़ों में काट लीजिये. सॉस बनाने के लिए प्याज और <ए> को मिलाएं।",
+        "टमाटरों को एक कटोरे में रखें और सॉस से ढक दें।"
+      ],
+      "ru": [
+        "Помидоры нарезаем ломтиками. Объедините лук и <A>, чтобы приготовить соус.",
+        "Помидоры положите в миску и залейте соусом."
+      ],
+      "th": [
+        "หั่นมะเขือเทศเป็นชิ้น รวมหัวหอมและ <A> เพื่อทำซอส",
+        "วางมะเขือเทศลงในชามแล้วปิดด้วยซอส"
+      ],
+      "id": [
+        "Potong tomat menjadi beberapa bagian. Campurkan bawang bombay dan <A> untuk membuat saus.",
+        "Tempatkan tomat dalam mangkuk dan tutupi dengan saus."
+      ],
+      "ms": [
+        "Potong tomato menjadi kepingan. Satukan bawang dan <A> untuk membuat sos.",
+        "Letakkan tomato dalam mangkuk dan tutup dengan sos."
+      ],
+      "ko": [
+        "토마토는 방해한다. 양파와 <A>를 합쳐 양념장을 만든다.",
+        "그릇에 토마토를 담고 기름을 바른다."
+      ]
+    }
   }
 ]

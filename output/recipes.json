@@ -277748,5 +277748,720 @@
         "＊상기 당 질량 중, 「파르스위트」의 당질은 로카보당질을 바탕으로 산출하고 있습니다."
       ]
     }
+  },
+  {
+    "id": "4cf5194b",
+    "source_url": "https://park.ajinomoto.co.jp/recipe/card/706628/",
+    "source_site": "Ajinomoto",
+    "title_ja": "しっとりゆで鶏",
+    "description_ja": "",
+    "ingredients": [
+      {
+        "name_ja": "材料",
+        "amount": "適量",
+        "name_translated": {
+          "en": "material",
+          "zh_tw": "材料",
+          "zh_cn": "材料",
+          "vi": "vật liệu",
+          "hi": "सामग्री",
+          "ru": "материал",
+          "th": "วัสดุ",
+          "id": "bahan",
+          "ms": "bahan",
+          "ko": "소재"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E6%9D%90%E6%96%99&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E6%9D%90%E6%96%99/?tag="
+      },
+      {
+        "name_ja": "つくり方",
+        "amount": "適量",
+        "name_translated": {
+          "en": "How to make",
+          "zh_tw": "如何製作",
+          "zh_cn": "如何制作",
+          "vi": "Làm thế nào để làm",
+          "hi": "कैसे बनाना है",
+          "ru": "Как сделать",
+          "th": "วิธีทำ",
+          "id": "Cara membuat",
+          "ms": "Cara membuat",
+          "ko": "만드는 법"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%A4%E3%81%8F%E3%82%8A%E6%96%B9&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%A4%E3%81%8F%E3%82%8A%E6%96%B9/?tag="
+      },
+      {
+        "name_ja": "エネルギー",
+        "amount": "kcal",
+        "name_translated": {
+          "en": "energy",
+          "zh_tw": "活力",
+          "zh_cn": "活力",
+          "vi": "năng lượng",
+          "hi": "ऊर्जा",
+          "ru": "энергия",
+          "th": "พลังงาน",
+          "id": "energi",
+          "ms": "tenaga",
+          "ko": "에너지"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%82%A8%E3%83%8D%E3%83%AB%E3%82%AE%E3%83%BC&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%82%A8%E3%83%8D%E3%83%AB%E3%82%AE%E3%83%BC/?tag="
+      },
+      {
+        "name_ja": "509",
+        "amount": "kcal",
+        "name_translated": {
+          "en": "509",
+          "zh_tw": "509",
+          "zh_cn": "509",
+          "vi": "509",
+          "hi": "509",
+          "ru": "509",
+          "th": "509",
+          "id": "509",
+          "ms": "509",
+          "ko": "509"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=509&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/509/?tag="
+      },
+      {
+        "name_ja": "塩分",
+        "amount": "g",
+        "name_translated": {
+          "en": "salt",
+          "zh_tw": "鹽",
+          "zh_cn": "盐",
+          "vi": "muối",
+          "hi": "नमक",
+          "ru": "соль",
+          "th": "เกลือ",
+          "id": "garam",
+          "ms": "garam",
+          "ko": "염분"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E5%A1%A9%E5%88%86&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E5%A1%A9%E5%88%86/?tag="
+      },
+      {
+        "name_ja": "7.3",
+        "amount": "g",
+        "name_translated": {
+          "en": "7.3",
+          "zh_tw": "7.3",
+          "zh_cn": "7.3",
+          "vi": "7.3",
+          "hi": "7.3",
+          "ru": "7.3",
+          "th": "7.3",
+          "id": "7.3",
+          "ms": "7.3",
+          "ko": "7.3"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=7.3&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/7.3/?tag="
+      },
+      {
+        "name_ja": "たんぱく質",
+        "amount": "g",
+        "name_translated": {
+          "en": "protein",
+          "zh_tw": "蛋白質",
+          "zh_cn": "蛋白质",
+          "vi": "chất đạm",
+          "hi": "प्रोटीन",
+          "ru": "белок",
+          "th": "โปรตีน",
+          "id": "protein",
+          "ms": "protein",
+          "ko": "단백질"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%9F%E3%82%93%E3%81%B1%E3%81%8F%E8%B3%AA&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%9F%E3%82%93%E3%81%B1%E3%81%8F%E8%B3%AA/?tag="
+      },
+      {
+        "name_ja": "78.7",
+        "amount": "g",
+        "name_translated": {
+          "en": "78.7",
+          "zh_tw": "78.7",
+          "zh_cn": "78.7",
+          "vi": "78,7",
+          "hi": "78.7",
+          "ru": "78,7",
+          "th": "78.7",
+          "id": "78.7",
+          "ms": "78.7",
+          "ko": "78.7"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=78.7&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/78.7/?tag="
+      },
+      {
+        "name_ja": "脂質",
+        "amount": "g",
+        "name_translated": {
+          "en": "lipid",
+          "zh_tw": "脂質",
+          "zh_cn": "脂质",
+          "vi": "chất béo",
+          "hi": "लिपिड",
+          "ru": "липид",
+          "th": "ไขมัน",
+          "id": "lipid",
+          "ms": "lipid",
+          "ko": "지질"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E8%84%82%E8%B3%AA&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E8%84%82%E8%B3%AA/?tag="
+      },
+      {
+        "name_ja": "21.5",
+        "amount": "g",
+        "name_translated": {
+          "en": "21.5",
+          "zh_tw": "21.5",
+          "zh_cn": "21.5",
+          "vi": "21,5",
+          "hi": "21.5",
+          "ru": "21,5",
+          "th": "21.5",
+          "id": "21.5",
+          "ms": "21.5",
+          "ko": "21.5"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=21.5&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/21.5/?tag="
+      },
+      {
+        "name_ja": "もっと見る",
+        "amount": "適量",
+        "name_translated": {
+          "en": "See more",
+          "zh_tw": "看更多",
+          "zh_cn": "查看更多",
+          "vi": "Xem thêm",
+          "hi": "और देखें",
+          "ru": "Посмотреть больше",
+          "th": "ดูเพิ่มเติม",
+          "id": "Lihat selengkapnya",
+          "ms": "Lihat lagi",
+          "ko": "더 보기"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%82%82%E3%81%A3%E3%81%A8%E8%A6%8B%E3%82%8B&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%82%82%E3%81%A3%E3%81%A8%E8%A6%8B%E3%82%8B/?tag="
+      },
+      {
+        "name_ja": "マイレシピにも保存！",
+        "amount": "LINEに保存",
+        "name_translated": {
+          "en": "Save it to my recipes too!",
+          "zh_tw": "也將它保存到我的食譜中！",
+          "zh_cn": "也将它保存到我的食谱中！",
+          "vi": "Lưu nó vào công thức nấu ăn của tôi nữa!",
+          "hi": "इसे मेरे व्यंजनों में भी सहेजें!",
+          "ru": "Сохраняйте и вы в мои рецепты!",
+          "th": "บันทึกลงในสูตรของฉันด้วย!",
+          "id": "Simpan ke resep saya juga!",
+          "ms": "Simpan ke resipi saya juga!",
+          "ko": "마이 레시피에도 저장!"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9E%E3%82%A4%E3%83%AC%E3%82%B7%E3%83%94%E3%81%AB%E3%82%82%E4%BF%9D%E5%AD%98%EF%BC%81&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9E%E3%82%A4%E3%83%AC%E3%82%B7%E3%83%94%E3%81%AB%E3%82%82%E4%BF%9D%E5%AD%98%EF%BC%81/?tag="
+      },
+      {
+        "name_ja": "マイレシピに保存",
+        "amount": "-",
+        "name_translated": {
+          "en": "Save to My Recipe",
+          "zh_tw": "儲存到我的食譜",
+          "zh_cn": "保存到我的食谱",
+          "vi": "Lưu vào Công thức của tôi",
+          "hi": "मेरी रेसिपी में सहेजें",
+          "ru": "Сохранить в мой рецепт",
+          "th": "บันทึกลงในสูตรของฉัน",
+          "id": "Simpan ke Resep Saya",
+          "ms": "Simpan ke Resipi Saya",
+          "ko": "내 조리법에 저장"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9E%E3%82%A4%E3%83%AC%E3%82%B7%E3%83%94%E3%81%AB%E4%BF%9D%E5%AD%98&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9E%E3%82%A4%E3%83%AC%E3%82%B7%E3%83%94%E3%81%AB%E4%BF%9D%E5%AD%98/?tag="
+      },
+      {
+        "name_ja": "リンク",
+        "amount": "外部タブで開く",
+        "name_translated": {
+          "en": "link",
+          "zh_tw": "關聯",
+          "zh_cn": "关联",
+          "vi": "liên kết",
+          "hi": "जोड़ना",
+          "ru": "связь",
+          "th": "ลิงค์",
+          "id": "link",
+          "ms": "pautan",
+          "ko": "링크"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%AA%E3%83%B3%E3%82%AF&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%AA%E3%83%B3%E3%82%AF/?tag="
+      },
+      {
+        "name_ja": "材料",
+        "amount": "適量",
+        "name_translated": {
+          "en": "material",
+          "zh_tw": "材料",
+          "zh_cn": "材料",
+          "vi": "vật liệu",
+          "hi": "सामग्री",
+          "ru": "материал",
+          "th": "วัสดุ",
+          "id": "bahan",
+          "ms": "bahan",
+          "ko": "소재"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E6%9D%90%E6%96%99&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E6%9D%90%E6%96%99/?tag="
+      },
+      {
+        "name_ja": "つくり方",
+        "amount": "適量",
+        "name_translated": {
+          "en": "How to make",
+          "zh_tw": "如何製作",
+          "zh_cn": "如何制作",
+          "vi": "Làm thế nào để làm",
+          "hi": "कैसे बनाना है",
+          "ru": "Как сделать",
+          "th": "วิธีทำ",
+          "id": "Cara membuat",
+          "ms": "Cara membuat",
+          "ko": "만드는 법"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%A4%E3%81%8F%E3%82%8A%E6%96%B9&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%A4%E3%81%8F%E3%82%8A%E6%96%B9/?tag="
+      },
+      {
+        "name_ja": "1",
+        "amount": "沸騰させる。水カップ１を加えて、鶏肉を１枚ずつ入れる。",
+        "name_translated": {
+          "en": "1",
+          "zh_tw": "1",
+          "zh_cn": "1",
+          "vi": "1",
+          "hi": "1",
+          "ru": "1",
+          "th": "1",
+          "id": "1",
+          "ms": "1",
+          "ko": "1"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=1&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/1/?tag="
+      },
+      {
+        "name_ja": "2",
+        "amount": "再び沸騰したら火を弱め、３分ゆでて火を止める。フタをしてそのまま冷ます（時間外）。",
+        "name_translated": {
+          "en": "2",
+          "zh_tw": "2",
+          "zh_cn": "2",
+          "vi": "2",
+          "hi": "2",
+          "ru": "2",
+          "th": "2",
+          "id": "2",
+          "ms": "2",
+          "ko": "2"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=2&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/2/?tag="
+      },
+      {
+        "name_ja": "3",
+        "amount": "冷蔵庫に入れて保存する。",
+        "name_translated": {
+          "en": "3",
+          "zh_tw": "3",
+          "zh_cn": "3",
+          "vi": "3",
+          "hi": "3",
+          "ru": "3",
+          "th": "3",
+          "id": "3",
+          "ms": "3",
+          "ko": "3"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=3&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/3/?tag="
+      },
+      {
+        "name_ja": "＊",
+        "amount": "しっとりとした仕上がりになります。",
+        "name_translated": {
+          "en": "*",
+          "zh_tw": "*",
+          "zh_cn": "*",
+          "vi": "*",
+          "hi": "*",
+          "ru": "*",
+          "th": "*",
+          "id": "*",
+          "ms": "*",
+          "ko": "＊"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%8A&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%8A/?tag="
+      },
+      {
+        "name_ja": "＊",
+        "amount": "冷蔵庫で３～４日保存できます。",
+        "name_translated": {
+          "en": "*",
+          "zh_tw": "*",
+          "zh_cn": "*",
+          "vi": "*",
+          "hi": "*",
+          "ru": "*",
+          "th": "*",
+          "id": "*",
+          "ms": "*",
+          "ko": "＊"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%8A&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%8A/?tag="
+      },
+      {
+        "name_ja": "鶏肉",
+        "amount": "適量",
+        "name_translated": {
+          "en": "chicken meat",
+          "zh_tw": "雞肉",
+          "zh_cn": "鸡肉",
+          "vi": "thịt gà",
+          "hi": "मुर्गी का मांस",
+          "ru": "куриное мясо",
+          "th": "เนื้อไก่",
+          "id": "daging ayam",
+          "ms": "daging ayam",
+          "ko": "닭고기"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E9%B6%8F%E8%82%89&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E9%B6%8F%E8%82%89/?tag="
+      },
+      {
+        "name_ja": "メイン料理",
+        "amount": "適量",
+        "name_translated": {
+          "en": "main dish",
+          "zh_tw": "主菜",
+          "zh_cn": "主菜",
+          "vi": "món chính",
+          "hi": "मुख्य पकवान",
+          "ru": "основное блюдо",
+          "th": "อาหารจานหลัก",
+          "id": "hidangan utama",
+          "ms": "hidangan utama",
+          "ko": "메인 요리"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%A1%E3%82%A4%E3%83%B3%E6%96%99%E7%90%86&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%A1%E3%82%A4%E3%83%B3%E6%96%99%E7%90%86/?tag="
+      },
+      {
+        "name_ja": "中華風",
+        "amount": "適量",
+        "name_translated": {
+          "en": "Chinese style",
+          "zh_tw": "中式",
+          "zh_cn": "中式",
+          "vi": "phong cách trung quốc",
+          "hi": "चीनी शैली",
+          "ru": "Китайский стиль",
+          "th": "สไตล์จีน",
+          "id": "gaya Cina",
+          "ms": "gaya cina",
+          "ko": "중국풍"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E4%B8%AD%E8%8F%AF%E9%A2%A8&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E4%B8%AD%E8%8F%AF%E9%A2%A8/?tag="
+      },
+      {
+        "name_ja": "丸鶏がらスープ",
+        "amount": "適量",
+        "name_translated": {
+          "en": "whole chicken soup",
+          "zh_tw": "全雞湯",
+          "zh_cn": "全鸡汤",
+          "vi": "súp gà nguyên con",
+          "hi": "पूरा चिकन सूप",
+          "ru": "целый куриный суп",
+          "th": "ซุปไก่ทั้งตัว",
+          "id": "sup ayam utuh",
+          "ms": "sup ayam keseluruhan",
+          "ko": "둥근 닭고기 수프"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E4%B8%B8%E9%B6%8F%E3%81%8C%E3%82%89%E3%82%B9%E3%83%BC%E3%83%97&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E4%B8%B8%E9%B6%8F%E3%81%8C%E3%82%89%E3%82%B9%E3%83%BC%E3%83%97/?tag="
+      }
+    ],
+    "steps_ja": [
+      "鍋にねぎの青い部分、しょうがの薄切り、水カップ３、「丸鶏がらスープ」を入れて沸騰させる。水カップ１を加えて、鶏肉を１枚ずつ入れる。",
+      "再び沸騰したら火を弱め、３分ゆでて火を止める。フタをしてそのまま冷ます（時間外）。",
+      "冷めたらゆで汁ごと密閉容器に入れて、汁に浸るようにラップで落としぶたをする。冷蔵庫に入れて保存する。",
+      "＊沸騰した湯に鶏肉を入れるよりも、水を加えて少し煮立ちをおさえた湯の方が、しっとりとした仕上がりになります。",
+      "＊冷蔵庫で３～４日保存できます。"
+    ],
+    "image_url": "https://images.weserv.nl/?url=https://images.microcms-assets.io/assets/3834bb6c71eb4fdd912121537b20e72d/b89f02c2cb9940c6b764008383fb7f95/recipe_main_image_706628.jpg?fm=webp&q=60&fit=min&w=600&output=jpg",
+    "title": {
+      "en": "moist boiled chicken",
+      "zh_tw": "濕煮雞",
+      "zh_cn": "湿煮鸡",
+      "vi": "gà luộc ẩm",
+      "hi": "नम उबला हुआ चिकन",
+      "ru": "влажная отварная курица",
+      "th": "ไก่ต้มชื้น",
+      "id": "ayam rebus basah",
+      "ms": "ayam rebus basah",
+      "ko": "촉촉한 삶은 닭"
+    },
+    "description": {
+      "en": "",
+      "zh_tw": "",
+      "zh_cn": "",
+      "vi": "",
+      "hi": "",
+      "ru": "",
+      "th": "",
+      "id": "",
+      "ms": "",
+      "ko": ""
+    },
+    "steps": {
+      "en": [
+        "Add the green part of the green onion, thinly sliced ​​ginger, 3 cups of water, and ``chicken soup'' to a pot and bring to a boil. Add 1 cup of water and add chicken pieces one at a time.",
+        "When it boils again, lower the heat and boil for 3 minutes, then turn off the heat. Cover and leave to cool (outside of time).",
+        "Once cooled, put the boiled water in an airtight container and cover with plastic wrap so that it is submerged in the water. Store in the refrigerator.",
+        "*Rather than putting the chicken in boiling water, adding water to bring it to a boil will give the chicken a moister finish.",
+        "*Can be stored in the refrigerator for 3 to 4 days."
+      ],
+      "zh_tw": [
+        "將蔥的綠色部分、切成薄片的薑、3杯水和「雞湯」放入鍋中煮沸。加1杯水，一次加入一塊雞塊。",
+        "再び沸騰したら火を弱め、３分ゆでて火を止める。フタをしてそのまま冷ます（時間外）。",
+        "冷卻後，將開水放入密封容器中，並用保鮮膜覆蓋，使其浸沒在水中。存放在冰箱中。",
+        "＊沸騰した湯に鶏肉を入れるよりも、水を加えて少し煮立ちをおさえた湯の方が、しっとりとした仕上がりになります。",
+        "*可在冰箱中保存3至4天。"
+      ],
+      "zh_cn": [
+        "将葱的绿色部分、切成薄片的生姜、3杯水和“鸡汤”放入锅中煮沸。加1杯水，一次加入一块鸡块。",
+        "当再次沸腾时，转小火煮3分钟，然后关火。盖上盖子并使其冷却（不超过规定时间）。",
+        "冷却后，将开水放入密封容器中，并用保鲜膜覆盖，使其浸没在水中。存放在冰箱中。",
+        "*不要将鸡肉放入沸水中，而是加水煮沸，这样鸡肉的口感会更湿润。",
+        "*可在冰箱中保存3至4天。"
+      ],
+      "vi": [
+        "Cho phần xanh của hành lá, gừng thái lát mỏng, 3 cốc nước và “súp gà” vào nồi rồi đun sôi. Thêm 1 cốc nước và thêm từng miếng thịt gà vào.",
+        "Khi sôi trở lại thì giảm nhỏ lửa đun thêm 3 phút thì tắt bếp. Đậy nắp và để nguội (ngoài thời gian).",
+        "Sau khi nguội, cho nước đun sôi vào hộp kín và dùng màng bọc thực phẩm đậy lại để ngập trong nước. Bảo quản trong tủ lạnh.",
+        "*Thay vì cho gà vào nước sôi, việc thêm nước vào đun sôi sẽ giúp gà ẩm hơn.",
+        "*Có thể bảo quản trong tủ lạnh từ 3 đến 4 ngày."
+      ],
+      "hi": [
+        "एक बर्तन में हरे प्याज का हरा भाग, बारीक कटा हुआ अदरक, 3 कप पानी और ``चिकन सूप'' डालें और उबाल लें। 1 कप पानी डालें और चिकन के टुकड़े एक-एक करके डालें।",
+        "जब यह फिर से उबल जाए तो आंच धीमी कर दें और 3 मिनट तक उबालें, फिर आंच बंद कर दें। ढककर ठंडा होने के लिए छोड़ दें (समय से बाहर)।",
+        "ठंडा होने पर उबले हुए पानी को एक एयरटाइट कंटेनर में रखें और प्लास्टिक रैप से ढक दें ताकि वह पानी में डूब जाए। रेफ्रिजरेटर में स्टोर करें.",
+        "*चिकन को उबलते पानी में डालने के बजाय, उसे उबालने के लिए पानी डालने से चिकन में नमी बनी रहेगी।",
+        "*रेफ्रिजरेटर में 3 से 4 दिन तक स्टोर करके रखा जा सकता है."
+      ],
+      "ru": [
+        "Добавьте в кастрюлю зеленую часть зеленого лука, тонко нарезанный имбирь, 3 стакана воды и «куриный суп» и доведите до кипения. Добавьте 1 стакан воды и по одному добавляйте кусочки курицы.",
+        "Когда снова закипит, уменьшите огонь и варите 3 минуты, затем выключите огонь. Накройте крышкой и дайте остыть (вне времени).",
+        "После остывания поместите кипяченую воду в герметичный контейнер и накройте полиэтиленовой пленкой так, чтобы она была погружена в воду. Хранить в холодильнике.",
+        "* Вместо того, чтобы класть курицу в кипящую воду, добавьте воду, чтобы довести ее до кипения, и курица станет более влажной.",
+        "*Можно хранить в холодильнике 3-4 дня."
+      ],
+      "th": [
+        "ใส่ส่วนสีเขียวของต้นหอม, ขิงฝานบางๆ, น้ำ 3 ถ้วย และ ``ซุปไก่'' ลงในหม้อแล้วนำไปต้ม เติมน้ำ 1 ถ้วยและเพิ่มชิ้นไก่ทีละชิ้น",
+        "เมื่อเดือดอีกครั้ง ให้ลดไฟลง และต้มต่ออีก 3 นาที แล้วปิดไฟ ปิดฝาทิ้งไว้ให้เย็น (นอกเวลา)",
+        "เมื่อเย็นลงแล้ว ให้ใส่น้ำต้มสุกในภาชนะสุญญากาศแล้วปิดด้วยพลาสติกแร็ปเพื่อให้จมลงไปในน้ำ เก็บในตู้เย็น",
+        "*แทนที่จะใส่ไก่ลงในน้ำเดือด การเติมน้ำเพื่อต้มจะทำให้ไก่มีเนื้อที่ชุ่มยิ่งขึ้น",
+        "*สามารถเก็บในตู้เย็นได้ 3-4 วัน"
+      ],
+      "id": [
+        "Tambahkan bagian hijau daun bawang, irisan tipis jahe, 3 gelas air, dan ``sup ayam'' ke dalam panci dan didihkan. Tambahkan 1 gelas air dan masukkan potongan ayam satu per satu.",
+        "Jika sudah mendidih kembali, kecilkan api dan rebus selama 3 menit, lalu matikan api. Tutup dan biarkan hingga dingin (diluar waktu).",
+        "Setelah dingin, masukkan air rebusan ke dalam wadah kedap udara dan tutup dengan plastik wrap agar terendam air. Simpan di lemari es.",
+        "*Daripada memasukkan ayam ke dalam air mendidih, menambahkan air hingga mendidih akan membuat ayam menjadi lebih lembab.",
+        "*Dapat disimpan di lemari es selama 3 hingga 4 hari."
+      ],
+      "ms": [
+        "Masukkan bahagian hijau bawang hijau, halia yang dihiris nipis, 3 cawan air, dan ``sup ayam'' ke dalam periuk dan biarkan mendidih. Masukkan 1 cawan air dan masukkan kepingan ayam satu persatu.",
+        "Apabila mendidih lagi, kecilkan api dan rebus selama 3 minit, kemudian tutup api. Tutup dan biarkan sejuk (di luar masa).",
+        "Setelah sejuk, masukkan air rebusan ke dalam bekas kedap udara dan tutup dengan bungkus plastik supaya ia terendam dalam air. Simpan dalam peti ais.",
+        "*Daripada memasukkan ayam ke dalam air mendidih, menambah air untuk mendidihkannya akan memberikan kemasan ayam yang lebih lembap.",
+        "*Boleh disimpan di dalam peti sejuk selama 3 hingga 4 hari."
+      ],
+      "ko": [
+        "냄비에 파의 파란 부분, 생강의 얇게 썬 것, 물컵 3, 「둥근닭가루 수프」를 넣고 끓인다. 물컵 1을 넣고 닭고기를 한 장씩 넣는다.",
+        "다시 끓으면 불을 약하게 하고 3분 삶아 불을 멈춘다. 뚜껑을 하고 그대로 식힌다(시간외).",
+        "식히면 삶은 국물마다 밀폐 용기에 넣고 국물에 담그듯이 랩으로 떨어뜨리는 돼지를 한다. 냉장고에 넣고 저장한다.",
+        "* 끓는 물에 닭고기를 넣는 것보다 물을 넣고 조금 조림을 억제한 물이 촉촉한 마무리가됩니다.",
+        "*냉장고에서 3~4일 보존할 수 있습니다."
+      ]
+    }
+  },
+  {
+    "id": "785e591a",
+    "source_url": "https://www.mizkan.co.jp/ouchirecipe/recipe/?menu_id=20230",
+    "source_site": "Mizkan",
+    "title_ja": "きゅうりのピクルス",
+    "description_ja": "",
+    "ingredients": [
+      {
+        "name_ja": "きゅうり",
+        "amount": "１と１／２本",
+        "name_translated": {
+          "en": "cucumber",
+          "zh_tw": "黃瓜",
+          "zh_cn": "黄瓜",
+          "vi": "quả dưa chuột",
+          "hi": "खीरा",
+          "ru": "огурец",
+          "th": "แตงกวา",
+          "id": "timun",
+          "ms": "timun",
+          "ko": "오이"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%8D%E3%82%85%E3%81%86%E3%82%8A&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%8D%E3%82%85%E3%81%86%E3%82%8A/?tag="
+      },
+      {
+        "name_ja": "ミツカン　カンタン酢",
+        "amount": "１００ｍｌ",
+        "name_translated": {
+          "en": "Mizkan Kantan Vinegar",
+          "zh_tw": "味滋康甘丹醋",
+          "zh_cn": "味滋康甘丹醋",
+          "vi": "Giấm Mizkan Kantan",
+          "hi": "मिज़कान कंटन सिरका",
+          "ru": "Мизкан Кантанский уксус",
+          "th": "น้ำส้มสายชูมิซกัน กันตัน",
+          "id": "Cuka Mizkan Kantan",
+          "ms": "Cuka Mizkan Kantan",
+          "ko": "미츠칸 칸탄초"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E3%82%AB%E3%83%B3%E3%82%BF%E3%83%B3%E9%85%A2&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E3%82%AB%E3%83%B3%E3%82%BF%E3%83%B3%E9%85%A2/?tag="
+      },
+      {
+        "name_ja": "１",
+        "amount": "きゅうりは容器の高さに合わせて切り、縦４等分に切る。",
+        "name_translated": {
+          "en": "1",
+          "zh_tw": "1",
+          "zh_cn": "1",
+          "vi": "1",
+          "hi": "1",
+          "ru": "1",
+          "th": "1",
+          "id": "1",
+          "ms": "1",
+          "ko": "1"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%91&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%91/?tag="
+      },
+      {
+        "name_ja": "２",
+        "amount": "を入れ、「カンタン酢」を注ぎ、冷蔵庫で３０分程度漬け込む。",
+        "name_translated": {
+          "en": "2",
+          "zh_tw": "2",
+          "zh_cn": "2",
+          "vi": "2",
+          "hi": "2",
+          "ru": "2",
+          "th": "2",
+          "id": "2",
+          "ms": "2",
+          "ko": "2"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%92&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%92/?tag="
+      }
+    ],
+    "steps_ja": [
+      "きゅうりは容器の高さに合わせて切り、縦４等分に切る。",
+      "ビンなどの容器に１を入れ、「カンタン酢」を注ぎ、冷蔵庫で３０分程度漬け込む。"
+    ],
+    "image_url": "",
+    "title": {
+      "en": "pickled cucumbers",
+      "zh_tw": "醃黃瓜",
+      "zh_cn": "腌黄瓜",
+      "vi": "dưa chuột muối",
+      "hi": "मसालेदार खीरे",
+      "ru": "маринованные огурцы",
+      "th": "แตงกวาดอง",
+      "id": "acar mentimun",
+      "ms": "jeruk timun",
+      "ko": "오이 피클"
+    },
+    "description": {
+      "en": "",
+      "zh_tw": "",
+      "zh_cn": "",
+      "vi": "",
+      "hi": "",
+      "ru": "",
+      "th": "",
+      "id": "",
+      "ms": "",
+      "ko": ""
+    },
+    "steps": {
+      "en": [
+        "Cut the cucumber to match the height of the container, then cut into quarters lengthwise.",
+        "Put 1 in a container such as a bottle, pour in ``simple vinegar'' and marinate in the refrigerator for about 30 minutes."
+      ],
+      "zh_tw": [
+        "將黃瓜切成與容器的高度相符的高度，然後縱向切成四分之一。",
+        "將1放入瓶子等容器中，倒入“簡單醋”，放入冰箱醃製30分鐘左右。"
+      ],
+      "zh_cn": [
+        "将黄瓜切成与容器的高度相匹配的高度，然后纵向切成四分之一。",
+        "将1放入瓶子等容器中，倒入“简单醋”，放入冰箱腌制30分钟左右。"
+      ],
+      "vi": [
+        "Cắt dưa chuột để phù hợp với chiều cao của thùng chứa, sau đó cắt thành các phần tư theo chiều dọc.",
+        "Cho 1 quả vào hộp như chai, đổ ''giấm đơn giản'' vào và ướp trong tủ lạnh khoảng 30 phút."
+      ],
+      "hi": [
+        "खीरे को कन्टेनर की ऊंचाई के अनुसार काटें, फिर लंबाई में चौथाई भाग में काट लें।",
+        "1 को एक बोतल जैसे कंटेनर में रखें, ``साधारण सिरका'' डालें और लगभग 30 मिनट के लिए रेफ्रिजरेटर में मैरीनेट करें।"
+      ],
+      "ru": [
+        "Разрежьте огурец по высоте контейнера, затем разрежьте его на четвертинки вдоль.",
+        "Положите 1 штуку в емкость, например в бутылку, залейте «простым уксусом» и маринуйте в холодильнике около 30 минут."
+      ],
+      "th": [
+        "หั่นแตงกวาให้พอดีกับความสูงของภาชนะ จากนั้นหั่นเป็นสี่ส่วนตามยาว",
+        "ใส่ 1 รายการลงในภาชนะ เช่น ขวด เท ``น้ำส้มสายชูธรรมดา'' แล้วหมักในตู้เย็นประมาณ 30 นาที"
+      ],
+      "id": [
+        "Potong timun sesuai tinggi wadah, lalu potong menjadi empat bagian memanjang.",
+        "Masukkan 1 ke dalam wadah seperti botol, tuang ``cuka sederhana'' dan rendam di lemari es selama kurang lebih 30 menit."
+      ],
+      "ms": [
+        "Potong timun mengikut ketinggian bekas, kemudian potong empat segi memanjang.",
+        "Masukkan 1 ke dalam bekas seperti botol, tuangkan ``simple vinegar'' dan perap dalam peti sejuk selama lebih kurang 30 minit."
+      ],
+      "ko": [
+        "오이는 용기의 높이에 따라 잘라서 세로 4 등분으로 자른다.",
+        "병 등의 용기에 1을 넣고 \"간단식초\"를 붓고 냉장고로 30 분 정도 담근다."
+      ]
+    }
   }
 ]

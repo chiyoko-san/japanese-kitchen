@@ -291463,5 +291463,680 @@
         "그릇에 담아, 취향에 굵은 검은 후추를 친다."
       ]
     }
+  },
+  {
+    "id": "0dc7b66e",
+    "source_url": "https://park.ajinomoto.co.jp/recipe/card/804489/",
+    "source_site": "Ajinomoto",
+    "title_ja": "【限界麺】オイスターソースパスタ",
+    "description_ja": "",
+    "ingredients": [
+      {
+        "name_ja": "材料",
+        "amount": "適量",
+        "name_translated": {
+          "en": "material",
+          "zh_tw": "材料",
+          "zh_cn": "材料",
+          "vi": "vật liệu",
+          "hi": "सामग्री",
+          "ru": "материал",
+          "th": "วัสดุ",
+          "id": "bahan",
+          "ms": "bahan",
+          "ko": "소재"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E6%9D%90%E6%96%99&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E6%9D%90%E6%96%99/?tag="
+      },
+      {
+        "name_ja": "つくり方",
+        "amount": "適量",
+        "name_translated": {
+          "en": "How to make",
+          "zh_tw": "如何製作",
+          "zh_cn": "如何制作",
+          "vi": "Làm thế nào để làm",
+          "hi": "कैसे बनाना है",
+          "ru": "Как сделать",
+          "th": "วิธีทำ",
+          "id": "Cara membuat",
+          "ms": "Cara membuat",
+          "ko": "만드는 법"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%A4%E3%81%8F%E3%82%8A%E6%96%B9&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%A4%E3%81%8F%E3%82%8A%E6%96%B9/?tag="
+      },
+      {
+        "name_ja": "エネルギー",
+        "amount": "kcal",
+        "name_translated": {
+          "en": "energy",
+          "zh_tw": "活力",
+          "zh_cn": "活力",
+          "vi": "năng lượng",
+          "hi": "ऊर्जा",
+          "ru": "энергия",
+          "th": "พลังงาน",
+          "id": "energi",
+          "ms": "tenaga",
+          "ko": "에너지"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%82%A8%E3%83%8D%E3%83%AB%E3%82%AE%E3%83%BC&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%82%A8%E3%83%8D%E3%83%AB%E3%82%AE%E3%83%BC/?tag="
+      },
+      {
+        "name_ja": "511",
+        "amount": "kcal",
+        "name_translated": {
+          "en": "511",
+          "zh_tw": "511",
+          "zh_cn": "511",
+          "vi": "511",
+          "hi": "511",
+          "ru": "511",
+          "th": "511",
+          "id": "511",
+          "ms": "511",
+          "ko": "511"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=511&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/511/?tag="
+      },
+      {
+        "name_ja": "塩分",
+        "amount": "g",
+        "name_translated": {
+          "en": "salt",
+          "zh_tw": "鹽",
+          "zh_cn": "盐",
+          "vi": "muối",
+          "hi": "नमक",
+          "ru": "соль",
+          "th": "เกลือ",
+          "id": "garam",
+          "ms": "garam",
+          "ko": "염분"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E5%A1%A9%E5%88%86&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E5%A1%A9%E5%88%86/?tag="
+      },
+      {
+        "name_ja": "4.4",
+        "amount": "g",
+        "name_translated": {
+          "en": "4.4",
+          "zh_tw": "4.4",
+          "zh_cn": "4.4",
+          "vi": "4.4",
+          "hi": "4.4",
+          "ru": "4.4",
+          "th": "4.4",
+          "id": "4.4",
+          "ms": "4.4",
+          "ko": "4.4"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=4.4&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/4.4/?tag="
+      },
+      {
+        "name_ja": "たんぱく質",
+        "amount": "g",
+        "name_translated": {
+          "en": "protein",
+          "zh_tw": "蛋白質",
+          "zh_cn": "蛋白质",
+          "vi": "chất đạm",
+          "hi": "प्रोटीन",
+          "ru": "белок",
+          "th": "โปรตีน",
+          "id": "protein",
+          "ms": "protein",
+          "ko": "단백질"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%9F%E3%82%93%E3%81%B1%E3%81%8F%E8%B3%AA&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%9F%E3%82%93%E3%81%B1%E3%81%8F%E8%B3%AA/?tag="
+      },
+      {
+        "name_ja": "15.3",
+        "amount": "g",
+        "name_translated": {
+          "en": "15.3",
+          "zh_tw": "15.3",
+          "zh_cn": "15.3",
+          "vi": "15.3",
+          "hi": "15.3",
+          "ru": "15.3",
+          "th": "15.3",
+          "id": "15.3",
+          "ms": "15.3",
+          "ko": "15.3"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=15.3&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/15.3/?tag="
+      },
+      {
+        "name_ja": "脂質",
+        "amount": "g",
+        "name_translated": {
+          "en": "lipid",
+          "zh_tw": "脂質",
+          "zh_cn": "脂质",
+          "vi": "chất béo",
+          "hi": "लिपिड",
+          "ru": "липид",
+          "th": "ไขมัน",
+          "id": "lipid",
+          "ms": "lipid",
+          "ko": "지질"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E8%84%82%E8%B3%AA&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E8%84%82%E8%B3%AA/?tag="
+      },
+      {
+        "name_ja": "15.7",
+        "amount": "g",
+        "name_translated": {
+          "en": "15.7",
+          "zh_tw": "15.7",
+          "zh_cn": "15.7",
+          "vi": "15,7",
+          "hi": "15.7",
+          "ru": "15,7",
+          "th": "15.7",
+          "id": "15.7",
+          "ms": "15.7",
+          "ko": "15.7"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=15.7&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/15.7/?tag="
+      },
+      {
+        "name_ja": "もっと見る",
+        "amount": "適量",
+        "name_translated": {
+          "en": "See more",
+          "zh_tw": "看更多",
+          "zh_cn": "查看更多",
+          "vi": "Xem thêm",
+          "hi": "और देखें",
+          "ru": "Посмотреть больше",
+          "th": "ดูเพิ่มเติม",
+          "id": "Lihat selengkapnya",
+          "ms": "Lihat lagi",
+          "ko": "더 보기"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%82%82%E3%81%A3%E3%81%A8%E8%A6%8B%E3%82%8B&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%82%82%E3%81%A3%E3%81%A8%E8%A6%8B%E3%82%8B/?tag="
+      },
+      {
+        "name_ja": "マイレシピにも保存！",
+        "amount": "LINEに保存",
+        "name_translated": {
+          "en": "Save it to my recipes too!",
+          "zh_tw": "也將它保存到我的食譜中！",
+          "zh_cn": "也将它保存到我的食谱中！",
+          "vi": "Lưu nó vào công thức nấu ăn của tôi nữa!",
+          "hi": "इसे मेरे व्यंजनों में भी सहेजें!",
+          "ru": "Сохраняйте и вы в мои рецепты!",
+          "th": "บันทึกลงในสูตรของฉันด้วย!",
+          "id": "Simpan ke resep saya juga!",
+          "ms": "Simpan ke resipi saya juga!",
+          "ko": "마이 레시피에도 저장!"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9E%E3%82%A4%E3%83%AC%E3%82%B7%E3%83%94%E3%81%AB%E3%82%82%E4%BF%9D%E5%AD%98%EF%BC%81&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9E%E3%82%A4%E3%83%AC%E3%82%B7%E3%83%94%E3%81%AB%E3%82%82%E4%BF%9D%E5%AD%98%EF%BC%81/?tag="
+      },
+      {
+        "name_ja": "マイレシピに保存",
+        "amount": "-",
+        "name_translated": {
+          "en": "Save to My Recipe",
+          "zh_tw": "マイレシピに保存",
+          "zh_cn": "保存到我的食谱",
+          "vi": "Lưu vào Công thức của tôi",
+          "hi": "मेरी रेसिपी में सहेजें",
+          "ru": "Сохранить в мой рецепт",
+          "th": "บันทึกลงในสูตรของฉัน",
+          "id": "Simpan ke Resep Saya",
+          "ms": "Simpan ke Resipi Saya",
+          "ko": "내 조리법에 저장"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9E%E3%82%A4%E3%83%AC%E3%82%B7%E3%83%94%E3%81%AB%E4%BF%9D%E5%AD%98&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9E%E3%82%A4%E3%83%AC%E3%82%B7%E3%83%94%E3%81%AB%E4%BF%9D%E5%AD%98/?tag="
+      },
+      {
+        "name_ja": "リンク",
+        "amount": "外部タブで開く",
+        "name_translated": {
+          "en": "link",
+          "zh_tw": "關聯",
+          "zh_cn": "关联",
+          "vi": "liên kết",
+          "hi": "जोड़ना",
+          "ru": "связь",
+          "th": "ลิงค์",
+          "id": "link",
+          "ms": "pautan",
+          "ko": "링크"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%AA%E3%83%B3%E3%82%AF&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%AA%E3%83%B3%E3%82%AF/?tag="
+      },
+      {
+        "name_ja": "材料",
+        "amount": "適量",
+        "name_translated": {
+          "en": "material",
+          "zh_tw": "材料",
+          "zh_cn": "材料",
+          "vi": "vật liệu",
+          "hi": "सामग्री",
+          "ru": "материал",
+          "th": "วัสดุ",
+          "id": "bahan",
+          "ms": "bahan",
+          "ko": "소재"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E6%9D%90%E6%96%99&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E6%9D%90%E6%96%99/?tag="
+      },
+      {
+        "name_ja": "つくり方",
+        "amount": "適量",
+        "name_translated": {
+          "en": "How to make",
+          "zh_tw": "如何製作",
+          "zh_cn": "如何制作",
+          "vi": "Làm thế nào để làm",
+          "hi": "कैसे बनाना है",
+          "ru": "Как сделать",
+          "th": "วิธีทำ",
+          "id": "Cara membuat",
+          "ms": "Cara membuat",
+          "ko": "만드는 법"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%A4%E3%81%8F%E3%82%8A%E6%96%B9&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%A4%E3%81%8F%E3%82%8A%E6%96%B9/?tag="
+      },
+      {
+        "name_ja": "1",
+        "amount": "鍋に湯を沸かし、１％の塩（分量外）を加えて、スパゲッティを表示時間通りゆでる。",
+        "name_translated": {
+          "en": "1",
+          "zh_tw": "1",
+          "zh_cn": "1",
+          "vi": "1",
+          "hi": "1",
+          "ru": "1",
+          "th": "1",
+          "id": "1",
+          "ms": "1",
+          "ko": "1"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=1&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/1/?tag="
+      },
+      {
+        "name_ja": "2",
+        "amount": "を入れてかき混ぜ、ラップをかけて電子レンジ（５００Ｗ）で３０秒加熱する。",
+        "name_translated": {
+          "en": "2",
+          "zh_tw": "2",
+          "zh_cn": "2",
+          "vi": "2",
+          "hi": "2",
+          "ru": "2",
+          "th": "2",
+          "id": "2",
+          "ms": "2",
+          "ko": "2"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=2&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/2/?tag="
+      },
+      {
+        "name_ja": "3",
+        "amount": "（１）のスパゲッティの湯をよくきり、バターと一緒に（２）に加えてよくからめる。",
+        "name_translated": {
+          "en": "3",
+          "zh_tw": "3",
+          "zh_cn": "3",
+          "vi": "3",
+          "hi": "3",
+          "ru": "3",
+          "th": "3",
+          "id": "3",
+          "ms": "3",
+          "ko": "3"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=3&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/3/?tag="
+      },
+      {
+        "name_ja": "4",
+        "amount": "ラップをかけ、再び電子レンジで３０秒加熱し、もう一度混ぜてタレを乳化させる。",
+        "name_translated": {
+          "en": "4",
+          "zh_tw": "4",
+          "zh_cn": "4",
+          "vi": "4",
+          "hi": "4",
+          "ru": "4",
+          "th": "4",
+          "id": "4",
+          "ms": "4",
+          "ko": "4"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=4&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/4/?tag="
+      },
+      {
+        "name_ja": "5",
+        "amount": "器に盛り、ブラックペッパーをふる。",
+        "name_translated": {
+          "en": "5",
+          "zh_tw": "5",
+          "zh_cn": "5",
+          "vi": "5",
+          "hi": "5",
+          "ru": "5",
+          "th": "5",
+          "id": "5",
+          "ms": "5",
+          "ko": "5"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=5&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/5/?tag="
+      },
+      {
+        "name_ja": "＊",
+        "amount": "お好みで卵黄や炒めひき肉（作り方は下記参照）などの具を加えてお召し上がりください。",
+        "name_translated": {
+          "en": "*",
+          "zh_tw": "*",
+          "zh_cn": "*",
+          "vi": "*",
+          "hi": "*",
+          "ru": "*",
+          "th": "*",
+          "id": "*",
+          "ms": "*",
+          "ko": "＊"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%8A&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%8A/?tag="
+      },
+      {
+        "name_ja": "＊",
+        "amount": "＜炒めひき肉の作り方＞フライパンに油小さじ１／２を熱し、豚ひき肉４０ｇ、「オイスターソース」小さじ１／２を入れて炒める。",
+        "name_translated": {
+          "en": "*",
+          "zh_tw": "*",
+          "zh_cn": "*",
+          "vi": "*",
+          "hi": "*",
+          "ru": "*",
+          "th": "*",
+          "id": "*",
+          "ms": "*",
+          "ko": "＊"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%8A&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%8A/?tag="
+      },
+      {
+        "name_ja": "子どもに人気",
+        "amount": "適量",
+        "name_translated": {
+          "en": "popular with children",
+          "zh_tw": "受兒童歡迎",
+          "zh_cn": "受儿童欢迎",
+          "vi": "phổ biến với trẻ em",
+          "hi": "बच्चों के बीच लोकप्रिय",
+          "ru": "популярен среди детей",
+          "th": "เป็นที่นิยมในหมู่เด็กๆ",
+          "id": "populer di kalangan anak-anak",
+          "ms": "popular dengan kanak-kanak",
+          "ko": "어린이에게 인기"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E5%AD%90%E3%81%A9%E3%82%82%E3%81%AB%E4%BA%BA%E6%B0%97&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E5%AD%90%E3%81%A9%E3%82%82%E3%81%AB%E4%BA%BA%E6%B0%97/?tag="
+      },
+      {
+        "name_ja": "1人前レシピ",
+        "amount": "適量",
+        "name_translated": {
+          "en": "1 serving recipe",
+          "zh_tw": "1 份食譜",
+          "zh_cn": "1 份食谱",
+          "vi": "1 công thức phục vụ",
+          "hi": "1 सर्विंग रेसिपी",
+          "ru": "1 рецепт порции",
+          "th": "สูตร 1 เสิร์ฟ",
+          "id": "1 porsi resep",
+          "ms": "1 hidangan resipi",
+          "ko": "1인분 조리법"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=1%E4%BA%BA%E5%89%8D%E3%83%AC%E3%82%B7%E3%83%94&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/1%E4%BA%BA%E5%89%8D%E3%83%AC%E3%82%B7%E3%83%94/?tag="
+      },
+      {
+        "name_ja": "パスタ",
+        "amount": "適量",
+        "name_translated": {
+          "en": "pasta",
+          "zh_tw": "義大利麵",
+          "zh_cn": "面食",
+          "vi": "mì ống",
+          "hi": "पास्ता",
+          "ru": "макароны",
+          "th": "พาสต้า",
+          "id": "pasta",
+          "ms": "pasta",
+          "ko": "파스타"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%91%E3%82%B9%E3%82%BF&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%91%E3%82%B9%E3%82%BF/?tag="
+      },
+      {
+        "name_ja": "麺料理",
+        "amount": "適量",
+        "name_translated": {
+          "en": "noodle dishes",
+          "zh_tw": "麵條菜餚",
+          "zh_cn": "面条菜肴",
+          "vi": "món mì",
+          "hi": "नूडल व्यंजन",
+          "ru": "блюда из лапши",
+          "th": "จานก๋วยเตี๋ยว",
+          "id": "hidangan mie",
+          "ms": "hidangan mi",
+          "ko": "국수 요리"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E9%BA%BA%E6%96%99%E7%90%86&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E9%BA%BA%E6%96%99%E7%90%86/?tag="
+      },
+      {
+        "name_ja": "主食",
+        "amount": "適量",
+        "name_translated": {
+          "en": "staple food",
+          "zh_tw": "主食",
+          "zh_cn": "主食",
+          "vi": "thực phẩm chủ yếu",
+          "hi": "मूल भोजन",
+          "ru": "основные продукты питания",
+          "th": "อาหารหลัก",
+          "id": "makanan pokok",
+          "ms": "makanan ruji",
+          "ko": "주식"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E4%B8%BB%E9%A3%9F&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E4%B8%BB%E9%A3%9F/?tag="
+      },
+      {
+        "name_ja": "洋風",
+        "amount": "適量",
+        "name_translated": {
+          "en": "Western style",
+          "zh_tw": "西式風格",
+          "zh_cn": "西式风格",
+          "vi": "phong cách phương Tây",
+          "hi": "पश्चिमी शैली",
+          "ru": "Западный стиль",
+          "th": "สไตล์ตะวันตก",
+          "id": "Gaya Barat",
+          "ms": "gaya barat",
+          "ko": "서양식"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E6%B4%8B%E9%A2%A8&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E6%B4%8B%E9%A2%A8/?tag="
+      },
+      {
+        "name_ja": "Cook Do®",
+        "amount": "適量",
+        "name_translated": {
+          "en": "Cook Do®",
+          "zh_tw": "庫克多®",
+          "zh_cn": "库克多®",
+          "vi": "Nấu Ăn®",
+          "hi": "कुक डू®",
+          "ru": "Кук До®",
+          "th": "คุกดู®",
+          "id": "Masak Lakukan®",
+          "ms": "Masak Do®",
+          "ko": "Cook Do®"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=Cook%20Do%C2%AE&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/Cook%20Do%C2%AE/?tag="
+      }
+    ],
+    "steps_ja": [
+      "鍋に湯を沸かし、１％の塩（分量外）を加えて、スパゲッティを表示時間通りゆでる。",
+      "大きめの耐熱容器にＡを入れてかき混ぜ、ラップをかけて電子レンジ（５００Ｗ）で３０秒加熱する。",
+      "（１）のスパゲッティの湯をよくきり、バターと一緒に（２）に加えてよくからめる。",
+      "ラップをかけ、再び電子レンジで３０秒加熱し、もう一度混ぜてタレを乳化させる。",
+      "器に盛り、ブラックペッパーをふる。",
+      "＊お好みで卵黄や炒めひき肉（作り方は下記参照）などの具を加えてお召し上がりください。",
+      "＊＜炒めひき肉の作り方＞フライパンに油小さじ１／２を熱し、豚ひき肉４０ｇ、「オイスターソース」小さじ１／２を入れて炒める。"
+    ],
+    "image_url": "https://images.weserv.nl/?url=https://images.microcms-assets.io/assets/3834bb6c71eb4fdd912121537b20e72d/515b9a37a4094a7d91d14c1ea51a475c/recipe_main_image_804489.jpg?fm=webp&q=60&fit=min&w=600&output=jpg",
+    "title": {
+      "en": "[Limited noodles] Oyster sauce pasta",
+      "zh_tw": "【限定麵】蠔油義大利麵",
+      "zh_cn": "【限定面】蚝油意大利面",
+      "vi": "[Mì giới hạn] Mỳ sốt dầu hào",
+      "hi": "[सीमित नूडल्स] ऑयस्टर सॉस पास्ता",
+      "ru": "[Лапша в ограниченном количестве] Паста с устричным соусом",
+      "th": "[บะหมี่จำกัด] พาสต้าซอสหอยนางรม",
+      "id": "[Mie terbatas] Pasta saus tiram",
+      "ms": "[Mee terhad] Pasta sos tiram",
+      "ko": "【한계면】 굴 소스 파스타"
+    },
+    "description": {
+      "en": "",
+      "zh_tw": "",
+      "zh_cn": "",
+      "vi": "",
+      "hi": "",
+      "ru": "",
+      "th": "",
+      "id": "",
+      "ms": "",
+      "ko": ""
+    },
+    "steps": {
+      "en": [
+        "Boil water in a pot, add 1% salt (not listed), and boil spaghetti for the time indicated.",
+        "Put A into a large heat-resistant container, stir, cover with plastic wrap, and heat in the microwave (500W) for 30 seconds.",
+        "Drain the spaghetti from (1) well, add it to (2) along with the butter, and mix well.",
+        "Cover with plastic wrap, heat again in the microwave for 30 seconds, and stir again to emulsify the sauce.",
+        "Place in a bowl and sprinkle with black pepper.",
+        "*Please add toppings such as egg yolk or stir-fried minced meat (see below for instructions) and enjoy.",
+        "*<How to make stir-fried minced meat> Heat 1/2 teaspoon of oil in a frying pan, add 40g of ground pork, and 1/2 teaspoon of ``oyster sauce'' and stir-fry."
+      ],
+      "zh_tw": [
+        "將水放入鍋中煮沸，加入 1% 的鹽（未列出），然後將義大利麵煮沸指定的時間。",
+        "將A放入大型耐熱容器中，攪拌，蓋上保鮮膜，放入微波爐（500W）加熱30秒。",
+        "將(1)中的義大利麵瀝乾，與奶油一起加入(2)中，攪拌均勻。",
+        "蓋上保鮮膜，再次放入微波爐加熱30秒，再次攪拌使醬汁乳化。",
+        "放入碗中，撒上黑胡椒。",
+        "*請加入蛋黃或炒肉末等食材（請參閱下方說明）即可享用。",
+        "*<炒肉末的製作方法> 炒鍋燒熱1/2茶匙油，加入40克豬肉末和1/2茶匙「蠔油」炒香。"
+      ],
+      "zh_cn": [
+        "将水放入锅中煮沸，加入 1% 的盐（未列出），然后将意大利面煮沸指定的时间。",
+        "将A放入大型耐热容器中，搅拌，盖上保鲜膜，放入微波炉（500W）加热30秒。",
+        "将(1)中的意大利面沥干，与黄油一起加入(2)中，搅拌均匀。",
+        "盖上保鲜膜，再次放入微波炉加热30秒，再次搅拌使酱汁乳化。",
+        "放入碗中，撒上黑胡椒。",
+        "*请添加蛋黄或炒肉末等配料（参见下文说明）即可享用。",
+        "*<炒肉末的制作方法> 炒锅烧热1/2茶匙油，加入40克猪肉末和1/2茶匙“蚝油”炒香。"
+      ],
+      "vi": [
+        "Đun sôi nước trong nồi, thêm 1% muối (không được liệt kê) và luộc mì spaghetti trong thời gian quy định.",
+        "Cho A vào hộp chịu nhiệt lớn, khuấy đều, bọc lại bằng màng bọc thực phẩm và đun nóng trong lò vi sóng (500W) trong 30 giây.",
+        "Xả sạch mì spaghetti ở (1), thêm vào (2) cùng với bơ và trộn đều.",
+        "Dùng màng bọc thực phẩm bọc lại, đun nóng lại trong lò vi sóng trong 30 giây và khuấy lại để nhũ hóa nước sốt.",
+        "Đặt vào một cái bát và rắc hạt tiêu đen.",
+        "*Quý khách vui lòng thêm các loại topping như lòng đỏ trứng gà hoặc thịt băm xào (xem hướng dẫn bên dưới) và thưởng thức.",
+        "*<Cách làm thịt bằm xào> Đun nóng 1/2 thìa dầu ăn trong chảo, cho 40g thịt heo xay và 1/2 thìa dầu hào vào xào chín."
+      ],
+      "hi": [
+        "एक बर्तन में पानी उबालें, 1% नमक (सूचीबद्ध नहीं) डालें और स्पेगेटी को बताए गए समय तक उबालें।",
+        "ए को एक बड़े गर्मी प्रतिरोधी कंटेनर में रखें, हिलाएं, प्लास्टिक रैप से ढकें और माइक्रोवेव (500W) में 30 सेकंड के लिए गर्म करें।",
+        "स्पेगेटी को (1) से अच्छी तरह छान लें, इसे (2) में मक्खन के साथ डालें और अच्छी तरह मिलाएँ।",
+        "प्लास्टिक रैप से ढकें, 30 सेकंड के लिए माइक्रोवेव में दोबारा गर्म करें और सॉस को इमल्सीफाई करने के लिए फिर से हिलाएं।",
+        "एक कटोरे में रखें और काली मिर्च छिड़कें।",
+        "* कृपया अंडे की जर्दी या तली हुई कीमा जैसी टॉपिंग डालें (निर्देशों के लिए नीचे देखें) और आनंद लें।",
+        "*<हलचल-तले हुए कीमा बनाया हुआ मांस कैसे बनाएं> एक ​​फ्राइंग पैन में 1/2 चम्मच तेल गरम करें, 40 ग्राम पिसा हुआ सूअर का मांस और 1/2 चम्मच ``ऑयस्टर सॉस'' डालें और हिलाएँ-तलें।"
+      ],
+      "ru": [
+        "Вскипятите воду в кастрюле, добавьте 1% соли (не указана) и варите спагетти указанное время.",
+        "Поместите А в большой термостойкий контейнер, перемешайте, накройте полиэтиленовой пленкой и нагрейте в микроволновой печи (500 Вт) в течение 30 секунд.",
+        "Слейте воду со спагетти из колодца (1), добавьте их в (2) вместе с маслом и хорошо перемешайте.",
+        "Накройте полиэтиленовой пленкой, снова нагрейте в микроволновой печи в течение 30 секунд и снова перемешайте, чтобы соус превратился в эмульсию.",
+        "Выложите в миску и посыпьте черным перцем.",
+        "*Добавьте начинки, такие как яичный желток или жареный фарш (инструкции см. ниже), и наслаждайтесь.",
+        "*<Как приготовить жареный фарш> На сковороде разогрейте 1/2 чайной ложки масла, добавьте 40 г свиного фарша, 1/2 чайной ложки «устричного соуса» и обжарьте, помешивая."
+      ],
+      "th": [
+        "ต้มน้ำในหม้อ เติมเกลือ 1% (ไม่อยู่ในรายการ) และต้มสปาเก็ตตี้ตามเวลาที่ระบุ",
+        "ใส่ A ลงในภาชนะทนความร้อนขนาดใหญ่ คนให้เข้ากัน แล้วห่อด้วยพลาสติก แล้วนำไปให้ความร้อนในไมโครเวฟ (500W) เป็นเวลา 30 วินาที",
+        "ระบายเส้นสปาเก็ตตี้จาก (1) ให้เข้ากัน เพิ่มลงใน (2) พร้อมด้วยเนย และผสมให้เข้ากัน",
+        "ปิดด้วยพลาสติกแร็ป นำไปอุ่นอีกครั้งในไมโครเวฟเป็นเวลา 30 วินาที แล้วคนอีกครั้งเพื่อให้ซอสเป็นเนื้ออิมัลชัน",
+        "วางในชามแล้วโรยด้วยพริกไทยดำ",
+        "*โปรดเพิ่มท็อปปิ้ง เช่น ไข่แดง หรือเนื้อสับผัด (ดูคำแนะนำด้านล่าง) แล้วรับประทานได้เลย",
+        "*<วิธีทำผัดเนื้อสับ> ตั้งน้ำมัน 1/2 ช้อนชาในกระทะ ใส่หมูบด 40 กรัม และ ``ซอสหอยนางรม'' 1/2 ช้อนชา แล้วผัด"
+      ],
+      "id": [
+        "Rebus air dalam panci, tambahkan 1% garam (tidak tercantum), dan rebus spageti sesuai waktu yang ditentukan.",
+        "Masukkan A ke dalam wadah besar tahan panas, aduk, tutup dengan plastik wrap, dan panaskan dalam microwave (500W) selama 30 detik.",
+        "Tiriskan spageti dari (1), tambahkan ke (2) bersama mentega, dan aduk rata.",
+        "Tutup dengan bungkus plastik, panaskan kembali dalam microwave selama 30 detik, lalu aduk kembali untuk mengemulsi saus.",
+        "Tempatkan dalam mangkuk dan taburi dengan lada hitam.",
+        "*Silakan tambahkan topping seperti kuning telur atau daging cincang tumis (lihat petunjuk di bawah) dan nikmatilah.",
+        "*<Cara membuat daging cincang tumis> Panaskan 1/2 sendok teh minyak dalam wajan, tambahkan 40g daging babi giling, dan 1/2 sendok teh ``saus tiram'' lalu tumis."
+      ],
+      "ms": [
+        "Didihkan air dalam periuk, tambah garam 1% (tidak disenaraikan), dan rebus spageti untuk masa yang ditunjukkan.",
+        "Masukkan A ke dalam bekas tahan panas yang besar, kacau, tutup dengan bungkus plastik, dan panaskan dalam ketuhar gelombang mikro (500W) selama 30 saat.",
+        "Toskan spageti dari (1) dengan baik, masukkan ke (2) bersama mentega, dan gaul rata.",
+        "Tutup dengan bungkus plastik, panaskan sekali lagi dalam ketuhar gelombang mikro selama 30 saat, dan kacau lagi untuk mengemulsikan sos.",
+        "Letakkan dalam mangkuk dan taburkan dengan lada hitam.",
+        "*Sila tambah topping seperti kuning telur atau daging cincang tumis (lihat di bawah untuk arahan) dan nikmati.",
+        "*<Cara membuat tumis daging cincang> Panaskan 1/2 sudu teh minyak dalam kuali, masukkan 40g daging babi yang dikisar, dan 1/2 sudu teh ``sos tiram'' dan tumis."
+      ],
+      "ko": [
+        "냄비에 물을 끓이고, 1%의 소금(분량외)을 첨가하고, 스파게티를 표시 시간대로 끓인다.",
+        "큰 내열 용기에 A를 넣고 저어주고, 랩을 걸고 전자레인지(500W)로 30초 가열한다.",
+        "(1)의 스파게티의 온수를 잘 닦고, 버터와 함께 (2)에 더해 잘 섞는다.",
+        "랩을 넣고 다시 전자 레인지에서 30 초 동안 가열하고 다시 혼합하여 소스를 유화시킨다.",
+        "그릇에 담아 블랙 페퍼를 친다.",
+        "* 취향에 달걀 노른자와 볶은 고기 (만드는 방법은 아래 참조) 등의 도구를 추가하여 드세요.",
+        "＊＜볶은 고기 만드는 법＞ 프라이팬에 기름 1/2의 술을 뜨겁게 하고, 돼지고기 40g, '오이스터 소스' 1작은술을 넣고 볶는다."
+      ]
+    }
   }
 ]

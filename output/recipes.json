@@ -295475,5 +295475,1823 @@
         "뚜껑을 열고 2분 정도, 양념장에 녹이 나오고 여우 색으로 바뀌고 고기에 빛이 나올 때까지 굽는다."
       ]
     }
+  },
+  {
+    "id": "d17e68f4",
+    "source_url": "https://park.ajinomoto.co.jp/recipe/card/030226/",
+    "source_site": "Ajinomoto",
+    "title_ja": "はんぺんのおすまし汁",
+    "description_ja": "",
+    "ingredients": [
+      {
+        "name_ja": "材料",
+        "amount": "適量",
+        "name_translated": {
+          "en": "material",
+          "zh_tw": "材料",
+          "zh_cn": "材料",
+          "vi": "vật liệu",
+          "hi": "सामग्री",
+          "ru": "материал",
+          "th": "วัสดุ",
+          "id": "bahan",
+          "ms": "bahan",
+          "ko": "소재"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E6%9D%90%E6%96%99&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E6%9D%90%E6%96%99/?tag="
+      },
+      {
+        "name_ja": "つくり方",
+        "amount": "適量",
+        "name_translated": {
+          "en": "How to make",
+          "zh_tw": "如何製作",
+          "zh_cn": "如何制作",
+          "vi": "Làm thế nào để làm",
+          "hi": "कैसे बनाना है",
+          "ru": "Как сделать",
+          "th": "วิธีทำ",
+          "id": "Cara membuat",
+          "ms": "Cara membuat",
+          "ko": "만드는 법"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%A4%E3%81%8F%E3%82%8A%E6%96%B9&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%A4%E3%81%8F%E3%82%8A%E6%96%B9/?tag="
+      },
+      {
+        "name_ja": "エネルギー",
+        "amount": "kcal",
+        "name_translated": {
+          "en": "energy",
+          "zh_tw": "活力",
+          "zh_cn": "活力",
+          "vi": "năng lượng",
+          "hi": "ऊर्जा",
+          "ru": "энергия",
+          "th": "พลังงาน",
+          "id": "energi",
+          "ms": "tenaga",
+          "ko": "에너지"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%82%A8%E3%83%8D%E3%83%AB%E3%82%AE%E3%83%BC&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%82%A8%E3%83%8D%E3%83%AB%E3%82%AE%E3%83%BC/?tag="
+      },
+      {
+        "name_ja": "34",
+        "amount": "kcal",
+        "name_translated": {
+          "en": "34",
+          "zh_tw": "34",
+          "zh_cn": "34",
+          "vi": "34",
+          "hi": "34",
+          "ru": "34",
+          "th": "34",
+          "id": "34",
+          "ms": "34",
+          "ko": "34"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=34&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/34/?tag="
+      },
+      {
+        "name_ja": "塩分",
+        "amount": "g",
+        "name_translated": {
+          "en": "salt",
+          "zh_tw": "鹽",
+          "zh_cn": "盐",
+          "vi": "muối",
+          "hi": "नमक",
+          "ru": "соль",
+          "th": "เกลือ",
+          "id": "garam",
+          "ms": "garam",
+          "ko": "염분"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E5%A1%A9%E5%88%86&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E5%A1%A9%E5%88%86/?tag="
+      },
+      {
+        "name_ja": "1.6",
+        "amount": "g",
+        "name_translated": {
+          "en": "1.6",
+          "zh_tw": "1.6",
+          "zh_cn": "1.6",
+          "vi": "1.6",
+          "hi": "1.6",
+          "ru": "1,6",
+          "th": "1.6",
+          "id": "1.6",
+          "ms": "1.6",
+          "ko": "1.6"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=1.6&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/1.6/?tag="
+      },
+      {
+        "name_ja": "たんぱく質",
+        "amount": "g",
+        "name_translated": {
+          "en": "protein",
+          "zh_tw": "蛋白質",
+          "zh_cn": "蛋白质",
+          "vi": "chất đạm",
+          "hi": "प्रोटीन",
+          "ru": "белок",
+          "th": "โปรตีน",
+          "id": "protein",
+          "ms": "protein",
+          "ko": "단백질"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%9F%E3%82%93%E3%81%B1%E3%81%8F%E8%B3%AA&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%9F%E3%82%93%E3%81%B1%E3%81%8F%E8%B3%AA/?tag="
+      },
+      {
+        "name_ja": "2.8",
+        "amount": "g",
+        "name_translated": {
+          "en": "2.8",
+          "zh_tw": "2.8",
+          "zh_cn": "2.8",
+          "vi": "2,8",
+          "hi": "2.8",
+          "ru": "2,8",
+          "th": "2.8",
+          "id": "2.8",
+          "ms": "2.8",
+          "ko": "2.8"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=2.8&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/2.8/?tag="
+      },
+      {
+        "name_ja": "脂質",
+        "amount": "g",
+        "name_translated": {
+          "en": "lipid",
+          "zh_tw": "脂質",
+          "zh_cn": "脂质",
+          "vi": "chất béo",
+          "hi": "लिपिड",
+          "ru": "липид",
+          "th": "ไขมัน",
+          "id": "lipid",
+          "ms": "lipid",
+          "ko": "지질"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E8%84%82%E8%B3%AA&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E8%84%82%E8%B3%AA/?tag="
+      },
+      {
+        "name_ja": "0.3",
+        "amount": "g",
+        "name_translated": {
+          "en": "0.3",
+          "zh_tw": "0.3",
+          "zh_cn": "0.3",
+          "vi": "0,3",
+          "hi": "0.3",
+          "ru": "0,3",
+          "th": "0.3",
+          "id": "0,3",
+          "ms": "0.3",
+          "ko": "0.3"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=0.3&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/0.3/?tag="
+      },
+      {
+        "name_ja": "もっと見る",
+        "amount": "適量",
+        "name_translated": {
+          "en": "See more",
+          "zh_tw": "看更多",
+          "zh_cn": "查看更多",
+          "vi": "Xem thêm",
+          "hi": "और देखें",
+          "ru": "Посмотреть больше",
+          "th": "ดูเพิ่มเติม",
+          "id": "Lihat selengkapnya",
+          "ms": "Lihat lagi",
+          "ko": "더 보기"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%82%82%E3%81%A3%E3%81%A8%E8%A6%8B%E3%82%8B&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%82%82%E3%81%A3%E3%81%A8%E8%A6%8B%E3%82%8B/?tag="
+      },
+      {
+        "name_ja": "マイレシピにも保存！",
+        "amount": "LINEに保存",
+        "name_translated": {
+          "en": "Save it to my recipes too!",
+          "zh_tw": "也將它保存到我的食譜中！",
+          "zh_cn": "也将它保存到我的食谱中！",
+          "vi": "Lưu nó vào công thức nấu ăn của tôi nữa!",
+          "hi": "इसे मेरे व्यंजनों में भी सहेजें!",
+          "ru": "Сохраняйте и вы в мои рецепты!",
+          "th": "บันทึกลงในสูตรของฉันด้วย!",
+          "id": "Simpan ke resep saya juga!",
+          "ms": "Simpan ke resipi saya juga!",
+          "ko": "마이 레시피에도 저장!"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9E%E3%82%A4%E3%83%AC%E3%82%B7%E3%83%94%E3%81%AB%E3%82%82%E4%BF%9D%E5%AD%98%EF%BC%81&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9E%E3%82%A4%E3%83%AC%E3%82%B7%E3%83%94%E3%81%AB%E3%82%82%E4%BF%9D%E5%AD%98%EF%BC%81/?tag="
+      },
+      {
+        "name_ja": "マイレシピに保存",
+        "amount": "-",
+        "name_translated": {
+          "en": "Save to My Recipe",
+          "zh_tw": "儲存到我的食譜",
+          "zh_cn": "保存到我的食谱",
+          "vi": "Lưu vào Công thức của tôi",
+          "hi": "मेरी रेसिपी में सहेजें",
+          "ru": "Сохранить в мой рецепт",
+          "th": "บันทึกลงในสูตรของฉัน",
+          "id": "Simpan ke Resep Saya",
+          "ms": "Simpan ke Resipi Saya",
+          "ko": "내 조리법에 저장"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9E%E3%82%A4%E3%83%AC%E3%82%B7%E3%83%94%E3%81%AB%E4%BF%9D%E5%AD%98&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9E%E3%82%A4%E3%83%AC%E3%82%B7%E3%83%94%E3%81%AB%E4%BF%9D%E5%AD%98/?tag="
+      },
+      {
+        "name_ja": "リンク",
+        "amount": "外部タブで開く",
+        "name_translated": {
+          "en": "link",
+          "zh_tw": "關聯",
+          "zh_cn": "关联",
+          "vi": "liên kết",
+          "hi": "जोड़ना",
+          "ru": "связь",
+          "th": "ลิงค์",
+          "id": "link",
+          "ms": "pautan",
+          "ko": "링크"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%AA%E3%83%B3%E3%82%AF&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%AA%E3%83%B3%E3%82%AF/?tag="
+      },
+      {
+        "name_ja": "材料",
+        "amount": "適量",
+        "name_translated": {
+          "en": "material",
+          "zh_tw": "材料",
+          "zh_cn": "材料",
+          "vi": "vật liệu",
+          "hi": "सामग्री",
+          "ru": "материал",
+          "th": "วัสดุ",
+          "id": "bahan",
+          "ms": "bahan",
+          "ko": "소재"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E6%9D%90%E6%96%99&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E6%9D%90%E6%96%99/?tag="
+      },
+      {
+        "name_ja": "つくり方",
+        "amount": "適量",
+        "name_translated": {
+          "en": "How to make",
+          "zh_tw": "如何製作",
+          "zh_cn": "如何制作",
+          "vi": "Làm thế nào để làm",
+          "hi": "कैसे बनाना है",
+          "ru": "Как сделать",
+          "th": "วิธีทำ",
+          "id": "Cara membuat",
+          "ms": "Cara membuat",
+          "ko": "만드는 법"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%A4%E3%81%8F%E3%82%8A%E6%96%B9&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%A4%E3%81%8F%E3%82%8A%E6%96%B9/?tag="
+      },
+      {
+        "name_ja": "1",
+        "amount": "貝割れ菜は根元を切り、長さを３等分にする。はんぺんは１ｃｍ角に切る。",
+        "name_translated": {
+          "en": "1",
+          "zh_tw": "1",
+          "zh_cn": "1",
+          "vi": "1",
+          "hi": "1",
+          "ru": "1",
+          "th": "1",
+          "id": "1",
+          "ms": "1",
+          "ko": "1"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=1&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/1/?tag="
+      },
+      {
+        "name_ja": "2",
+        "amount": "を入れて煮立て、（１）のはんぺんを加えて温める。",
+        "name_translated": {
+          "en": "2",
+          "zh_tw": "2",
+          "zh_cn": "2",
+          "vi": "2",
+          "hi": "2",
+          "ru": "2",
+          "th": "2",
+          "id": "2",
+          "ms": "2",
+          "ko": "2"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=2&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/2/?tag="
+      },
+      {
+        "name_ja": "3",
+        "amount": "椀に（１）の貝割れ菜を入れ、（２）を注ぐ。",
+        "name_translated": {
+          "en": "3",
+          "zh_tw": "3",
+          "zh_cn": "3",
+          "vi": "3",
+          "hi": "3",
+          "ru": "3",
+          "th": "3",
+          "id": "3",
+          "ms": "3",
+          "ko": "3"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=3&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/3/?tag="
+      },
+      {
+        "name_ja": "5分以内",
+        "amount": "適量",
+        "name_translated": {
+          "en": "within 5 minutes",
+          "zh_tw": "5分鐘內",
+          "zh_cn": "5分钟内",
+          "vi": "trong vòng 5 phút",
+          "hi": "5 मिनट के अंदर",
+          "ru": "в течение 5 минут",
+          "th": "ภายใน 5 นาที",
+          "id": "dalam waktu 5 menit",
+          "ms": "dalam masa 5 minit",
+          "ko": "5분 이내"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=5%E5%88%86%E4%BB%A5%E5%86%85&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/5%E5%88%86%E4%BB%A5%E5%86%85/?tag="
+      },
+      {
+        "name_ja": "簡単・時短",
+        "amount": "適量",
+        "name_translated": {
+          "en": "Easy and time saving",
+          "zh_tw": "簡單又省時",
+          "zh_cn": "简单又省时",
+          "vi": "Dễ dàng và tiết kiệm thời gian",
+          "hi": "आसान और समय की बचत",
+          "ru": "Легко и экономит время",
+          "th": "ง่ายและประหยัดเวลา",
+          "id": "Mudah dan menghemat waktu",
+          "ms": "Mudah dan menjimatkan masa",
+          "ko": "간단・시단"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E7%B0%A1%E5%8D%98%E3%83%BB%E6%99%82%E7%9F%AD&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E7%B0%A1%E5%8D%98%E3%83%BB%E6%99%82%E7%9F%AD/?tag="
+      },
+      {
+        "name_ja": "料理初心者",
+        "amount": "適量",
+        "name_translated": {
+          "en": "Beginner to cook",
+          "zh_tw": "初學者煮飯",
+          "zh_cn": "初学者做饭",
+          "vi": "Người mới bắt đầu nấu ăn",
+          "hi": "खाना पकाने में शुरुआती",
+          "ru": "Начинающий готовить",
+          "th": "ผู้เริ่มทำอาหาร",
+          "id": "Pemula memasak",
+          "ms": "Pemula untuk memasak",
+          "ko": "요리 초보자"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E6%96%99%E7%90%86%E5%88%9D%E5%BF%83%E8%80%85&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E6%96%99%E7%90%86%E5%88%9D%E5%BF%83%E8%80%85/?tag="
+      },
+      {
+        "name_ja": "汁物・スープ",
+        "amount": "適量",
+        "name_translated": {
+          "en": "Soup/Soup",
+          "zh_tw": "湯/湯",
+          "zh_cn": "汤/汤",
+          "vi": "Súp/Súp",
+          "hi": "सूप/सूप",
+          "ru": "Суп/Суп",
+          "th": "ซุป/ซุป",
+          "id": "Sup/Sup",
+          "ms": "Sup/Sup",
+          "ko": "국물・국물"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E6%B1%81%E7%89%A9%E3%83%BB%E3%82%B9%E3%83%BC%E3%83%97&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E6%B1%81%E7%89%A9%E3%83%BB%E3%82%B9%E3%83%BC%E3%83%97/?tag="
+      },
+      {
+        "name_ja": "和風",
+        "amount": "適量",
+        "name_translated": {
+          "en": "Japanese style",
+          "zh_tw": "日式風格",
+          "zh_cn": "日式风格",
+          "vi": "phong cách Nhật Bản",
+          "hi": "जापानी शैली में",
+          "ru": "Японский стиль",
+          "th": "สไตล์ญี่ปุ่น",
+          "id": "gaya Jepang",
+          "ms": "gaya Jepun",
+          "ko": "일본식"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E5%92%8C%E9%A2%A8&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E5%92%8C%E9%A2%A8/?tag="
+      },
+      {
+        "name_ja": "ほんだし®",
+        "amount": "適量",
+        "name_translated": {
+          "en": "Hondashi®",
+          "zh_tw": "本達志®",
+          "zh_cn": "本达志®",
+          "vi": "Hondashi®",
+          "hi": "होंडाशी®",
+          "ru": "Хондаши®",
+          "th": "ฮอนดาชิ®",
+          "id": "Hondashi®",
+          "ms": "Hondashi®",
+          "ko": "혼다시®"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%BB%E3%82%93%E3%81%A0%E3%81%97%C2%AE&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%BB%E3%82%93%E3%81%A0%E3%81%97%C2%AE/?tag="
+      },
+      {
+        "name_ja": "瀬戸のほんじお®",
+        "amount": "適量",
+        "name_translated": {
+          "en": "Seto no Honjio®",
+          "zh_tw": "瀨戶本次王®",
+          "zh_cn": "濑户本次王®",
+          "vi": "Seto no Honjio®",
+          "hi": "सेटो नो होन्जियो®",
+          "ru": "Сето-но Хондзио®",
+          "th": "เซโตะ โนะ ฮอนจิโอ®",
+          "id": "Seto no Honjio®",
+          "ms": "Seto no Honjio®",
+          "ko": "세토의 혼지오®"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E7%80%AC%E6%88%B8%E3%81%AE%E3%81%BB%E3%82%93%E3%81%98%E3%81%8A%C2%AE&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E7%80%AC%E6%88%B8%E3%81%AE%E3%81%BB%E3%82%93%E3%81%98%E3%81%8A%C2%AE/?tag="
+      }
+    ],
+    "steps_ja": [
+      "貝割れ菜は根元を切り、長さを３等分にする。はんぺんは１ｃｍ角に切る。",
+      "鍋にＡを入れて煮立て、（１）のはんぺんを加えて温める。",
+      "椀に（１）の貝割れ菜を入れ、（２）を注ぐ。"
+    ],
+    "image_url": "https://images.weserv.nl/?url=https://images.microcms-assets.io/assets/3834bb6c71eb4fdd912121537b20e72d/5d8d4d4bfc4542219d410ca48d364b30/recipe_main_image_030226.jpg?fm=webp&q=60&fit=min&w=600&output=jpg",
+    "title": {
+      "en": "Hanpen soup",
+      "zh_tw": "寒盆湯",
+      "zh_cn": "寒盆汤",
+      "vi": "Súp Hanpen",
+      "hi": "हनपेन सूप",
+      "ru": "Суп Ханпен",
+      "th": "ซุปฮันเปน",
+      "id": "Sup Hanpen",
+      "ms": "sup hanpen",
+      "ko": "한판의 국물국"
+    },
+    "description": {
+      "en": "",
+      "zh_tw": "",
+      "zh_cn": "",
+      "vi": "",
+      "hi": "",
+      "ru": "",
+      "th": "",
+      "id": "",
+      "ms": "",
+      "ko": ""
+    },
+    "steps": {
+      "en": [
+        "Cut the root of the shellfish and cut into 3 equal lengths. Cut the hanpen into 1cm cubes.",
+        "Put A into a pot and bring to a boil, then add the hanpen from (1) and warm it up.",
+        "Put the shellfish from (1) in a bowl and pour in (2)."
+      ],
+      "zh_tw": [
+        "貝類切去根部，切成3等長。將漢筆切成1公分的方塊。",
+        "將A放入鍋中煮沸，然後加入(1)中的hanpen並加熱。",
+        "將（1）中的貝類放入碗中，然後倒入（2）。"
+      ],
+      "zh_cn": [
+        "贝类切去根部，切成3等长。将汉笔切成1厘米的方块。",
+        "将A放入锅中煮沸，然后加入(1)中的hanpen并加热。",
+        "将（1）中的贝类放入碗中，然后倒入（2）。"
+      ],
+      "vi": [
+        "Cắt bỏ phần gốc của sò và cắt thành 3 đoạn dài bằng nhau. Cắt hanpen thành khối 1 cm.",
+        "Cho A vào nồi và đun sôi, sau đó thêm hanpen từ (1) vào và đun nóng.",
+        "Cho sò ốc ở (1) vào tô và đổ vào (2)."
+      ],
+      "hi": [
+        "शंख की जड़ को काट लें और 3 बराबर लंबाई में काट लें। हैनपेन को 1 सेमी क्यूब्स में काटें।",
+        "ए को एक बर्तन में डालें और उबाल लें, फिर (1) से हैनपेन डालें और इसे गर्म करें।",
+        "(1) से शेलफिश को एक कटोरे में डालें और (2) में डालें।"
+      ],
+      "ru": [
+        "Отрежьте корень моллюска и разрежьте его на 3 равные части. Нарежьте ханпен кубиками по 1 см.",
+        "Положите А в кастрюлю и доведите до кипения, затем добавьте ханпен из (1) и нагрейте.",
+        "Положите моллюсков из (1) в миску и залейте (2)."
+      ],
+      "th": [
+        "ตัดรากของหอยแล้วหั่นเป็น 3 ความยาวเท่ากัน ตัดฮันเปนเป็นก้อนขนาด 1 ซม.",
+        "ใส่ A ลงในหม้อแล้วนำไปต้ม จากนั้นเติมฮันเปนจาก (1) และอุ่นให้ร้อน",
+        "ใส่หอยจาก (1) ลงในชาม แล้วเทลงไป (2)"
+      ],
+      "id": [
+        "Potong akar kerang dan potong menjadi 3 sama panjang. Potong hanpen menjadi kubus berukuran 1 cm.",
+        "Masukkan A ke dalam panci dan didihkan, lalu masukkan hanpen dari (1) dan hangatkan.",
+        "Masukkan kerang dari (1) ke dalam mangkuk dan tuangkan (2)."
+      ],
+      "ms": [
+        "Potong akar kerang dan potong 3 sama panjang. Potong hanpen menjadi kiub 1cm.",
+        "Masukkan A ke dalam periuk dan biarkan mendidih, kemudian masukkan hanpen dari (1) dan panaskan.",
+        "Masukkan kerang dari (1) ke dalam mangkuk dan tuangkan (2)."
+      ],
+      "ko": [
+        "조개 균열은 뿌리를 자르고 길이를 3등분으로 한다. 한판은 1cm 각으로 자른다.",
+        "냄비에 A를 넣고 끓여 (1)의 밥을 넣고 따뜻하게 한다.",
+        "그릇에 (1)의 조개 균열을 넣고 (2)를 붓는다."
+      ]
+    }
+  },
+  {
+    "id": "537b5980",
+    "source_url": "https://park.ajinomoto.co.jp/recipe/card/708250/",
+    "source_site": "Ajinomoto",
+    "title_ja": "ドリア",
+    "description_ja": "",
+    "ingredients": [
+      {
+        "name_ja": "材料",
+        "amount": "適量",
+        "name_translated": {
+          "en": "material",
+          "zh_tw": "材料",
+          "zh_cn": "材料",
+          "vi": "vật liệu",
+          "hi": "सामग्री",
+          "ru": "материал",
+          "th": "วัสดุ",
+          "id": "bahan",
+          "ms": "bahan",
+          "ko": "소재"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E6%9D%90%E6%96%99&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E6%9D%90%E6%96%99/?tag="
+      },
+      {
+        "name_ja": "つくり方",
+        "amount": "適量",
+        "name_translated": {
+          "en": "How to make",
+          "zh_tw": "如何製作",
+          "zh_cn": "如何制作",
+          "vi": "Làm thế nào để làm",
+          "hi": "कैसे बनाना है",
+          "ru": "Как сделать",
+          "th": "วิธีทำ",
+          "id": "Cara membuat",
+          "ms": "Cara membuat",
+          "ko": "만드는 법"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%A4%E3%81%8F%E3%82%8A%E6%96%B9&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%A4%E3%81%8F%E3%82%8A%E6%96%B9/?tag="
+      },
+      {
+        "name_ja": "エネルギー",
+        "amount": "kcal",
+        "name_translated": {
+          "en": "energy",
+          "zh_tw": "活力",
+          "zh_cn": "活力",
+          "vi": "năng lượng",
+          "hi": "ऊर्जा",
+          "ru": "энергия",
+          "th": "พลังงาน",
+          "id": "energi",
+          "ms": "tenaga",
+          "ko": "에너지"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%82%A8%E3%83%8D%E3%83%AB%E3%82%AE%E3%83%BC&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%82%A8%E3%83%8D%E3%83%AB%E3%82%AE%E3%83%BC/?tag="
+      },
+      {
+        "name_ja": "794",
+        "amount": "kcal",
+        "name_translated": {
+          "en": "794",
+          "zh_tw": "第794章",
+          "zh_cn": "第794章",
+          "vi": "794",
+          "hi": "794",
+          "ru": "794",
+          "th": "794",
+          "id": "794",
+          "ms": "794",
+          "ko": "794"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=794&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/794/?tag="
+      },
+      {
+        "name_ja": "塩分",
+        "amount": "g",
+        "name_translated": {
+          "en": "salt",
+          "zh_tw": "鹽",
+          "zh_cn": "盐",
+          "vi": "muối",
+          "hi": "नमक",
+          "ru": "соль",
+          "th": "เกลือ",
+          "id": "garam",
+          "ms": "garam",
+          "ko": "염분"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E5%A1%A9%E5%88%86&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E5%A1%A9%E5%88%86/?tag="
+      },
+      {
+        "name_ja": "4.1",
+        "amount": "g",
+        "name_translated": {
+          "en": "4.1",
+          "zh_tw": "4.1",
+          "zh_cn": "4.1",
+          "vi": "4.1",
+          "hi": "4.1",
+          "ru": "4.1",
+          "th": "4.1",
+          "id": "4.1",
+          "ms": "4.1",
+          "ko": "4.1"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=4.1&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/4.1/?tag="
+      },
+      {
+        "name_ja": "たんぱく質",
+        "amount": "g",
+        "name_translated": {
+          "en": "protein",
+          "zh_tw": "蛋白質",
+          "zh_cn": "蛋白质",
+          "vi": "chất đạm",
+          "hi": "प्रोटीन",
+          "ru": "белок",
+          "th": "โปรตีน",
+          "id": "protein",
+          "ms": "protein",
+          "ko": "단백질"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%9F%E3%82%93%E3%81%B1%E3%81%8F%E8%B3%AA&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%9F%E3%82%93%E3%81%B1%E3%81%8F%E8%B3%AA/?tag="
+      },
+      {
+        "name_ja": "31.2",
+        "amount": "g",
+        "name_translated": {
+          "en": "31.2",
+          "zh_tw": "31.2",
+          "zh_cn": "31.2",
+          "vi": "31.2",
+          "hi": "31.2",
+          "ru": "31,2",
+          "th": "31.2",
+          "id": "31.2",
+          "ms": "31.2",
+          "ko": "31.2"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=31.2&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/31.2/?tag="
+      },
+      {
+        "name_ja": "脂質",
+        "amount": "g",
+        "name_translated": {
+          "en": "lipid",
+          "zh_tw": "脂質",
+          "zh_cn": "脂质",
+          "vi": "chất béo",
+          "hi": "लिपिड",
+          "ru": "липид",
+          "th": "ไขมัน",
+          "id": "lipid",
+          "ms": "lipid",
+          "ko": "지질"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E8%84%82%E8%B3%AA&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E8%84%82%E8%B3%AA/?tag="
+      },
+      {
+        "name_ja": "37.1",
+        "amount": "g",
+        "name_translated": {
+          "en": "37.1",
+          "zh_tw": "37.1",
+          "zh_cn": "37.1",
+          "vi": "37,1",
+          "hi": "37.1",
+          "ru": "37,1",
+          "th": "37.1",
+          "id": "37.1",
+          "ms": "37.1",
+          "ko": "37.1"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=37.1&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/37.1/?tag="
+      },
+      {
+        "name_ja": "もっと見る",
+        "amount": "適量",
+        "name_translated": {
+          "en": "See more",
+          "zh_tw": "看更多",
+          "zh_cn": "查看更多",
+          "vi": "Xem thêm",
+          "hi": "और देखें",
+          "ru": "Посмотреть больше",
+          "th": "ดูเพิ่มเติม",
+          "id": "Lihat selengkapnya",
+          "ms": "Lihat lagi",
+          "ko": "더 보기"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%82%82%E3%81%A3%E3%81%A8%E8%A6%8B%E3%82%8B&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%82%82%E3%81%A3%E3%81%A8%E8%A6%8B%E3%82%8B/?tag="
+      },
+      {
+        "name_ja": "マイレシピにも保存！",
+        "amount": "LINEに保存",
+        "name_translated": {
+          "en": "Save it to my recipes too!",
+          "zh_tw": "也將它保存到我的食譜中！",
+          "zh_cn": "也将它保存到我的食谱中！",
+          "vi": "Lưu nó vào công thức nấu ăn của tôi nữa!",
+          "hi": "इसे मेरे व्यंजनों में भी सहेजें!",
+          "ru": "Сохраняйте и вы в мои рецепты!",
+          "th": "บันทึกลงในสูตรของฉันด้วย!",
+          "id": "Simpan ke resep saya juga!",
+          "ms": "Simpan ke resipi saya juga!",
+          "ko": "마이 레시피에도 저장!"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9E%E3%82%A4%E3%83%AC%E3%82%B7%E3%83%94%E3%81%AB%E3%82%82%E4%BF%9D%E5%AD%98%EF%BC%81&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9E%E3%82%A4%E3%83%AC%E3%82%B7%E3%83%94%E3%81%AB%E3%82%82%E4%BF%9D%E5%AD%98%EF%BC%81/?tag="
+      },
+      {
+        "name_ja": "マイレシピに保存",
+        "amount": "-",
+        "name_translated": {
+          "en": "Save to My Recipe",
+          "zh_tw": "儲存到我的食譜",
+          "zh_cn": "保存到我的食谱",
+          "vi": "Lưu vào Công thức của tôi",
+          "hi": "मेरी रेसिपी में सहेजें",
+          "ru": "Сохранить в мой рецепт",
+          "th": "บันทึกลงในสูตรของฉัน",
+          "id": "Simpan ke Resep Saya",
+          "ms": "Simpan ke Resipi Saya",
+          "ko": "내 조리법에 저장"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9E%E3%82%A4%E3%83%AC%E3%82%B7%E3%83%94%E3%81%AB%E4%BF%9D%E5%AD%98&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9E%E3%82%A4%E3%83%AC%E3%82%B7%E3%83%94%E3%81%AB%E4%BF%9D%E5%AD%98/?tag="
+      },
+      {
+        "name_ja": "リンク",
+        "amount": "外部タブで開く",
+        "name_translated": {
+          "en": "link",
+          "zh_tw": "關聯",
+          "zh_cn": "关联",
+          "vi": "liên kết",
+          "hi": "जोड़ना",
+          "ru": "связь",
+          "th": "ลิงค์",
+          "id": "link",
+          "ms": "pautan",
+          "ko": "링크"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%AA%E3%83%B3%E3%82%AF&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%AA%E3%83%B3%E3%82%AF/?tag="
+      },
+      {
+        "name_ja": "材料",
+        "amount": "適量",
+        "name_translated": {
+          "en": "material",
+          "zh_tw": "材料",
+          "zh_cn": "材料",
+          "vi": "vật liệu",
+          "hi": "सामग्री",
+          "ru": "материал",
+          "th": "วัสดุ",
+          "id": "bahan",
+          "ms": "bahan",
+          "ko": "소재"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E6%9D%90%E6%96%99&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E6%9D%90%E6%96%99/?tag="
+      },
+      {
+        "name_ja": "つくり方",
+        "amount": "適量",
+        "name_translated": {
+          "en": "How to make",
+          "zh_tw": "如何製作",
+          "zh_cn": "如何制作",
+          "vi": "Làm thế nào để làm",
+          "hi": "कैसे बनाना है",
+          "ru": "Как сделать",
+          "th": "วิธีทำ",
+          "id": "Cara membuat",
+          "ms": "Cara membuat",
+          "ko": "만드는 법"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%A4%E3%81%8F%E3%82%8A%E6%96%B9&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%A4%E3%81%8F%E3%82%8A%E6%96%B9/?tag="
+      },
+      {
+        "name_ja": "1",
+        "amount": "にする。オーブンは１８０℃に予熱する。",
+        "name_translated": {
+          "en": "1",
+          "zh_tw": "1",
+          "zh_cn": "1",
+          "vi": "1",
+          "hi": "1",
+          "ru": "1",
+          "th": "1",
+          "id": "1",
+          "ms": "1",
+          "ko": "1"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=1&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/1/?tag="
+      },
+      {
+        "name_ja": "2",
+        "amount": "フライパンにオリーブオイルを熱し、（１）の鶏肉・しめじ・玉ねぎを入れ、塩・こしょうをして炒め、水を加えて煮る。",
+        "name_translated": {
+          "en": "2",
+          "zh_tw": "2",
+          "zh_cn": "2",
+          "vi": "2",
+          "hi": "2",
+          "ru": "2",
+          "th": "2",
+          "id": "2",
+          "ms": "2",
+          "ko": "2"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=2&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/2/?tag="
+      },
+      {
+        "name_ja": "3",
+        "amount": "別のフライパンにバターを熱し、薄力粉を炒め、サラッとしたら牛乳を加えて溶きのばす。煮立ったら（２）を加えて混ぜ合わせ、塩・こしょうで味を調える。",
+        "name_translated": {
+          "en": "3",
+          "zh_tw": "3",
+          "zh_cn": "3",
+          "vi": "3",
+          "hi": "3",
+          "ru": "3",
+          "th": "3",
+          "id": "3",
+          "ms": "3",
+          "ko": "3"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=3&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/3/?tag="
+      },
+      {
+        "name_ja": "4",
+        "amount": "を入れて混ぜ合わせ、グラタン皿に等分に入れ、（３）をかける。チーズをのせて１８０℃のオーブンで焼き色がつくまで１０分ほど焼き、小ねぎを散らす。",
+        "name_translated": {
+          "en": "4",
+          "zh_tw": "4",
+          "zh_cn": "4",
+          "vi": "4",
+          "hi": "4",
+          "ru": "4",
+          "th": "4",
+          "id": "4",
+          "ms": "4",
+          "ko": "4"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=4&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/4/?tag="
+      },
+      {
+        "name_ja": "＊",
+        "amount": "『我が家のほんだし活用術』（幻冬舎刊）より",
+        "name_translated": {
+          "en": "*",
+          "zh_tw": "*",
+          "zh_cn": "*",
+          "vi": "*",
+          "hi": "*",
+          "ru": "*",
+          "th": "*",
+          "id": "*",
+          "ms": "*",
+          "ko": "＊"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%8A&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%8A/?tag="
+      },
+      {
+        "name_ja": "20分以内",
+        "amount": "適量",
+        "name_translated": {
+          "en": "Within 20 minutes",
+          "zh_tw": "20分鐘內",
+          "zh_cn": "20分钟内",
+          "vi": "Trong vòng 20 phút",
+          "hi": "20 मिनट के अंदर",
+          "ru": "В течение 20 минут",
+          "th": "ภายใน 20 นาที",
+          "id": "Dalam waktu 20 menit",
+          "ms": "Dalam masa 20 minit",
+          "ko": "20분 이내"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=20%E5%88%86%E4%BB%A5%E5%86%85&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/20%E5%88%86%E4%BB%A5%E5%86%85/?tag="
+      },
+      {
+        "name_ja": "子どもに人気",
+        "amount": "適量",
+        "name_translated": {
+          "en": "popular with children",
+          "zh_tw": "受兒童歡迎",
+          "zh_cn": "受儿童欢迎",
+          "vi": "phổ biến với trẻ em",
+          "hi": "बच्चों के बीच लोकप्रिय",
+          "ru": "популярен среди детей",
+          "th": "เป็นที่นิยมในหมู่เด็กๆ",
+          "id": "populer di kalangan anak-anak",
+          "ms": "popular dengan kanak-kanak",
+          "ko": "어린이에게 인기"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E5%AD%90%E3%81%A9%E3%82%82%E3%81%AB%E4%BA%BA%E6%B0%97&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E5%AD%90%E3%81%A9%E3%82%82%E3%81%AB%E4%BA%BA%E6%B0%97/?tag="
+      },
+      {
+        "name_ja": "鶏肉",
+        "amount": "適量",
+        "name_translated": {
+          "en": "chicken meat",
+          "zh_tw": "雞肉",
+          "zh_cn": "鸡肉",
+          "vi": "thịt gà",
+          "hi": "मुर्गी का मांस",
+          "ru": "куриное мясо",
+          "th": "เนื้อไก่",
+          "id": "daging ayam",
+          "ms": "daging ayam",
+          "ko": "닭고기"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E9%B6%8F%E8%82%89&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E9%B6%8F%E8%82%89/?tag="
+      },
+      {
+        "name_ja": "牛乳",
+        "amount": "適量",
+        "name_translated": {
+          "en": "milk",
+          "zh_tw": "牛奶",
+          "zh_cn": "牛奶",
+          "vi": "sữa",
+          "hi": "दूध",
+          "ru": "молоко",
+          "th": "น้ำนม",
+          "id": "susu",
+          "ms": "susu",
+          "ko": "우유"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E7%89%9B%E4%B9%B3&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E7%89%9B%E4%B9%B3/?tag="
+      },
+      {
+        "name_ja": "ご飯",
+        "amount": "適量",
+        "name_translated": {
+          "en": "cooked rice",
+          "zh_tw": "乾飯",
+          "zh_cn": "干饭",
+          "vi": "cơm chín",
+          "hi": "पका हुआ चावल",
+          "ru": "приготовленный рис",
+          "th": "ข้าวสวย",
+          "id": "nasi",
+          "ms": "nasi masak",
+          "ko": "밥"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%94%E9%A3%AF&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%94%E9%A3%AF/?tag="
+      },
+      {
+        "name_ja": "小麦粉",
+        "amount": "適量",
+        "name_translated": {
+          "en": "flour",
+          "zh_tw": "麵粉",
+          "zh_cn": "面粉",
+          "vi": "bột mì",
+          "hi": "आटा",
+          "ru": "мука",
+          "th": "แป้ง",
+          "id": "tepung",
+          "ms": "tepung",
+          "ko": "밀가루"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E5%B0%8F%E9%BA%A6%E7%B2%89&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E5%B0%8F%E9%BA%A6%E7%B2%89/?tag="
+      },
+      {
+        "name_ja": "主食",
+        "amount": "適量",
+        "name_translated": {
+          "en": "staple food",
+          "zh_tw": "主食",
+          "zh_cn": "主食",
+          "vi": "thực phẩm chủ yếu",
+          "hi": "मूल भोजन",
+          "ru": "основные продукты питания",
+          "th": "อาหารหลัก",
+          "id": "makanan pokok",
+          "ms": "makanan ruji",
+          "ko": "주식"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E4%B8%BB%E9%A3%9F&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E4%B8%BB%E9%A3%9F/?tag="
+      },
+      {
+        "name_ja": "洋風",
+        "amount": "適量",
+        "name_translated": {
+          "en": "Western style",
+          "zh_tw": "西式風格",
+          "zh_cn": "西式风格",
+          "vi": "phong cách phương Tây",
+          "hi": "पश्चिमी शैली",
+          "ru": "Западный стиль",
+          "th": "สไตล์ตะวันตก",
+          "id": "Gaya Barat",
+          "ms": "gaya barat",
+          "ko": "서양식"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E6%B4%8B%E9%A2%A8&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E6%B4%8B%E9%A2%A8/?tag="
+      },
+      {
+        "name_ja": "ほんだし®",
+        "amount": "適量",
+        "name_translated": {
+          "en": "Hondashi®",
+          "zh_tw": "本達志®",
+          "zh_cn": "本达志®",
+          "vi": "Hondashi®",
+          "hi": "होंडाशी®",
+          "ru": "Хондаши®",
+          "th": "ฮอนดาชิ®",
+          "id": "Hondashi®",
+          "ms": "Hondashi®",
+          "ko": "혼다시®"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%BB%E3%82%93%E3%81%A0%E3%81%97%C2%AE&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%BB%E3%82%93%E3%81%A0%E3%81%97%C2%AE/?tag="
+      },
+      {
+        "name_ja": "瀬戸のほんじお®",
+        "amount": "適量",
+        "name_translated": {
+          "en": "Seto no Honjio®",
+          "zh_tw": "瀨戶本次王®",
+          "zh_cn": "濑户本次王®",
+          "vi": "Seto no Honjio®",
+          "hi": "सेटो नो होन्जियो®",
+          "ru": "Сето-но Хондзио®",
+          "th": "เซโตะ โนะ ฮอนจิโอ®",
+          "id": "Seto no Honjio®",
+          "ms": "Seto no Honjio®",
+          "ko": "세토의 혼지오®"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E7%80%AC%E6%88%B8%E3%81%AE%E3%81%BB%E3%82%93%E3%81%98%E3%81%8A%C2%AE&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E7%80%AC%E6%88%B8%E3%81%AE%E3%81%BB%E3%82%93%E3%81%98%E3%81%8A%C2%AE/?tag="
+      }
+    ],
+    "steps_ja": [
+      "鶏肉は小さめのひと口大に切る。しめじは小房に分け、玉ねぎは薄切りにする。オーブンは１８０℃に予熱する。",
+      "フライパンにオリーブオイルを熱し、（１）の鶏肉・しめじ・玉ねぎを入れ、塩・こしょうをして炒め、水を加えて煮る。",
+      "別のフライパンにバターを熱し、薄力粉を炒め、サラッとしたら牛乳を加えて溶きのばす。煮立ったら（２）を加えて混ぜ合わせ、塩・こしょうで味を調える。",
+      "ボウルにご飯、Ａを入れて混ぜ合わせ、グラタン皿に等分に入れ、（３）をかける。チーズをのせて１８０℃のオーブンで焼き色がつくまで１０分ほど焼き、小ねぎを散らす。",
+      "＊『我が家のほんだし活用術』（幻冬舎刊）より"
+    ],
+    "image_url": "https://images.weserv.nl/?url=https://images.microcms-assets.io/assets/3834bb6c71eb4fdd912121537b20e72d/07eea5f2813348118fbdbc7aa6c13db0/recipe_main_image_708250.jpg?fm=webp&q=60&fit=min&w=600&output=jpg",
+    "title": {
+      "en": "doria",
+      "zh_tw": "多里亞",
+      "zh_cn": "多里亚",
+      "vi": "doria",
+      "hi": "डोरिया",
+      "ru": "Дориа",
+      "th": "โดเรีย",
+      "id": "doria",
+      "ms": "doria",
+      "ko": "도리아"
+    },
+    "description": {
+      "en": "",
+      "zh_tw": "",
+      "zh_cn": "",
+      "vi": "",
+      "hi": "",
+      "ru": "",
+      "th": "",
+      "id": "",
+      "ms": "",
+      "ko": ""
+    },
+    "steps": {
+      "en": [
+        "Cut the chicken into small bite-sized pieces. Divide the shimeji mushrooms into florets and thinly slice the onion. Preheat the oven to 180°C.",
+        "Heat olive oil in a frying pan, add the chicken, shimeji mushrooms, and onions from (1), season with salt and pepper, stir-fry, add water, and bring to a simmer.",
+        "Heat the butter in another frying pan, stir-fry the flour, and when it becomes smooth, add the milk and stir until smooth. When it boils, add (2), mix, and season with salt and pepper.",
+        "Put the rice and A into a bowl, mix together, divide evenly into a gratin dish, and sprinkle with (3). Top with cheese and bake in an oven at 180℃ for about 10 minutes until golden brown, then sprinkle with small onions.",
+        "*From “How to Use Home-made Hondashi” (published by Gentosha)"
+      ],
+      "zh_tw": [
+        "將雞肉切成一口大小的小塊。將姬菇分成小朵，洋蔥切成薄片。將烤箱預熱至 180°C。",
+        "在煎鍋中加熱橄欖油，加入（1）中的雞肉、姬菇和洋蔥，用鹽和胡椒調味，炒香，加水，然後小火煮。",
+        "在另一個煎鍋中加熱奶油，炒麵粉，當麵粉變得光滑時，加入牛奶，攪拌至光滑。當水沸騰時，加入(2)，混合，並用鹽和胡椒調味。",
+        "將米和A放入碗中，拌勻，均勻分入烤盤中，撒上(3)。上面鋪上乳酪，放入烤箱以180℃烘烤約10分鐘至金黃色，然後撒上小洋蔥。",
+        "*摘自《自製本田紙的使用方法》（Gentosha出版）"
+      ],
+      "zh_cn": [
+        "将鸡肉切成一口大小的小块。将姬菇分成小朵，洋葱切成薄片。将烤箱预热至 180°C。",
+        "在煎锅中加热橄榄油，加入（1）中的鸡肉、姬菇和洋葱，用盐和胡椒调味，炒香，加水，然后小火煮。",
+        "在另一个煎锅中加热黄油，炒面粉，当面粉变得光滑时，加入牛奶，搅拌至光滑。当水沸腾时，加入(2)，混合，并用盐和胡椒调味。",
+        "将米和A放入碗中，拌匀，均匀分入烤盘中，撒上(3)。上面铺上奶酪，放入烤箱以180℃烘烤约10分钟至金黄色，然后撒上小洋葱。",
+        "*摘自《自制本田纸的使用方法》（Gentosha出版）"
+      ],
+      "vi": [
+        "Cắt thịt gà thành từng miếng nhỏ vừa ăn. Chia nấm shimeji thành những bông hoa nhỏ và hành tây thái lát mỏng. Làm nóng lò ở nhiệt độ 180°C.",
+        "Đun nóng dầu ô liu trong chảo rán, cho thịt gà, nấm shimeji và hành tây vào (1), nêm muối và tiêu, xào, thêm nước rồi đun nhỏ lửa.",
+        "Đun nóng bơ trong một chảo khác, cho bột mì vào xào đến khi mịn thì cho sữa vào khuấy đều. Khi sôi, cho (2) vào, trộn đều, nêm muối và tiêu.",
+        "Cho gạo và A vào tô, trộn đều, chia đều vào đĩa gratin và rắc (3). Phủ phô mai lên trên và nướng trong lò ở nhiệt độ 180oC trong khoảng 10 phút cho đến khi có màu vàng nâu, sau đó rắc hành tây nhỏ.",
+        "*Trích “Cách sử dụng Hondashi tự làm” (xuất bản bởi Gentosha)"
+      ],
+      "hi": [
+        "चिकन को छोटे-छोटे टुकड़ों में काट लें. शिमेजी मशरूम को फूलों में विभाजित करें और प्याज को पतला काट लें। ओवन को 180°C पर पहले से गरम कर लें।",
+        "एक फ्राइंग पैन में जैतून का तेल गरम करें, चिकन, शिमेजी मशरूम और प्याज (1) डालें, नमक और काली मिर्च डालें, हिलाएँ-भूनें, पानी डालें और धीमी आंच पर पकाएँ।",
+        "- दूसरे फ्राइंग पैन में मक्खन गर्म करें, आटे को चलाते हुए भूनें और जब यह चिकना हो जाए तो इसमें दूध डालें और चिकना होने तक चलाते रहें. जब यह उबल जाए तो (2) डालें, मिलाएँ और नमक और काली मिर्च डालें।",
+        "चावल और ए को एक कटोरे में डालें, एक साथ मिलाएं, एक ग्रेटिन डिश में समान रूप से विभाजित करें, और (3) छिड़कें। ऊपर से पनीर डालें और ओवन में 180℃ पर सुनहरा भूरा होने तक लगभग 10 मिनट तक बेक करें, फिर छोटे प्याज छिड़कें।",
+        "*\"घर पर बनी होंडाशी का उपयोग कैसे करें\" से (जेंटोशा द्वारा प्रकाशित)"
+      ],
+      "ru": [
+        "Курицу нарезаем небольшими кусочками. Разделите грибы симэдзи на соцветия и тонко нарежьте лук. Разогрейте духовку до 180°C.",
+        "Нагрейте оливковое масло в сковороде, добавьте курицу, грибы симэдзи и лук из (1), приправьте солью и перцем, обжарьте, помешивая, добавьте воды и доведите до кипения.",
+        "В другой сковороде разогрейте сливочное масло, обжарьте муку, а когда она станет однородной, добавьте молоко и перемешайте до однородности. Когда закипит, добавьте (2), перемешайте и приправьте солью и перцем.",
+        "Положите рис и А в миску, перемешайте, равномерно распределите по форме для запекания и посыпьте (3). Посыпьте сверху сыром и запекайте в духовке при температуре 180℃ около 10 минут до золотистого цвета, затем посыпьте небольшим луком.",
+        "*Из книги «Как использовать самодельную Hondashi» (опубликовано Gentosha)"
+      ],
+      "th": [
+        "หั่นไก่เป็นชิ้นเล็กๆ ขนาดพอดีคำ แบ่งเห็ดชิเมจิออกเป็นดอกเล็กๆ และหั่นหัวหอมเป็นชิ้นบางๆ เปิดเตาอบที่ 180°C",
+        "ตั้งน้ำมันมะกอกในกระทะ ใส่ไก่ เห็ดชิเมจิ และหัวหอมจาก (1) ปรุงรสด้วยเกลือและพริกไทย ผัด เติมน้ำ และนำไปเคี่ยว",
+        "ตั้งเนยในกระทะอีกใบ ผัดแป้ง และเมื่อเนียนแล้ว ให้เติมนมลงไปผัดจนเนียน เมื่อเดือด ให้เติม (2) ผสม และปรุงรสด้วยเกลือและพริกไทย",
+        "ใส่ข้าวและ A ลงในชาม ผสมให้เข้ากัน แบ่งใส่จานกราแตงเท่าๆ กัน แล้วโรยด้วย (3) โรยหน้าด้วยชีสแล้วอบในเตาอบที่ 180°C ประมาณ 10 นาทีจนเป็นสีเหลืองทอง จากนั้นโรยหน้าด้วยหัวหอมลูกเล็ก",
+        "*จาก “วิธีใช้ฮอนดาชิแบบโฮมเมด” (เผยแพร่โดย Gentosha)"
+      ],
+      "id": [
+        "Potong ayam menjadi potongan kecil seukuran sekali gigit. Bagi jamur shimeji menjadi kuntum dan iris tipis bawang bombay. Panaskan oven terlebih dahulu hingga 180°C.",
+        "Panaskan minyak zaitun dalam wajan, masukkan ayam, jamur shimeji, dan bawang bombay dari (1), bumbui dengan garam dan merica, tumis, tambahkan air, dan didihkan.",
+        "Panaskan mentega di wajan lain, tumis tepung, bila sudah halus tambahkan susu lalu aduk hingga rata. Jika sudah mendidih, tambahkan (2), campur, dan bumbui dengan garam dan merica.",
+        "Masukkan nasi dan A ke dalam mangkuk, aduk rata, bagi rata ke dalam piring gratin, dan taburi (3). Taburi dengan keju dan panggang dalam oven dengan suhu 180℃ selama kurang lebih 10 menit hingga berwarna cokelat keemasan, lalu taburi dengan bawang bombay kecil.",
+        "*Dari “Cara Menggunakan Hondashi Buatan Sendiri” (diterbitkan oleh Gentosha)"
+      ],
+      "ms": [
+        "Potong ayam kepada kepingan kecil bersaiz gigitan. Bahagikan cendawan shimeji kepada bunga dan hiris nipis bawang. Panaskan ketuhar hingga 180°C.",
+        "Panaskan minyak zaitun dalam kuali, masukkan ayam, cendawan shimeji, dan bawang dari (1), perasakan dengan garam dan lada, tumis, tambah air, dan biarkan mendidih.",
+        "Panaskan mentega dalam kuali lain, tumis tepung, dan bila dah sebati, masukkan susu dan kacau hingga rata. Apabila mendidih, masukkan (2), gaul dan perasakan dengan garam dan lada sulah.",
+        "Masukkan beras dan A ke dalam mangkuk, gaul bersama, bahagikan sama rata ke dalam hidangan gratin, dan taburkan dengan (3). Teratas dengan keju dan bakar dalam ketuhar pada suhu 180 ℃ selama kira-kira 10 minit sehingga perang keemasan, kemudian taburkan dengan bawang kecil.",
+        "*Daripada “Cara Menggunakan Hondashi Buatan Rumah” (diterbitkan oleh Gentosha)"
+      ],
+      "ko": [
+        "닭고기는 작은 작은 입구로 자른다. 시메지는 소방으로 나누고 양파는 얇게 썬다. 오븐은 180℃로 예열된다.",
+        "프라이팬에 올리브 오일을 가열하고 (1) 닭고기, 시메지, 양파를 넣고 소금, 후추를 볶고 물을 넣고 끓인다.",
+        "다른 프라이팬에 버터를 가열하고, 얇은 가루를 볶고, 끓인다면 우유를 넣고 녹인다. 끓인다면 (2)를 넣고 섞어 소금과 후추로 맛을 낸다.",
+        "그릇에 밥, A를 넣고 섞어서 그라탕 접시에 등분에 넣고 (3)을 넣는다. 치즈를 얹어 180℃의 오븐에서 구운 색이 붙을 때까지 10분 정도 구워, 양파를 흩뜨린다.",
+        "＊『우리 집의 혼다시 활용술』(환동사간)에서"
+      ]
+    }
+  },
+  {
+    "id": "44d7d251",
+    "source_url": "https://park.ajinomoto.co.jp/recipe/card/800730/",
+    "source_site": "Ajinomoto",
+    "title_ja": "豚肉のオイスー生姜焼き",
+    "description_ja": "",
+    "ingredients": [
+      {
+        "name_ja": "材料",
+        "amount": "適量",
+        "name_translated": {
+          "en": "material",
+          "zh_tw": "材料",
+          "zh_cn": "材料",
+          "vi": "vật liệu",
+          "hi": "सामग्री",
+          "ru": "материал",
+          "th": "วัสดุ",
+          "id": "bahan",
+          "ms": "bahan",
+          "ko": "소재"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E6%9D%90%E6%96%99&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E6%9D%90%E6%96%99/?tag="
+      },
+      {
+        "name_ja": "つくり方",
+        "amount": "適量",
+        "name_translated": {
+          "en": "How to make",
+          "zh_tw": "如何製作",
+          "zh_cn": "如何制作",
+          "vi": "Làm thế nào để làm",
+          "hi": "कैसे बनाना है",
+          "ru": "Как сделать",
+          "th": "วิธีทำ",
+          "id": "Cara membuat",
+          "ms": "Cara membuat",
+          "ko": "만드는 법"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%A4%E3%81%8F%E3%82%8A%E6%96%B9&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%A4%E3%81%8F%E3%82%8A%E6%96%B9/?tag="
+      },
+      {
+        "name_ja": "エネルギー",
+        "amount": "kcal",
+        "name_translated": {
+          "en": "energy",
+          "zh_tw": "活力",
+          "zh_cn": "活力",
+          "vi": "năng lượng",
+          "hi": "ऊर्जा",
+          "ru": "энергия",
+          "th": "พลังงาน",
+          "id": "energi",
+          "ms": "tenaga",
+          "ko": "에너지"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%82%A8%E3%83%8D%E3%83%AB%E3%82%AE%E3%83%BC&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%82%A8%E3%83%8D%E3%83%AB%E3%82%AE%E3%83%BC/?tag="
+      },
+      {
+        "name_ja": "242",
+        "amount": "kcal",
+        "name_translated": {
+          "en": "242",
+          "zh_tw": "第242章",
+          "zh_cn": "第242章",
+          "vi": "242",
+          "hi": "242",
+          "ru": "242",
+          "th": "242",
+          "id": "242",
+          "ms": "242",
+          "ko": "242"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=242&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/242/?tag="
+      },
+      {
+        "name_ja": "塩分",
+        "amount": "g",
+        "name_translated": {
+          "en": "salt",
+          "zh_tw": "鹽",
+          "zh_cn": "盐",
+          "vi": "muối",
+          "hi": "नमक",
+          "ru": "соль",
+          "th": "เกลือ",
+          "id": "garam",
+          "ms": "garam",
+          "ko": "염분"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E5%A1%A9%E5%88%86&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E5%A1%A9%E5%88%86/?tag="
+      },
+      {
+        "name_ja": "1.1",
+        "amount": "g",
+        "name_translated": {
+          "en": "1.1",
+          "zh_tw": "1.1",
+          "zh_cn": "1.1",
+          "vi": "1.1",
+          "hi": "1.1",
+          "ru": "1.1",
+          "th": "1.1",
+          "id": "1.1",
+          "ms": "1.1",
+          "ko": "1.1"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=1.1&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/1.1/?tag="
+      },
+      {
+        "name_ja": "たんぱく質",
+        "amount": "g",
+        "name_translated": {
+          "en": "protein",
+          "zh_tw": "蛋白質",
+          "zh_cn": "蛋白质",
+          "vi": "chất đạm",
+          "hi": "प्रोटीन",
+          "ru": "белок",
+          "th": "โปรตีน",
+          "id": "protein",
+          "ms": "protein",
+          "ko": "단백질"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%9F%E3%82%93%E3%81%B1%E3%81%8F%E8%B3%AA&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%9F%E3%82%93%E3%81%B1%E3%81%8F%E8%B3%AA/?tag="
+      },
+      {
+        "name_ja": "23.7",
+        "amount": "g",
+        "name_translated": {
+          "en": "23.7",
+          "zh_tw": "23.7",
+          "zh_cn": "23.7",
+          "vi": "23,7",
+          "hi": "23.7",
+          "ru": "23,7",
+          "th": "23.7",
+          "id": "23.7",
+          "ms": "23.7",
+          "ko": "23.7"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=23.7&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/23.7/?tag="
+      },
+      {
+        "name_ja": "脂質",
+        "amount": "g",
+        "name_translated": {
+          "en": "lipid",
+          "zh_tw": "脂質",
+          "zh_cn": "脂质",
+          "vi": "chất béo",
+          "hi": "लिपिड",
+          "ru": "липид",
+          "th": "ไขมัน",
+          "id": "lipid",
+          "ms": "lipid",
+          "ko": "지질"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E8%84%82%E8%B3%AA&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E8%84%82%E8%B3%AA/?tag="
+      },
+      {
+        "name_ja": "9.8",
+        "amount": "g",
+        "name_translated": {
+          "en": "9.8",
+          "zh_tw": "9.8",
+          "zh_cn": "9.8",
+          "vi": "9,8",
+          "hi": "9.8",
+          "ru": "9,8",
+          "th": "9.8",
+          "id": "9.8",
+          "ms": "9.8",
+          "ko": "9.8"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=9.8&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/9.8/?tag="
+      },
+      {
+        "name_ja": "もっと見る",
+        "amount": "適量",
+        "name_translated": {
+          "en": "See more",
+          "zh_tw": "看更多",
+          "zh_cn": "查看更多",
+          "vi": "Xem thêm",
+          "hi": "और देखें",
+          "ru": "Посмотреть больше",
+          "th": "ดูเพิ่มเติม",
+          "id": "Lihat selengkapnya",
+          "ms": "Lihat lagi",
+          "ko": "더 보기"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%82%82%E3%81%A3%E3%81%A8%E8%A6%8B%E3%82%8B&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%82%82%E3%81%A3%E3%81%A8%E8%A6%8B%E3%82%8B/?tag="
+      },
+      {
+        "name_ja": "マイレシピにも保存！",
+        "amount": "LINEに保存",
+        "name_translated": {
+          "en": "Save it to my recipes too!",
+          "zh_tw": "也將它保存到我的食譜中！",
+          "zh_cn": "也将它保存到我的食谱中！",
+          "vi": "Lưu nó vào công thức nấu ăn của tôi nữa!",
+          "hi": "इसे मेरे व्यंजनों में भी सहेजें!",
+          "ru": "Сохраняйте и вы в мои рецепты!",
+          "th": "บันทึกลงในสูตรของฉันด้วย!",
+          "id": "Simpan ke resep saya juga!",
+          "ms": "Simpan ke resipi saya juga!",
+          "ko": "마이 레시피에도 저장!"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9E%E3%82%A4%E3%83%AC%E3%82%B7%E3%83%94%E3%81%AB%E3%82%82%E4%BF%9D%E5%AD%98%EF%BC%81&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9E%E3%82%A4%E3%83%AC%E3%82%B7%E3%83%94%E3%81%AB%E3%82%82%E4%BF%9D%E5%AD%98%EF%BC%81/?tag="
+      },
+      {
+        "name_ja": "マイレシピに保存",
+        "amount": "-",
+        "name_translated": {
+          "en": "Save to My Recipe",
+          "zh_tw": "儲存到我的食譜",
+          "zh_cn": "保存到我的食谱",
+          "vi": "Lưu vào Công thức của tôi",
+          "hi": "मेरी रेसिपी में सहेजें",
+          "ru": "Сохранить в мой рецепт",
+          "th": "บันทึกลงในสูตรของฉัน",
+          "id": "Simpan ke Resep Saya",
+          "ms": "Simpan ke Resipi Saya",
+          "ko": "내 조리법에 저장"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9E%E3%82%A4%E3%83%AC%E3%82%B7%E3%83%94%E3%81%AB%E4%BF%9D%E5%AD%98&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9E%E3%82%A4%E3%83%AC%E3%82%B7%E3%83%94%E3%81%AB%E4%BF%9D%E5%AD%98/?tag="
+      },
+      {
+        "name_ja": "リンク",
+        "amount": "外部タブで開く",
+        "name_translated": {
+          "en": "link",
+          "zh_tw": "關聯",
+          "zh_cn": "关联",
+          "vi": "liên kết",
+          "hi": "जोड़ना",
+          "ru": "связь",
+          "th": "ลิงค์",
+          "id": "link",
+          "ms": "pautan",
+          "ko": "링크"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%AA%E3%83%B3%E3%82%AF&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%AA%E3%83%B3%E3%82%AF/?tag="
+      },
+      {
+        "name_ja": "材料",
+        "amount": "適量",
+        "name_translated": {
+          "en": "material",
+          "zh_tw": "材料",
+          "zh_cn": "材料",
+          "vi": "vật liệu",
+          "hi": "सामग्री",
+          "ru": "материал",
+          "th": "วัสดุ",
+          "id": "bahan",
+          "ms": "bahan",
+          "ko": "소재"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E6%9D%90%E6%96%99&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E6%9D%90%E6%96%99/?tag="
+      },
+      {
+        "name_ja": "つくり方",
+        "amount": "適量",
+        "name_translated": {
+          "en": "How to make",
+          "zh_tw": "如何製作",
+          "zh_cn": "如何制作",
+          "vi": "Làm thế nào để làm",
+          "hi": "कैसे बनाना है",
+          "ru": "Как сделать",
+          "th": "วิธีทำ",
+          "id": "Cara membuat",
+          "ms": "Cara membuat",
+          "ko": "만드는 법"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%A4%E3%81%8F%E3%82%8A%E6%96%B9&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%A4%E3%81%8F%E3%82%8A%E6%96%B9/?tag="
+      },
+      {
+        "name_ja": "1",
+        "amount": "にする。",
+        "name_translated": {
+          "en": "1",
+          "zh_tw": "1",
+          "zh_cn": "1",
+          "vi": "1",
+          "hi": "1",
+          "ru": "1",
+          "th": "1",
+          "id": "1",
+          "ms": "1",
+          "ko": "1"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=1&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/1/?tag="
+      },
+      {
+        "name_ja": "2",
+        "amount": "を入れて混ぜ合わせ、（１）の豚肉を加えてもみ込み、薄く薄力粉をまぶす。",
+        "name_translated": {
+          "en": "2",
+          "zh_tw": "2",
+          "zh_cn": "2",
+          "vi": "2",
+          "hi": "2",
+          "ru": "2",
+          "th": "2",
+          "id": "2",
+          "ms": "2",
+          "ko": "2"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=2&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/2/?tag="
+      },
+      {
+        "name_ja": "3",
+        "amount": "フライパンに油を熱し、（２）の豚肉を入れて焼く。焼き色がついたら、裏返してサッと焼き、とろりとするまで煮からめる。",
+        "name_translated": {
+          "en": "3",
+          "zh_tw": "3",
+          "zh_cn": "3",
+          "vi": "3",
+          "hi": "3",
+          "ru": "3",
+          "th": "3",
+          "id": "3",
+          "ms": "3",
+          "ko": "3"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=3&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/3/?tag="
+      },
+      {
+        "name_ja": "4",
+        "amount": "器に盛り、（１）のキャベツを添える。",
+        "name_translated": {
+          "en": "4",
+          "zh_tw": "4",
+          "zh_cn": "4",
+          "vi": "4",
+          "hi": "4",
+          "ru": "4",
+          "th": "4",
+          "id": "4",
+          "ms": "4",
+          "ko": "4"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=4&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/4/?tag="
+      },
+      {
+        "name_ja": "20分以内",
+        "amount": "適量",
+        "name_translated": {
+          "en": "Within 20 minutes",
+          "zh_tw": "20分鐘內",
+          "zh_cn": "20分钟内",
+          "vi": "Trong vòng 20 phút",
+          "hi": "20 मिनट के अंदर",
+          "ru": "В течение 20 минут",
+          "th": "ภายใน 20 นาที",
+          "id": "Dalam waktu 20 menit",
+          "ms": "Dalam masa 20 minit",
+          "ko": "20분 이내"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=20%E5%88%86%E4%BB%A5%E5%86%85&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/20%E5%88%86%E4%BB%A5%E5%86%85/?tag="
+      },
+      {
+        "name_ja": "簡単・時短",
+        "amount": "適量",
+        "name_translated": {
+          "en": "Easy and time saving",
+          "zh_tw": "簡單又省時",
+          "zh_cn": "简单又省时",
+          "vi": "Dễ dàng và tiết kiệm thời gian",
+          "hi": "आसान और समय की बचत",
+          "ru": "Легко и экономит время",
+          "th": "ง่ายและประหยัดเวลา",
+          "id": "Mudah dan menghemat waktu",
+          "ms": "Mudah dan menjimatkan masa",
+          "ko": "간단・시단"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E7%B0%A1%E5%8D%98%E3%83%BB%E6%99%82%E7%9F%AD&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E7%B0%A1%E5%8D%98%E3%83%BB%E6%99%82%E7%9F%AD/?tag="
+      },
+      {
+        "name_ja": "豚肉",
+        "amount": "適量",
+        "name_translated": {
+          "en": "pork",
+          "zh_tw": "豬肉",
+          "zh_cn": "猪肉",
+          "vi": "thịt lợn",
+          "hi": "सुअर का माँस",
+          "ru": "свинина",
+          "th": "เนื้อหมู",
+          "id": "babi",
+          "ms": "daging babi",
+          "ko": "돼지고기"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E8%B1%9A%E8%82%89&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E8%B1%9A%E8%82%89/?tag="
+      },
+      {
+        "name_ja": "メイン料理",
+        "amount": "適量",
+        "name_translated": {
+          "en": "main dish",
+          "zh_tw": "主菜",
+          "zh_cn": "主菜",
+          "vi": "món chính",
+          "hi": "मुख्य पकवान",
+          "ru": "основное блюдо",
+          "th": "อาหารจานหลัก",
+          "id": "hidangan utama",
+          "ms": "hidangan utama",
+          "ko": "메인 요리"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%A1%E3%82%A4%E3%83%B3%E6%96%99%E7%90%86&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%A1%E3%82%A4%E3%83%B3%E6%96%99%E7%90%86/?tag="
+      },
+      {
+        "name_ja": "和風",
+        "amount": "適量",
+        "name_translated": {
+          "en": "Japanese style",
+          "zh_tw": "日式風格",
+          "zh_cn": "日式风格",
+          "vi": "phong cách Nhật Bản",
+          "hi": "जापानी शैली में",
+          "ru": "Японский стиль",
+          "th": "สไตล์ญี่ปุ่น",
+          "id": "gaya Jepang",
+          "ms": "gaya Jepun",
+          "ko": "일본식"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E5%92%8C%E9%A2%A8&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E5%92%8C%E9%A2%A8/?tag="
+      },
+      {
+        "name_ja": "勝ち飯",
+        "amount": "適量",
+        "name_translated": {
+          "en": "Katsumeshi",
+          "zh_tw": "勝目",
+          "zh_cn": "胜目",
+          "vi": "Katsumeshi",
+          "hi": "कत्सुमेशी",
+          "ru": "Кацумеши",
+          "th": "คัตสึเมชิ",
+          "id": "Katsumeshi",
+          "ms": "Katsumeshi",
+          "ko": "승리 밥"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E5%8B%9D%E3%81%A1%E9%A3%AF&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E5%8B%9D%E3%81%A1%E9%A3%AF/?tag="
+      },
+      {
+        "name_ja": "Cook Do®",
+        "amount": "適量",
+        "name_translated": {
+          "en": "Cook Do®",
+          "zh_tw": "庫克多®",
+          "zh_cn": "库克多®",
+          "vi": "Nấu Ăn®",
+          "hi": "कुक डू®",
+          "ru": "Кук До®",
+          "th": "คุกดู®",
+          "id": "Masak Lakukan®",
+          "ms": "Masak Do®",
+          "ko": "Cook Do®"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=Cook%20Do%C2%AE&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/Cook%20Do%C2%AE/?tag="
+      }
+    ],
+    "steps_ja": [
+      "豚肉はスジ切りをする。キャベツは太めのせん切りにする。",
+      "ボウルにＡを入れて混ぜ合わせ、（１）の豚肉を加えてもみ込み、薄く薄力粉をまぶす。",
+      "フライパンに油を熱し、（２）の豚肉を入れて焼く。焼き色がついたら、裏返してサッと焼き、とろりとするまで煮からめる。",
+      "器に盛り、（１）のキャベツを添える。"
+    ],
+    "image_url": "https://images.weserv.nl/?url=https://images.microcms-assets.io/assets/3834bb6c71eb4fdd912121537b20e72d/746911eb032a4eb88f49042759cf1e31/recipe_main_image_800730.jpg?fm=webp&q=60&fit=min&w=600&output=jpg",
+    "title": {
+      "en": "Grilled pork with ginger",
+      "zh_tw": "薑汁烤肉",
+      "zh_cn": "姜汁烤肉",
+      "vi": "Thịt lợn nướng gừng",
+      "hi": "अदरक के साथ ग्रील्ड सूअर का मांस",
+      "ru": "Жареная свинина с имбирем",
+      "th": "หมูย่างขิง",
+      "id": "Daging babi panggang dengan jahe",
+      "ms": "Daging babi panggang dengan halia",
+      "ko": "돼지고기 오이스 생강 구이"
+    },
+    "description": {
+      "en": "",
+      "zh_tw": "",
+      "zh_cn": "",
+      "vi": "",
+      "hi": "",
+      "ru": "",
+      "th": "",
+      "id": "",
+      "ms": "",
+      "ko": ""
+    },
+    "steps": {
+      "en": [
+        "Cut the pork into strips. Cut the cabbage into thick slices.",
+        "Put A into a bowl and mix. Add the pork from (1) and rub it in. Sprinkle lightly with flour.",
+        "Heat oil in a frying pan, add pork from (2) and fry. When browned, flip it over and fry it quickly, then boil it until it becomes thick.",
+        "Place in a bowl and add the cabbage from (1)."
+      ],
+      "zh_tw": [
+        "將豬肉切成條。將高麗菜切成厚片。",
+        "將A放入碗中並混合。加入（1）的豬肉並揉勻。輕輕撒上麵粉。",
+        "鍋中燒熱油，加入(2)的豬肉炒香。焦黃後，翻面快速煎，然後煮至濃稠。",
+        "放入碗中，加入 (1) 的高麗菜。"
+      ],
+      "zh_cn": [
+        "将猪肉切成条。将卷心菜切成厚片。",
+        "将A放入碗中并混合。加入（1）的猪肉并揉匀。轻轻撒上面粉。",
+        "锅中烧热油，加入(2)的猪肉炒香。焦黄后，翻面快速煎，然后煮至浓稠。",
+        "放入碗中，加入 (1) 中的卷心菜。"
+      ],
+      "vi": [
+        "Cắt thịt lợn thành dải. Cắt bắp cải thành lát dày.",
+        "Cho A vào tô và trộn đều. Thêm thịt lợn từ (1) vào và chà xát. Rắc nhẹ bột mì.",
+        "Đun nóng dầu trong chảo, cho thịt lợn vào (2) vào chiên. Khi chín vàng, lật lại và chiên nhanh, sau đó đun sôi cho đến khi đặc lại.",
+        "Cho vào tô và thêm bắp cải từ (1)."
+      ],
+      "hi": [
+        "सूअर के मांस को स्ट्रिप्स में काटें। पत्तागोभी को मोटे टुकड़ों में काट लीजिये.",
+        "ए को एक बाउल में डालें और मिलाएँ। (1) से सूअर का मांस जोड़ें और इसे रगड़ें। आटे के साथ हल्के से छिड़कें।",
+        "एक फ्राइंग पैन में तेल गरम करें, उसमें (2) से पोर्क डालें और भूनें। ब्राउन होने पर इसे पलट दीजिए और जल्दी से भून लीजिए, फिर इसे गाढ़ा होने तक उबाल लीजिए.",
+        "एक कटोरे में रखें और (1) से पत्तागोभी डालें।"
+      ],
+      "ru": [
+        "Нарезаем свинину полосками. Капусту нарезаем толстыми ломтиками.",
+        "Положите А в миску и перемешайте. Добавьте свинину из (1) и натрите ее. Слегка посыпьте мукой.",
+        "Нагрейте масло на сковороде, добавьте свинину из (2) и обжарьте. Когда он подрумянится, переверните его и быстро обжарьте, затем отварите, пока он не станет густым.",
+        "Поместите в миску и добавьте капусту из (1)."
+      ],
+      "th": [
+        "หั่นหมูเป็นเส้น ตัดกะหล่ำปลีเป็นชิ้นหนา",
+        "ใส่ A ลงในชามแล้วผสม ใส่หมูตาม (1) ลงไป โรยแป้งเล็กน้อย",
+        "ตั้งน้ำมันให้ร้อนในกระทะ ใส่หมูจาก (2) แล้วทอด เมื่อเป็นสีน้ำตาล ให้พลิกกลับด้านแล้วทอดอย่างรวดเร็ว จากนั้นต้มจนข้น",
+        "วางในชามแล้วใส่กะหล่ำปลีจาก (1)"
+      ],
+      "id": [
+        "Potong daging babi menjadi potongan-potongan. Potong kubis menjadi irisan tebal.",
+        "Masukkan A ke dalam mangkuk dan aduk. Tambahkan daging babi dari (1) dan gosok. Taburi sedikit tepung.",
+        "Panaskan minyak dalam wajan, masukkan daging babi dari (2) dan goreng. Jika sudah kecoklatan, balikkan dan goreng cepat, lalu rebus hingga kental.",
+        "Tempatkan dalam mangkuk dan tambahkan kubis dari (1)."
+      ],
+      "ms": [
+        "Potong daging babi ke dalam jalur. Potong kubis menjadi kepingan tebal.",
+        "Masukkan A ke dalam mangkuk dan gaulkan. Masukkan daging babi daripada (1) dan gosokkannya. Taburkan sedikit tepung.",
+        "Panaskan minyak dalam kuali, masukkan daging babi dari (2) dan goreng. Apabila sudah keperangan, balikkan dan goreng dengan cepat, kemudian rebus hingga pekat.",
+        "Letakkan dalam mangkuk dan tambah kubis dari (1)."
+      ],
+      "ko": [
+        "돼지고기는 줄기를 자른다. 양배추는 굵은 전단으로 만든다.",
+        "그릇에 A를 넣고 섞어 (1)의 돼지고기를 넣어 넣고 얇게 박력분을 뿌린다.",
+        "프라이팬에 기름을 가열하고 (2)의 돼지고기를 넣고 굽는다. 구운 색이 붙으면 뒤집어 살짝 구워, 녹일 때까지 끓인다.",
+        "그릇에 담고 (1) 양배추를 곁들인다."
+      ]
+    }
   }
 ]

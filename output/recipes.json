@@ -303459,5 +303459,1205 @@
         "오크라로 만든 돼지 장미 스태미나 볶음"
       ]
     }
+  },
+  {
+    "id": "fd9a15ac",
+    "source_url": "https://www.mizkan.co.jp/ouchirecipe/recipe/?menu_id=12098",
+    "source_site": "Mizkan",
+    "title_ja": "チキンとブロッコリーのジャーサラダ",
+    "description_ja": "",
+    "ingredients": [
+      {
+        "name_ja": "ミックスビーンズ",
+        "amount": "１１０ｇ",
+        "name_translated": {
+          "en": "mixed beans",
+          "zh_tw": "混合豆",
+          "zh_cn": "混合豆",
+          "vi": "đậu trộn",
+          "hi": "मिश्रित फलियाँ",
+          "ru": "смешанная фасоль",
+          "th": "ถั่วผสม",
+          "id": "kacang campur",
+          "ms": "kacang campur",
+          "ko": "믹스 콩"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E3%83%93%E3%83%BC%E3%83%B3%E3%82%BA&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E3%83%93%E3%83%BC%E3%83%B3%E3%82%BA/?tag="
+      },
+      {
+        "name_ja": "コーン缶　（ホール）",
+        "amount": "１２０ｇ",
+        "name_translated": {
+          "en": "Canned corn (whole)",
+          "zh_tw": "玉米罐頭（整顆）",
+          "zh_cn": "玉米罐头（整粒）",
+          "vi": "Ngô đóng hộp (nguyên hạt)",
+          "hi": "डिब्बाबंद मक्का (संपूर्ण)",
+          "ru": "Консервированная кукуруза (цельная)",
+          "th": "ข้าวโพดกระป๋อง(ทั้ง)",
+          "id": "Jagung kalengan (utuh)",
+          "ms": "Jagung tin (keseluruhan)",
+          "ko": "콘캔(홀)"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%82%B3%E3%83%BC%E3%83%B3%E7%BC%B6%E3%80%80%EF%BC%88%E3%83%9B%E3%83%BC%E3%83%AB%EF%BC%89&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%82%B3%E3%83%BC%E3%83%B3%E7%BC%B6%E3%80%80%EF%BC%88%E3%83%9B%E3%83%BC%E3%83%AB%EF%BC%89/?tag="
+      },
+      {
+        "name_ja": "くるみ",
+        "amount": "５０ｇ",
+        "name_translated": {
+          "en": "walnut",
+          "zh_tw": "核桃",
+          "zh_cn": "核桃",
+          "vi": "quả óc chó",
+          "hi": "अखरोट",
+          "ru": "грецкий орех",
+          "th": "วอลนัท",
+          "id": "kenari",
+          "ms": "kenari",
+          "ko": "호두"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%8F%E3%82%8B%E3%81%BF&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%8F%E3%82%8B%E3%81%BF/?tag="
+      },
+      {
+        "name_ja": "赤パプリカ",
+        "amount": "１／２個",
+        "name_translated": {
+          "en": "red paprika",
+          "zh_tw": "紅辣椒粉",
+          "zh_cn": "红辣椒粉",
+          "vi": "ớt đỏ",
+          "hi": "लाल शिमला मिर्च",
+          "ru": "красная паприка",
+          "th": "พริกหยวกแดง",
+          "id": "paprika merah",
+          "ms": "paprika merah",
+          "ko": "레드 파프리카"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E8%B5%A4%E3%83%91%E3%83%97%E3%83%AA%E3%82%AB&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E8%B5%A4%E3%83%91%E3%83%97%E3%83%AA%E3%82%AB/?tag="
+      },
+      {
+        "name_ja": "うずら卵　（水煮）",
+        "amount": "１０個",
+        "name_translated": {
+          "en": "Quail eggs (boiled)",
+          "zh_tw": "鵪鶉蛋（煮）",
+          "zh_cn": "鹌鹑蛋（煮）",
+          "vi": "Trứng cút (luộc)",
+          "hi": "बटेर अंडे (उबले हुए)",
+          "ru": "Яйца перепелиные (вареные)",
+          "th": "ไข่นกกระทา (ต้ม)",
+          "id": "Telur puyuh (direbus)",
+          "ms": "Telur puyuh (rebus)",
+          "ko": "메추라기 달걀 (물 조림)"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%86%E3%81%9A%E3%82%89%E5%8D%B5%E3%80%80%EF%BC%88%E6%B0%B4%E7%85%AE%EF%BC%89&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%86%E3%81%9A%E3%82%89%E5%8D%B5%E3%80%80%EF%BC%88%E6%B0%B4%E7%85%AE%EF%BC%89/?tag="
+      },
+      {
+        "name_ja": "蒸し鶏",
+        "amount": "９０ｇ",
+        "name_translated": {
+          "en": "steamed chicken",
+          "zh_tw": "蒸雞",
+          "zh_cn": "蒸鸡",
+          "vi": "gà hấp",
+          "hi": "उबले हुए चिकन",
+          "ru": "курица на пару",
+          "th": "ไก่นึ่ง",
+          "id": "ayam kukus",
+          "ms": "ayam kukus",
+          "ko": "찐닭"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E8%92%B8%E3%81%97%E9%B6%8F&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E8%92%B8%E3%81%97%E9%B6%8F/?tag="
+      },
+      {
+        "name_ja": "ブロッコリー",
+        "amount": "１２０ｇ",
+        "name_translated": {
+          "en": "broccoli",
+          "zh_tw": "綠色花椰菜",
+          "zh_cn": "西兰花",
+          "vi": "bông cải xanh",
+          "hi": "ब्रोकोली",
+          "ru": "брокколи",
+          "th": "บรอกโคลี",
+          "id": "brokoli",
+          "ms": "brokoli",
+          "ko": "브로콜리"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%96%E3%83%AD%E3%83%83%E3%82%B3%E3%83%AA%E3%83%BC&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%96%E3%83%AD%E3%83%83%E3%82%B3%E3%83%AA%E3%83%BC/?tag="
+      },
+      {
+        "name_ja": "ミツカン　カンタン酢",
+        "amount": "大さじ５",
+        "name_translated": {
+          "en": "Mizkan Kantan Vinegar",
+          "zh_tw": "味滋康甘丹醋",
+          "zh_cn": "味滋康甘丹醋",
+          "vi": "Giấm Mizkan Kantan",
+          "hi": "मिज़कान कंटन सिरका",
+          "ru": "Мизкан Кантанский уксус",
+          "th": "น้ำส้มสายชูมิซกัน กันตัน",
+          "id": "Cuka Mizkan Kantan",
+          "ms": "Cuka Mizkan Kantan",
+          "ko": "미츠칸 칸탄초"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E3%82%AB%E3%83%B3%E3%82%BF%E3%83%B3%E9%85%A2&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E3%82%AB%E3%83%B3%E3%82%BF%E3%83%B3%E9%85%A2/?tag="
+      },
+      {
+        "name_ja": "ｴｸｽﾄﾗﾊﾞｰｼﾞﾝ ｵﾘｰﾌﾞｵｲﾙ",
+        "amount": "大さじ２と１／２",
+        "name_translated": {
+          "en": "Extra version olive oil",
+          "zh_tw": "額外版橄欖油",
+          "zh_cn": "额外版橄榄油",
+          "vi": "Dầu ô liu phiên bản bổ sung",
+          "hi": "अतिरिक्त संस्करण जैतून का तेल",
+          "ru": "Экстра версия оливкового масла",
+          "th": "น้ำมันมะกอกรุ่นพิเศษ",
+          "id": "Minyak zaitun versi ekstra",
+          "ms": "Minyak zaitun versi tambahan",
+          "ko": "익스트라 버진 오리브 오일"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BD%B4%EF%BD%B8%EF%BD%BD%EF%BE%84%EF%BE%97%EF%BE%8A%EF%BE%9E%EF%BD%B0%EF%BD%BC%EF%BE%9E%EF%BE%9D%20%EF%BD%B5%EF%BE%98%EF%BD%B0%EF%BE%8C%EF%BE%9E%EF%BD%B5%EF%BD%B2%EF%BE%99&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BD%B4%EF%BD%B8%EF%BD%BD%EF%BE%84%EF%BE%97%EF%BE%8A%EF%BE%9E%EF%BD%B0%EF%BD%BC%EF%BE%9E%EF%BE%9D%20%EF%BD%B5%EF%BE%98%EF%BD%B0%EF%BE%8C%EF%BE%9E%EF%BD%B5%EF%BD%B2%EF%BE%99/?tag="
+      },
+      {
+        "name_ja": "粗挽き黒こしょう",
+        "amount": "適量",
+        "name_translated": {
+          "en": "coarsely ground black pepper",
+          "zh_tw": "粗磨黑胡椒",
+          "zh_cn": "粗磨黑胡椒",
+          "vi": "hạt tiêu đen xay thô",
+          "hi": "दरदरी पिसी हुई काली मिर्च",
+          "ru": "черный перец грубого помола",
+          "th": "พริกไทยดำป่นหยาบ",
+          "id": "lada hitam yang digiling kasar",
+          "ms": "lada hitam yang dikisar kasar",
+          "ko": "거친 까만 후추"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E7%B2%97%E6%8C%BD%E3%81%8D%E9%BB%92%E3%81%93%E3%81%97%E3%82%87%E3%81%86&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E7%B2%97%E6%8C%BD%E3%81%8D%E9%BB%92%E3%81%93%E3%81%97%E3%82%87%E3%81%86/?tag="
+      },
+      {
+        "name_ja": "１",
+        "amount": "ふた付きの密閉が出来るビンを用意する。",
+        "name_translated": {
+          "en": "1",
+          "zh_tw": "1",
+          "zh_cn": "1",
+          "vi": "1",
+          "hi": "1",
+          "ru": "1",
+          "th": "1",
+          "id": "1",
+          "ms": "1",
+          "ko": "1"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%91&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%91/?tag="
+      },
+      {
+        "name_ja": "２",
+        "amount": "にする。ブロッコリーはゆでる。",
+        "name_translated": {
+          "en": "2",
+          "zh_tw": "2",
+          "zh_cn": "2",
+          "vi": "2",
+          "hi": "2",
+          "ru": "2",
+          "th": "2",
+          "id": "2",
+          "ms": "2",
+          "ko": "2"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%92&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%92/?tag="
+      },
+      {
+        "name_ja": "３",
+        "amount": "ビンに「カンタン酢」とオリーブオイル、粗びき黒こしょうをよく混ぜ合わせて入れる。",
+        "name_translated": {
+          "en": "3",
+          "zh_tw": "3",
+          "zh_cn": "3",
+          "vi": "3",
+          "hi": "3",
+          "ru": "3",
+          "th": "3",
+          "id": "3",
+          "ms": "3",
+          "ko": "3"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%93&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%93/?tag="
+      },
+      {
+        "name_ja": "４",
+        "amount": "ミックスビーンズ、コーン、くるみ、赤プリカ、うずらの卵、蒸し鶏、ブロッコリーの順に詰める。",
+        "name_translated": {
+          "en": "4",
+          "zh_tw": "4",
+          "zh_cn": "4",
+          "vi": "4",
+          "hi": "4",
+          "ru": "4",
+          "th": "4",
+          "id": "4",
+          "ms": "4",
+          "ko": "4"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%94&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%94/?tag="
+      },
+      {
+        "name_ja": "５",
+        "amount": "食べる際は深めの皿に全てあけ、全体をよく混ぜていただく。",
+        "name_translated": {
+          "en": "5",
+          "zh_tw": "5",
+          "zh_cn": "5",
+          "vi": "5",
+          "hi": "5",
+          "ru": "5",
+          "th": "5",
+          "id": "5",
+          "ms": "5",
+          "ko": "5"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%95&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%95/?tag="
+      },
+      {
+        "name_ja": "注意点：冷蔵庫に保管し、その日のうちにお召し上がりください。",
+        "amount": "適量",
+        "name_translated": {
+          "en": "Note: Store in the refrigerator and consume within the same day.",
+          "zh_tw": "注意：存放在冰箱中並在當天食用完畢。",
+          "zh_cn": "注意：存放在冰箱中并在当天食用完毕。",
+          "vi": "Lưu ý: Bảo quản trong tủ lạnh và dùng trong ngày.",
+          "hi": "नोट: रेफ्रिजरेटर में रखें और एक ही दिन में उपभोग करें।",
+          "ru": "Примечание. Храните в холодильнике и употребите в тот же день.",
+          "th": "หมายเหตุ: เก็บในตู้เย็นและบริโภคภายในวันเดียวกัน",
+          "id": "Catatan: Simpan di lemari es dan konsumsi pada hari yang sama.",
+          "ms": "Nota: Simpan di dalam peti sejuk dan makan dalam hari yang sama.",
+          "ko": "주의점 : 냉장고에 보관하고 그 날에 드세요."
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E6%B3%A8%E6%84%8F%E7%82%B9%EF%BC%9A%E5%86%B7%E8%94%B5%E5%BA%AB%E3%81%AB%E4%BF%9D%E7%AE%A1%E3%81%97%E3%80%81%E3%81%9D%E3%81%AE%E6%97%A5%E3%81%AE%E3%81%86%E3%81%A1%E3%81%AB%E3%81%8A%E5%8F%AC%E3%81%97%E4%B8%8A%E3%81%8C%E3%82%8A%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E3%80%82&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E6%B3%A8%E6%84%8F%E7%82%B9%EF%BC%9A%E5%86%B7%E8%94%B5%E5%BA%AB%E3%81%AB%E4%BF%9D%E7%AE%A1%E3%81%97%E3%80%81%E3%81%9D%E3%81%AE%E6%97%A5%E3%81%AE%E3%81%86%E3%81%A1%E3%81%AB%E3%81%8A%E5%8F%AC%E3%81%97%E4%B8%8A%E3%81%8C%E3%82%8A%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E3%80%82/?tag="
+      },
+      {
+        "name_ja": "約１Ｌ入る容器を使用した場合の分量になります。",
+        "amount": "適量",
+        "name_translated": {
+          "en": "This is the amount when using a container that can hold approximately 1L.",
+          "zh_tw": "這是使用可容納約 1L 的容器時的量。",
+          "zh_cn": "这是使用可容纳约 1L 的容器时的量。",
+          "vi": "Đây là số tiền khi sử dụng bình chứa có thể chứa khoảng 1L.",
+          "hi": "किसी कंटेनर का उपयोग करते समय यह वह मात्रा होती है जिसमें लगभग 1L समा सकता है।",
+          "ru": "Это количество при использовании контейнера емкостью примерно 1 л.",
+          "th": "นี่คือปริมาณเมื่อใช้ภาชนะที่สามารถบรรจุได้ประมาณ 1 ลิตร",
+          "id": "Ini adalah jumlah bila menggunakan wadah yang mampu menampung kurang lebih 1L.",
+          "ms": "Ini adalah jumlah apabila menggunakan bekas yang boleh memuatkan lebih kurang 1L.",
+          "ko": "약 1L 들어가는 용기를 사용했을 경우의 분량이 됩니다."
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E7%B4%84%EF%BC%91%EF%BC%AC%E5%85%A5%E3%82%8B%E5%AE%B9%E5%99%A8%E3%82%92%E4%BD%BF%E7%94%A8%E3%81%97%E3%81%9F%E5%A0%B4%E5%90%88%E3%81%AE%E5%88%86%E9%87%8F%E3%81%AB%E3%81%AA%E3%82%8A%E3%81%BE%E3%81%99%E3%80%82&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E7%B4%84%EF%BC%91%EF%BC%AC%E5%85%A5%E3%82%8B%E5%AE%B9%E5%99%A8%E3%82%92%E4%BD%BF%E7%94%A8%E3%81%97%E3%81%9F%E5%A0%B4%E5%90%88%E3%81%AE%E5%88%86%E9%87%8F%E3%81%AB%E3%81%AA%E3%82%8A%E3%81%BE%E3%81%99%E3%80%82/?tag="
+      },
+      {
+        "name_ja": "メイソンジャーまたは金属製でないふたのビンをご使用ください。",
+        "amount": "適量",
+        "name_translated": {
+          "en": "Use mason jars or jars with non-metal lids.",
+          "zh_tw": "使用梅森罐或帶有非金屬蓋的罐子。",
+          "zh_cn": "使用梅森罐子或带非金属盖的罐子。",
+          "vi": "Sử dụng lọ thủy tinh hoặc lọ có nắp phi kim loại.",
+          "hi": "मेसन जार या गैर-धातु ढक्कन वाले जार का उपयोग करें।",
+          "ru": "Используйте каменные банки или банки с неметаллическими крышками.",
+          "th": "ใช้ขวดโหลหรือขวดโหลที่มีฝาปิดที่ไม่ใช่โลหะ",
+          "id": "Gunakan stoples mason atau stoples dengan tutup nonlogam.",
+          "ms": "Gunakan balang mason atau balang dengan penutup bukan logam.",
+          "ko": "메이슨 항아리 또는 금속이 아닌 뚜껑 병을 사용하십시오."
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%A1%E3%82%A4%E3%82%BD%E3%83%B3%E3%82%B8%E3%83%A3%E3%83%BC%E3%81%BE%E3%81%9F%E3%81%AF%E9%87%91%E5%B1%9E%E8%A3%BD%E3%81%A7%E3%81%AA%E3%81%84%E3%81%B5%E3%81%9F%E3%81%AE%E3%83%93%E3%83%B3%E3%82%92%E3%81%94%E4%BD%BF%E7%94%A8%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E3%80%82&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%A1%E3%82%A4%E3%82%BD%E3%83%B3%E3%82%B8%E3%83%A3%E3%83%BC%E3%81%BE%E3%81%9F%E3%81%AF%E9%87%91%E5%B1%9E%E8%A3%BD%E3%81%A7%E3%81%AA%E3%81%84%E3%81%B5%E3%81%9F%E3%81%AE%E3%83%93%E3%83%B3%E3%82%92%E3%81%94%E4%BD%BF%E7%94%A8%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E3%80%82/?tag="
+      }
+    ],
+    "steps_ja": [
+      "ふた付きの密閉が出来るビンを用意する。",
+      "くるみは半分に割る。蒸し鶏は手で裂いておく。うずらの卵は半分に切る。赤パプリカはみじん切りにする。ブロッコリーはゆでる。",
+      "ビンに「カンタン酢」とオリーブオイル、粗びき黒こしょうをよく混ぜ合わせて入れる。",
+      "ミックスビーンズ、コーン、くるみ、赤プリカ、うずらの卵、蒸し鶏、ブロッコリーの順に詰める。",
+      "食べる際は深めの皿に全てあけ、全体をよく混ぜていただく。",
+      "注意点：冷蔵庫に保管し、その日のうちにお召し上がりください。",
+      "約１Ｌ入る容器を使用した場合の分量になります。",
+      "メイソンジャーまたは金属製でないふたのビンをご使用ください。"
+    ],
+    "image_url": "",
+    "title": {
+      "en": "chicken and broccoli jar salad",
+      "zh_tw": "雞肉西蘭花罐沙拉",
+      "zh_cn": "鸡肉西兰花罐沙拉",
+      "vi": "salad gà và bông cải xanh",
+      "hi": "चिकन और ब्रोकोली जार सलाद",
+      "ru": "салат из банки с курицей и брокколи",
+      "th": "สลัดขวดไก่และบรอกโคลี",
+      "id": "salad toples ayam dan brokoli",
+      "ms": "salad balang ayam dan brokoli",
+      "ko": "닭고기와 브로콜리 샐러드"
+    },
+    "description": {
+      "en": "",
+      "zh_tw": "",
+      "zh_cn": "",
+      "vi": "",
+      "hi": "",
+      "ru": "",
+      "th": "",
+      "id": "",
+      "ms": "",
+      "ko": ""
+    },
+    "steps": {
+      "en": [
+        "Prepare a jar with a lid that can be sealed tightly.",
+        "Split the walnuts in half. Shred the steamed chicken by hand. Cut the quail eggs in half. Finely chop the red bell pepper. Boil the broccoli.",
+        "Mix ``simple vinegar'', olive oil, and coarsely ground black pepper in a bottle and put it in.",
+        "Stuff in the order of mixed beans, corn, walnuts, red pulika, quail eggs, steamed chicken, and broccoli.",
+        "When ready to eat, pour everything into a deep plate and mix well.",
+        "Note: Store in the refrigerator and consume within the same day.",
+        "This is the amount when using a container that can hold approximately 1L.",
+        "Use mason jars or jars with non-metal lids."
+      ],
+      "zh_tw": [
+        "準備一個有蓋的罐子，可以密封嚴實。",
+        "將核桃切成兩半。將蒸好的雞肉用手撕碎。將鵪鶉蛋切成兩半。將紅甜椒切碎。煮西蘭花。",
+        "將「簡單的醋」、橄欖油和粗磨的黑胡椒在瓶子中混合並放入。",
+        "順序是雜豆、玉米、核桃、紅普利卡、鵪鶉蛋、蒸雞和綠花椰菜。",
+        "準備吃時，將所有東西倒入深盤中並攪拌均勻。",
+        "注意：存放在冰箱中並在當天食用完畢。",
+        "這是使用可容納約 1L 的容器時的量。",
+        "使用梅森罐或帶有非金屬蓋的罐子。"
+      ],
+      "zh_cn": [
+        "准备一个有盖的罐子，可以密封严实。",
+        "将核桃切成两半。将蒸好的鸡肉用手撕碎。将鹌鹑蛋切成两半。将红甜椒切碎。煮西兰花。",
+        "将“简单的醋”、橄榄油和粗磨的黑胡椒在瓶子中混合并放入。",
+        "顺序是杂豆、玉米、核桃、红普利卡、鹌鹑蛋、蒸鸡和西兰花。",
+        "准备吃时，将所有东西倒入深盘中并搅拌均匀。",
+        "注意：存放在冰箱中并在当天食用完毕。",
+        "这是使用可容纳约 1L 的容器时的量。",
+        "使用梅森罐子或带非金属盖的罐子。"
+      ],
+      "vi": [
+        "Chuẩn bị một lọ có nắp đậy kín.",
+        "Chia quả óc chó làm đôi. Xé thịt gà hấp bằng tay. Cắt trứng cút làm đôi. Ớt chuông đỏ thái nhỏ. Luộc bông cải xanh.",
+        "Trộn ''giấm đơn giản'', dầu ô liu và hạt tiêu đen xay thô vào chai rồi cho vào.",
+        "Nhồi theo thứ tự đậu hỗn hợp, ngô, quả óc chó, bột giấy đỏ, trứng cút, gà hấp và bông cải xanh.",
+        "Khi đã sẵn sàng để ăn, đổ mọi thứ vào đĩa sâu lòng và trộn đều.",
+        "Lưu ý: Bảo quản trong tủ lạnh và dùng trong ngày.",
+        "Đây là số tiền khi sử dụng bình chứa có thể chứa khoảng 1L.",
+        "Sử dụng lọ thủy tinh hoặc lọ có nắp phi kim loại."
+      ],
+      "hi": [
+        "एक ढक्कन वाला जार तैयार करें जिसे कसकर सील किया जा सके।",
+        "अखरोट को आधा-आधा तोड़ लें। उबले हुए चिकन को हाथ से काट लें. बटेर के अण्डों को आधा काट लें। लाल शिमला मिर्च को बारीक काट लीजिये. ब्रोकली को उबाल लें.",
+        "``साधारण सिरका'', जैतून का तेल और दरदरी पिसी हुई काली मिर्च को एक बोतल में मिला लें और उसमें डाल दें।",
+        "मिश्रित बीन्स, मक्का, अखरोट, लाल पुलिका, बटेर अंडे, उबले हुए चिकन और ब्रोकोली के क्रम में सामान भरें।",
+        "खाने के लिए तैयार होने पर, सभी चीज़ों को एक गहरी प्लेट में डालें और अच्छी तरह मिलाएँ।",
+        "नोट: रेफ्रिजरेटर में रखें और एक ही दिन में उपभोग करें।",
+        "किसी कंटेनर का उपयोग करते समय यह वह मात्रा होती है जिसमें लगभग 1L समा सकता है।",
+        "मेसन जार या गैर-धातु ढक्कन वाले जार का उपयोग करें।"
+      ],
+      "ru": [
+        "Подготовьте банку с крышкой, которую можно плотно закрыть.",
+        "Разрезать грецкие орехи пополам. Нарезаем отварную курицу вручную. Перепелиные яйца разрежьте пополам. Мелко нарезаем красный болгарский перец. Отварить брокколи.",
+        "Смешайте в бутылке «простой уксус», оливковое масло и черный молотый перец и поместите туда.",
+        "Начинка в следующем порядке: смесь фасоли, кукурузы, грецких орехов, красной пулики, перепелиных яиц, курицы на пару и брокколи.",
+        "Когда все будет готово к употреблению, высыпьте все в глубокую тарелку и хорошо перемешайте.",
+        "Примечание. Храните в холодильнике и употребите в тот же день.",
+        "Это количество при использовании контейнера емкостью примерно 1 л.",
+        "Используйте каменные банки или банки с неметаллическими крышками."
+      ],
+      "th": [
+        "เตรียมขวดที่มีฝาปิดที่สามารถปิดผนึกได้แน่นหนา",
+        "แบ่งวอลนัทออกเป็นสองส่วน ฉีกไก่นึ่งด้วยมือ ตัดไข่นกกระทาลงครึ่งหนึ่ง สับพริกหยวกสีแดงอย่างประณีต ต้มบรอกโคลี.",
+        "ผสม ``น้ำส้มสายชูธรรมดา'' น้ำมันมะกอก และพริกไทยดำบดหยาบในขวดแล้วใส่ลงไป",
+        "เรียงตามลำดับถั่วผสม ข้าวโพด วอลนัท ปูลิก้าแดง ไข่นกกระทา ไก่นึ่ง และบรอกโคลี",
+        "เมื่อพร้อมรับประทาน เททุกอย่างลงในจานลึกแล้วผสมให้เข้ากัน",
+        "หมายเหตุ: เก็บในตู้เย็นและบริโภคภายในวันเดียวกัน",
+        "นี่คือปริมาณเมื่อใช้ภาชนะที่สามารถบรรจุได้ประมาณ 1 ลิตร",
+        "ใช้ขวดโหลหรือขวดโหลที่มีฝาปิดที่ไม่ใช่โลหะ"
+      ],
+      "id": [
+        "Siapkan toples yang tutupnya bisa ditutup rapat.",
+        "Belah kenari menjadi dua. Suwir ayam kukus dengan tangan. Potong telur puyuh menjadi dua. Cincang halus paprika merah. Rebus brokoli.",
+        "Campurkan ``cuka sederhana'', minyak zaitun, dan lada hitam yang digiling kasar ke dalam botol dan masukkan ke dalamnya.",
+        "Isiannya berupa kacang campur, jagung, kenari, pulika merah, telur puyuh, ayam kukus, dan brokoli.",
+        "Saat siap disantap, tuangkan semuanya ke dalam piring yang dalam dan aduk rata.",
+        "Catatan: Simpan di lemari es dan konsumsi pada hari yang sama.",
+        "Ini adalah jumlah bila menggunakan wadah yang mampu menampung kurang lebih 1L.",
+        "Gunakan stoples mason atau stoples dengan tutup nonlogam."
+      ],
+      "ms": [
+        "Sediakan balang dengan penutup yang boleh ditutup rapat.",
+        "Bahagikan walnut kepada separuh. Cincang ayam kukus dengan tangan. Potong telur puyuh separuh. Cincang halus lada benggala merah. Rebus brokoli.",
+        "Campurkan ``cuka ringkas'', minyak zaitun, dan lada hitam yang dikisar kasar dalam botol dan masukkan ke dalam.",
+        "Isi mengikut urutan kacang campur, jagung, walnut, pulika merah, telur puyuh, ayam kukus, dan brokoli.",
+        "Apabila sedia untuk dimakan, tuangkan semuanya ke dalam pinggan yang dalam dan gaul rata.",
+        "Nota: Simpan di dalam peti sejuk dan makan dalam hari yang sama.",
+        "Ini adalah jumlah apabila menggunakan bekas yang boleh memuatkan lebih kurang 1L.",
+        "Gunakan balang mason atau balang dengan penutup bukan logam."
+      ],
+      "ko": [
+        "뚜껑이 있는 밀폐가 가능한 병을 준비한다.",
+        "호두는 절반으로 나눕니다. 찐닭은 손으로 찢어 둔다. 메추라기 알은 반으로 자른다. 붉은 파프리카는 다진다. 브로콜리는 끓인다.",
+        "병에 \"간단 식초\"와 올리브 오일, 거칠고 검은 후추를 잘 섞어 넣는다.",
+        "믹스 콩, 옥수수, 호두, 레드 프리카, 메추라기 달걀, 찐 닭, 브로콜리의 순서로 포장.",
+        "먹을 때는 깊은 접시에 모두 뿌려 전체를 잘 섞어 준다.",
+        "주의점 : 냉장고에 보관하고 그 날에 드세요.",
+        "약 1L 들어가는 용기를 사용했을 경우의 분량이 됩니다.",
+        "메이슨 항아리 또는 금속이 아닌 뚜껑 병을 사용하십시오."
+      ]
+    }
+  },
+  {
+    "id": "077ad6e9",
+    "source_url": "https://www.mizkan.co.jp/ouchirecipe/recipe/?menu_id=20672",
+    "source_site": "Mizkan",
+    "title_ja": "「味ぽん」で作る！山形だし風",
+    "description_ja": "",
+    "ingredients": [
+      {
+        "name_ja": "オクラ",
+        "amount": "１袋（１００ｇ）",
+        "name_translated": {
+          "en": "okra",
+          "zh_tw": "秋葵",
+          "zh_cn": "秋葵",
+          "vi": "đậu bắp",
+          "hi": "ओकरा",
+          "ru": "бамия",
+          "th": "กระเจี๊ยบเขียว",
+          "id": "okra",
+          "ms": "bendi",
+          "ko": "오쿠라"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%82%AA%E3%82%AF%E3%83%A9&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%82%AA%E3%82%AF%E3%83%A9/?tag="
+      },
+      {
+        "name_ja": "きゅうり",
+        "amount": "１本",
+        "name_translated": {
+          "en": "cucumber",
+          "zh_tw": "黃瓜",
+          "zh_cn": "黄瓜",
+          "vi": "quả dưa chuột",
+          "hi": "खीरा",
+          "ru": "огурец",
+          "th": "แตงกวา",
+          "id": "timun",
+          "ms": "timun",
+          "ko": "오이"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%8D%E3%82%85%E3%81%86%E3%82%8A&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%8D%E3%82%85%E3%81%86%E3%82%8A/?tag="
+      },
+      {
+        "name_ja": "なす",
+        "amount": "１本",
+        "name_translated": {
+          "en": "Eggplant",
+          "zh_tw": "茄子",
+          "zh_cn": "茄子",
+          "vi": "cà tím",
+          "hi": "बैंगन",
+          "ru": "Баклажан",
+          "th": "มะเขือ",
+          "id": "Terung",
+          "ms": "terung",
+          "ko": "이루다"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%AA%E3%81%99&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%AA%E3%81%99/?tag="
+      },
+      {
+        "name_ja": "みょうが",
+        "amount": "２個",
+        "name_translated": {
+          "en": "Myoga",
+          "zh_tw": "妙荷",
+          "zh_cn": "妙荷",
+          "vi": "Myoga",
+          "hi": "मायोगा",
+          "ru": "Мёга",
+          "th": "เมียวกา",
+          "id": "Myoga",
+          "ms": "Myoga",
+          "ko": "미오가"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%BF%E3%82%87%E3%81%86%E3%81%8C&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%BF%E3%82%87%E3%81%86%E3%81%8C/?tag="
+      },
+      {
+        "name_ja": "青じそ",
+        "amount": "５枚",
+        "name_translated": {
+          "en": "Blue perilla",
+          "zh_tw": "藍紫蘇",
+          "zh_cn": "蓝紫苏",
+          "vi": "Tía tô xanh",
+          "hi": "नीला पेरिला",
+          "ru": "Голубая перилла",
+          "th": "เพริลล่าสีน้ำเงิน",
+          "id": "Perila biru",
+          "ms": "Perilla biru",
+          "ko": "청지소"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E9%9D%92%E3%81%98%E3%81%9D&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E9%9D%92%E3%81%98%E3%81%9D/?tag="
+      },
+      {
+        "name_ja": "ミツカン　味ぽん",
+        "amount": "大さじ５",
+        "name_translated": {
+          "en": "Mizkan Ajipon",
+          "zh_tw": "味滋康味精",
+          "zh_cn": "味滋康味精",
+          "vi": "Mizkan Ajipon",
+          "hi": "मिज़कान अजिपोन",
+          "ru": "Мизкан Аджипон",
+          "th": "มิซกัน อาจิปอน",
+          "id": "Mizkan Ajipon",
+          "ms": "Mizkan Ajipon",
+          "ko": "미츠칸 미포"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E5%91%B3%E3%81%BD%E3%82%93&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E5%91%B3%E3%81%BD%E3%82%93/?tag="
+      },
+      {
+        "name_ja": "水",
+        "amount": "１００ｍｌ",
+        "name_translated": {
+          "en": "water",
+          "zh_tw": "水",
+          "zh_cn": "水",
+          "vi": "Nước",
+          "hi": "पानी",
+          "ru": "вода",
+          "th": "น้ำ",
+          "id": "air",
+          "ms": "air",
+          "ko": "물"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E6%B0%B4&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E6%B0%B4/?tag="
+      },
+      {
+        "name_ja": "１",
+        "amount": "。なすは水にさらす。",
+        "name_translated": {
+          "en": "1",
+          "zh_tw": "1",
+          "zh_cn": "1",
+          "vi": "1",
+          "hi": "1",
+          "ru": "1",
+          "th": "1",
+          "id": "1",
+          "ms": "1",
+          "ko": "1"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%91&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%91/?tag="
+      },
+      {
+        "name_ja": "２",
+        "amount": "を入れ、＜Ａ＞を加えて、空気を抜いてジッパーをしめ、１時間ほど漬ける。",
+        "name_translated": {
+          "en": "2",
+          "zh_tw": "2",
+          "zh_cn": "2",
+          "vi": "2",
+          "hi": "2",
+          "ru": "2",
+          "th": "2",
+          "id": "2",
+          "ms": "2",
+          "ko": "2"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%92&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%92/?tag="
+      }
+    ],
+    "steps_ja": [
+      "オクラはゆでて冷水に取り、ヘタを切り落としガクのまわりを削り、５ｍｍ角に切る。きゅうり、なす、みょうが、青じそも同様に５ｍｍ角に切る。なすは水にさらす。",
+      "ジッパー付き保存袋に１を入れ、＜Ａ＞を加えて、空気を抜いてジッパーをしめ、１時間ほど漬ける。"
+    ],
+    "image_url": "",
+    "title": {
+      "en": "Make it with “Ajipon”! Yamagata dashi style",
+      "zh_tw": "用「Ajipon」來做吧！山形高湯風格",
+      "zh_cn": "用“Ajipon”来做吧！山形高汤风格",
+      "vi": "Hãy làm điều đó với “Ajipon”! Phong cách dashi Yamagata",
+      "hi": "इसे \"अजिपोन\" के साथ बनाएं! यामागाता दशी शैली",
+      "ru": "Сделайте это с «Аджипоном»! стиль Ямагата даси",
+      "th": "ทำมันด้วย “อาจิปอน”! สไตล์ยามากาตะดาชิ",
+      "id": "Buatlah dengan “Ajipon”! Gaya dashi Yamagata",
+      "ms": "Make it with “Ajipon”! Gaya dashi Yamagata",
+      "ko": "「아이폰」으로 만든다! 야마가타다시 바람"
+    },
+    "description": {
+      "en": "",
+      "zh_tw": "",
+      "zh_cn": "",
+      "vi": "",
+      "hi": "",
+      "ru": "",
+      "th": "",
+      "id": "",
+      "ms": "",
+      "ko": ""
+    },
+    "steps": {
+      "en": [
+        "Boil the okra, soak in cold water, cut off the stem, scrape around the calyx, and cut into 5mm cubes. Cut the cucumber, eggplant, ginger, and green perilla into 5mm pieces in the same way. Soak the eggplant in water.",
+        "Put 1 in a zippered storage bag, add <A>, remove the air, close the zipper, and soak for about 1 hour."
+      ],
+      "zh_tw": [
+        "將秋葵煮沸，用冷水浸泡，切去莖部，刮去花萼周圍，切成5毫米的方塊。黃瓜、茄子、薑、青紫蘇同樣切成5毫米的片。將茄子浸入水中。",
+        "ジッパー付き保存袋に１を入れ、＜Ａ＞を加えて、空気を抜いてジッパーをしめ、１時間ほど漬ける。"
+      ],
+      "zh_cn": [
+        "将秋葵煮沸，用冷水浸泡，切去茎部，刮去花萼周围，切成5毫米的方块。黄瓜、茄子、生姜、青紫苏同样切成5毫米的片。将茄子浸入水中。",
+        "将1份放入带拉链的收纳袋中，加入<A>，排除空气，拉紧拉链，浸泡约1小时。"
+      ],
+      "vi": [
+        "Đậu bắp luộc chín, ngâm trong nước lạnh, cắt bỏ cuống, cạo xung quanh đài hoa rồi cắt thành khối vuông 5mm. Tương tự, cắt dưa chuột, cà tím, gừng và tía tô xanh thành từng miếng 5 mm. Ngâm cà tím trong nước.",
+        "Cho 1 chiếc vào túi bảo quản có khóa kéo, thêm <A>, loại bỏ không khí, đóng khóa kéo và ngâm trong khoảng 1 giờ."
+      ],
+      "hi": [
+        "भिंडी को उबालें, ठंडे पानी में भिगोएँ, डंठल काट दें, कैलीक्स के चारों ओर खुरचें और 5 मिमी के क्यूब्स में काट लें। इसी तरह खीरा, बैंगन, अदरक और हरे पेरिला को 5 मिमी के टुकड़ों में काट लें। बैंगन को पानी में भिगो दीजिये.",
+        "1 को ज़िप वाले स्टोरेज बैग में रखें, <A> डालें, हवा हटा दें, ज़िपर बंद करें और लगभग 1 घंटे के लिए भिगो दें।"
+      ],
+      "ru": [
+        "Отварите бамию, замочите в холодной воде, отрежьте плодоножку, очистите чашечку и нарежьте кубиками по 5 мм. Таким же образом нарежьте огурец, баклажан, имбирь и зеленую периллу кусочками толщиной 5 мм. Замачиваем баклажаны в воде.",
+        "Положите 1 штуку в сумку для хранения на молнии, добавьте <A>, удалите воздух, закройте молнию и оставьте примерно на 1 час."
+      ],
+      "th": [
+        "ต้มกระเจี๊ยบเขียว แช่ในน้ำเย็น ตัดก้านออก ขูดรอบๆ กลีบเลี้ยง แล้วหั่นเป็นลูกบาศก์ขนาด 5 มม. หั่นแตงกวา มะเขือยาว ขิง และเพริลลาสีเขียวเป็นชิ้นขนาด 5 มม. ในลักษณะเดียวกัน แช่มะเขือยาวในน้ำ.",
+        "ใส่ 1 ลงในถุงซิปล็อค เติม <A> ไล่อากาศออก ปิดซิป และแช่ไว้ประมาณ 1 ชั่วโมง"
+      ],
+      "id": [
+        "Rebus okra, rendam dalam air dingin, potong batangnya, kikis sekeliling kelopaknya, dan potong dadu berukuran 5 mm. Potong mentimun, terong, jahe, dan perilla hijau menjadi potongan berukuran 5 mm dengan cara yang sama. Rendam terong dalam air.",
+        "Masukkan 1 ke dalam kantong penyimpanan beritsleting, tambahkan <A>, keluarkan udaranya, tutup ritsletingnya, dan rendam selama kurang lebih 1 jam."
+      ],
+      "ms": [
+        "Rebus bendi, rendam dalam air sejuk, potong batang, kikis di sekeliling kelopak, dan potong menjadi kiub 5mm. Potong timun, terung, halia, dan perilla hijau menjadi kepingan 5mm dengan cara yang sama. Rendam terung dalam air.",
+        "Masukkan 1 ke dalam beg penyimpanan berzip, tambah <A>, keluarkan udara, tutup zip dan rendam selama kira-kira 1 jam."
+      ],
+      "ko": [
+        "오크라는 삶아 냉수에 취해, 헤타를 잘라내어 굴의 주위를 깎고, 5 mm각으로 자른다. 오이, 이루기, 명이, 청지소도 마찬가지로 5mm각으로 자른다. 나스는 물에 노출됩니다.",
+        "지퍼가 달린 보존 봉투에 1을 넣고 <A>를 넣고 공기를 빼고 지퍼를 넣고 1 시간 정도 절인다."
+      ]
+    }
+  },
+  {
+    "id": "c9999d82",
+    "source_url": "https://www.mizkan.co.jp/ouchirecipe/recipe/?menu_id=24093",
+    "source_site": "Mizkan",
+    "title_ja": "かに風味かまぼことチーズの冷やし中華",
+    "description_ja": "",
+    "ingredients": [
+      {
+        "name_ja": "中華めん　（ゆで）",
+        "amount": "２玉",
+        "name_translated": {
+          "en": "Chinese noodles (boiled)",
+          "zh_tw": "中式麵條（煮）",
+          "zh_cn": "中式面条（煮）",
+          "vi": "Mì Trung Quốc (luộc)",
+          "hi": "चीनी नूडल्स (उबला हुआ)",
+          "ru": "Китайская лапша (отварная)",
+          "th": "บะหมี่จีน (ต้ม)",
+          "id": "Mie Cina (direbus)",
+          "ms": "中華めん　（ゆで）",
+          "ko": "중화 면(삶은)"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E4%B8%AD%E8%8F%AF%E3%82%81%E3%82%93%E3%80%80%EF%BC%88%E3%82%86%E3%81%A7%EF%BC%89&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E4%B8%AD%E8%8F%AF%E3%82%81%E3%82%93%E3%80%80%EF%BC%88%E3%82%86%E3%81%A7%EF%BC%89/?tag="
+      },
+      {
+        "name_ja": "かに風味かまぼこ",
+        "amount": "６本",
+        "name_translated": {
+          "en": "Crab flavored kamaboko",
+          "zh_tw": "蟹味魚糕",
+          "zh_cn": "蟹味鱼糕",
+          "vi": "Kamaboko vị cua",
+          "hi": "केकड़े के स्वाद वाला कामाबोको",
+          "ru": "Камабоко со вкусом краба",
+          "th": "คามาโบโกะรสปู",
+          "id": "Kamaboko rasa kepiting",
+          "ms": "Kamaboko berperisa ketam",
+          "ko": "게 풍미 어묵"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%8B%E3%81%AB%E9%A2%A8%E5%91%B3%E3%81%8B%E3%81%BE%E3%81%BC%E3%81%93&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%8B%E3%81%AB%E9%A2%A8%E5%91%B3%E3%81%8B%E3%81%BE%E3%81%BC%E3%81%93/?tag="
+      },
+      {
+        "name_ja": "きざみオクラ（冷凍）",
+        "amount": "６０ｇ",
+        "name_translated": {
+          "en": "Chopped okra (frozen)",
+          "zh_tw": "切碎的秋葵（冷凍）",
+          "zh_cn": "切碎的秋葵（冷冻）",
+          "vi": "Đậu bắp cắt nhỏ (đông lạnh)",
+          "hi": "कटी हुई भिंडी (जमी हुई)",
+          "ru": "Нарезанная бамия (замороженная)",
+          "th": "กระเจี๊ยบสับ (แช่แข็ง)",
+          "id": "Okra cincang (beku)",
+          "ms": "bendi cincang (beku)",
+          "ko": "키자미 오쿠라 (냉동)"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%8D%E3%81%96%E3%81%BF%E3%82%AA%E3%82%AF%E3%83%A9%EF%BC%88%E5%86%B7%E5%87%8D%EF%BC%89&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%8D%E3%81%96%E3%81%BF%E3%82%AA%E3%82%AF%E3%83%A9%EF%BC%88%E5%86%B7%E5%87%8D%EF%BC%89/?tag="
+      },
+      {
+        "name_ja": "ロースハム",
+        "amount": "２枚",
+        "name_translated": {
+          "en": "roast ham",
+          "zh_tw": "烤火腿",
+          "zh_cn": "烤火腿",
+          "vi": "giăm bông nướng",
+          "hi": "भुना हुआ हैम",
+          "ru": "жареная ветчина",
+          "th": "แฮมย่าง",
+          "id": "ham panggang",
+          "ms": "ham panggang",
+          "ko": "로스햄"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%AD%E3%83%BC%E3%82%B9%E3%83%8F%E3%83%A0&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%AD%E3%83%BC%E3%82%B9%E3%83%8F%E3%83%A0/?tag="
+      },
+      {
+        "name_ja": "スライスチーズ",
+        "amount": "２枚",
+        "name_translated": {
+          "en": "sliced ​​cheese",
+          "zh_tw": "起司片",
+          "zh_cn": "奶酪片",
+          "vi": "phô mai cắt lát",
+          "hi": "कटा हुआ पनीर",
+          "ru": "нарезанный сыр",
+          "th": "ชีสหั่นบาง ๆ",
+          "id": "irisan keju",
+          "ms": "hirisan keju",
+          "ko": "슬라이스 치즈"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%82%B9%E3%83%A9%E3%82%A4%E3%82%B9%E3%83%81%E3%83%BC%E3%82%BA&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%82%B9%E3%83%A9%E3%82%A4%E3%82%B9%E3%83%81%E3%83%BC%E3%82%BA/?tag="
+      },
+      {
+        "name_ja": "温泉卵",
+        "amount": "２個",
+        "name_translated": {
+          "en": "hot spring egg",
+          "zh_tw": "溫泉蛋",
+          "zh_cn": "温泉蛋",
+          "vi": "trứng suối nước nóng",
+          "hi": "गरम पानी का झरना अंडा",
+          "ru": "яйцо из горячего источника",
+          "th": "ไข่น้ำพุร้อน",
+          "id": "telur mata air panas",
+          "ms": "telur mata air panas",
+          "ko": "온천 계란"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E6%B8%A9%E6%B3%89%E5%8D%B5&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E6%B8%A9%E6%B3%89%E5%8D%B5/?tag="
+      },
+      {
+        "name_ja": "ミツカン  冷やし中華のつゆ　しょうゆ",
+        "amount": "適量",
+        "name_translated": {
+          "en": "Mizkan Hiyashi Chuka Soy Sauce",
+          "zh_tw": "味滋康冷中華醬油",
+          "zh_cn": "味滋康冷中华酱油",
+          "vi": "Nước tương Mizkan Hiyashi Chuka",
+          "hi": "मिज़कान हियाशी चूका सोया सॉस",
+          "ru": "Соевый соус Мизкан Хияси Чука",
+          "th": "มิซกัน ฮิยาชิ ชูกะ ซีอิ๊ว",
+          "id": "Kecap Mizkan Hiyashi Chuka",
+          "ms": "Mizkan Hiyashi Chuka Kicap",
+          "ko": "미쓰칸 차가운 중화의 츠유 간장"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%20%20%E5%86%B7%E3%82%84%E3%81%97%E4%B8%AD%E8%8F%AF%E3%81%AE%E3%81%A4%E3%82%86%E3%80%80%E3%81%97%E3%82%87%E3%81%86%E3%82%86&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%20%20%E5%86%B7%E3%82%84%E3%81%97%E4%B8%AD%E8%8F%AF%E3%81%AE%E3%81%A4%E3%82%86%E3%80%80%E3%81%97%E3%82%87%E3%81%86%E3%82%86/?tag="
+      },
+      {
+        "name_ja": "１",
+        "amount": "かに風味かまぼこは手で割く。オクラは耐熱容器に入れ、電子レンジ６００Wで１分加熱する。ハムはキッチンバサミで半分にカットし、更に１ｃｍ幅に切る。",
+        "name_translated": {
+          "en": "1",
+          "zh_tw": "1",
+          "zh_cn": "1",
+          "vi": "1",
+          "hi": "1",
+          "ru": "1",
+          "th": "1",
+          "id": "1",
+          "ms": "1",
+          "ko": "1"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%91&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%91/?tag="
+      },
+      {
+        "name_ja": "２",
+        "amount": "中華めんは表示の時間通りゆで、冷水にさらして水けをきる。",
+        "name_translated": {
+          "en": "2",
+          "zh_tw": "2",
+          "zh_cn": "2",
+          "vi": "2",
+          "hi": "2",
+          "ru": "2",
+          "th": "2",
+          "id": "2",
+          "ms": "2",
+          "ko": "2"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%92&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%92/?tag="
+      },
+      {
+        "name_ja": "３",
+        "amount": "と手でちぎったスライスチーズを彩りよくのせる。",
+        "name_translated": {
+          "en": "3",
+          "zh_tw": "3",
+          "zh_cn": "3",
+          "vi": "3",
+          "hi": "3",
+          "ru": "3",
+          "th": "3",
+          "id": "3",
+          "ms": "3",
+          "ko": "3"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%93&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%93/?tag="
+      },
+      {
+        "name_ja": "４",
+        "amount": "中央に温泉卵を割り入れ、「冷やし中華のつゆしょうゆ」を回しかける。",
+        "name_translated": {
+          "en": "4",
+          "zh_tw": "4",
+          "zh_cn": "4",
+          "vi": "4",
+          "hi": "4",
+          "ru": "4",
+          "th": "4",
+          "id": "4",
+          "ms": "4",
+          "ko": "4"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%94&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%94/?tag="
+      }
+    ],
+    "steps_ja": [
+      "かに風味かまぼこは手で割く。オクラは耐熱容器に入れ、電子レンジ６００Wで１分加熱する。ハムはキッチンバサミで半分にカットし、更に１ｃｍ幅に切る。",
+      "中華めんは表示の時間通りゆで、冷水にさらして水けをきる。",
+      "器に２を盛る。１と手でちぎったスライスチーズを彩りよくのせる。",
+      "中央に温泉卵を割り入れ、「冷やし中華のつゆしょうゆ」を回しかける。"
+    ],
+    "image_url": "",
+    "title": {
+      "en": "Crab-flavored kamaboko and cheese hiyashi chuka",
+      "zh_tw": "蟹味魚糕和起司凍中華",
+      "zh_cn": "蟹味鱼糕和奶酪冻中华",
+      "vi": "Hiyashi chuka vị cua và phô mai hiyashi chuka",
+      "hi": "केकड़े के स्वाद वाला कामाबोको और पनीर हियाशी चूका",
+      "ru": "Камабоко со вкусом краба и сыром хияси чука",
+      "th": "คามาโบโกะรสปูและฮิยาชิชูกะชีส",
+      "id": "Kamaboko rasa kepiting dan keju hiyashi chuka",
+      "ms": "かに風味かまぼことチーズの冷やし中華",
+      "ko": "게 맛 어묵 치즈의 차가운 중화"
+    },
+    "description": {
+      "en": "",
+      "zh_tw": "",
+      "zh_cn": "",
+      "vi": "",
+      "hi": "",
+      "ru": "",
+      "th": "",
+      "id": "",
+      "ms": "",
+      "ko": ""
+    },
+    "steps": {
+      "en": [
+        "Break up the crab-flavored kamaboko by hand. Place the okra in a heat-resistant container and heat in the microwave at 600W for 1 minute. Cut the ham in half with kitchen scissors, then cut into 1cm wide pieces.",
+        "Boil the Chinese noodles according to the instructions on the label, then drain under cold water.",
+        "Pour 2 into a bowl. 1. Top with sliced ​​cheese that you have torn by hand.",
+        "Crack a hot spring egg into the center and sprinkle with ``chilled Chinese soup soy sauce.''"
+      ],
+      "zh_tw": [
+        "將蟹味魚糕用手掰碎。將秋葵放入耐熱容器中，在微波爐中以600W加熱1分鐘。用廚房剪刀將火腿切成兩半，然後切成1公分寬的塊狀。",
+        "按照標籤上的說明將中國麵條煮沸，然後用冷水瀝乾。",
+        "將2倒入碗中。 1. 上面放上用手撕碎的起司片。",
+        "將溫泉蛋打入中間，撒上「冷湯醬油」。"
+      ],
+      "zh_cn": [
+        "将蟹味鱼糕用手掰碎。将秋葵放入耐热容器中，在微波炉中以600W加热1分钟。用厨房剪刀将火腿切成两半，然后切成1厘米宽的块。",
+        "按照标签上的说明将中国面条煮沸，然后用冷水沥干。",
+        "将2倒入碗中。 1. 上面放上用手撕碎的奶酪片。",
+        "将温泉蛋打入中间，撒上“冷汤酱油”。"
+      ],
+      "vi": [
+        "Dùng tay bẻ nhỏ kamaboko vị cua. Đặt đậu bắp vào hộp chịu nhiệt và hâm nóng trong lò vi sóng ở công suất 600W trong 1 phút. Cắt giăm bông làm đôi bằng kéo nhà bếp, sau đó cắt thành miếng rộng 1 cm.",
+        "Luộc mì Trung Quốc theo hướng dẫn trên nhãn, sau đó xả dưới nước lạnh.",
+        "Đổ 2 vào tô. 1. Phủ phô mai cắt lát mà bạn đã xé bằng tay lên trên.",
+        "Đập một quả trứng suối nước nóng vào giữa và rắc “nước tương ướp lạnh kiểu Trung Quốc”."
+      ],
+      "hi": [
+        "केकड़े के स्वाद वाले कामाबोको को हाथ से तोड़ लें। भिंडी को गर्मी प्रतिरोधी कंटेनर में रखें और माइक्रोवेव में 600W पर 1 मिनट के लिए गर्म करें। हैम को रसोई की कैंची से आधा काट लें, फिर 1 सेमी चौड़े टुकड़ों में काट लें।",
+        "चीनी नूडल्स को लेबल पर दिए निर्देशों के अनुसार उबालें, फिर ठंडे पानी में छान लें।",
+        "2 को एक कटोरे में डालें। 1. ऊपर से कटा हुआ पनीर डालें जो आपने हाथ से फाड़ा है।",
+        "बीच में एक गर्म पानी का अंडा फोड़ें और ``ठंडा चीनी सूप सोया सॉस'' छिड़कें।"
+      ],
+      "ru": [
+        "Разломайте камабоко со вкусом краба вручную. Поместите бамию в термостойкий контейнер и нагрейте в микроволновой печи при мощности 600 Вт в течение 1 минуты. Кухонными ножницами разрежьте ветчину пополам, затем нарежьте ее на кусочки шириной 1 см.",
+        "Отварите китайскую лапшу согласно инструкции на этикетке, затем слейте воду под холодную воду.",
+        "Вылейте 2 в миску. 1. Сверху положите нарезанный вручную сыр.",
+        "Разбейте яйцо из горячего источника в центр и посыпьте его «охлажденным соевым соусом для китайского супа»."
+      ],
+      "th": [
+        "แยกคามาโบโกะรสปูด้วยมือ ใส่กระเจี๊ยบเขียวลงในภาชนะทนความร้อน แล้วนำเข้าไมโครเวฟที่ 600W เป็นเวลา 1 นาที ผ่าครึ่งแฮมด้วยกรรไกรทำครัว แล้วหั่นเป็นชิ้นกว้าง 1 ซม.",
+        "ต้มบะหมี่จีนตามคำแนะนำบนฉลาก แล้วสะเด็ดน้ำด้วยน้ำเย็น",
+        "เท 2 ลงในชาม 1. โรยหน้าด้วยชีสสไลซ์ที่ฉีกด้วยมือ",
+        "ตอกไข่ออนเซ็นลงไปตรงกลางแล้วโรยด้วย ``ซีอิ๊วซุปจีนแช่เย็น''"
+      ],
+      "id": [
+        "Hancurkan kamaboko rasa kepiting dengan tangan. Tempatkan okra dalam wadah tahan panas dan panaskan dalam microwave dengan suhu 600W selama 1 menit. Potong ham menjadi dua dengan gunting dapur, lalu potong selebar 1 cm.",
+        "Rebus mie cina sesuai petunjuk pada label, lalu tiriskan dengan air dingin.",
+        "Tuang 2 ke dalam mangkuk. 1. Taburi atasnya dengan irisan keju yang sudah disobek dengan tangan.",
+        "Pecahkan telur mata air panas di tengahnya dan taburi dengan ``kecap sup Cina dingin.''"
+      ],
+      "ms": [
+        "Pecahkan kamaboko perisa ketam dengan tangan. Letakkan bendi dalam bekas tahan panas dan panaskan dalam ketuhar gelombang mikro pada 600W selama 1 minit. Potong ham separuh dengan gunting dapur, kemudian potong selebar 1cm.",
+        "Rebus mee Cina mengikut arahan pada label, kemudian toskan di bawah air sejuk.",
+        "Tuang 2 ke dalam mangkuk. 1. Teratas dengan hirisan keju yang telah anda koyak dengan tangan.",
+        "Pecahkan telur mata air panas ke tengah dan taburkan dengan ``kicap sup Cina sejuk.''"
+      ],
+      "ko": [
+        "게 풍미 어묵은 손으로 나눈다. 오크라는 내열 용기에 넣고 전자레인지 600W로 1분 가열한다. 햄은 주방 바사미로 반으로 잘라 1cm 폭으로 자른다.",
+        "중화면은 표시의 시간대로 삶은 냉수에 노출되어 물을 온다.",
+        "그릇에 2를 담는다. 1과 손으로 찢어진 슬라이스 치즈를 물들여 잘 얹는다.",
+        "중앙에 온천 달걀을 끼워 넣고 ‘차게 중화의 츠유 간장’을 돌린다."
+      ]
+    }
+  },
+  {
+    "id": "e2b901ee",
+    "source_url": "https://www.mizkan.co.jp/ouchirecipe/recipe/?menu_id=21039",
+    "source_site": "Mizkan",
+    "title_ja": "オクラとツナの無限おかずマリネ",
+    "description_ja": "",
+    "ingredients": [
+      {
+        "name_ja": "オクラ",
+        "amount": "２袋",
+        "name_translated": {
+          "en": "okra",
+          "zh_tw": "秋葵",
+          "zh_cn": "秋葵",
+          "vi": "đậu bắp",
+          "hi": "ओकरा",
+          "ru": "бамия",
+          "th": "กระเจี๊ยบเขียว",
+          "id": "okra",
+          "ms": "bendi",
+          "ko": "오쿠라"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%82%AA%E3%82%AF%E3%83%A9&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%82%AA%E3%82%AF%E3%83%A9/?tag="
+      },
+      {
+        "name_ja": "水菜",
+        "amount": "１株（５０ｇ）",
+        "name_translated": {
+          "en": "Mizuna",
+          "zh_tw": "水菜",
+          "zh_cn": "水菜",
+          "vi": "mizuna",
+          "hi": "मिज़ुना",
+          "ru": "Мизуна",
+          "th": "มิซูน่า",
+          "id": "Mizuna",
+          "ms": "Mizuna",
+          "ko": "수채"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E6%B0%B4%E8%8F%9C&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E6%B0%B4%E8%8F%9C/?tag="
+      },
+      {
+        "name_ja": "ツナ缶",
+        "amount": "１缶（７０ｇ）",
+        "name_translated": {
+          "en": "canned tuna",
+          "zh_tw": "鮪魚罐頭",
+          "zh_cn": "金枪鱼罐头",
+          "vi": "cá ngừ đóng hộp",
+          "hi": "डिब्बाबंद टूना",
+          "ru": "консервированный тунец",
+          "th": "ปลาทูน่ากระป๋อง",
+          "id": "tuna kalengan",
+          "ms": "tuna dalam tin",
+          "ko": "참치캔"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%84%E3%83%8A%E7%BC%B6&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%84%E3%83%8A%E7%BC%B6/?tag="
+      },
+      {
+        "name_ja": "ミツカン　カンタン酢",
+        "amount": "大さじ４",
+        "name_translated": {
+          "en": "Mizkan Kantan Vinegar",
+          "zh_tw": "味滋康甘丹醋",
+          "zh_cn": "味滋康甘丹醋",
+          "vi": "Giấm Mizkan Kantan",
+          "hi": "मिज़कान कंटन सिरका",
+          "ru": "Мизкан Кантанский уксус",
+          "th": "น้ำส้มสายชูมิซกัน กันตัน",
+          "id": "Cuka Mizkan Kantan",
+          "ms": "Cuka Mizkan Kantan",
+          "ko": "미츠칸 칸탄초"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E3%82%AB%E3%83%B3%E3%82%BF%E3%83%B3%E9%85%A2&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E3%82%AB%E3%83%B3%E3%82%BF%E3%83%B3%E9%85%A2/?tag="
+      },
+      {
+        "name_ja": "１",
+        "amount": "オクラは斜めに２等分に切り、耐熱ボウルに入れ、ラップをかけて電子レンジ（６００Ｗ）で１分半加熱する。水菜は４ｃｍ長さに切る。",
+        "name_translated": {
+          "en": "1",
+          "zh_tw": "1",
+          "zh_cn": "1",
+          "vi": "1",
+          "hi": "1",
+          "ru": "1",
+          "th": "1",
+          "id": "1",
+          "ms": "1",
+          "ko": "1"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%91&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%91/?tag="
+      },
+      {
+        "name_ja": "２",
+        "amount": "とツナ（缶汁ごと）と「カンタン酢」を入れ、サッとあえる。",
+        "name_translated": {
+          "en": "2",
+          "zh_tw": "2",
+          "zh_cn": "2",
+          "vi": "2",
+          "hi": "2",
+          "ru": "2",
+          "th": "2",
+          "id": "2",
+          "ms": "2",
+          "ko": "2"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%92&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%92/?tag="
+      }
+    ],
+    "steps_ja": [
+      "オクラは斜めに２等分に切り、耐熱ボウルに入れ、ラップをかけて電子レンジ（６００Ｗ）で１分半加熱する。水菜は４ｃｍ長さに切る。",
+      "ボウルに１とツナ（缶汁ごと）と「カンタン酢」を入れ、サッとあえる。"
+    ],
+    "image_url": "",
+    "title": {
+      "en": "Marinated okra and tuna with endless side dishes",
+      "zh_tw": "醃秋葵和鮪魚配無限配菜",
+      "zh_cn": "腌制秋葵和金枪鱼配无限配菜",
+      "vi": "Đậu bắp và cá ngừ ướp với vô số món ăn kèm",
+      "hi": "अंतहीन साइड डिश के साथ मैरीनेट की गई भिंडी और ट्यूना",
+      "ru": "Маринованная бамия и тунец с бесконечными гарнирами",
+      "th": "กระเจี๊ยบหมักและทูน่าหมักพร้อมเครื่องเคียงมากมาย",
+      "id": "Okra dan tuna yang diasinkan dengan lauk pauk yang tiada habisnya",
+      "ms": "Bendi dan tuna diperap dengan lauk pauk yang tidak berkesudahan",
+      "ko": "오쿠라와 참치의 무한 반찬 마리네"
+    },
+    "description": {
+      "en": "",
+      "zh_tw": "",
+      "zh_cn": "",
+      "vi": "",
+      "hi": "",
+      "ru": "",
+      "th": "",
+      "id": "",
+      "ms": "",
+      "ko": ""
+    },
+    "steps": {
+      "en": [
+        "Cut the okra diagonally into two halves, place in a heat-resistant bowl, cover with plastic wrap, and heat in the microwave (600W) for 1.5 minutes. Cut mizuna into 4cm lengths.",
+        "Add Step 1, tuna (with canned juice), and ``simple vinegar'' to a bowl, and stir to combine."
+      ],
+      "zh_tw": [
+        "將秋葵斜切成兩半，放入耐熱碗中，蓋上保鮮膜，放入微波爐（600W）加熱1.5分鐘。將水菜切成4公分長。",
+        "將步驟 1、鮪魚（含罐裝果汁）和「簡單的醋」放入碗中，攪拌混合。"
+      ],
+      "zh_cn": [
+        "将秋葵斜切成两半，放入耐热碗中，盖上保鲜膜，放入微波炉（600W）加热1.5分钟。将水菜切成4厘米长。",
+        "将步骤 1、金枪鱼（含罐装果汁）和“简单的醋”放入碗中，搅拌混合。"
+      ],
+      "vi": [
+        "Cắt đậu bắp theo đường chéo thành hai nửa, cho vào tô chịu nhiệt, dùng màng bọc thực phẩm bọc lại rồi cho vào lò vi sóng (600W) quay trong 1,5 phút. Cắt mizuna thành đoạn dài 4cm.",
+        "Thêm Bước 1, cá ngừ (với nước trái cây đóng hộp) và `` giấm đơn giản '' vào tô và khuấy đều."
+      ],
+      "hi": [
+        "भिंडी को तिरछे दो हिस्सों में काटें, गर्मी प्रतिरोधी कटोरे में रखें, प्लास्टिक रैप से ढकें और माइक्रोवेव (600W) में 1.5 मिनट के लिए गर्म करें। मिजुना को 4 सेमी लंबाई में काटें।",
+        "एक कटोरे में चरण 1, टूना (डिब्बाबंद रस के साथ), और ``साधारण सिरका'' डालें और मिलाने के लिए हिलाएँ।"
+      ],
+      "ru": [
+        "Разрежьте бамию по диагонали на две половинки, поместите в жаропрочную миску, накройте полиэтиленовой пленкой и разогрейте в микроволновой печи (600 Вт) в течение 1,5 минут. Нарежьте мизуну на кусочки длиной 4 см.",
+        "Добавьте Шаг 1, тунец (с консервированным соком) и «простой уксус» в миску и перемешайте."
+      ],
+      "th": [
+        "ตัดกระเจี๊ยบตามแนวทแยงออกเป็นสองซีก วางในชามทนความร้อน ปิดด้วยพลาสติกแร็ป แล้วนำเข้าไมโครเวฟ (600W) เป็นเวลา 1.5 นาที ตัดมิซูน่าให้ยาว 4 ซม.",
+        "ใส่ขั้นตอนที่ 1 ทูน่า (พร้อมน้ำกระป๋อง) และ ``น้ำส้มสายชูธรรมดา'' ลงในชาม แล้วคนให้เข้ากัน"
+      ],
+      "id": [
+        "Potong okra secara diagonal menjadi dua bagian, masukkan ke dalam mangkuk tahan panas, tutup dengan plastik wrap, dan panaskan dalam microwave (600W) selama 1,5 menit. Potong mizuna sepanjang 4cm.",
+        "Tambahkan Langkah 1, tuna (dengan jus kalengan), dan ``cuka sederhana'' ke dalam mangkuk, lalu aduk hingga tercampur."
+      ],
+      "ms": [
+        "Cut the okra diagonally into two halves, place in a heat-resistant bowl, cover with plastic wrap, and heat in the microwave (600W) for 1.5 minutes. Potong mizuna menjadi 4cm panjang.",
+        "Masukkan Langkah 1, tuna (dengan jus tin), dan ``cuka ringkas'' ke dalam mangkuk, dan kacau hingga sebati."
+      ],
+      "ko": [
+        "오크라는 비스듬히 2등분으로 잘라 내열 그릇에 넣고 랩을 걸고 전자레인지(600W)로 1분 반 가열한다. 수채는 4cm 길이로 자른다.",
+        "그릇에 1과 참치(캔즙마다)와 「간단식초」를 넣고 얼른 굳어진다."
+      ]
+    }
   }
 ]

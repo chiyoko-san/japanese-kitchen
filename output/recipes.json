@@ -306017,5 +306017,251 @@
         "「냉장중화의 츠유 간장」을 돌려 마요네즈를 건다."
       ]
     }
+  },
+  {
+    "id": "9af4743e",
+    "source_url": "https://www.mizkan.co.jp/ouchirecipe/recipe/?menu_id=22642",
+    "source_site": "Mizkan",
+    "title_ja": "てりうまチキン【キャンプご飯】",
+    "description_ja": "",
+    "ingredients": [
+      {
+        "name_ja": "鶏もも肉",
+        "amount": "（カット済み）２８０ｇ",
+        "name_translated": {
+          "en": "chicken thigh",
+          "zh_tw": "雞大腿",
+          "zh_cn": "鸡大腿",
+          "vi": "đùi gà",
+          "hi": "चिकन थाई",
+          "ru": "куриное бедро",
+          "th": "ต้นขาไก่",
+          "id": "paha ayam",
+          "ms": "paha ayam",
+          "ko": "닭 허벅지 고기"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E9%B6%8F%E3%82%82%E3%82%82%E8%82%89&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E9%B6%8F%E3%82%82%E3%82%82%E8%82%89/?tag="
+      },
+      {
+        "name_ja": "ミツカン　カンタン酢",
+        "amount": "適量（５０ｍｌ程度）",
+        "name_translated": {
+          "en": "Mizkan Kantan Vinegar",
+          "zh_tw": "味滋康甘丹醋",
+          "zh_cn": "味滋康甘丹醋",
+          "vi": "Giấm Mizkan Kantan",
+          "hi": "मिज़कान कंटन सिरका",
+          "ru": "Мизкан Кантанский уксус",
+          "th": "น้ำส้มสายชูมิซกัน กันตัน",
+          "id": "Cuka Mizkan Kantan",
+          "ms": "Cuka Mizkan Kantan",
+          "ko": "미츠칸 칸탄초"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E3%82%AB%E3%83%B3%E3%82%BF%E3%83%B3%E9%85%A2&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E3%82%AB%E3%83%B3%E3%82%BF%E3%83%B3%E9%85%A2/?tag="
+      },
+      {
+        "name_ja": "サラダ油",
+        "amount": "適宜",
+        "name_translated": {
+          "en": "salad oil",
+          "zh_tw": "沙拉油",
+          "zh_cn": "色拉油",
+          "vi": "dầu trộn salad",
+          "hi": "वनस्पति - तेल",
+          "ru": "салатное масло",
+          "th": "น้ำมันสลัด",
+          "id": "minyak salad",
+          "ms": "minyak salad",
+          "ko": "샐러드 오일"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%82%B5%E3%83%A9%E3%83%80%E6%B2%B9&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%82%B5%E3%83%A9%E3%83%80%E6%B2%B9/?tag="
+      },
+      {
+        "name_ja": "赤パプリカ",
+        "amount": "適宜",
+        "name_translated": {
+          "en": "red paprika",
+          "zh_tw": "紅辣椒粉",
+          "zh_cn": "红辣椒粉",
+          "vi": "ớt đỏ",
+          "hi": "लाल शिमला मिर्च",
+          "ru": "красная паприка",
+          "th": "พริกหยวกแดง",
+          "id": "paprika merah",
+          "ms": "paprika merah",
+          "ko": "레드 파프리카"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E8%B5%A4%E3%83%91%E3%83%97%E3%83%AA%E3%82%AB&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E8%B5%A4%E3%83%91%E3%83%97%E3%83%AA%E3%82%AB/?tag="
+      },
+      {
+        "name_ja": "１",
+        "amount": "フライパンに鶏もも肉を皮目を下にして並べ、中火にし、ころがしながら中に火が通るまで焼く。",
+        "name_translated": {
+          "en": "1",
+          "zh_tw": "1",
+          "zh_cn": "1",
+          "vi": "1",
+          "hi": "1",
+          "ru": "1",
+          "th": "1",
+          "id": "1",
+          "ms": "1",
+          "ko": "1"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%91&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%91/?tag="
+      },
+      {
+        "name_ja": "２",
+        "amount": "「カンタン酢」を注ぎ入れ、タレにとろみが出てきつね色に変わり、肉に照りが出るまで焼く。",
+        "name_translated": {
+          "en": "2",
+          "zh_tw": "2",
+          "zh_cn": "2",
+          "vi": "2",
+          "hi": "2",
+          "ru": "2",
+          "th": "2",
+          "id": "2",
+          "ms": "2",
+          "ko": "2"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%92&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%92/?tag="
+      },
+      {
+        "name_ja": "３",
+        "amount": "パプリカは黒くなるまで焚き火で丸焼きにし、皮を剥いて食べやすい大きさに切る。",
+        "name_translated": {
+          "en": "3",
+          "zh_tw": "3",
+          "zh_cn": "3",
+          "vi": "3",
+          "hi": "3",
+          "ru": "3",
+          "th": "3",
+          "id": "3",
+          "ms": "3",
+          "ko": "3"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%93&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%93/?tag="
+      },
+      {
+        "name_ja": "４",
+        "amount": "を器に盛り、フライパンの残ったタレをかける。",
+        "name_translated": {
+          "en": "4",
+          "zh_tw": "4",
+          "zh_cn": "4",
+          "vi": "4",
+          "hi": "4",
+          "ru": "4",
+          "th": "4",
+          "id": "4",
+          "ms": "4",
+          "ko": "4"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%94&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%94/?tag="
+      }
+    ],
+    "steps_ja": [
+      "フライパンに鶏もも肉を皮目を下にして並べ、中火にし、ころがしながら中に火が通るまで焼く。",
+      "「カンタン酢」を注ぎ入れ、タレにとろみが出てきつね色に変わり、肉に照りが出るまで焼く。",
+      "パプリカは黒くなるまで焚き火で丸焼きにし、皮を剥いて食べやすい大きさに切る。",
+      "と３を器に盛り、フライパンの残ったタレをかける。"
+    ],
+    "image_url": "",
+    "title": {
+      "en": "Teriuma chicken [camping meal]",
+      "zh_tw": "てりうまチキン【キャンプご飯】",
+      "zh_cn": "照马鸡[露营餐]",
+      "vi": "Gà Teriuma [bữa ăn cắm trại]",
+      "hi": "टेरियमा चिकन [कैंपिंग भोजन]",
+      "ru": "Курица Териума [походная еда]",
+      "th": "ไก่เทริอุมะ [อาหารแคมป์ปิ้ง]",
+      "id": "Ayam Teriuma [makanan berkemah]",
+      "ms": "Ayam Teriuma [makanan berkhemah]",
+      "ko": "테리 우마 치킨 【캠프 밥】"
+    },
+    "description": {
+      "en": "",
+      "zh_tw": "",
+      "zh_cn": "",
+      "vi": "",
+      "hi": "",
+      "ru": "",
+      "th": "",
+      "id": "",
+      "ms": "",
+      "ko": ""
+    },
+    "steps": {
+      "en": [
+        "Place the chicken thighs, skin side down, in a frying pan, turn the heat to medium, and fry until cooked through.",
+        "Pour in the ``simple vinegar'' and grill until the sauce thickens and turns golden brown, and the meat is shiny.",
+        "Roast the bell peppers over a bonfire until they turn black, then peel and cut into bite-sized pieces.",
+        "Place 3 and 3 in a bowl and pour over the remaining sauce from the frying pan."
+      ],
+      "zh_tw": [
+        "將雞腿肉帶皮的一面朝下放入煎鍋中，將火調至中火，煎至熟透。",
+        "倒入“簡單醋”，烤至醬汁變稠，變成金黃色，肉有光澤。",
+        "將青椒放在營火上烤至變黑，然後去皮並切成一口大小的塊。",
+        "將 3 和 3 放入碗中，倒入煎鍋中剩餘的醬汁。"
+      ],
+      "zh_cn": [
+        "将鸡腿肉带皮的一面朝下放入煎锅中，将火调至中火，煎至熟透。",
+        "倒入“简单醋”，烤至酱汁变稠，变成金黄色，肉有光泽。",
+        "将青椒放在篝火上烤至变黑，然后去皮并切成一口大小的块。",
+        "将 3 和 3 放入碗中，倒入煎锅中剩余的酱汁。"
+      ],
+      "vi": [
+        "Đặt đùi gà, mặt da úp xuống, vào chảo rán, vặn lửa vừa và chiên cho đến khi chín.",
+        "Đổ `` giấm đơn giản '' vào và nướng cho đến khi nước sốt đặc lại và chuyển sang màu nâu vàng và thịt sáng bóng.",
+        "Nướng ớt chuông trên lửa trại cho đến khi chúng chuyển sang màu đen, sau đó gọt vỏ và cắt thành miếng vừa ăn.",
+        "Đặt 3 và 3 vào tô và rưới phần nước sốt còn lại trong chảo rán lên."
+      ],
+      "hi": [
+        "एक फ्राइंग पैन में चिकन जांघों को त्वचा के नीचे की तरफ रखें, आंच को मध्यम कर दें और पकने तक भूनें।",
+        "``साधारण सिरका'' डालें और तब तक ग्रिल करें जब तक सॉस गाढ़ा और सुनहरा भूरा न हो जाए, और मांस चमकदार न हो जाए।",
+        "शिमला मिर्च को अलाव पर तब तक भूनें जब तक वह काली न हो जाए, फिर छीलकर छोटे टुकड़ों में काट लें।",
+        "3 और 3 को एक कटोरे में रखें और फ्राइंग पैन से बचा हुआ सॉस डालें।"
+      ],
+      "ru": [
+        "Положите куриные бедра кожей вниз на сковороду, убавьте огонь до среднего и жарьте до готовности.",
+        "Влейте «простой уксус» и готовьте на гриле, пока соус не загустеет и не станет золотисто-коричневым, а мясо не станет блестящим.",
+        "Запеките болгарский перец на костре, пока он не почернеет, затем очистите его и нарежьте небольшими кусочками.",
+        "Поместите 3 и 3 в миску и полейте оставшимся соусом со сковороды."
+      ],
+      "th": [
+        "วางน่องไก่โดยคว่ำด้านหนังลงในกระทะ ตั้งไฟปานกลาง แล้วทอดจนสุก",
+        "เท ``น้ำส้มสายชูธรรมดา'' ลงไปแล้วย่างจนซอสข้นและเป็นสีน้ำตาลทอง และเนื้อก็เงางาม",
+        "ย่างพริกหยวกบนกองไฟจนเปลี่ยนเป็นสีดำ จากนั้นปอกเปลือกและหั่นเป็นชิ้นขนาดพอดีคำ",
+        "วาง 3 และ 3 ลงในชามแล้วเทซอสที่เหลือจากกระทะ"
+      ],
+      "id": [
+        "Masukkan paha ayam, kulitnya menghadap ke bawah, ke dalam penggorengan, kecilkan api menjadi sedang, dan goreng hingga matang.",
+        "Tuangkan ``cuka sederhana'' dan panggang sampai saus mengental dan berubah warna menjadi coklat keemasan, dan dagingnya mengkilat.",
+        "Panggang paprika di atas api unggun hingga berubah warna menjadi hitam, lalu kupas dan potong-potong seukuran sekali gigit.",
+        "Tempatkan 3 dan 3 dalam mangkuk dan tuangkan sisa saus dari penggorengan."
+      ],
+      "ms": [
+        "Letakkan peha ayam, bahagian kulit bawah, dalam kuali, kecilkan api ke sederhana, dan goreng sehingga masak.",
+        "Tuangkan ``cuka ringkas'' dan panggang sehingga sos pekat dan bertukar menjadi perang keemasan, dan daging berkilat.",
+        "Panggang lada benggala di atas api unggun sehingga bertukar menjadi hitam, kemudian kupas dan potong seukuran gigitan.",
+        "Letakkan 3 dan 3 dalam mangkuk dan tuangkan ke atas baki sos dari kuali."
+      ],
+      "ko": [
+        "프라이팬에 닭 허벅지 고기를 껍질을 밑으로 늘어놓고, 중불로 하고, 흘러가면서 안에 불이 통과할 때까지 굽는다.",
+        "\"간단 식초\"를 붓고 소스에 녹이 나오고 여우 색으로 바뀌고 고기에 빛이 나올 때까지 굽는다.",
+        "파프리카는 검게 될 때까지 모닥불로 통구이로 하고 껍질을 벗기고 먹기 쉬운 크기로 자른다.",
+        "와 3을 그릇에 담아 프라이팬이 남은 소스를 뿌린다."
+      ]
+    }
   }
 ]

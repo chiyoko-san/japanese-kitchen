@@ -308984,5 +308984,298 @@
         "그릇에 담고 기호로 양파를 장식한다."
       ]
     }
+  },
+  {
+    "id": "a9cd61d1",
+    "source_url": "https://www.mizkan.co.jp/ouchirecipe/recipe/?menu_id=20745",
+    "source_site": "Mizkan",
+    "title_ja": "５分でやみつき無限なす",
+    "description_ja": "",
+    "ingredients": [
+      {
+        "name_ja": "なす",
+        "amount": "２本",
+        "name_translated": {
+          "en": "Eggplant",
+          "zh_tw": "茄子",
+          "zh_cn": "茄子",
+          "vi": "cà tím",
+          "hi": "बैंगन",
+          "ru": "Баклажан",
+          "th": "มะเขือ",
+          "id": "Terung",
+          "ms": "terung",
+          "ko": "이루다"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%AA%E3%81%99&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%AA%E3%81%99/?tag="
+      },
+      {
+        "name_ja": "塩",
+        "amount": "少々",
+        "name_translated": {
+          "en": "salt",
+          "zh_tw": "鹽",
+          "zh_cn": "盐",
+          "vi": "muối",
+          "hi": "नमक",
+          "ru": "соль",
+          "th": "เกลือ",
+          "id": "garam",
+          "ms": "garam",
+          "ko": "소금"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E5%A1%A9&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E5%A1%A9/?tag="
+      },
+      {
+        "name_ja": "ツナ缶",
+        "amount": "１缶（７０ｇ）",
+        "name_translated": {
+          "en": "canned tuna",
+          "zh_tw": "鮪魚罐頭",
+          "zh_cn": "金枪鱼罐头",
+          "vi": "cá ngừ đóng hộp",
+          "hi": "डिब्बाबंद टूना",
+          "ru": "консервированный тунец",
+          "th": "ปลาทูน่ากระป๋อง",
+          "id": "tuna kalengan",
+          "ms": "tuna dalam tin",
+          "ko": "참치캔"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%84%E3%83%8A%E7%BC%B6&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%84%E3%83%8A%E7%BC%B6/?tag="
+      },
+      {
+        "name_ja": "ミツカン　味ぽん",
+        "amount": "大さじ１",
+        "name_translated": {
+          "en": "Mizkan Ajipon",
+          "zh_tw": "味滋康味精",
+          "zh_cn": "味滋康味精",
+          "vi": "Mizkan Ajipon",
+          "hi": "मिज़कान अजिपोन",
+          "ru": "Мизкан Аджипон",
+          "th": "มิซกัน อาจิปอน",
+          "id": "Mizkan Ajipon",
+          "ms": "Mizkan Ajipon",
+          "ko": "미츠칸 미포"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E5%91%B3%E3%81%BD%E3%82%93&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E5%91%B3%E3%81%BD%E3%82%93/?tag="
+      },
+      {
+        "name_ja": "いりごま　（白）",
+        "amount": "大さじ１",
+        "name_translated": {
+          "en": "Roasted sesame seeds (white)",
+          "zh_tw": "烤芝麻（白）",
+          "zh_cn": "烤芝麻（白）",
+          "vi": "Hạt mè rang (trắng)",
+          "hi": "भुने हुए तिल (सफेद)",
+          "ru": "Семена кунжута жареные (белые)",
+          "th": "งาคั่ว (สีขาว)",
+          "id": "Biji wijen sangrai (putih)",
+          "ms": "Bijan panggang (putih)",
+          "ko": "이리 고마 (흰색)"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%84%E3%82%8A%E3%81%94%E3%81%BE%E3%80%80%EF%BC%88%E7%99%BD%EF%BC%89&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%84%E3%82%8A%E3%81%94%E3%81%BE%E3%80%80%EF%BC%88%E7%99%BD%EF%BC%89/?tag="
+      },
+      {
+        "name_ja": "１",
+        "amount": "にする。水に軽くさらしてから水けをきる。",
+        "name_translated": {
+          "en": "1",
+          "zh_tw": "1",
+          "zh_cn": "1",
+          "vi": "1",
+          "hi": "1",
+          "ru": "1",
+          "th": "1",
+          "id": "1",
+          "ms": "1",
+          "ko": "1"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%91&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%91/?tag="
+      },
+      {
+        "name_ja": "２",
+        "amount": "ボウルになすを入れ、塩をふり混ぜてから、水けを絞る。軽く油をきったツナ、「味ぽん」、いりごまを加えて混ぜる。",
+        "name_translated": {
+          "en": "2",
+          "zh_tw": "2",
+          "zh_cn": "2",
+          "vi": "2",
+          "hi": "2",
+          "ru": "2",
+          "th": "2",
+          "id": "2",
+          "ms": "2",
+          "ko": "2"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%92&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%92/?tag="
+      },
+      {
+        "name_ja": "なすのさっぱり焼きびたし",
+        "amount": "適量",
+        "name_translated": {
+          "en": "Refreshingly grilled eggplant",
+          "zh_tw": "烤茄子爽口",
+          "zh_cn": "烤茄子爽口",
+          "vi": "Cà tím nướng tươi mát",
+          "hi": "ताज़ा ग्रील्ड बैंगन",
+          "ru": "Освежающе жареные баклажаны",
+          "th": "มะเขือยาวย่างแสนสดชื่น",
+          "id": "Terong panggang yang menyegarkan",
+          "ms": "Terung bakar yang menyegarkan",
+          "ko": "나스노 상쾌한 구이"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%AA%E3%81%99%E3%81%AE%E3%81%95%E3%81%A3%E3%81%B1%E3%82%8A%E7%84%BC%E3%81%8D%E3%81%B3%E3%81%9F%E3%81%97&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%AA%E3%81%99%E3%81%AE%E3%81%95%E3%81%A3%E3%81%B1%E3%82%8A%E7%84%BC%E3%81%8D%E3%81%B3%E3%81%9F%E3%81%97/?tag="
+      },
+      {
+        "name_ja": "とろとろなすのにんにく焼き",
+        "amount": "適量",
+        "name_translated": {
+          "en": "Simmering garlic-grilled eggplant",
+          "zh_tw": "燜蒜烤茄子",
+          "zh_cn": "焖蒜烤茄子",
+          "vi": "Cà tím nướng tỏi",
+          "hi": "लहसुन-भुना हुआ बैंगन उबालें",
+          "ru": "Тушеные баклажаны с чесноком на гриле",
+          "th": "มะเขือยาวย่างกระเทียมเคี่ยว",
+          "id": "Rebus terong bakar bawang putih",
+          "ms": "Terung bakar bawang putih mereneh",
+          "ko": "토로 토로 나스 마늘 구이"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%A8%E3%82%8D%E3%81%A8%E3%82%8D%E3%81%AA%E3%81%99%E3%81%AE%E3%81%AB%E3%82%93%E3%81%AB%E3%81%8F%E7%84%BC%E3%81%8D&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%A8%E3%82%8D%E3%81%A8%E3%82%8D%E3%81%AA%E3%81%99%E3%81%AE%E3%81%AB%E3%82%93%E3%81%AB%E3%81%8F%E7%84%BC%E3%81%8D/?tag="
+      },
+      {
+        "name_ja": "旨だれやみつき大葉なす",
+        "amount": "適量",
+        "name_translated": {
+          "en": "Addictive flavor of perilla eggplant",
+          "zh_tw": "紫蘇茄子的味道讓人上癮",
+          "zh_cn": "紫苏茄子的味道让人上瘾",
+          "vi": "Hương vị gây nghiện của cà tím tía tô",
+          "hi": "पेरीला बैंगन का नशीला स्वाद",
+          "ru": "Притягательный вкус баклажанов периллы",
+          "th": "รสชาติที่ชวนให้ติดใจของมะเขือม่วงเพริลลา",
+          "id": "Rasa terong perilla yang membuat ketagihan",
+          "ms": "Rasa ketagihan terung perilla",
+          "ko": "맛 누구와 미츠키 오바 나스"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E6%97%A8%E3%81%A0%E3%82%8C%E3%82%84%E3%81%BF%E3%81%A4%E3%81%8D%E5%A4%A7%E8%91%89%E3%81%AA%E3%81%99&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E6%97%A8%E3%81%A0%E3%82%8C%E3%82%84%E3%81%BF%E3%81%A4%E3%81%8D%E5%A4%A7%E8%91%89%E3%81%AA%E3%81%99/?tag="
+      }
+    ],
+    "steps_ja": [
+      "なすは縦半分にし斜め薄切りにする。水に軽くさらしてから水けをきる。",
+      "ボウルになすを入れ、塩をふり混ぜてから、水けを絞る。軽く油をきったツナ、「味ぽん」、いりごまを加えて混ぜる。",
+      "なすのさっぱり焼きびたし",
+      "とろとろなすのにんにく焼き",
+      "旨だれやみつき大葉なす"
+    ],
+    "image_url": "",
+    "title": {
+      "en": "Addictive and endless eggplant in 5 minutes",
+      "zh_tw": "5分鐘吃上癮、吃不完的茄子",
+      "zh_cn": "5分钟吃上瘾、吃不完的茄子",
+      "vi": "Cà tím gây nghiện và bất tận trong 5 phút",
+      "hi": "5 मिनट में नशीला और अंतहीन बैंगन",
+      "ru": "Захватывающие и бесконечные баклажаны за 5 минут",
+      "th": "มะเขือยาวที่เสพติดและไม่มีที่สิ้นสุดใน 5 นาที",
+      "id": "Terong yang membuat ketagihan dan tiada habisnya dalam 5 menit",
+      "ms": "Terung ketagihan dan tidak berkesudahan dalam 5 minit",
+      "ko": "5분 안에 야미츠키 무한한"
+    },
+    "description": {
+      "en": "",
+      "zh_tw": "",
+      "zh_cn": "",
+      "vi": "",
+      "hi": "",
+      "ru": "",
+      "th": "",
+      "id": "",
+      "ms": "",
+      "ko": ""
+    },
+    "steps": {
+      "en": [
+        "Halve the eggplant lengthwise and thinly slice diagonally. Lightly soak in water and then drain.",
+        "Place the eggplant in a bowl, sprinkle with salt, and squeeze out the water. Add lightly oiled tuna, Ajipon, and roasted sesame seeds and mix.",
+        "Refreshingly grilled eggplant",
+        "Simmering garlic-grilled eggplant",
+        "Addictive flavor of perilla eggplant"
+      ],
+      "zh_tw": [
+        "將茄子縱向切成兩半，然後沿對角線切成薄片。輕輕浸泡在水中，然後瀝乾。",
+        "將茄子放入碗中，撒上鹽，擠乾水分。加入抹了少許油的鮪魚、Ajipon 和烤芝麻，攪拌均勻。",
+        "烤茄子爽口",
+        "燜蒜烤茄子",
+        "紫蘇茄子的味道讓人上癮"
+      ],
+      "zh_cn": [
+        "将茄子纵向切成两半，然后沿对角线切成薄片。轻轻浸泡在水中，然后沥干。",
+        "将茄子放入碗中，撒上盐，挤干水分。加入抹了少许油的金枪鱼、Ajipon 和烤芝麻，搅拌均匀。",
+        "烤茄子爽口",
+        "焖蒜烤茄子",
+        "紫苏茄子的味道让人上瘾"
+      ],
+      "vi": [
+        "Cắt đôi cà tím theo chiều dọc và cắt lát mỏng theo đường chéo. Ngâm nhẹ vào nước rồi để ráo.",
+        "Cho cà tím vào tô, rắc muối rồi vắt lấy nước. Thêm cá ngừ đã phết dầu nhẹ, Ajipon và hạt vừng rang vào rồi trộn đều.",
+        "Cà tím nướng tươi mát",
+        "Cà tím nướng tỏi",
+        "Hương vị gây nghiện của cà tím tía tô"
+      ],
+      "hi": [
+        "बैंगन को लंबाई में आधा-आधा काट लें और तिरछे पतले-पतले टुकड़े काट लें। पानी में हल्का भिगोएँ और फिर छान लें।",
+        "बैंगन को एक कटोरे में रखें, नमक छिड़कें और पानी निचोड़ लें। हल्का तेल लगा ट्यूना, एजिपोन और भुने हुए तिल डालें और मिलाएँ।",
+        "ताज़ा ग्रील्ड बैंगन",
+        "लहसुन-भुना हुआ बैंगन उबालें",
+        "पेरीला बैंगन का नशीला स्वाद"
+      ],
+      "ru": [
+        "Разрежьте баклажан вдоль пополам и нарежьте тонкими ломтиками по диагонали. Слегка замочите в воде, а затем слейте воду.",
+        "Положите баклажаны в миску, посыпьте солью и отожмите воду. Добавьте слегка смазанный маслом тунец, аджипон и жареные семена кунжута и перемешайте.",
+        "Освежающе жареные баклажаны",
+        "Тушеные баклажаны с чесноком на гриле",
+        "Притягательный вкус баклажанов периллы"
+      ],
+      "th": [
+        "ผ่าครึ่งมะเขือยาวตามยาวและหั่นบาง ๆ ตามแนวทแยงมุม แช่น้ำเล็กน้อยแล้วสะเด็ดน้ำ",
+        "วางมะเขือยาวลงในชาม โรยด้วยเกลือ แล้วบีบน้ำออก ใส่ทูน่าทาน้ำมันเล็กน้อย อาจิปอน และเมล็ดงาคั่วแล้วผสมให้เข้ากัน",
+        "มะเขือยาวย่างแสนสดชื่น",
+        "มะเขือยาวย่างกระเทียมเคี่ยว",
+        "รสชาติที่ชวนให้ติดใจของมะเขือม่วงเพริลลา"
+      ],
+      "id": [
+        "Belah terung memanjang dan iris tipis secara diagonal. Rendam sebentar dalam air lalu tiriskan.",
+        "Masukkan terong ke dalam mangkuk, taburi garam, dan peras airnya. Tambahkan tuna yang diminyaki ringan, Ajipon, dan biji wijen panggang, lalu aduk.",
+        "Terong panggang yang menyegarkan",
+        "Rebus terong bakar bawang putih",
+        "Rasa terong perilla yang membuat ketagihan"
+      ],
+      "ms": [
+        "Belah dua terung memanjang dan hiris nipis menyerong. Rendam dalam air dan kemudian toskan.",
+        "Letakkan terung dalam mangkuk, taburkan dengan garam, dan perah airnya. Masukkan tuna yang telah disapu sedikit minyak, Ajipon, dan bijan panggang dan gaul.",
+        "Terung bakar yang menyegarkan",
+        "Terung bakar bawang putih mereneh",
+        "Rasa ketagihan terung perilla"
+      ],
+      "ko": [
+        "그을음은 세로 절반으로 비스듬히 얇게 썬다. 물에 가볍게 노출시킨 후 물을 준다.",
+        "그릇에 이루기를 넣고 소금을 섞은 다음 물기를 짜낸다. 가볍게 기름을 뿌린 참치, '맛 폰', 이리참깨를 넣고 섞는다.",
+        "나스노 상쾌한 구이",
+        "토로 토로 나스 마늘 구이",
+        "맛 누구와 미츠키 오바 나스"
+      ]
+    }
   }
 ]

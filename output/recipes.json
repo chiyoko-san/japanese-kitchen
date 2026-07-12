@@ -310103,5 +310103,323 @@
         "삶은 우동을 식히고 그릇에 담고 물로 희석한 '쫓는 가다랑어 2배'를 넣고 1을 담는다."
       ]
     }
+  },
+  {
+    "id": "2ab86080",
+    "source_url": "https://www.mizkan.co.jp/ouchirecipe/recipe/?menu_id=16685",
+    "source_site": "Mizkan",
+    "title_ja": "「追いがつおつゆ」でアヒージョ",
+    "description_ja": "",
+    "ingredients": [
+      {
+        "name_ja": "えび",
+        "amount": "６尾",
+        "name_translated": {
+          "en": "Shrimp",
+          "zh_tw": "蝦",
+          "zh_cn": "虾",
+          "vi": "Con tôm",
+          "hi": "झींगा",
+          "ru": "Креветка",
+          "th": "กุ้ง",
+          "id": "Udang",
+          "ms": "udang",
+          "ko": "새우"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%88%E3%81%B3&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%88%E3%81%B3/?tag="
+      },
+      {
+        "name_ja": "アスパラガス（グリーン）",
+        "amount": "２本",
+        "name_translated": {
+          "en": "Asparagus (green)",
+          "zh_tw": "蘆筍（綠）",
+          "zh_cn": "芦笋（绿）",
+          "vi": "Măng tây (xanh)",
+          "hi": "शतावरी (हरा)",
+          "ru": "Спаржа (зеленая)",
+          "th": "หน่อไม้ฝรั่ง (สีเขียว)",
+          "id": "Asparagus (hijau)",
+          "ms": "Asparagus (hijau)",
+          "ko": "아스파라거스(그린)"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%82%A2%E3%82%B9%E3%83%91%E3%83%A9%E3%82%AC%E3%82%B9%EF%BC%88%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%EF%BC%89&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%82%A2%E3%82%B9%E3%83%91%E3%83%A9%E3%82%AC%E3%82%B9%EF%BC%88%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%EF%BC%89/?tag="
+      },
+      {
+        "name_ja": "マッシュルーム",
+        "amount": "４個",
+        "name_translated": {
+          "en": "mushroom",
+          "zh_tw": "菇",
+          "zh_cn": "蘑菇",
+          "vi": "nấm",
+          "hi": "मशरूम",
+          "ru": "гриб",
+          "th": "เห็ด",
+          "id": "jamur",
+          "ms": "cendawan",
+          "ko": "버섯"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9E%E3%83%83%E3%82%B7%E3%83%A5%E3%83%AB%E3%83%BC%E3%83%A0&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9E%E3%83%83%E3%82%B7%E3%83%A5%E3%83%AB%E3%83%BC%E3%83%A0/?tag="
+      },
+      {
+        "name_ja": "にんにく",
+        "amount": "１片",
+        "name_translated": {
+          "en": "garlic",
+          "zh_tw": "蒜",
+          "zh_cn": "蒜",
+          "vi": "tỏi",
+          "hi": "लहसुन",
+          "ru": "чеснок",
+          "th": "กระเทียม",
+          "id": "bawang putih",
+          "ms": "bawang putih",
+          "ko": "마늘"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%AB%E3%82%93%E3%81%AB%E3%81%8F&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%AB%E3%82%93%E3%81%AB%E3%81%8F/?tag="
+      },
+      {
+        "name_ja": "赤とうがらし",
+        "amount": "１個",
+        "name_translated": {
+          "en": "red pepper",
+          "zh_tw": "辣椒",
+          "zh_cn": "辣椒",
+          "vi": "ớt đỏ",
+          "hi": "लाल मिर्च",
+          "ru": "красный перец",
+          "th": "พริกแดง",
+          "id": "paprika merah",
+          "ms": "lada merah",
+          "ko": "붉은 가시"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E8%B5%A4%E3%81%A8%E3%81%86%E3%81%8C%E3%82%89%E3%81%97&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E8%B5%A4%E3%81%A8%E3%81%86%E3%81%8C%E3%82%89%E3%81%97/?tag="
+      },
+      {
+        "name_ja": "ミツカン　追いがつおつゆ２倍",
+        "amount": "５０ｍｌ",
+        "name_translated": {
+          "en": "Mizkan Oigatsu Otsuyu x2",
+          "zh_tw": "味滋館大月大津 x2",
+          "zh_cn": "味滋馆大月大津 x2",
+          "vi": "Mizkan Oigatsu Otsuyu x2",
+          "hi": "मिज़कान ओइगात्सु ओत्सुयु x2",
+          "ru": "Мизкан Ойгацу Оцую x2",
+          "th": "มิซคัง โออิงัตสึ โอทสึยุ x2",
+          "id": "Mizkan Oigatsu Otsuyu x2",
+          "ms": "Mizkan Oigatsu Otsuyu x2",
+          "ko": "미쓰칸 쫓는 츠츠유 2배"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E8%BF%BD%E3%81%84%E3%81%8C%E3%81%A4%E3%81%8A%E3%81%A4%E3%82%86%EF%BC%92%E5%80%8D&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E8%BF%BD%E3%81%84%E3%81%8C%E3%81%A4%E3%81%8A%E3%81%A4%E3%82%86%EF%BC%92%E5%80%8D/?tag="
+      },
+      {
+        "name_ja": "オリーブオイル",
+        "amount": "１００ｍｌ",
+        "name_translated": {
+          "en": "olive oil",
+          "zh_tw": "橄欖油",
+          "zh_cn": "橄榄油",
+          "vi": "dầu ô liu",
+          "hi": "जैतून का तेल",
+          "ru": "оливковое масло",
+          "th": "น้ำมันมะกอก",
+          "id": "minyak zaitun",
+          "ms": "minyak zaitun",
+          "ko": "올리브 오일"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%82%AA%E3%83%AA%E3%83%BC%E3%83%96%E3%82%AA%E3%82%A4%E3%83%AB&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%82%AA%E3%83%AA%E3%83%BC%E3%83%96%E3%82%AA%E3%82%A4%E3%83%AB/?tag="
+      },
+      {
+        "name_ja": "フランスパン",
+        "amount": "適宜",
+        "name_translated": {
+          "en": "french bread",
+          "zh_tw": "法國麵包",
+          "zh_cn": "法式面包",
+          "vi": "bánh mì pháp",
+          "hi": "फ़्रेन्च ब्रेड",
+          "ru": "французский хлеб",
+          "th": "ขนมปังฝรั่งเศส",
+          "id": "roti perancis",
+          "ms": "roti perancis",
+          "ko": "프랑스 빵"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9%E3%83%91%E3%83%B3&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9%E3%83%91%E3%83%B3/?tag="
+      },
+      {
+        "name_ja": "１",
+        "amount": "にする。",
+        "name_translated": {
+          "en": "1",
+          "zh_tw": "1",
+          "zh_cn": "1",
+          "vi": "1",
+          "hi": "1",
+          "ru": "1",
+          "th": "1",
+          "id": "1",
+          "ms": "1",
+          "ko": "1"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%91&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%91/?tag="
+      },
+      {
+        "name_ja": "２",
+        "amount": "鍋にオリーブオイル、にんにく、赤とうがらしを入れ、弱火でじっくりと香りが出るまで炒める。",
+        "name_translated": {
+          "en": "2",
+          "zh_tw": "2",
+          "zh_cn": "2",
+          "vi": "2",
+          "hi": "2",
+          "ru": "2",
+          "th": "2",
+          "id": "2",
+          "ms": "2",
+          "ko": "2"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%92&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%92/?tag="
+      },
+      {
+        "name_ja": "３",
+        "amount": "香りが出たら、えび、マッシュルーム、「追いがつおつゆ２倍」を入れて、えびの色が変わるまでサッと煮る。",
+        "name_translated": {
+          "en": "3",
+          "zh_tw": "3",
+          "zh_cn": "3",
+          "vi": "3",
+          "hi": "3",
+          "ru": "3",
+          "th": "3",
+          "id": "3",
+          "ms": "3",
+          "ko": "3"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%93&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%93/?tag="
+      },
+      {
+        "name_ja": "４",
+        "amount": "にして添える。",
+        "name_translated": {
+          "en": "4",
+          "zh_tw": "4",
+          "zh_cn": "4",
+          "vi": "4",
+          "hi": "4",
+          "ru": "4",
+          "th": "4",
+          "id": "4",
+          "ms": "4",
+          "ko": "4"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%94&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%94/?tag="
+      }
+    ],
+    "steps_ja": [
+      "えびは殻をむいて背ワタを取り除き、塩（分量外）を入れて軽くもみ、水で洗い流してよく水けをきる。アスパラガスはピーラーで硬い部分を取り除き、斜め切りにする。マッシュルームは縦半分に切る。にんにくは芽を取り除いてみじん切りにする。",
+      "鍋にオリーブオイル、にんにく、赤とうがらしを入れ、弱火でじっくりと香りが出るまで炒める。",
+      "香りが出たら、えび、マッシュルーム、「追いがつおつゆ２倍」を入れて、えびの色が変わるまでサッと煮る。",
+      "アスパラガスを加えてさらに１～２分ほど煮る。お好みで、フランスパンを薄切りにして添える。"
+    ],
+    "image_url": "",
+    "title": {
+      "en": "Ajillo with “Oigatsuotsuyu”",
+      "zh_tw": "阿吉洛與“Oigatsuotsuyu”",
+      "zh_cn": "阿吉洛与“Oigatsuotsuyu”",
+      "vi": "Ajillo với “Oigatsuotsuyu”",
+      "hi": "\"ओइगात्सुओत्सुयू\" के साथ अजिलो",
+      "ru": "Аджилло с «Оигацуоцую»",
+      "th": "อาจิลโลกับ “Oigatsuotsuyu”",
+      "id": "Ajillo dengan “Oigatsuotsuyu”",
+      "ms": "Ajillo dengan \"Oigatsuotsuyu\"",
+      "ko": "\"쫓는 츠츠유\"에서 아히 조"
+    },
+    "description": {
+      "en": "",
+      "zh_tw": "",
+      "zh_cn": "",
+      "vi": "",
+      "hi": "",
+      "ru": "",
+      "th": "",
+      "id": "",
+      "ms": "",
+      "ko": ""
+    },
+    "steps": {
+      "en": [
+        "Peel and devein the shrimp, add salt (not listed), lightly rub, rinse with water, and drain well. Remove the tough parts of the asparagus with a peeler and cut diagonally. Cut the mushrooms in half lengthwise. Remove the buds from the garlic and chop it finely.",
+        "Add olive oil, garlic, and red chili pepper to a pot and stir-fry over low heat until fragrant.",
+        "When the aroma comes out, add the shrimp, mushrooms, and 2x Oigatsuotsuyu and simmer until the shrimp change color.",
+        "Add asparagus and cook for another 1-2 minutes. If you like, add thinly sliced ​​French bread."
+      ],
+      "zh_tw": [
+        "將蝦子去皮、去蝦線，加鹽（未列），輕輕揉搓，用水沖洗乾淨，瀝乾。用削皮器去除蘆筍的堅硬部分，然後斜切。將蘑菇縱向切成兩半。將大蒜去掉芽並切碎。",
+        "將橄欖油、大蒜和紅辣椒放入鍋中，用小火炒香。",
+        "當香味散發出來時，加入蝦子、蘑菇和2x Oigatsuotsuyu，煮至蝦子變色。",
+        "加入蘆筍，再煮 1-2 分鐘。如果您願意，可以添加切成薄片的法國麵包。"
+      ],
+      "zh_cn": [
+        "将虾去皮、去虾线，加盐（未列出），轻轻揉搓，用水冲洗干净，沥干。用削皮器去除芦笋的坚硬部分，然后斜切。将蘑菇纵向切成两半。将大蒜去掉芽并切碎。",
+        "将橄榄油、大蒜和红辣椒放入锅中，用小火炒香。",
+        "当香味散发出来时，加入虾、蘑菇和2x Oigatsuotsuyu，煮至虾变色。",
+        "加入芦笋，再煮 1-2 分钟。如果您愿意，可以添加切成薄片的法式面包。"
+      ],
+      "vi": [
+        "Tôm lột vỏ và bỏ chỉ, thêm muối (không liệt kê), chà nhẹ, rửa sạch với nước và để ráo nước. Dùng dụng cụ gọt vỏ loại bỏ những phần cứng của măng tây và cắt theo đường chéo. Cắt nấm làm đôi theo chiều dọc. Loại bỏ chồi khỏi tỏi và băm nhuyễn.",
+        "Cho dầu ô liu, tỏi và ớt đỏ vào nồi rồi xào trên lửa nhỏ cho đến khi có mùi thơm.",
+        "Khi mùi thơm tỏa ra, cho tôm, nấm và 2x Oigatsuotsuyu vào đun nhỏ lửa cho đến khi tôm đổi màu.",
+        "Thêm măng tây và nấu thêm 1-2 phút nữa. Nếu thích, bạn có thể thêm bánh mì Pháp cắt lát mỏng."
+      ],
+      "hi": [
+        "झींगा को छीलें और छीलें, नमक डालें (सूचीबद्ध नहीं), हल्के से रगड़ें, पानी से धोएं और अच्छी तरह से छान लें। शतावरी के सख्त हिस्सों को छिलके से हटा दें और तिरछे काट लें। मशरूम को लंबाई में आधा काट लें। लहसुन की कलियाँ निकाल कर बारीक काट लीजिये.",
+        "एक बर्तन में जैतून का तेल, लहसुन और लाल मिर्च डालें और धीमी आंच पर खुशबू आने तक भूनें।",
+        "जब सुगंध आने लगे, तो झींगा, मशरूम और 2x ओइगात्सुओत्सुयू डालें और तब तक पकाएं जब तक कि झींगा का रंग न बदल जाए।",
+        "शतावरी डालें और 1-2 मिनट तक और पकाएँ। आप चाहें तो पतली कटी हुई फ्रेंच ब्रेड डालें।"
+      ],
+      "ru": [
+        "Очистите креветки и очистите их от жилок, добавьте соль (не указана), слегка натрите, промойте водой и хорошо слейте воду. Удалите жесткие части спаржи с помощью овощечистки и разрежьте по диагонали. Разрезаем грибы вдоль пополам. Удалите из чеснока бутоны и мелко нарежьте его.",
+        "Добавьте в кастрюлю оливковое масло, чеснок и красный перец чили и обжаривайте на слабом огне до появления аромата.",
+        "Когда появится аромат, добавьте креветки, грибы и 2 порции Оигацуотсую и варите, пока креветки не изменят цвет.",
+        "Добавьте спаржу и готовьте еще 1-2 минуты. Если хотите, добавьте тонко нарезанный французский хлеб."
+      ],
+      "th": [
+        "ปอกเปลือกและเอากุ้งออก ใส่เกลือ (ไม่อยู่ในรายการ) ถูเบาๆ แล้วล้างออกด้วยน้ำสะอาด และสะเด็ดน้ำออก ปอกเปลือกส่วนที่แข็งของหน่อไม้ฝรั่งออกแล้วหั่นเป็นแนวทแยง เห็ดผ่าครึ่งตามยาว เอาตาออกจากกระเทียมแล้วสับให้ละเอียด",
+        "ใส่น้ำมันมะกอก กระเทียม และพริกแดงลงในหม้อแล้วผัดบนไฟอ่อนจนมีกลิ่นหอม",
+        "เมื่อกลิ่นหอมออกมาให้ใส่กุ้ง เห็ด และ Oigatsuotsuyu 2 ชิ้น เคี่ยวจนกุ้งเปลี่ยนสี",
+        "เพิ่มหน่อไม้ฝรั่งและปรุงอาหารต่ออีก 1-2 นาที หากต้องการเพิ่มขนมปังฝรั่งเศสหั่นบาง ๆ"
+      ],
+      "id": [
+        "Kupas dan buang bagian udang, tambahkan garam (tidak dicantumkan), gosok perlahan, bilas dengan air, dan tiriskan. Buang bagian asparagus yang keras dengan pengupas dan potong secara diagonal. Potong jamur menjadi dua memanjang. Buang tunas bawang putih dan potong halus.",
+        "Tambahkan minyak zaitun, bawang putih, dan cabai merah ke dalam panci lalu tumis dengan api kecil hingga harum.",
+        "Jika aromanya sudah keluar, masukkan udang, jamur, dan 2x Oigatsuotsuyu, lalu masak hingga udang berubah warna.",
+        "Tambahkan asparagus dan masak lagi selama 1-2 menit. Jika suka, tambahkan roti Perancis yang diiris tipis."
+      ],
+      "ms": [
+        "Kupas dan buang udang, tambah garam (tidak disenaraikan), gosok perlahan, bilas dengan air, dan toskan dengan baik. Keluarkan bahagian keras asparagus dengan pengupas dan potong menyerong. Potong cendawan separuh memanjang. Keluarkan tunas dari bawang putih dan cincang halus.",
+        "Masukkan minyak zaitun, bawang putih, dan cili merah ke dalam periuk dan tumis dengan api perlahan sehingga naik bau.",
+        "Bila dah keluar aroma, masukkan udang, cendawan, dan 2x Oigatsuotsuyu dan reneh hingga udang bertukar warna.",
+        "Masukkan asparagus dan masak selama 1-2 minit lagi. Jika suka, masukkan roti Perancis yang dihiris nipis."
+      ],
+      "ko": [
+        "새우는 껍질을 벗기고 등 면을 제거하고 소금(분량외)을 넣고 가볍게 뿌리고 물로 씻어내고 잘 씻어낸다. 아스파라거스는 필러로 단단한 부분을 제거하고 대각선으로 자른다. 버섯은 세로 절반으로 자른다. 마늘은 싹을 제거하고 다진다.",
+        "냄비에 올리브 오일, 마늘, 붉은 갈매기를 넣고 약한 불로 천천히 향기가 나올 때까지 볶는다.",
+        "향기가 나오면 새우, 버섯, '쫓는 츠유 2배'를 넣고 새우의 색이 바뀔 때까지 살짝 끓인다.",
+        "아스파라거스를 넣고 1~2분 정도 끓인다. 취향에 따라 프랑스 빵을 얇게 썬다."
+      ]
+    }
   }
 ]

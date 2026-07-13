@@ -310421,5 +310421,692 @@
         "아스파라거스를 넣고 1~2분 정도 끓인다. 취향에 따라 프랑스 빵을 얇게 썬다."
       ]
     }
+  },
+  {
+    "id": "56070426",
+    "source_url": "https://www.mizkan.co.jp/ouchirecipe/recipe/?menu_id=24092",
+    "source_site": "Mizkan",
+    "title_ja": "豚しゃぶ冷やし中華",
+    "description_ja": "",
+    "ingredients": [
+      {
+        "name_ja": "中華めん　（ゆで）",
+        "amount": "２玉",
+        "name_translated": {
+          "en": "Chinese noodles (boiled)",
+          "zh_tw": "中式麵條（煮）",
+          "zh_cn": "中式面条（煮）",
+          "vi": "Mì Trung Quốc (luộc)",
+          "hi": "चीनी नूडल्स (उबला हुआ)",
+          "ru": "Китайская лапша (отварная)",
+          "th": "บะหมี่จีน (ต้ม)",
+          "id": "Mie Cina (direbus)",
+          "ms": "mee cina (rebus)",
+          "ko": "중화 면(삶은)"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E4%B8%AD%E8%8F%AF%E3%82%81%E3%82%93%E3%80%80%EF%BC%88%E3%82%86%E3%81%A7%EF%BC%89&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E4%B8%AD%E8%8F%AF%E3%82%81%E3%82%93%E3%80%80%EF%BC%88%E3%82%86%E3%81%A7%EF%BC%89/?tag="
+      },
+      {
+        "name_ja": "豚肉　しゃぶしゃぶ用",
+        "amount": "１６０ｇ",
+        "name_translated": {
+          "en": "Pork for shabu-shabu",
+          "zh_tw": "涮涮鍋用豬肉",
+          "zh_cn": "涮涮锅用猪肉",
+          "vi": "Thịt lợn cho món shabu-shabu",
+          "hi": "शब्बू-शब्बू के लिए सूअर का मांस",
+          "ru": "Свинина для сябу-сябу",
+          "th": "หมูสำหรับชาบู-ชาบู",
+          "id": "Daging babi untuk shabu-shabu",
+          "ms": "Daging babi untuk shabu-shabu",
+          "ko": "돼지고기 샤브샤브용"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E8%B1%9A%E8%82%89%E3%80%80%E3%81%97%E3%82%83%E3%81%B6%E3%81%97%E3%82%83%E3%81%B6%E7%94%A8&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E8%B1%9A%E8%82%89%E3%80%80%E3%81%97%E3%82%83%E3%81%B6%E3%81%97%E3%82%83%E3%81%B6%E7%94%A8/?tag="
+      },
+      {
+        "name_ja": "レタス",
+        "amount": "（カット済み）４０ｇ",
+        "name_translated": {
+          "en": "lettuce",
+          "zh_tw": "萵苣",
+          "zh_cn": "莴苣",
+          "vi": "rau xà lách",
+          "hi": "सलाद",
+          "ru": "латук",
+          "th": "ผักกาดหอม",
+          "id": "selada",
+          "ms": "selada",
+          "ko": "양상추"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%AC%E3%82%BF%E3%82%B9&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%AC%E3%82%BF%E3%82%B9/?tag="
+      },
+      {
+        "name_ja": "ミニトマト",
+        "amount": "６個",
+        "name_translated": {
+          "en": "cherry tomatoes",
+          "zh_tw": "櫻桃番茄",
+          "zh_cn": "樱桃番茄",
+          "vi": "cà chua bi",
+          "hi": "चैरी टमाटर",
+          "ru": "помидоры черри",
+          "th": "มะเขือเทศเชอร์รี่",
+          "id": "tomat ceri",
+          "ms": "tomato ceri",
+          "ko": "미니 토마토"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9F%E3%83%8B%E3%83%88%E3%83%9E%E3%83%88&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9F%E3%83%8B%E3%83%88%E3%83%9E%E3%83%88/?tag="
+      },
+      {
+        "name_ja": "ゆで卵",
+        "amount": "２個",
+        "name_translated": {
+          "en": "boiled egg",
+          "zh_tw": "煮雞蛋",
+          "zh_cn": "煮鸡蛋",
+          "vi": "trứng luộc",
+          "hi": "उबले हुए अंडे",
+          "ru": "вареное яйцо",
+          "th": "ไข่ต้ม",
+          "id": "telur rebus",
+          "ms": "telur rebus",
+          "ko": "삶은 달걀"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%82%86%E3%81%A7%E5%8D%B5&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%82%86%E3%81%A7%E5%8D%B5/?tag="
+      },
+      {
+        "name_ja": "料理酒",
+        "amount": "大さじ１",
+        "name_translated": {
+          "en": "cooking sake",
+          "zh_tw": "煮清酒",
+          "zh_cn": "煮清酒",
+          "vi": "nấu ăn",
+          "hi": "खाना पकाने की खातिर",
+          "ru": "приготовление сакэ",
+          "th": "สาเกทำอาหาร",
+          "id": "memasak sake",
+          "ms": "memasak sake",
+          "ko": "요리주"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E6%96%99%E7%90%86%E9%85%92&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E6%96%99%E7%90%86%E9%85%92/?tag="
+      },
+      {
+        "name_ja": "ミツカン  冷やし中華のつゆ　しょうゆ",
+        "amount": "適量",
+        "name_translated": {
+          "en": "Mizkan Hiyashi Chuka Soy Sauce",
+          "zh_tw": "味滋康冷中華醬油",
+          "zh_cn": "味滋康冷中华酱油",
+          "vi": "Nước tương Mizkan Hiyashi Chuka",
+          "hi": "मिज़कान हियाशी चूका सोया सॉस",
+          "ru": "Соевый соус Мизкан Хияси Чука",
+          "th": "มิซกัน ฮิยาชิ ชูกะ ซีอิ๊ว",
+          "id": "Kecap Mizkan Hiyashi Chuka",
+          "ms": "Mizkan Hiyashi Chuka Kicap",
+          "ko": "미쓰칸 차가운 중화의 츠유 간장"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%20%20%E5%86%B7%E3%82%84%E3%81%97%E4%B8%AD%E8%8F%AF%E3%81%AE%E3%81%A4%E3%82%86%E3%80%80%E3%81%97%E3%82%87%E3%81%86%E3%82%86&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%20%20%E5%86%B7%E3%82%84%E3%81%97%E4%B8%AD%E8%8F%AF%E3%81%AE%E3%81%A4%E3%82%86%E3%80%80%E3%81%97%E3%82%87%E3%81%86%E3%82%86/?tag="
+      },
+      {
+        "name_ja": "１",
+        "amount": "ミニトマト、ゆで卵は半分に切る。",
+        "name_translated": {
+          "en": "1",
+          "zh_tw": "1",
+          "zh_cn": "1",
+          "vi": "1",
+          "hi": "1",
+          "ru": "1",
+          "th": "1",
+          "id": "1",
+          "ms": "1",
+          "ko": "1"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%91&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%91/?tag="
+      },
+      {
+        "name_ja": "２",
+        "amount": "中華めんは表示の時間通りゆで、冷水にさらして水けをきる。",
+        "name_translated": {
+          "en": "2",
+          "zh_tw": "2",
+          "zh_cn": "2",
+          "vi": "2",
+          "hi": "2",
+          "ru": "2",
+          "th": "2",
+          "id": "2",
+          "ms": "2",
+          "ko": "2"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%92&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%92/?tag="
+      },
+      {
+        "name_ja": "３",
+        "amount": "耐熱ボウルに豚肉と水（分量外２００ｍｌ）、料理酒を入れ、箸で軽くほぐす。ふんわりとラップをかけ、電子レンジ６００Wで４分加熱する。全体を混ぜ、ラップをしてさらに２分加熱する。湯を切り、粗熱をとる。",
+        "name_translated": {
+          "en": "3",
+          "zh_tw": "3",
+          "zh_cn": "3",
+          "vi": "3",
+          "hi": "3",
+          "ru": "3",
+          "th": "3",
+          "id": "3",
+          "ms": "3",
+          "ko": "3"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%93&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%93/?tag="
+      },
+      {
+        "name_ja": "４",
+        "amount": "を盛り、その上に具材を彩りよくトッピングする。「冷やし中華のつゆしょうゆ」を回しかける。",
+        "name_translated": {
+          "en": "4",
+          "zh_tw": "4",
+          "zh_cn": "4",
+          "vi": "4",
+          "hi": "4",
+          "ru": "4",
+          "th": "4",
+          "id": "4",
+          "ms": "4",
+          "ko": "4"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%94&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%94/?tag="
+      }
+    ],
+    "steps_ja": [
+      "ミニトマト、ゆで卵は半分に切る。",
+      "中華めんは表示の時間通りゆで、冷水にさらして水けをきる。",
+      "耐熱ボウルに豚肉と水（分量外２００ｍｌ）、料理酒を入れ、箸で軽くほぐす。ふんわりとラップをかけ、電子レンジ６００Wで４分加熱する。全体を混ぜ、ラップをしてさらに２分加熱する。湯を切り、粗熱をとる。",
+      "器に２を盛り、その上に具材を彩りよくトッピングする。「冷やし中華のつゆしょうゆ」を回しかける。"
+    ],
+    "image_url": "",
+    "title": {
+      "en": "Pork shabu hiyashi chuka",
+      "zh_tw": "豬肉涮火鍋",
+      "zh_cn": "猪肉涮火锅",
+      "vi": "Thịt lợn shabu hiyashi chuka",
+      "hi": "पोर्क शब्बू हियाशी चूका",
+      "ru": "Свинина шабу хияши чука",
+      "th": "ชาบูหมูฮิยาชิชูกะ",
+      "id": "Shabu babi hiyashi chuka",
+      "ms": "Shabu hiyashi chuka babi",
+      "ko": "돼지 샤브 차가운 중국"
+    },
+    "description": {
+      "en": "",
+      "zh_tw": "",
+      "zh_cn": "",
+      "vi": "",
+      "hi": "",
+      "ru": "",
+      "th": "",
+      "id": "",
+      "ms": "",
+      "ko": ""
+    },
+    "steps": {
+      "en": [
+        "Cut cherry tomatoes and boiled eggs in half.",
+        "Boil the Chinese noodles according to the instructions on the label, then drain under cold water.",
+        "Put the pork, water (200ml not included), and cooking wine in a heat-resistant bowl, and loosen it lightly with chopsticks. Loosely cover with plastic wrap and heat in the microwave at 600W for 4 minutes. Mix everything together, cover with plastic wrap and heat for another 2 minutes. Drain the water and remove from heat.",
+        "Place 2 in a bowl and top with colorful toppings. Sprinkle with ``chilled Chinese soup soy sauce''."
+      ],
+      "zh_tw": [
+        "將櫻桃番茄和水煮蛋切成兩半。",
+        "按照標籤上的說明將中國麵條煮沸，然後用冷水瀝乾。",
+        "將豬肉、水（不含200ml）、料酒放入耐熱碗中，用筷子輕輕鬆開。鬆鬆地蓋上保鮮膜，然後在微波爐中以 600W 加熱 4 分鐘。將所有材料混合在一起，蓋上保鮮膜，再加熱 2 分鐘。瀝乾水並遠離火源。",
+        "將 2 個放入碗中，並在上面放上彩色食材。撒上「冷湯醬油」。"
+      ],
+      "zh_cn": [
+        "将樱桃番茄和煮鸡蛋切成两半。",
+        "按照标签上的说明将中国面条煮沸，然后用冷水沥干。",
+        "将猪肉、水（不含200ml）、料酒放入耐热碗中，用筷子轻轻松开。松松地盖上保鲜膜，然后在微波炉中以 600W 加热 4 分钟。将所有材料混合在一起，盖上保鲜膜，再加热 2 分钟。沥干水并远离火源。",
+        "将 2 个放入碗中，并在上面放上彩色配料。撒上“冷汤酱油”。"
+      ],
+      "vi": [
+        "Cắt đôi cà chua bi và trứng luộc.",
+        "Luộc mì Trung Quốc theo hướng dẫn trên nhãn, sau đó xả dưới nước lạnh.",
+        "Cho thịt lợn, nước (không bao gồm 200ml) và rượu nấu vào tô chịu nhiệt, dùng đũa khuấy nhẹ. Đậy kín bằng màng bọc thực phẩm và đun nóng trong lò vi sóng ở công suất 600W trong 4 phút. Trộn tất cả mọi thứ lại với nhau, bọc lại bằng màng bọc thực phẩm và đun nóng thêm 2 phút nữa. Xả nước và loại bỏ nhiệt.",
+        "Đặt 2 cái vào tô và phủ các lớp phủ đầy màu sắc lên trên. Rắc `` nước tương ướp lạnh của Trung Quốc ''."
+      ],
+      "hi": [
+        "चेरी टमाटर और उबले अंडे को आधा काट लें।",
+        "चीनी नूडल्स को लेबल पर दिए निर्देशों के अनुसार उबालें, फिर ठंडे पानी में छान लें।",
+        "एक गर्मी प्रतिरोधी कटोरे में सूअर का मांस, पानी (200 मिलीलीटर शामिल नहीं) और खाना पकाने वाली वाइन डालें और इसे चॉपस्टिक से हल्के से ढीला करें। इसे प्लास्टिक रैप से ढक दें और माइक्रोवेव में 600W पर 4 मिनट के लिए गर्म करें। सब कुछ एक साथ मिलाएं, प्लास्टिक रैप से ढक दें और 2 मिनट के लिए गर्म करें। पानी निथार लें और आंच से उतार लें।",
+        "2 को एक कटोरे में रखें और ऊपर से रंगीन टॉपिंग डालें। ``ठंडा चीनी सूप सोया सॉस'' छिड़कें।"
+      ],
+      "ru": [
+        "Помидоры черри и вареные яйца разрежьте пополам.",
+        "Отварите китайскую лапшу согласно инструкции на этикетке, затем слейте воду под холодную воду.",
+        "Поместите свинину, воду (200 мл в комплект не входит) и кулинарное вино в жаропрочную миску и слегка разрыхлите палочками. Неплотно накройте полиэтиленовой пленкой и нагрейте в микроволновой печи при мощности 600 Вт в течение 4 минут. Все перемешать, накрыть полиэтиленовой пленкой и нагревать еще 2 минуты. Слейте воду и снимите с огня.",
+        "Поместите 2 штуки в миску и сверху выложите красочную начинку. Посыпьте «охлажденным соевым соусом для китайского супа»."
+      ],
+      "th": [
+        "หั่นมะเขือเทศเชอร์รี่และไข่ต้มลงครึ่งหนึ่ง",
+        "ต้มบะหมี่จีนตามคำแนะนำบนฉลาก แล้วสะเด็ดน้ำด้วยน้ำเย็น",
+        "ใส่เนื้อหมู น้ำ (ไม่รวม 200 มล.) และไวน์สำหรับปรุงอาหารลงในชามทนความร้อน และใช้ตะเกียบคลายเบาๆ ปิดด้วยพลาสติกแร็ปอย่างหลวมๆ แล้วนำเข้าไมโครเวฟที่ 600W เป็นเวลา 4 นาที ผสมทุกอย่างให้เข้ากัน ปิดด้วยพลาสติกแร็ป แล้วตั้งไฟต่ออีก 2 นาที สะเด็ดน้ำและนำออกจากเตา",
+        "วาง 2 ชิ้นลงในชามแล้วโรยหน้าด้วยท็อปปิ้งหลากสีสัน โรยหน้าด้วย ``ซีอิ๊วซุปจีนแช่เย็น''"
+      ],
+      "id": [
+        "Potong tomat ceri dan telur rebus menjadi dua.",
+        "Rebus mie cina sesuai petunjuk pada label, lalu tiriskan dengan air dingin.",
+        "Masukkan daging babi, air (200ml tidak termasuk), dan anggur masak ke dalam mangkuk tahan panas, lalu kendurkan perlahan dengan sumpit. Tutup longgar dengan bungkus plastik dan panaskan dalam microwave pada 600W selama 4 menit. Campur semuanya, tutup dengan bungkus plastik dan panaskan lagi selama 2 menit. Kuras airnya dan angkat.",
+        "Tempatkan 2 dalam mangkuk dan atasnya dengan topping warna-warni. Taburi dengan ``kecap asin sup Cina dingin''."
+      ],
+      "ms": [
+        "Potong tomato ceri dan telur rebus separuh.",
+        "Rebus mee Cina mengikut arahan pada label, kemudian toskan di bawah air sejuk.",
+        "Masukkan daging babi, air (tidak termasuk 200ml), dan wain masak dalam mangkuk tahan panas, dan longgarkannya dengan penyepit. Tutup longgar dengan bungkus plastik dan panaskan dalam ketuhar gelombang mikro pada 600W selama 4 minit. Campurkan semuanya, tutup dengan bungkus plastik dan panaskan selama 2 minit lagi. Toskan air dan keluarkan dari haba.",
+        "Letakkan 2 dalam mangkuk dan atas dengan topping berwarna-warni. Taburkan dengan ``kicap cina sup sejuk''."
+      ],
+      "ko": [
+        "미니 토마토, 삶은 계란은 반으로 자른다.",
+        "중화면은 표시의 시간대로 삶은 냉수에 노출되어 물을 온다.",
+        "내열 그릇에 돼지고기와 물(분량외 200ml), 요리주를 넣고 젓가락으로 가볍게 풀어준다. 부드럽게 랩을 걸고, 전자 레인지 600W로 4분 가열한다. 전체를 섞고 랩을 넣고 추가 2 분 동안 가열합니다. 물을 자르고 조열을 취한다.",
+        "그릇에 2를 담고 그 위에 재료를 물들여 잘 토핑한다. 「냉장중화의 츠유 간장」을 돌린다."
+      ]
+    }
+  },
+  {
+    "id": "9dcd5a6a",
+    "source_url": "https://www.mizkan.co.jp/ouchirecipe/recipe/?menu_id=21659",
+    "source_site": "Mizkan",
+    "title_ja": "オクラとなすの豚バラスタミナ炒め",
+    "description_ja": "",
+    "ingredients": [
+      {
+        "name_ja": "オクラ",
+        "amount": "１０本",
+        "name_translated": {
+          "en": "okra",
+          "zh_tw": "秋葵",
+          "zh_cn": "秋葵",
+          "vi": "đậu bắp",
+          "hi": "ओकरा",
+          "ru": "бамия",
+          "th": "กระเจี๊ยบเขียว",
+          "id": "okra",
+          "ms": "bendi",
+          "ko": "오쿠라"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%82%AA%E3%82%AF%E3%83%A9&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%82%AA%E3%82%AF%E3%83%A9/?tag="
+      },
+      {
+        "name_ja": "なす",
+        "amount": "１本",
+        "name_translated": {
+          "en": "Eggplant",
+          "zh_tw": "茄子",
+          "zh_cn": "茄子",
+          "vi": "cà tím",
+          "hi": "बैंगन",
+          "ru": "Баклажан",
+          "th": "มะเขือ",
+          "id": "Terung",
+          "ms": "terung",
+          "ko": "이루다"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%AA%E3%81%99&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%AA%E3%81%99/?tag="
+      },
+      {
+        "name_ja": "豚バラ肉　薄切り",
+        "amount": "２００ｇ",
+        "name_translated": {
+          "en": "Thinly sliced ​​pork belly",
+          "zh_tw": "五花肉切成薄片",
+          "zh_cn": "五花肉切成薄片",
+          "vi": "Thịt ba chỉ thái mỏng",
+          "hi": "पतले कटा हुआ सूअर का मांस पेट",
+          "ru": "Тонко нарезанная свиная грудинка",
+          "th": "หมูสามชั้นหั่นบางๆ",
+          "id": "Perut babi diiris tipis",
+          "ms": "Perut babi yang dihiris nipis",
+          "ko": "돼지 장미 고기 얇게 썬다."
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E8%B1%9A%E3%83%90%E3%83%A9%E8%82%89%E3%80%80%E8%96%84%E5%88%87%E3%82%8A&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E8%B1%9A%E3%83%90%E3%83%A9%E8%82%89%E3%80%80%E8%96%84%E5%88%87%E3%82%8A/?tag="
+      },
+      {
+        "name_ja": "ごま油",
+        "amount": "大さじ１",
+        "name_translated": {
+          "en": "sesame oil",
+          "zh_tw": "香油",
+          "zh_cn": "香油",
+          "vi": "dầu mè",
+          "hi": "तिल का तेल",
+          "ru": "кунжутное масло",
+          "th": "น้ำมันงา",
+          "id": "minyak wijen",
+          "ms": "minyak bijan",
+          "ko": "참기름"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%94%E3%81%BE%E6%B2%B9&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%94%E3%81%BE%E6%B2%B9/?tag="
+      },
+      {
+        "name_ja": "ミツカン　カンタン酢",
+        "amount": "大さじ３",
+        "name_translated": {
+          "en": "Mizkan Kantan Vinegar",
+          "zh_tw": "味滋康甘丹醋",
+          "zh_cn": "味滋康甘丹醋",
+          "vi": "Giấm Mizkan Kantan",
+          "hi": "मिज़कान कंटन सिरका",
+          "ru": "Мизкан Кантанский уксус",
+          "th": "น้ำส้มสายชูมิซกัน กันตัน",
+          "id": "Cuka Mizkan Kantan",
+          "ms": "Cuka Mizkan Kantan",
+          "ko": "미츠칸 칸탄초"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E3%82%AB%E3%83%B3%E3%82%BF%E3%83%B3%E9%85%A2&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E3%82%AB%E3%83%B3%E3%82%BF%E3%83%B3%E9%85%A2/?tag="
+      },
+      {
+        "name_ja": "しょうゆ",
+        "amount": "大さじ１",
+        "name_translated": {
+          "en": "soy sauce",
+          "zh_tw": "醬油",
+          "zh_cn": "酱油",
+          "vi": "nước tương",
+          "hi": "सोया सॉस",
+          "ru": "соевый соус",
+          "th": "ซอสถั่วเหลือง",
+          "id": "kecap",
+          "ms": "kicap",
+          "ko": "간장"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%97%E3%82%87%E3%81%86%E3%82%86&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%97%E3%82%87%E3%81%86%E3%82%86/?tag="
+      },
+      {
+        "name_ja": "おろししょうが",
+        "amount": "小さじ１／２",
+        "name_translated": {
+          "en": "Grated ginger",
+          "zh_tw": "薑末",
+          "zh_cn": "姜末",
+          "vi": "Gừng bào sợi",
+          "hi": "कसा हुआ अदरक",
+          "ru": "Тертый имбирь",
+          "th": "ขิงขูด",
+          "id": "jahe parut",
+          "ms": "Halia parut",
+          "ko": "오로시 생강"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%8A%E3%82%8D%E3%81%97%E3%81%97%E3%82%87%E3%81%86%E3%81%8C&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%8A%E3%82%8D%E3%81%97%E3%81%97%E3%82%87%E3%81%86%E3%81%8C/?tag="
+      },
+      {
+        "name_ja": "１",
+        "amount": "にする。",
+        "name_translated": {
+          "en": "1",
+          "zh_tw": "1",
+          "zh_cn": "1",
+          "vi": "1",
+          "hi": "1",
+          "ru": "1",
+          "th": "1",
+          "id": "1",
+          "ms": "1",
+          "ko": "1"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%91&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%91/?tag="
+      },
+      {
+        "name_ja": "２",
+        "amount": "<Ａ>を合わせる。",
+        "name_translated": {
+          "en": "2",
+          "zh_tw": "2",
+          "zh_cn": "2",
+          "vi": "2",
+          "hi": "2",
+          "ru": "2",
+          "th": "2",
+          "id": "2",
+          "ms": "2",
+          "ko": "2"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%92&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%92/?tag="
+      },
+      {
+        "name_ja": "３",
+        "amount": "を入れる。",
+        "name_translated": {
+          "en": "3",
+          "zh_tw": "3",
+          "zh_cn": "3",
+          "vi": "3",
+          "hi": "3",
+          "ru": "3",
+          "th": "3",
+          "id": "3",
+          "ms": "3",
+          "ko": "3"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%93&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%93/?tag="
+      },
+      {
+        "name_ja": "４",
+        "amount": "全体に油が回ったら<Ａ>を入れ、汁けがなくなるまで炒めからめる。",
+        "name_translated": {
+          "en": "4",
+          "zh_tw": "4",
+          "zh_cn": "4",
+          "vi": "4",
+          "hi": "4",
+          "ru": "4",
+          "th": "4",
+          "id": "4",
+          "ms": "4",
+          "ko": "4"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%94&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%94/?tag="
+      },
+      {
+        "name_ja": "豚肉とオクラのらくらくレンジ蒸し",
+        "amount": "適量",
+        "name_translated": {
+          "en": "Easy microwave steaming of pork and okra",
+          "zh_tw": "微波爐輕鬆蒸豬肉和秋葵",
+          "zh_cn": "微波炉轻松蒸猪肉和秋葵",
+          "vi": "Hấp thịt lợn và đậu bắp bằng lò vi sóng dễ dàng",
+          "hi": "पोर्क और भिंडी की आसान माइक्रोवेव स्टीमिंग",
+          "ru": "Легкое приготовление свинины и бамии на пару в микроволновой печи",
+          "th": "นึ่งหมูและกระเจี๊ยบด้วยไมโครเวฟง่ายๆ",
+          "id": "Mengukus daging babi dan okra dengan microwave dengan mudah",
+          "ms": "Mudah mengukus daging babi dan bendi dengan microwave",
+          "ko": "돼지고기와 오크라의 편안한 범위 찜"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E8%B1%9A%E8%82%89%E3%81%A8%E3%82%AA%E3%82%AF%E3%83%A9%E3%81%AE%E3%82%89%E3%81%8F%E3%82%89%E3%81%8F%E3%83%AC%E3%83%B3%E3%82%B8%E8%92%B8%E3%81%97&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E8%B1%9A%E8%82%89%E3%81%A8%E3%82%AA%E3%82%AF%E3%83%A9%E3%81%AE%E3%82%89%E3%81%8F%E3%82%89%E3%81%8F%E3%83%AC%E3%83%B3%E3%82%B8%E8%92%B8%E3%81%97/?tag="
+      },
+      {
+        "name_ja": "「味ぽん」で！？サクッと！オクラのコロコロ唐揚げ",
+        "amount": "適量",
+        "name_translated": {
+          "en": "At “Ajipon”! ? Quick! Deep-fried okra",
+          "zh_tw": "在“Ajipon”！ ？快的！炸秋葵",
+          "zh_cn": "在“Ajipon”！ ？快的！炸秋葵",
+          "vi": "Tại “Ajipon”! ? Nhanh! Đậu bắp chiên giòn",
+          "hi": "\"अजिपोन\" पर! ? जल्दी! तली हुई भिंडी",
+          "ru": "В «Аджипоне»! ? Быстрый! Бамия, обжаренная во фритюре",
+          "th": "ที่ “อาจิพร”! ? เร็ว! กระเจี๊ยบทอด",
+          "id": "Di “Ajipon”! ? Cepat! Okra goreng",
+          "ms": "Di \"Ajipon\"! ? Cepat! bendi goreng",
+          "ko": "「아이폰」으로! ? 바삭바삭! 오크라의 코로코로 튀김"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%80%8C%E5%91%B3%E3%81%BD%E3%82%93%E3%80%8D%E3%81%A7%EF%BC%81%EF%BC%9F%E3%82%B5%E3%82%AF%E3%83%83%E3%81%A8%EF%BC%81%E3%82%AA%E3%82%AF%E3%83%A9%E3%81%AE%E3%82%B3%E3%83%AD%E3%82%B3%E3%83%AD%E5%94%90%E6%8F%9A%E3%81%92&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%80%8C%E5%91%B3%E3%81%BD%E3%82%93%E3%80%8D%E3%81%A7%EF%BC%81%EF%BC%9F%E3%82%B5%E3%82%AF%E3%83%83%E3%81%A8%EF%BC%81%E3%82%AA%E3%82%AF%E3%83%A9%E3%81%AE%E3%82%B3%E3%83%AD%E3%82%B3%E3%83%AD%E5%94%90%E6%8F%9A%E3%81%92/?tag="
+      },
+      {
+        "name_ja": "まるごとオクラのやみつきだれ",
+        "amount": "適量",
+        "name_translated": {
+          "en": "Addictive whole okra sauce",
+          "zh_tw": "令人上癮的全秋葵醬",
+          "zh_cn": "令人上瘾的全秋葵酱",
+          "vi": "Nước sốt đậu bắp gây nghiện",
+          "hi": "नशीला संपूर्ण भिंडी सॉस",
+          "ru": "Захватывающий соус из цельной бамии",
+          "th": "ซอสกระเจี๊ยบทั้งตัวที่น่าติดตาม",
+          "id": "Saus okra utuh yang membuat ketagihan",
+          "ms": "Sos bendi penuh ketagihan",
+          "ko": "통째로 오쿠라의 야미츠키 누레"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%BE%E3%82%8B%E3%81%94%E3%81%A8%E3%82%AA%E3%82%AF%E3%83%A9%E3%81%AE%E3%82%84%E3%81%BF%E3%81%A4%E3%81%8D%E3%81%A0%E3%82%8C&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%BE%E3%82%8B%E3%81%94%E3%81%A8%E3%82%AA%E3%82%AF%E3%83%A9%E3%81%AE%E3%82%84%E3%81%BF%E3%81%A4%E3%81%8D%E3%81%A0%E3%82%8C/?tag="
+      }
+    ],
+    "steps_ja": [
+      "オクラはガクを取り、斜め半分に切る。なすは縦半分に切り、乱切りにする。",
+      "<Ａ>を合わせる。",
+      "フライパンにごま油を中火で熱し、豚バラ肉を炒め、火が通ったら、１を入れる。",
+      "全体に油が回ったら<Ａ>を入れ、汁けがなくなるまで炒めからめる。",
+      "豚肉とオクラのらくらくレンジ蒸し",
+      "「味ぽん」で！？サクッと！オクラのコロコロ唐揚げ",
+      "まるごとオクラのやみつきだれ"
+    ],
+    "image_url": "",
+    "title": {
+      "en": "Stir-fried okra and eggplant with pork belly stamina",
+      "zh_tw": "五花肉炒秋葵茄子",
+      "zh_cn": "五花肉炒秋葵茄子",
+      "vi": "Đậu bắp xào cà tím với bụng heo",
+      "hi": "पोर्क बेली सहनशक्ति के साथ तली हुई भिंडी और बैंगन",
+      "ru": "Жареная бамия и баклажаны со свиной грудинкой",
+      "th": "กระเจี๊ยบและมะเขือยาวผัดขี้เมาหมูสามชั้น",
+      "id": "Okra goreng dan terong dengan stamina perut babi",
+      "ms": "Bendi dan terung tumis dengan stamina perut babi",
+      "ko": "오크라로 만든 돼지 장미 스태미나 볶음"
+    },
+    "description": {
+      "en": "",
+      "zh_tw": "",
+      "zh_cn": "",
+      "vi": "",
+      "hi": "",
+      "ru": "",
+      "th": "",
+      "id": "",
+      "ms": "",
+      "ko": ""
+    },
+    "steps": {
+      "en": [
+        "Peel the okra and cut it in half diagonally. Cut the eggplant in half lengthwise and into chunks.",
+        "Match <A>.",
+        "Heat sesame oil in a frying pan over medium heat, stir-fry the pork belly, and when it heats up, add 1.",
+        "Once the oil is coated, add <A> and stir-fry until the liquid evaporates.",
+        "Easy microwave steaming of pork and okra",
+        "At “Ajipon”! ? Quick! Deep-fried okra",
+        "Addictive whole okra sauce"
+      ],
+      "zh_tw": [
+        "將秋葵去皮，對角切成兩半。將茄子縱向切成兩半，切塊。",
+        "<Ａ>を合わせる。",
+        "炒鍋中以中火燒熱芝麻油，將五花肉炒香，熱時加入1。",
+        "一旦油被塗上，加入<A>並炒至液體蒸發。",
+        "微波爐輕鬆蒸豬肉和秋葵",
+        "在“Ajipon”！ ？快的！炸秋葵",
+        "令人上癮的全秋葵醬"
+      ],
+      "zh_cn": [
+        "将秋葵去皮，对角切成两半。将茄子纵向切成两半，切成块。",
+        "匹配<A>。",
+        "炒锅中用中火烧热芝麻油，将五花肉炒香，热时加入1。",
+        "一旦油被涂上，加入<A>并炒至液体蒸发。",
+        "微波炉轻松蒸猪肉和秋葵",
+        "在“Ajipon”！ ？快的！炸秋葵",
+        "令人上瘾的全秋葵酱"
+      ],
+      "vi": [
+        "Gọt vỏ đậu bắp và cắt làm đôi theo đường chéo. Cắt cà tím làm đôi theo chiều dọc và thành khối.",
+        "Phù hợp với <A>.",
+        "Đun nóng dầu mè trong chảo trên lửa vừa, cho thịt ba chỉ vào xào, khi dầu nóng thì cho 1.",
+        "Sau khi phủ dầu, thêm <A> và xào cho đến khi chất lỏng bay hơi.",
+        "Hấp thịt lợn và đậu bắp bằng lò vi sóng dễ dàng",
+        "Tại “Ajipon”! ? Nhanh! Đậu bắp chiên giòn",
+        "Nước sốt đậu bắp gây nghiện"
+      ],
+      "hi": [
+        "भिंडी को छीलकर आधा तिरछा काट लीजिए. बैंगन को लम्बाई में आधा-आधा टुकड़ों में काट लें।",
+        "मिलान <ए>.",
+        "मध्यम आंच पर एक फ्राइंग पैन में तिल का तेल गर्म करें, पोर्क बेली को हिलाकर भूनें और जब यह गर्म हो जाए, तो 1 डालें।",
+        "एक बार जब तेल लेपित हो जाए, तो <ए> डालें और तब तक हिलाते रहें जब तक कि तरल वाष्पित न हो जाए।",
+        "पोर्क और भिंडी की आसान माइक्रोवेव स्टीमिंग",
+        "\"अजिपोन\" पर! ? जल्दी! तली हुई भिंडी",
+        "नशीला संपूर्ण भिंडी सॉस"
+      ],
+      "ru": [
+        "Очистите бамию и разрежьте ее пополам по диагонали. Разрежьте баклажан вдоль пополам и на кусочки.",
+        "Соответствуйте <A>.",
+        "Нагрейте кунжутное масло в сковороде на среднем огне, обжарьте свиную грудинку, когда оно нагреется, добавьте 1.",
+        "Как только масло покроется, добавьте <A> и жарьте, помешивая, пока жидкость не испарится.",
+        "Легкое приготовление свинины и бамии на пару в микроволновой печи",
+        "В «Аджипоне»! ? Быстрый! Бамия, обжаренная во фритюре",
+        "Захватывающий соус из цельной бамии"
+      ],
+      "th": [
+        "ปอกกระเจี๊ยบแล้วผ่าครึ่งตามแนวทแยง หั่นมะเขือยาวครึ่งทางตามยาวและเป็นชิ้นๆ",
+        "จับคู่ <A>",
+        "ตั้งน้ำมันงาในกระทะบนไฟร้อนปานกลาง ผัดหมูสามชั้นลงไปผัด เมื่อร้อน ใส่ 1 อย่าง",
+        "เมื่อเคลือบน้ำมันแล้ว ให้เติม <A> และผัดจนของเหลวระเหย",
+        "นึ่งหมูและกระเจี๊ยบด้วยไมโครเวฟง่ายๆ",
+        "ที่ “อาจิพร”! ? เร็ว! กระเจี๊ยบทอด",
+        "ซอสกระเจี๊ยบทั้งตัวที่น่าติดตาม"
+      ],
+      "id": [
+        "Kupas okra dan potong menjadi dua secara diagonal. Potong terong menjadi dua memanjang dan menjadi beberapa bagian.",
+        "Cocokkan <A>.",
+        "Panaskan minyak wijen dalam wajan dengan api sedang, tumis perut babi, dan jika sudah panas tambahkan 1.",
+        "Setelah minyak terlapisi, tambahkan <A> dan tumis hingga cairannya menguap.",
+        "Mengukus daging babi dan okra dengan microwave dengan mudah",
+        "Di “Ajipon”! ? Cepat! Okra goreng",
+        "Saus okra utuh yang membuat ketagihan"
+      ],
+      "ms": [
+        "Kupas bendi dan potong separuh menyerong. Potong terung separuh memanjang dan menjadi kepingan.",
+        "Padankan <A>.",
+        "Panaskan minyak bijan dalam kuali dengan api sederhana, tumis perut babi, dan apabila ia panas, masukkan 1.",
+        "Setelah minyak bersalut, masukkan <A> dan tumis sehingga cecair sejat.",
+        "Mudah mengukus daging babi dan bendi dengan microwave",
+        "Di \"Ajipon\"! ? Cepat! bendi goreng",
+        "Sos bendi penuh ketagihan"
+      ],
+      "ko": [
+        "오크라는 곰을 잡고 대각선 절반으로 자른다. 나스는 세로 절반으로 자르고 방해한다.",
+        "<A>를 맞춘다.",
+        "프라이팬에 참기름을 중불로 가열하고, 돼지 고기를 볶아 불이 지나면 1을 넣는다.",
+        "전체에 기름이 돌면 <A>를 넣고 국물이 없어질 때까지 볶다.",
+        "돼지고기와 오크라의 편안한 범위 찜",
+        "「아이폰」으로! ? 바삭바삭! 오크라의 코로코로 튀김",
+        "통째로 오쿠라의 야미츠키 누레"
+      ]
+    }
   }
 ]

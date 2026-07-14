@@ -311108,5 +311108,327 @@
         "통째로 오쿠라의 야미츠키 누레"
       ]
     }
+  },
+  {
+    "id": "9ff797b1",
+    "source_url": "https://www.mizkan.co.jp/ouchirecipe/recipe/?menu_id=2275",
+    "source_site": "Mizkan",
+    "title_ja": "ひんやりオクラとトマトのつゆぶっかけ",
+    "description_ja": "",
+    "ingredients": [
+      {
+        "name_ja": "オクラ",
+        "amount": "４本",
+        "name_translated": {
+          "en": "okra",
+          "zh_tw": "秋葵",
+          "zh_cn": "秋葵",
+          "vi": "đậu bắp",
+          "hi": "ओकरा",
+          "ru": "бамия",
+          "th": "กระเจี๊ยบเขียว",
+          "id": "okra",
+          "ms": "bendi",
+          "ko": "오쿠라"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%82%AA%E3%82%AF%E3%83%A9&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%82%AA%E3%82%AF%E3%83%A9/?tag="
+      },
+      {
+        "name_ja": "ミニトマト",
+        "amount": "4個",
+        "name_translated": {
+          "en": "cherry tomatoes",
+          "zh_tw": "櫻桃番茄",
+          "zh_cn": "樱桃番茄",
+          "vi": "cà chua bi",
+          "hi": "चैरी टमाटर",
+          "ru": "помидоры черри",
+          "th": "มะเขือเทศเชอร์รี่",
+          "id": "tomat ceri",
+          "ms": "tomato ceri",
+          "ko": "미니 토마토"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9F%E3%83%8B%E3%83%88%E3%83%9E%E3%83%88&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9F%E3%83%8B%E3%83%88%E3%83%9E%E3%83%88/?tag="
+      },
+      {
+        "name_ja": "ミツカン　追いがつおつゆ２倍",
+        "amount": "大さじ２",
+        "name_translated": {
+          "en": "Mizkan Oigatsu Otsuyu x2",
+          "zh_tw": "味滋館大月大津 x2",
+          "zh_cn": "味滋馆大月大津 x2",
+          "vi": "Mizkan Oigatsu Otsuyu x2",
+          "hi": "मिज़कान ओइगात्सु ओत्सुयु x2",
+          "ru": "Мизкан Ойгацу Оцую x2",
+          "th": "มิซคัง โออิงัตสึ โอทสึยุ x2",
+          "id": "Mizkan Oigatsu Otsuyu x2",
+          "ms": "Mizkan Oigatsu Otsuyu x2",
+          "ko": "미츠칸 쫓는 츠츠유 2 배"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E8%BF%BD%E3%81%84%E3%81%8C%E3%81%A4%E3%81%8A%E3%81%A4%E3%82%86%EF%BC%92%E5%80%8D&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E8%BF%BD%E3%81%84%E3%81%8C%E3%81%A4%E3%81%8A%E3%81%A4%E3%82%86%EF%BC%92%E5%80%8D/?tag="
+      },
+      {
+        "name_ja": "水",
+        "amount": "大さじ２",
+        "name_translated": {
+          "en": "water",
+          "zh_tw": "水",
+          "zh_cn": "水",
+          "vi": "Nước",
+          "hi": "पानी",
+          "ru": "вода",
+          "th": "น้ำ",
+          "id": "air",
+          "ms": "air",
+          "ko": "물"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E6%B0%B4&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E6%B0%B4/?tag="
+      },
+      {
+        "name_ja": "すりごま　（白）",
+        "amount": "小さじ２",
+        "name_translated": {
+          "en": "Ground sesame (white)",
+          "zh_tw": "芝麻粉（白）",
+          "zh_cn": "芝麻粉（白）",
+          "vi": "Mè xay (trắng)",
+          "hi": "पिसा हुआ तिल (सफेद)",
+          "ru": "Кунжут молотый (белый)",
+          "th": "งาบด (สีขาว)",
+          "id": "Wijen halus (putih)",
+          "ms": "Bijan kisar (putih)",
+          "ko": "스리 고마 (흰색)"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%99%E3%82%8A%E3%81%94%E3%81%BE%E3%80%80%EF%BC%88%E7%99%BD%EF%BC%89&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%99%E3%82%8A%E3%81%94%E3%81%BE%E3%80%80%EF%BC%88%E7%99%BD%EF%BC%89/?tag="
+      },
+      {
+        "name_ja": "１",
+        "amount": "ミニトマトはへたをとり、半分に切る。オクラはサッとゆで、斜めに４等分に切る。",
+        "name_translated": {
+          "en": "1",
+          "zh_tw": "1",
+          "zh_cn": "1",
+          "vi": "1",
+          "hi": "1",
+          "ru": "1",
+          "th": "1",
+          "id": "1",
+          "ms": "1",
+          "ko": "1"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%91&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%91/?tag="
+      },
+      {
+        "name_ja": "２",
+        "amount": "を混ぜ合わせ、器に盛りつける。水で希釈した「追いがつおつゆ２倍」をかける。",
+        "name_translated": {
+          "en": "2",
+          "zh_tw": "2",
+          "zh_cn": "2",
+          "vi": "2",
+          "hi": "2",
+          "ru": "2",
+          "th": "2",
+          "id": "2",
+          "ms": "2",
+          "ko": "2"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%92&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%92/?tag="
+      },
+      {
+        "name_ja": "３",
+        "amount": "仕上げにすりごまをふる。",
+        "name_translated": {
+          "en": "3",
+          "zh_tw": "3",
+          "zh_cn": "3",
+          "vi": "3",
+          "hi": "3",
+          "ru": "3",
+          "th": "3",
+          "id": "3",
+          "ms": "3",
+          "ko": "3"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%93&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%93/?tag="
+      },
+      {
+        "name_ja": "オクラと長いものネバネバ和え",
+        "amount": "適量",
+        "name_translated": {
+          "en": "Okra and long ones with sticky sauce",
+          "zh_tw": "秋葵和長的黏醬",
+          "zh_cn": "秋葵和长的粘酱",
+          "vi": "Đậu bắp và dài sốt nếp",
+          "hi": "चिपचिपी चटनी के साथ ओकरा और लंबे वाले",
+          "ru": "Бамия и длинные с липким соусом",
+          "th": "กระเจี๊ยบและลูกยาวพร้อมน้ำจิ้มเหนียวๆ",
+          "id": "Okra dan yang panjang dengan saus lengket",
+          "ms": "Bendi dan yang panjang dengan sos melekit",
+          "ko": "오크라와 긴 것 네바네바 완화"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%82%AA%E3%82%AF%E3%83%A9%E3%81%A8%E9%95%B7%E3%81%84%E3%82%82%E3%81%AE%E3%83%8D%E3%83%90%E3%83%8D%E3%83%90%E5%92%8C%E3%81%88&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%82%AA%E3%82%AF%E3%83%A9%E3%81%A8%E9%95%B7%E3%81%84%E3%82%82%E3%81%AE%E3%83%8D%E3%83%90%E3%83%8D%E3%83%90%E5%92%8C%E3%81%88/?tag="
+      },
+      {
+        "name_ja": "レンジで簡単！オクラとコーンのツナ和え",
+        "amount": "適量",
+        "name_translated": {
+          "en": "Easy to use in the microwave! Okra and corn with tuna sauce",
+          "zh_tw": "方便在微波爐中使用！秋葵玉米佐鮪魚醬",
+          "zh_cn": "方便在微波炉中使用！秋葵玉米配金枪鱼酱",
+          "vi": "Dễ dàng sử dụng trong lò vi sóng! Đậu bắp bắp sốt cá ngừ",
+          "hi": "माइक्रोवेव में उपयोग करना आसान! टूना सॉस के साथ भिंडी और मक्का",
+          "ru": "Удобно использовать в микроволновке! Бамия и кукуруза с соусом из тунца",
+          "th": "ใช้งานง่ายในไมโครเวฟ! กระเจี๊ยบและข้าวโพดกับซอสทูน่า",
+          "id": "Mudah digunakan dalam microwave! Okra dan jagung dengan saus tuna",
+          "ms": "Mudah digunakan dalam ketuhar gelombang mikro! Bendi dan jagung dengan sos tuna",
+          "ko": "레인지로 간단! 오크라와 옥수수 참치"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%AC%E3%83%B3%E3%82%B8%E3%81%A7%E7%B0%A1%E5%8D%98%EF%BC%81%E3%82%AA%E3%82%AF%E3%83%A9%E3%81%A8%E3%82%B3%E3%83%BC%E3%83%B3%E3%81%AE%E3%83%84%E3%83%8A%E5%92%8C%E3%81%88&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%AC%E3%83%B3%E3%82%B8%E3%81%A7%E7%B0%A1%E5%8D%98%EF%BC%81%E3%82%AA%E3%82%AF%E3%83%A9%E3%81%A8%E3%82%B3%E3%83%BC%E3%83%B3%E3%81%AE%E3%83%84%E3%83%8A%E5%92%8C%E3%81%88/?tag="
+      },
+      {
+        "name_ja": "まるごとオクラのやみつきだれ",
+        "amount": "適量",
+        "name_translated": {
+          "en": "Addictive whole okra sauce",
+          "zh_tw": "令人上癮的全秋葵醬",
+          "zh_cn": "令人上瘾的全秋葵酱",
+          "vi": "Nước sốt đậu bắp gây nghiện",
+          "hi": "नशीला संपूर्ण भिंडी सॉस",
+          "ru": "Захватывающий соус из цельной бамии",
+          "th": "ซอสกระเจี๊ยบทั้งตัวที่น่าติดตาม",
+          "id": "Saus okra utuh yang membuat ketagihan",
+          "ms": "Sos bendi penuh ketagihan",
+          "ko": "통째로 오쿠라의 야미츠키 누레"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%BE%E3%82%8B%E3%81%94%E3%81%A8%E3%82%AA%E3%82%AF%E3%83%A9%E3%81%AE%E3%82%84%E3%81%BF%E3%81%A4%E3%81%8D%E3%81%A0%E3%82%8C&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%BE%E3%82%8B%E3%81%94%E3%81%A8%E3%82%AA%E3%82%AF%E3%83%A9%E3%81%AE%E3%82%84%E3%81%BF%E3%81%A4%E3%81%8D%E3%81%A0%E3%82%8C/?tag="
+      }
+    ],
+    "steps_ja": [
+      "ミニトマトはへたをとり、半分に切る。オクラはサッとゆで、斜めに４等分に切る。",
+      "を混ぜ合わせ、器に盛りつける。水で希釈した「追いがつおつゆ２倍」をかける。",
+      "仕上げにすりごまをふる。",
+      "オクラと長いものネバネバ和え",
+      "レンジで簡単！オクラとコーンのツナ和え",
+      "まるごとオクラのやみつきだれ"
+    ],
+    "image_url": "",
+    "title": {
+      "en": "Cool okra and tomato soup bukkake",
+      "zh_tw": "涼爽的秋葵和番茄湯顏射",
+      "zh_cn": "凉爽的秋葵和番茄汤颜射",
+      "vi": "Súp đậu bắp và cà chua bukkake mát lạnh",
+      "hi": "कूल भिंडी और टमाटर का सूप बुक्कके",
+      "ru": "Крутой буккаке из бамии и томатного супа",
+      "th": "กระเจี๊ยบเขียวและซุปมะเขือเทศ bukkake",
+      "id": "Bukkake sup okra dan tomat dingin",
+      "ms": "Bendi sejuk dan sup tomato bukkake",
+      "ko": "서늘한 오크라와 토마토의 츠유부카케"
+    },
+    "description": {
+      "en": "",
+      "zh_tw": "",
+      "zh_cn": "",
+      "vi": "",
+      "hi": "",
+      "ru": "",
+      "th": "",
+      "id": "",
+      "ms": "",
+      "ko": ""
+    },
+    "steps": {
+      "en": [
+        "Peel the cherry tomatoes and cut them in half. Boil the okra and cut diagonally into quarters.",
+        "Mix and serve in a bowl. Pour ``Oigatsuotsuyu twice'' diluted with water.",
+        "Sprinkle with ground sesame seeds to finish.",
+        "Okra and long ones with sticky sauce",
+        "Easy to use in the microwave! Okra and corn with tuna sauce",
+        "Addictive whole okra sauce"
+      ],
+      "zh_tw": [
+        "將櫻桃番茄去皮並切成兩半。將秋葵煮沸，斜切成四份。",
+        "混合並盛入碗中。倒入用水稀釋的「Oigatsuotsuyu兩次」。",
+        "撒上芝麻粉即可完成。",
+        "秋葵和長的黏醬",
+        "方便在微波爐中使用！秋葵玉米佐鮪魚醬",
+        "令人上癮的全秋葵醬"
+      ],
+      "zh_cn": [
+        "将樱桃番茄去皮并切成两半。将秋葵煮沸，斜切成四份。",
+        "混合并盛入碗中。倒入用水稀释的“Oigatsuotsuyu两次”。",
+        "撒上芝麻粉即可完成。",
+        "秋葵和长的粘酱",
+        "方便在微波炉中使用！秋葵玉米配金枪鱼酱",
+        "令人上瘾的全秋葵酱"
+      ],
+      "vi": [
+        "Gọt vỏ cà chua bi và cắt làm đôi. Luộc đậu bắp và cắt theo đường chéo thành các phần tư.",
+        "Trộn và phục vụ trong một cái bát. Đổ ``Oigatsuotsuyu hai lần'' pha loãng với nước.",
+        "Rắc thêm mè xay là xong.",
+        "Đậu bắp và dài sốt nếp",
+        "Dễ dàng sử dụng trong lò vi sóng! Đậu bắp bắp sốt cá ngừ",
+        "Nước sốt đậu bắp gây nghiện"
+      ],
+      "hi": [
+        "चेरी टमाटरों को छीलकर आधा काट लीजिए. भिंडी को उबालें और तिरछे चार भागों में काट लें।",
+        "मिक्स करें और एक बाउल में परोसें। ``Oigatsuotsuyu'' को पानी में घोलकर दो बार डालें।",
+        "ख़त्म करने के लिए पिसे हुए तिल छिड़कें।",
+        "चिपचिपी चटनी के साथ ओकरा और लंबे वाले",
+        "माइक्रोवेव में उपयोग करना आसान! टूना सॉस के साथ भिंडी और मक्का",
+        "नशीला संपूर्ण भिंडी सॉस"
+      ],
+      "ru": [
+        "Помидоры черри очистите и разрежьте пополам. Отварите бамию и разрежьте ее по диагонали на четыре части.",
+        "Перемешайте и подавайте в миске. Залейте «Ойгацуоцую дважды», разведенную водой.",
+        "В завершение посыпьте молотыми семенами кунжута.",
+        "Бамия и длинные с липким соусом",
+        "Удобно использовать в микроволновке! Бамия и кукуруза с соусом из тунца",
+        "Захватывающий соус из цельной бамии"
+      ],
+      "th": [
+        "ปอกมะเขือเทศเชอรี่แล้วผ่าครึ่ง ต้มกระเจี๊ยบเขียวแล้วหั่นเป็นสี่ส่วนตามแนวทแยงมุม",
+        "ผสมและเสิร์ฟในชาม เท ``Oigatsuotsuyu สองครั้ง'' เจือจางด้วยน้ำ",
+        "โรยด้วยงาบดเป็นอันเสร็จ",
+        "กระเจี๊ยบและลูกยาวพร้อมน้ำจิ้มเหนียวๆ",
+        "ใช้งานง่ายในไมโครเวฟ! กระเจี๊ยบและข้าวโพดกับซอสทูน่า",
+        "ซอสกระเจี๊ยบทั้งตัวที่น่าติดตาม"
+      ],
+      "id": [
+        "Kupas tomat ceri dan potong menjadi dua. Rebus okra dan potong secara diagonal menjadi empat bagian.",
+        "Campur dan sajikan dalam mangkuk. Tuangkan ``Oigatsuotsuyu dua kali'' yang diencerkan dengan air.",
+        "Taburi dengan biji wijen bubuk hingga selesai.",
+        "Okra dan yang panjang dengan saus lengket",
+        "Mudah digunakan dalam microwave! Okra dan jagung dengan saus tuna",
+        "Saus okra utuh yang membuat ketagihan"
+      ],
+      "ms": [
+        "Kupas tomato ceri dan potong dua. Rebus bendi dan potong serong.",
+        "Gaul dan hidangkan dalam mangkuk. Tuangkan ``Oigatsuotsuyu dua kali'' dicairkan dengan air.",
+        "Taburkan bijan yang dikisar hingga habis.",
+        "Bendi dan yang panjang dengan sos melekit",
+        "Mudah digunakan dalam ketuhar gelombang mikro! Bendi dan jagung dengan sos tuna",
+        "Sos bendi penuh ketagihan"
+      ],
+      "ko": [
+        "미니 토마토는 냄새를 맡고 반으로 자른다. 오크라는 살짝 삶고, 비스듬히 4등분으로 자른다.",
+        "을 섞어 그릇에 담는다. 물로 희석한 '쫓는 가루 2배'를 뿌린다.",
+        "마무리에 참깨를 뿌린다.",
+        "오크라와 긴 것 네바네바 완화",
+        "레인지로 간단! 오크라와 옥수수 참치",
+        "통째로 오쿠라의 야미츠키 누레"
+      ]
+    }
   }
 ]

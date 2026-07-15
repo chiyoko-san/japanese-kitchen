@@ -311430,5 +311430,287 @@
         "통째로 오쿠라의 야미츠키 누레"
       ]
     }
+  },
+  {
+    "id": "c6c7708f",
+    "source_url": "https://www.mizkan.co.jp/ouchirecipe/recipe/?menu_id=22575",
+    "source_site": "Mizkan",
+    "title_ja": "ごろごろ玉ねぎと牛肉のにんにくトマト煮【キャンプご飯】",
+    "description_ja": "",
+    "ingredients": [
+      {
+        "name_ja": "牛バラ肉　薄切り",
+        "amount": "１００ｇ",
+        "name_translated": {
+          "en": "Thinly sliced ​​beef belly",
+          "zh_tw": "牛肚切成薄片",
+          "zh_cn": "牛肚切成薄片",
+          "vi": "Bụng bò thái mỏng",
+          "hi": "पतला कटा हुआ गोमांस पेट",
+          "ru": "Тонко нарезанная говяжья грудинка",
+          "th": "เนื้อท้องหั่นบางๆ",
+          "id": "Perut sapi diiris tipis",
+          "ms": "Perut lembu dihiris nipis",
+          "ko": "소 장미 고기 얇게 썬다"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E7%89%9B%E3%83%90%E3%83%A9%E8%82%89%E3%80%80%E8%96%84%E5%88%87%E3%82%8A&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E7%89%9B%E3%83%90%E3%83%A9%E8%82%89%E3%80%80%E8%96%84%E5%88%87%E3%82%8A/?tag="
+      },
+      {
+        "name_ja": "たまねぎ",
+        "amount": "大１個（２５０ｇ）",
+        "name_translated": {
+          "en": "onion",
+          "zh_tw": "洋蔥",
+          "zh_cn": "洋葱",
+          "vi": "củ hành",
+          "hi": "प्याज",
+          "ru": "лук",
+          "th": "หัวหอม",
+          "id": "bawang bombai",
+          "ms": "bawang besar",
+          "ko": "양파"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%9F%E3%81%BE%E3%81%AD%E3%81%8E&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%9F%E3%81%BE%E3%81%AD%E3%81%8E/?tag="
+      },
+      {
+        "name_ja": "トマト",
+        "amount": "１個",
+        "name_translated": {
+          "en": "tomato",
+          "zh_tw": "番茄",
+          "zh_cn": "番茄",
+          "vi": "cà chua",
+          "hi": "टमाटर",
+          "ru": "помидор",
+          "th": "มะเขือเทศ",
+          "id": "tomat",
+          "ms": "tomato",
+          "ko": "토마토"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%88%E3%83%9E%E3%83%88&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%88%E3%83%9E%E3%83%88/?tag="
+      },
+      {
+        "name_ja": "にんにく",
+        "amount": "２かけ",
+        "name_translated": {
+          "en": "garlic",
+          "zh_tw": "蒜",
+          "zh_cn": "蒜",
+          "vi": "tỏi",
+          "hi": "लहसुन",
+          "ru": "чеснок",
+          "th": "กระเทียม",
+          "id": "bawang putih",
+          "ms": "bawang putih",
+          "ko": "마늘"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%AB%E3%82%93%E3%81%AB%E3%81%8F&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%AB%E3%82%93%E3%81%AB%E3%81%8F/?tag="
+      },
+      {
+        "name_ja": "オリーブオイル",
+        "amount": "大さじ１",
+        "name_translated": {
+          "en": "olive oil",
+          "zh_tw": "橄欖油",
+          "zh_cn": "橄榄油",
+          "vi": "dầu ô liu",
+          "hi": "जैतून का तेल",
+          "ru": "оливковое масло",
+          "th": "น้ำมันมะกอก",
+          "id": "minyak zaitun",
+          "ms": "minyak zaitun",
+          "ko": "올리브 오일"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%82%AA%E3%83%AA%E3%83%BC%E3%83%96%E3%82%AA%E3%82%A4%E3%83%AB&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%82%AA%E3%83%AA%E3%83%BC%E3%83%96%E3%82%AA%E3%82%A4%E3%83%AB/?tag="
+      },
+      {
+        "name_ja": "ミツカン　カンタン酢",
+        "amount": "適量（５０ｍｌ程度）",
+        "name_translated": {
+          "en": "Mizkan Kantan Vinegar",
+          "zh_tw": "味滋康甘丹醋",
+          "zh_cn": "味滋康甘丹醋",
+          "vi": "Giấm Mizkan Kantan",
+          "hi": "मिज़कान कंटन सिरका",
+          "ru": "Мизкан Кантанский уксус",
+          "th": "น้ำส้มสายชูมิซกัน กันตัน",
+          "id": "Cuka Mizkan Kantan",
+          "ms": "Cuka Mizkan Kantan",
+          "ko": "미츠칸 칸탄초"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E3%82%AB%E3%83%B3%E3%82%BF%E3%83%B3%E9%85%A2&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E3%82%AB%E3%83%B3%E3%82%BF%E3%83%B3%E9%85%A2/?tag="
+      },
+      {
+        "name_ja": "１",
+        "amount": "にする。牛肉は一口大に切る。",
+        "name_translated": {
+          "en": "1",
+          "zh_tw": "1",
+          "zh_cn": "1",
+          "vi": "1",
+          "hi": "1",
+          "ru": "1",
+          "th": "1",
+          "id": "1",
+          "ms": "1",
+          "ko": "1"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%91&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%91/?tag="
+      },
+      {
+        "name_ja": "２",
+        "amount": "フライパンにオリーブオイルを中火で熱し、たまねぎの断面を下にして入れる。焼き色がつき、火が通るまで焼く。",
+        "name_translated": {
+          "en": "2",
+          "zh_tw": "2",
+          "zh_cn": "2",
+          "vi": "2",
+          "hi": "2",
+          "ru": "2",
+          "th": "2",
+          "id": "2",
+          "ms": "2",
+          "ko": "2"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%92&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%92/?tag="
+      },
+      {
+        "name_ja": "３",
+        "amount": "牛肉とにんにくを加え、炒める。",
+        "name_translated": {
+          "en": "3",
+          "zh_tw": "3",
+          "zh_cn": "3",
+          "vi": "3",
+          "hi": "3",
+          "ru": "3",
+          "th": "3",
+          "id": "3",
+          "ms": "3",
+          "ko": "3"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%93&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%93/?tag="
+      },
+      {
+        "name_ja": "４",
+        "amount": "トマトと「カンタン酢」を入れて、軽く煮る。",
+        "name_translated": {
+          "en": "4",
+          "zh_tw": "4",
+          "zh_cn": "4",
+          "vi": "4",
+          "hi": "4",
+          "ru": "4",
+          "th": "4",
+          "id": "4",
+          "ms": "4",
+          "ko": "4"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%94&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%94/?tag="
+      }
+    ],
+    "steps_ja": [
+      "たまねぎは芯をつけたまま、４等分のくし形切りにする。トマトは６等分のくし形切りにする。にんにくは薄切りにする。牛肉は一口大に切る。",
+      "フライパンにオリーブオイルを中火で熱し、たまねぎの断面を下にして入れる。焼き色がつき、火が通るまで焼く。",
+      "牛肉とにんにくを加え、炒める。",
+      "トマトと「カンタン酢」を入れて、軽く煮る。"
+    ],
+    "image_url": "",
+    "title": {
+      "en": "Onion and beef stew in garlic and tomato [camping rice]",
+      "zh_tw": "大蒜番茄洋蔥牛肉[露營飯]",
+      "zh_cn": "大蒜番茄洋葱牛肉[野营饭]",
+      "vi": "Hành tây và thịt bò hầm tỏi và cà chua [cơm cắm trại]",
+      "hi": "लहसुन और टमाटर में प्याज और बीफ़ स्टू [कैंपिंग चावल]",
+      "ru": "Тушеная говядина с луком и чесноком и помидорами [походный рис]",
+      "th": "สตูว์หัวหอมและเนื้อในกระเทียมและมะเขือเทศ [ข้าวแค้มป์]",
+      "id": "Rebusan bawang bombay dan daging sapi dengan bawang putih dan tomat [nasi berkemah]",
+      "ms": "Rebus bawang dan daging lembu dalam bawang putih dan tomato [nasi perkhemahan]",
+      "ko": "초밥 양파와 쇠고기 마늘 토마토 삶은 【캠프 밥】"
+    },
+    "description": {
+      "en": "",
+      "zh_tw": "",
+      "zh_cn": "",
+      "vi": "",
+      "hi": "",
+      "ru": "",
+      "th": "",
+      "id": "",
+      "ms": "",
+      "ko": ""
+    },
+    "steps": {
+      "en": [
+        "Cut the onion into quarters, leaving the core intact. Cut the tomatoes into 6 wedges. Slice the garlic thinly. Cut the beef into bite-sized pieces.",
+        "Heat the olive oil in a frying pan over medium heat and add the onions, cut side down. Bake until golden brown and cooked through.",
+        "Add beef and garlic and stir-fry.",
+        "Add the tomatoes and ``simple vinegar'' and simmer gently."
+      ],
+      "zh_tw": [
+        "將洋蔥切成四等份，保持核心完好無損。將西紅柿切成 6 塊。將大蒜切成薄片。將牛肉切成一口大小的塊狀。",
+        "在煎鍋中以中火加熱橄欖油，加入洋蔥，切面朝下。烘烤至金黃色並煮熟。",
+        "加入牛肉和大蒜，翻炒。",
+        "加入西紅柿和“簡單的醋”，然後輕輕煮。"
+      ],
+      "zh_cn": [
+        "将洋葱切成四等份，保持核心完好无损。将西红柿切成 6 块。将大蒜切成薄片。将牛肉切成一口大小的块。",
+        "在煎锅中用中火加热橄榄油，加入洋葱，切面朝下。烘烤至金黄色并煮熟。",
+        "加入牛肉和大蒜，翻炒。",
+        "加入西红柿和“简单的醋”，然后轻轻煮。"
+      ],
+      "vi": [
+        "Cắt hành tây thành từng phần, giữ nguyên phần lõi. Cắt cà chua thành 6 múi. Cắt tỏi mỏng. Cắt thịt bò thành miếng vừa ăn.",
+        "Đun nóng dầu ô liu trong chảo trên lửa vừa rồi cho hành tây vào, cắt nhỏ. Nướng cho đến khi chín vàng và chín đều.",
+        "Thêm thịt bò và tỏi vào xào.",
+        "Thêm cà chua và `` giấm đơn giản '' vào đun nhỏ lửa."
+      ],
+      "hi": [
+        "प्याज को चार भागों में काट लें, जिससे उसका कोर बरकरार रहे। टमाटरों को 6 टुकड़ों में काट लीजिये. लहसुन को पतला-पतला काट लें. गोमांस को काटने के आकार के टुकड़ों में काटें।",
+        "एक फ्राइंग पैन में मध्यम आंच पर जैतून का तेल गर्म करें और उसमें नीचे की ओर से कटे हुए प्याज डालें। सुनहरा भूरा होने तक बेक करें और पूरी तरह पक जाएं।",
+        "बीफ़ और लहसुन डालें और हिलाएँ।",
+        "टमाटर और ``साधारण सिरका'' डालें और धीरे से उबालें।"
+      ],
+      "ru": [
+        "Лук разрезать на четвертинки, оставив сердцевину целой. Помидоры разрезать на 6 долек. Тонко нарежьте чеснок. Говядину нарезаем некрупными кусочками.",
+        "Нагрейте оливковое масло в сковороде на среднем огне и добавьте лук срезом вниз. Выпекайте до золотистого цвета и готовности.",
+        "Добавьте говядину и чеснок и обжарьте, помешивая.",
+        "Добавьте помидоры и «простой уксус» и осторожно тушите."
+      ],
+      "th": [
+        "หั่นหัวหอมเป็นสี่ส่วน เหลือแต่แกนไว้ หั่นมะเขือเทศเป็น 6 ชิ้น หั่นกระเทียมเป็นชิ้นบางๆ หั่นเนื้อวัวเป็นชิ้นขนาดพอดีคำ",
+        "ตั้งน้ำมันมะกอกในกระทะบนไฟร้อนปานกลาง ใส่หัวหอม หั่นด้านลง อบจนเป็นสีเหลืองทองและสุกทั่ว",
+        "เพิ่มเนื้อวัวและกระเทียมแล้วผัด",
+        "ใส่มะเขือเทศและ ``น้ำส้มสายชูธรรมดา'' แล้วเคี่ยวเบา ๆ"
+      ],
+      "id": [
+        "Potong bawang bombay menjadi empat bagian, biarkan bagian tengahnya utuh. Potong tomat menjadi 6 bagian. Iris tipis bawang putih. Potong daging sapi menjadi potongan-potongan seukuran gigitan.",
+        "Panaskan minyak zaitun dalam wajan dengan api sedang dan tambahkan bawang bombay, potong menghadap ke bawah. Panggang sampai berwarna cokelat keemasan dan matang.",
+        "Tambahkan daging sapi dan bawang putih, lalu tumis.",
+        "Tambahkan tomat dan ``cuka sederhana'' dan didihkan perlahan."
+      ],
+      "ms": [
+        "Potong bawang menjadi empat, biarkan inti utuh. Potong tomato kepada 6 bahagian. Hiris bawang putih nipis. Potong daging lembu kepada kepingan bersaiz gigitan.",
+        "Panaskan minyak zaitun dalam kuali dengan api sederhana dan masukkan bawang besar, potong ke bawah. Bakar hingga kekuningan dan masak.",
+        "Masukkan daging lembu dan bawang putih dan tumis.",
+        "Masukkan tomato dan ``simple vinegar'' dan renehkan perlahan-lahan."
+      ],
+      "ko": [
+        "양파는 심을 붙인 채로, 4등분의 빗자루로 자른다. 토마토는 6 등분의 빗 모양으로 자른다. 마늘은 얇게 썬다. 쇠고기는 한입 크기로 자른다.",
+        "프라이팬에 올리브 오일을 중불로 가열하고 양파의 단면을 아래로 넣는다. 구운 색이 붙고 불이 통과할 때까지 굽는다.",
+        "쇠고기와 마늘을 넣고 볶는다.",
+        "토마토와 \"간단식초\"를 넣고 가볍게 끓인다."
+      ]
+    }
   }
 ]

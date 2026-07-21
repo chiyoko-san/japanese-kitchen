@@ -313841,5 +313841,276 @@
         "냄비에 A, (1)의 고야를 넣고 약한 불로 국기가 없어질 때까지 끓인다. 참깨를 넣고 섞는다."
       ]
     }
+  },
+  {
+    "id": "e1ded52f",
+    "source_url": "https://www.mizkan.co.jp/ouchirecipe/recipe/?menu_id=22574",
+    "source_site": "Mizkan",
+    "title_ja": "豚とほうれんそうのマスタードビネガー炒め【キャンプご飯】",
+    "description_ja": "",
+    "ingredients": [
+      {
+        "name_ja": "豚バラ肉　薄切り",
+        "amount": "２００ｇ",
+        "name_translated": {
+          "en": "Thinly sliced ​​pork belly",
+          "zh_tw": "五花肉切成薄片",
+          "zh_cn": "五花肉切成薄片",
+          "vi": "Thịt ba chỉ thái mỏng",
+          "hi": "पतले कटा हुआ सूअर का मांस पेट",
+          "ru": "Тонко нарезанная свиная грудинка",
+          "th": "หมูสามชั้นหั่นบางๆ",
+          "id": "Perut babi diiris tipis",
+          "ms": "Perut babi yang dihiris nipis",
+          "ko": "돼지 장미 고기 얇게 썬다."
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E8%B1%9A%E3%83%90%E3%83%A9%E8%82%89%E3%80%80%E8%96%84%E5%88%87%E3%82%8A&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E8%B1%9A%E3%83%90%E3%83%A9%E8%82%89%E3%80%80%E8%96%84%E5%88%87%E3%82%8A/?tag="
+      },
+      {
+        "name_ja": "ほうれんそう",
+        "amount": "１／２束（１５０ｇ）",
+        "name_translated": {
+          "en": "Spinach",
+          "zh_tw": "菠菜",
+          "zh_cn": "菠菜",
+          "vi": "Rau chân vịt",
+          "hi": "पालक",
+          "ru": "Шпинат",
+          "th": "ผักโขม",
+          "id": "Bayam",
+          "ms": "Bayam",
+          "ko": "시금치"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%BB%E3%81%86%E3%82%8C%E3%82%93%E3%81%9D%E3%81%86&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%BB%E3%81%86%E3%82%8C%E3%82%93%E3%81%9D%E3%81%86/?tag="
+      },
+      {
+        "name_ja": "ミニトマト",
+        "amount": "１０個",
+        "name_translated": {
+          "en": "cherry tomatoes",
+          "zh_tw": "櫻桃番茄",
+          "zh_cn": "樱桃番茄",
+          "vi": "cà chua bi",
+          "hi": "चैरी टमाटर",
+          "ru": "помидоры черри",
+          "th": "มะเขือเทศเชอร์รี่",
+          "id": "tomat ceri",
+          "ms": "tomato ceri",
+          "ko": "미니 토마토"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9F%E3%83%8B%E3%83%88%E3%83%9E%E3%83%88&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9F%E3%83%8B%E3%83%88%E3%83%9E%E3%83%88/?tag="
+      },
+      {
+        "name_ja": "にんにく　（みじん切り）",
+        "amount": "１かけ分",
+        "name_translated": {
+          "en": "Garlic (chopped)",
+          "zh_tw": "大蒜（切碎）",
+          "zh_cn": "大蒜（切碎）",
+          "vi": "Tỏi (băm nhỏ)",
+          "hi": "लहसुन (कटा हुआ)",
+          "ru": "Чеснок (нарезанный)",
+          "th": "กระเทียม (สับ)",
+          "id": "Bawang putih (cincang)",
+          "ms": "Bawang putih (cincang)",
+          "ko": "마늘 (다진)"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%AB%E3%82%93%E3%81%AB%E3%81%8F%E3%80%80%EF%BC%88%E3%81%BF%E3%81%98%E3%82%93%E5%88%87%E3%82%8A%EF%BC%89&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%AB%E3%82%93%E3%81%AB%E3%81%8F%E3%80%80%EF%BC%88%E3%81%BF%E3%81%98%E3%82%93%E5%88%87%E3%82%8A%EF%BC%89/?tag="
+      },
+      {
+        "name_ja": "オリーブオイル",
+        "amount": "小さじ１",
+        "name_translated": {
+          "en": "olive oil",
+          "zh_tw": "橄欖油",
+          "zh_cn": "橄榄油",
+          "vi": "dầu ô liu",
+          "hi": "जैतून का तेल",
+          "ru": "оливковое масло",
+          "th": "น้ำมันมะกอก",
+          "id": "minyak zaitun",
+          "ms": "minyak zaitun",
+          "ko": "올리브 오일"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%82%AA%E3%83%AA%E3%83%BC%E3%83%96%E3%82%AA%E3%82%A4%E3%83%AB&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%82%AA%E3%83%AA%E3%83%BC%E3%83%96%E3%82%AA%E3%82%A4%E3%83%AB/?tag="
+      },
+      {
+        "name_ja": "ミツカン　カンタン酢",
+        "amount": "適量（５０ｍｌ程度）",
+        "name_translated": {
+          "en": "Mizkan Kantan Vinegar",
+          "zh_tw": "味滋康甘丹醋",
+          "zh_cn": "味滋康甘丹醋",
+          "vi": "Giấm Mizkan Kantan",
+          "hi": "मिज़कान कंटन सिरका",
+          "ru": "Мизкан Кантанский уксус",
+          "th": "น้ำส้มสายชูมิซกัน กันตัน",
+          "id": "Cuka Mizkan Kantan",
+          "ms": "Cuka Mizkan Kantan",
+          "ko": "미츠칸 칸탄초"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E3%82%AB%E3%83%B3%E3%82%BF%E3%83%B3%E9%85%A2&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E3%82%AB%E3%83%B3%E3%82%BF%E3%83%B3%E9%85%A2/?tag="
+      },
+      {
+        "name_ja": "粒マスタード",
+        "amount": "大さじ１",
+        "name_translated": {
+          "en": "grain mustard",
+          "zh_tw": "芥末",
+          "zh_cn": "芥末",
+          "vi": "hạt mù tạt",
+          "hi": "अनाज सरसों",
+          "ru": "зерновая горчица",
+          "th": "มัสตาร์ดเมล็ดพืช",
+          "id": "mustard gandum",
+          "ms": "sawi bijirin",
+          "ko": "곡물 겨자"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E7%B2%92%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%89&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E7%B2%92%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%89/?tag="
+      },
+      {
+        "name_ja": "１",
+        "amount": "ほうれんそうは４ｃｍ長さに切る。ミニトマトは半分に切る。",
+        "name_translated": {
+          "en": "1",
+          "zh_tw": "1",
+          "zh_cn": "1",
+          "vi": "1",
+          "hi": "1",
+          "ru": "1",
+          "th": "1",
+          "id": "1",
+          "ms": "1",
+          "ko": "1"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%91&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%91/?tag="
+      },
+      {
+        "name_ja": "２",
+        "amount": "フライパンにオリーブオイルを中火で熱し、豚肉をこんがりするまで炒める。にんにくを加え、香りが出てきたら「カンタン酢」を入れて、更に炒める。",
+        "name_translated": {
+          "en": "2",
+          "zh_tw": "2",
+          "zh_cn": "2",
+          "vi": "2",
+          "hi": "2",
+          "ru": "2",
+          "th": "2",
+          "id": "2",
+          "ms": "2",
+          "ko": "2"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%92&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%92/?tag="
+      },
+      {
+        "name_ja": "３",
+        "amount": "とろみが出てきたら、ほうれん草とミニトマトを入れてサッと炒め、粒マスタードを加えて全体にからめる。",
+        "name_translated": {
+          "en": "3",
+          "zh_tw": "3",
+          "zh_cn": "3",
+          "vi": "3",
+          "hi": "3",
+          "ru": "3",
+          "th": "3",
+          "id": "3",
+          "ms": "3",
+          "ko": "3"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%93&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%93/?tag="
+      }
+    ],
+    "steps_ja": [
+      "ほうれんそうは４ｃｍ長さに切る。ミニトマトは半分に切る。",
+      "フライパンにオリーブオイルを中火で熱し、豚肉をこんがりするまで炒める。にんにくを加え、香りが出てきたら「カンタン酢」を入れて、更に炒める。",
+      "とろみが出てきたら、ほうれん草とミニトマトを入れてサッと炒め、粒マスタードを加えて全体にからめる。"
+    ],
+    "image_url": "",
+    "title": {
+      "en": "Stir-fried pork and spinach with mustard vinegar [camping rice]",
+      "zh_tw": "芥末醋炒豬肉菠菜【露營飯】",
+      "zh_cn": "芥末醋炒猪肉菠菜【野营饭】",
+      "vi": "Thịt heo xào rau bina với giấm mù tạt [cơm cắm trại]",
+      "hi": "सरसों के सिरके के साथ तले हुए सूअर का मांस और पालक [कैंपिंग चावल]",
+      "ru": "Жареная свинина и шпинат с горчичным уксусом [походный рис]",
+      "th": "หมูผัดผักโขมกับน้ำส้มสายชูมัสตาร์ด [ข้าวแค้มป์]",
+      "id": "Daging babi goreng dan bayam dengan cuka mustard [nasi berkemah]",
+      "ms": "Daging babi goreng dan bayam dengan cuka sawi [nasi perkhemahan]",
+      "ko": "돼지와 시금치의 겨자 식초 볶음 【캠프 밥】"
+    },
+    "description": {
+      "en": "",
+      "zh_tw": "",
+      "zh_cn": "",
+      "vi": "",
+      "hi": "",
+      "ru": "",
+      "th": "",
+      "id": "",
+      "ms": "",
+      "ko": ""
+    },
+    "steps": {
+      "en": [
+        "Cut the spinach into 4cm lengths. Cut cherry tomatoes in half.",
+        "Heat the olive oil in a frying pan over medium heat and fry the pork until browned. Add the garlic, and when it starts to smell, add the ``simple vinegar'' and stir-fry some more.",
+        "When it thickens, add the spinach and cherry tomatoes, stir-fry quickly, then add the mustard and toss to coat."
+      ],
+      "zh_tw": [
+        "將菠菜切成4公分長。將櫻桃番茄切成兩半。",
+        "在煎鍋中以中火加熱橄欖油，將豬肉煎至焦黃。加入大蒜，當它開始聞起來時，加入“簡單的醋”，然後再炒一些。",
+        "當它變稠時，加入菠菜和櫻桃番茄，快速翻炒，然後加入芥末，攪拌均勻。"
+      ],
+      "zh_cn": [
+        "将菠菜切成4厘米长。将樱桃番茄切成两半。",
+        "在煎锅中用中火加热橄榄油，将猪肉煎至焦黄。加入大蒜，当它开始闻起来时，加入“简单的醋”，然后再炒一些。",
+        "当它变稠时，加入菠菜和樱桃番茄，快速翻炒，然后加入芥末，搅拌均匀。"
+      ],
+      "vi": [
+        "Cắt rau chân vịt thành đoạn dài 4cm. Cắt cà chua bi làm đôi.",
+        "Đun nóng dầu ô liu trong chảo trên lửa vừa và chiên thịt lợn cho đến khi chín vàng. Thêm tỏi vào, khi tỏi bắt đầu có mùi thì cho ''giấm đơn giản'' vào và xào thêm một ít.",
+        "Khi nó đặc lại, thêm rau bina và cà chua bi vào, xào nhanh, sau đó thêm mù tạt và trộn đều."
+      ],
+      "hi": [
+        "पालक को 4 सेमी लम्बाई में काट लीजिये. चेरी टमाटर को आधा काट लें.",
+        "मध्यम आंच पर एक फ्राइंग पैन में जैतून का तेल गरम करें और सूअर का मांस भूरा होने तक भूनें। लहसुन डालें, और जब इसमें से गंध आने लगे, तो ``साधारण सिरका'' डालें और थोड़ा और भूनें।",
+        "जब यह गाढ़ा हो जाए, तो पालक और चेरी टमाटर डालें, जल्दी से भूनें, फिर सरसों डालें और टॉस करके कोट करें।"
+      ],
+      "ru": [
+        "Нарежьте шпинат на кусочки длиной 4 см. Помидоры черри разрезать пополам.",
+        "Нагрейте оливковое масло в сковороде на среднем огне и обжарьте свинину до румяного цвета. Добавьте чеснок, а когда он начнет пахнуть, добавьте «простой уксус» и еще немного обжарьте.",
+        "Когда он загустеет, добавьте шпинат и помидоры черри, быстро обжарьте, затем добавьте горчицу и перемешайте, чтобы они покрылись слоем."
+      ],
+      "th": [
+        "ตัดผักโขมให้มีความยาว 4 ซม. หั่นมะเขือเทศเชอรี่ลงครึ่งหนึ่ง",
+        "ตั้งน้ำมันมะกอกในกระทะบนไฟร้อนปานกลาง และทอดหมูจนเป็นสีน้ำตาล ใส่กระเทียมลงไป และเมื่อมันเริ่มมีกลิ่น ให้เติม ``น้ำส้มสายชูธรรมดา'' แล้วผัดต่ออีกเล็กน้อย",
+        "เมื่อข้นขึ้น ให้ใส่ผักโขมและมะเขือเทศเชอร์รี่ ผัดอย่างรวดเร็ว จากนั้นใส่มัสตาร์ดและคลุกเคล้าให้เข้ากัน"
+      ],
+      "id": [
+        "ほうれんそうは４ｃｍ長さに切る。ミニトマトは半分に切る。",
+        "Panaskan minyak zaitun dalam wajan dengan api sedang dan goreng daging babi hingga kecoklatan. Tambahkan bawang putih, dan ketika mulai berbau, tambahkan ``cuka sederhana'' dan tumis lagi.",
+        "Jika sudah mengental, masukkan bayam dan tomat ceri, tumis cepat, lalu tambahkan mustard dan aduk hingga rata."
+      ],
+      "ms": [
+        "Potong bayam menjadi 4cm panjang. Potong tomato ceri separuh.",
+        "Panaskan minyak zaitun dalam kuali dengan api sederhana dan goreng daging babi sehingga perang. Masukkan bawang putih, dan apabila ia mula naik bau, masukkan ``cuka ringkas'' dan tumis lagi.",
+        "Bila dah pekat, masukkan bayam dan tomato ceri, tumis cepat, kemudian masukkan sawi dan toskan hingga berbalut."
+      ],
+      "ko": [
+        "시금치는 4cm 길이로 자른다. 미니 토마토는 반으로 자른다.",
+        "프라이팬에 올리브 오일을 중불로 가열하고 돼지고기를 볶을 때까지 볶는다. 마늘을 넣고 향기가 나오면 \"간단 식초\"를 넣고 더 볶는다.",
+        "참치가 나오면 시금치와 미니 토마토를 넣고 살짝 볶고 곡물 겨자를 넣고 전체에 얹는다."
+      ]
+    }
   }
 ]

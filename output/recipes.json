@@ -314112,5 +314112,294 @@
         "참치가 나오면 시금치와 미니 토마토를 넣고 살짝 볶고 곡물 겨자를 넣고 전체에 얹는다."
       ]
     }
+  },
+  {
+    "id": "da22388d",
+    "source_url": "https://www.mizkan.co.jp/ouchirecipe/recipe/?menu_id=22513",
+    "source_site": "Mizkan",
+    "title_ja": "レンジで！なすのとろりんユッケ風",
+    "description_ja": "",
+    "ingredients": [
+      {
+        "name_ja": "なす",
+        "amount": "2本",
+        "name_translated": {
+          "en": "Eggplant",
+          "zh_tw": "茄子",
+          "zh_cn": "茄子",
+          "vi": "cà tím",
+          "hi": "बैंगन",
+          "ru": "Баклажан",
+          "th": "มะเขือ",
+          "id": "Terung",
+          "ms": "terung",
+          "ko": "이루다"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%AA%E3%81%99&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%AA%E3%81%99/?tag="
+      },
+      {
+        "name_ja": "ミツカン　追いがつおつゆ２倍",
+        "amount": "大さじ２",
+        "name_translated": {
+          "en": "Mizkan Oigatsu Otsuyu x2",
+          "zh_tw": "味滋館大月大津 x2",
+          "zh_cn": "味滋馆大月大津 x2",
+          "vi": "Mizkan Oigatsu Otsuyu x2",
+          "hi": "मिज़कान ओइगात्सु ओत्सुयु x2",
+          "ru": "Мизкан Ойгацу Оцую x2",
+          "th": "มิซคัง โออิงัตสึ โอทสึยุ x2",
+          "id": "Mizkan Oigatsu Otsuyu x2",
+          "ms": "Mizkan Oigatsu Otsuyu x2",
+          "ko": "미쓰칸 쫓는 츠츠유 2배"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E8%BF%BD%E3%81%84%E3%81%8C%E3%81%A4%E3%81%8A%E3%81%A4%E3%82%86%EF%BC%92%E5%80%8D&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E8%BF%BD%E3%81%84%E3%81%8C%E3%81%A4%E3%81%8A%E3%81%A4%E3%82%86%EF%BC%92%E5%80%8D/?tag="
+      },
+      {
+        "name_ja": "オイスターソース",
+        "amount": "大さじ１／２",
+        "name_translated": {
+          "en": "oyster sauce",
+          "zh_tw": "蠔油",
+          "zh_cn": "蚝油",
+          "vi": "dầu hào",
+          "hi": "कस्तूरा सॉस",
+          "ru": "устричный соус",
+          "th": "ซอสหอยนางรม",
+          "id": "saus tiram",
+          "ms": "sos tiram",
+          "ko": "굴 소스"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%82%AA%E3%82%A4%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BD%E3%83%BC%E3%82%B9&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%82%AA%E3%82%A4%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BD%E3%83%BC%E3%82%B9/?tag="
+      },
+      {
+        "name_ja": "おろしにんにく",
+        "amount": "小さじ１／２",
+        "name_translated": {
+          "en": "grated garlic",
+          "zh_tw": "磨碎的大蒜",
+          "zh_cn": "磨碎的大蒜",
+          "vi": "tỏi nghiền",
+          "hi": "कसा हुआ लहसुन",
+          "ru": "тертый чеснок",
+          "th": "กระเทียมขูด",
+          "id": "bawang putih parut",
+          "ms": "bawang putih parut",
+          "ko": "마늘 마늘"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%8A%E3%82%8D%E3%81%97%E3%81%AB%E3%82%93%E3%81%AB%E3%81%8F&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%8A%E3%82%8D%E3%81%97%E3%81%AB%E3%82%93%E3%81%AB%E3%81%8F/?tag="
+      },
+      {
+        "name_ja": "いりごま",
+        "amount": "小さじ１",
+        "name_translated": {
+          "en": "roasted sesame",
+          "zh_tw": "烤芝麻",
+          "zh_cn": "烤芝麻",
+          "vi": "vừng rang",
+          "hi": "भुना हुआ तिल",
+          "ru": "жареный кунжут",
+          "th": "งาคั่ว",
+          "id": "wijen panggang",
+          "ms": "bijan panggang",
+          "ko": "이리고마"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%84%E3%82%8A%E3%81%94%E3%81%BE&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%84%E3%82%8A%E3%81%94%E3%81%BE/?tag="
+      },
+      {
+        "name_ja": "ごま油",
+        "amount": "小さじ１",
+        "name_translated": {
+          "en": "sesame oil",
+          "zh_tw": "香油",
+          "zh_cn": "香油",
+          "vi": "dầu mè",
+          "hi": "तिल का तेल",
+          "ru": "кунжутное масло",
+          "th": "น้ำมันงา",
+          "id": "minyak wijen",
+          "ms": "minyak bijan",
+          "ko": "참기름"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%94%E3%81%BE%E6%B2%B9&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%94%E3%81%BE%E6%B2%B9/?tag="
+      },
+      {
+        "name_ja": "小ねぎ　（小口切り）",
+        "amount": "大さじ２",
+        "name_translated": {
+          "en": "Onion (cut into small pieces)",
+          "zh_tw": "洋蔥（切小塊）",
+          "zh_cn": "洋葱（切小块）",
+          "vi": "Hành tây (cắt thành miếng nhỏ)",
+          "hi": "प्याज (छोटे टुकड़ों में कटा हुआ)",
+          "ru": "Лук (нарезать небольшими кусочками)",
+          "th": "หัวหอม (หั่นเป็นชิ้นเล็กๆ)",
+          "id": "Bawang bombay (potong kecil-kecil)",
+          "ms": "Bawang besar (potong kecil)",
+          "ko": "작은 양파 (작은 컷)"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E5%B0%8F%E3%81%AD%E3%81%8E%E3%80%80%EF%BC%88%E5%B0%8F%E5%8F%A3%E5%88%87%E3%82%8A%EF%BC%89&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E5%B0%8F%E3%81%AD%E3%81%8E%E3%80%80%EF%BC%88%E5%B0%8F%E5%8F%A3%E5%88%87%E3%82%8A%EF%BC%89/?tag="
+      },
+      {
+        "name_ja": "卵黄",
+        "amount": "1個",
+        "name_translated": {
+          "en": "egg yolk",
+          "zh_tw": "蛋黃",
+          "zh_cn": "蛋黄",
+          "vi": "lòng đỏ trứng",
+          "hi": "अंडे की जर्दी",
+          "ru": "яичный желток",
+          "th": "ไข่แดง",
+          "id": "kuning telur",
+          "ms": "kuning telur",
+          "ko": "달걀 노른자"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E5%8D%B5%E9%BB%84&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E5%8D%B5%E9%BB%84/?tag="
+      },
+      {
+        "name_ja": "１",
+        "amount": "なすはヘタをおとし、フォークなどで数か所穴をあける。ラップをして電子レンジ(６００W)で２～３分加熱する。",
+        "name_translated": {
+          "en": "1",
+          "zh_tw": "1",
+          "zh_cn": "1",
+          "vi": "1",
+          "hi": "1",
+          "ru": "1",
+          "th": "1",
+          "id": "1",
+          "ms": "1",
+          "ko": "1"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%91&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%91/?tag="
+      },
+      {
+        "name_ja": "２",
+        "amount": "＜たれ用調味料＞の材料を合わせる。",
+        "name_translated": {
+          "en": "2",
+          "zh_tw": "2",
+          "zh_cn": "2",
+          "vi": "2",
+          "hi": "2",
+          "ru": "2",
+          "th": "2",
+          "id": "2",
+          "ms": "2",
+          "ko": "2"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%92&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%92/?tag="
+      },
+      {
+        "name_ja": "３",
+        "amount": "と合わせ器に盛る。小ねぎと卵黄をのせる。",
+        "name_translated": {
+          "en": "3",
+          "zh_tw": "3",
+          "zh_cn": "3",
+          "vi": "3",
+          "hi": "3",
+          "ru": "3",
+          "th": "3",
+          "id": "3",
+          "ms": "3",
+          "ko": "3"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%93&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%93/?tag="
+      }
+    ],
+    "steps_ja": [
+      "なすはヘタをおとし、フォークなどで数か所穴をあける。ラップをして電子レンジ(６００W)で２～３分加熱する。",
+      "＜たれ用調味料＞の材料を合わせる。",
+      "を手で食べやすい大きさに割き(熱いので冷水にとって割いてもよい)。２と合わせ器に盛る。小ねぎと卵黄をのせる。"
+    ],
+    "image_url": "",
+    "title": {
+      "en": "In the microwave! Eggplant tororin yukhoe style",
+      "zh_tw": "在微波爐裡！茄子tororin yukhoe風格",
+      "zh_cn": "在微波炉里！茄子tororin yukhoe风格",
+      "vi": "Trong lò vi sóng! Cà tím kiểu tororin yukhoe",
+      "hi": "माइक्रोवेव में! बैंगन टोरोरिन युखो शैली",
+      "ru": "В микроволновке! Торорин из баклажанов в стиле юкхэ",
+      "th": "ในไมโครเวฟ! มะเขือยาวโทโรรินสไตล์ยูโค",
+      "id": "Di dalam microwave! Terong tororin ala yukhoe",
+      "ms": "Dalam ketuhar gelombang mikro! Gaya terung tororin yukhoe",
+      "ko": "범위에서! 나스노 토로 린 유케 스타일"
+    },
+    "description": {
+      "en": "",
+      "zh_tw": "",
+      "zh_cn": "",
+      "vi": "",
+      "hi": "",
+      "ru": "",
+      "th": "",
+      "id": "",
+      "ms": "",
+      "ko": ""
+    },
+    "steps": {
+      "en": [
+        "Peel the eggplant and poke holes in several places with a fork. Cover with plastic wrap and heat in the microwave (600W) for 2 to 3 minutes.",
+        "Combine the ingredients for <seasoning for the sauce>.",
+        "Break it into bite-sized pieces with your hands (it will be hot, so you can break it in cold water). Combine with 2 and place in a bowl. Top with onions and egg yolk."
+      ],
+      "zh_tw": [
+        "將茄子去皮，用叉子在多處戳洞。蓋上保鮮膜並在微波爐 (600W) 中加熱 2 至 3 分鐘。",
+        "將<醬汁調味料>的材料混合。",
+        "用手將其切成一口大小的碎片（它會很熱，因此可以在冷水中將其打破）。與2混合後放入碗中。上面放上洋蔥和蛋黃。"
+      ],
+      "zh_cn": [
+        "将茄子去皮，用叉子在多处戳洞。盖上保鲜膜并在微波炉 (600W) 中加热 2 至 3 分钟。",
+        "将<酱汁调料>的材料混合。",
+        "用手将其切成一口大小的碎片（它会很热，因此可以在冷水中将其打破）。与2混合并放入碗中。上面放上洋葱和蛋黄。"
+      ],
+      "vi": [
+        "Gọt vỏ cà tím và dùng nĩa chọc nhiều lỗ ở nhiều chỗ. Bọc lại bằng màng bọc thực phẩm và đun nóng trong lò vi sóng (600W) trong 2 đến 3 phút.",
+        "Kết hợp các nguyên liệu làm <gia vị cho nước sốt>.",
+        "Dùng tay bẻ thành từng miếng vừa ăn (nó sẽ nóng nên bạn có thể bẻ trong nước lạnh). Kết hợp với 2 và đặt vào một cái bát. Top với hành tây và lòng đỏ trứng."
+      ],
+      "hi": [
+        "बैंगन को छीलें और कांटे से कई जगहों पर छेद करें। प्लास्टिक रैप से ढकें और माइक्रोवेव (600W) में 2 से 3 मिनट तक गर्म करें।",
+        "<सॉस के लिए मसाला> के लिए सामग्री को मिलाएं।",
+        "इसे अपने हाथों से छोटे टुकड़ों में तोड़ लें (यह गर्म होगा, इसलिए आप इसे ठंडे पानी में तोड़ सकते हैं)। 2 के साथ मिलाएं और एक कटोरे में रखें। ऊपर से प्याज़ और अंडे की जर्दी डालें।"
+      ],
+      "ru": [
+        "Очистите баклажан и проделайте вилкой дырочки в нескольких местах. Накройте полиэтиленовой пленкой и нагрейте в микроволновой печи (600 Вт) в течение 2–3 минут.",
+        "Смешайте ингредиенты для <приправы для соуса>.",
+        "Разломайте его руками на небольшие кусочки (он будет горячим, поэтому можно разломать его в холодной воде). Смешайте с 2 и поместите в миску. Сверху выложите лук и яичный желток."
+      ],
+      "th": [
+        "ปอกมะเขือยาวแล้วใช้ส้อมเจาะรูในหลาย ๆ ที่ ปิดด้วยพลาสติกแร็ป แล้วนำเข้าไมโครเวฟ (600W) เป็นเวลา 2 ถึง 3 นาที",
+        "รวมส่วนผสมสำหรับ <เครื่องปรุงรสสำหรับซอส>",
+        "หักเป็นชิ้นขนาดพอดีคำด้วยมือของคุณ (มันจะร้อนคุณจึงสามารถหักในน้ำเย็นได้) รวมกับ 2 อย่างแล้วใส่ในชาม โรยหน้าด้วยหัวหอมและไข่แดง"
+      ],
+      "id": [
+        "Kupas terong dan buat lubang di beberapa tempat dengan garpu. Tutup dengan bungkus plastik dan panaskan dalam microwave (600W) selama 2 hingga 3 menit.",
+        "Campurkan bahan-bahan untuk <bumbu saus>.",
+        "Pecahkan menjadi potongan-potongan kecil dengan tangan Anda (akan panas, jadi Anda bisa memecahkannya dengan air dingin). Kombinasikan dengan 2 dan tempatkan dalam mangkuk. Taburi dengan bawang bombay dan kuning telur."
+      ],
+      "ms": [
+        "Kupas terung dan cucuk lubang di beberapa tempat dengan garpu. Tutup dengan bungkus plastik dan panaskan dalam ketuhar gelombang mikro (600W) selama 2 hingga 3 minit.",
+        "Satukan bahan untuk <perasa untuk sos>.",
+        "Pecahkannya kepada kepingan bersaiz gigitan dengan tangan anda (ia akan menjadi panas, jadi anda boleh memecahkannya dalam air sejuk). Satukan dengan 2 dan masukkan ke dalam mangkuk. Teratas dengan bawang dan kuning telur."
+      ],
+      "ko": [
+        "나스는 헤타를 먹고, 포크 등으로 몇 군데 구멍을 뚫는다. 랩을 하여 전자레인지(600W)로 2~3분 가열한다.",
+        "<양념용 조미료>의 재료를 합한다.",
+        "를 손으로 먹기 쉬운 크기로 나누어 (뜨겁기 때문에 냉수에 갈 수 있다). 2와 맞추기에 담는다. 양파와 노른자를 얹는다."
+      ]
+    }
   }
 ]

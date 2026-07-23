@@ -314401,5 +314401,280 @@
         "를 손으로 먹기 쉬운 크기로 나누어 (뜨겁기 때문에 냉수에 갈 수 있다). 2와 맞추기에 담는다. 양파와 노른자를 얹는다."
       ]
     }
+  },
+  {
+    "id": "ca7f1f23",
+    "source_url": "https://www.mizkan.co.jp/ouchirecipe/recipe/?menu_id=20671",
+    "source_site": "Mizkan",
+    "title_ja": "レンジで簡単！オクラとコーンのツナ和え",
+    "description_ja": "",
+    "ingredients": [
+      {
+        "name_ja": "オクラ",
+        "amount": "１袋（１００ｇ）",
+        "name_translated": {
+          "en": "okra",
+          "zh_tw": "秋葵",
+          "zh_cn": "秋葵",
+          "vi": "đậu bắp",
+          "hi": "ओकरा",
+          "ru": "бамия",
+          "th": "กระเจี๊ยบเขียว",
+          "id": "okra",
+          "ms": "bendi",
+          "ko": "오쿠라"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%82%AA%E3%82%AF%E3%83%A9&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%82%AA%E3%82%AF%E3%83%A9/?tag="
+      },
+      {
+        "name_ja": "ツナ缶",
+        "amount": "１缶（７０ｇ）",
+        "name_translated": {
+          "en": "canned tuna",
+          "zh_tw": "鮪魚罐頭",
+          "zh_cn": "金枪鱼罐头",
+          "vi": "cá ngừ đóng hộp",
+          "hi": "डिब्बाबंद टूना",
+          "ru": "консервированный тунец",
+          "th": "ปลาทูน่ากระป๋อง",
+          "id": "tuna kalengan",
+          "ms": "tuna dalam tin",
+          "ko": "참치캔"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%84%E3%83%8A%E7%BC%B6&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%84%E3%83%8A%E7%BC%B6/?tag="
+      },
+      {
+        "name_ja": "コーン缶　（ホール）",
+        "amount": "大さじ４",
+        "name_translated": {
+          "en": "Canned corn (whole)",
+          "zh_tw": "玉米罐頭（整顆）",
+          "zh_cn": "玉米罐头（整粒）",
+          "vi": "Ngô đóng hộp (nguyên hạt)",
+          "hi": "डिब्बाबंद मक्का (संपूर्ण)",
+          "ru": "Консервированная кукуруза (цельная)",
+          "th": "ข้าวโพดกระป๋อง(ทั้ง)",
+          "id": "Jagung kalengan (utuh)",
+          "ms": "Jagung tin (keseluruhan)",
+          "ko": "콘캔(홀)"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%82%B3%E3%83%BC%E3%83%B3%E7%BC%B6%E3%80%80%EF%BC%88%E3%83%9B%E3%83%BC%E3%83%AB%EF%BC%89&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%82%B3%E3%83%BC%E3%83%B3%E7%BC%B6%E3%80%80%EF%BC%88%E3%83%9B%E3%83%BC%E3%83%AB%EF%BC%89/?tag="
+      },
+      {
+        "name_ja": "ミツカン　味ぽん",
+        "amount": "大さじ１",
+        "name_translated": {
+          "en": "Mizkan Ajipon",
+          "zh_tw": "味滋康味精",
+          "zh_cn": "味滋康味精",
+          "vi": "Mizkan Ajipon",
+          "hi": "मिज़कान अजिपोन",
+          "ru": "Мизкан Аджипон",
+          "th": "มิซกัน อาจิปอน",
+          "id": "Mizkan Ajipon",
+          "ms": "Mizkan Ajipon",
+          "ko": "미츠칸 미포"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E5%91%B3%E3%81%BD%E3%82%93&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E5%91%B3%E3%81%BD%E3%82%93/?tag="
+      },
+      {
+        "name_ja": "１",
+        "amount": "にする。耐熱容器に入れ、ふんわりとラップをし電子レンジ（６００Ｗ）で１分加熱し、粗熱を取る。",
+        "name_translated": {
+          "en": "1",
+          "zh_tw": "1",
+          "zh_cn": "1",
+          "vi": "1",
+          "hi": "1",
+          "ru": "1",
+          "th": "1",
+          "id": "1",
+          "ms": "1",
+          "ko": "1"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%91&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%91/?tag="
+      },
+      {
+        "name_ja": "２",
+        "amount": "に軽く油をきったツナとコーン、「味ぽん」を加え、軽くあえる。",
+        "name_translated": {
+          "en": "2",
+          "zh_tw": "2",
+          "zh_cn": "2",
+          "vi": "2",
+          "hi": "2",
+          "ru": "2",
+          "th": "2",
+          "id": "2",
+          "ms": "2",
+          "ko": "2"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%92&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%92/?tag="
+      },
+      {
+        "name_ja": "ひんやりオクラとトマトのつゆぶっかけ",
+        "amount": "適量",
+        "name_translated": {
+          "en": "ひんやりオクラとトマトのつゆぶっかけ",
+          "zh_tw": "涼爽的秋葵和番茄湯顏射",
+          "zh_cn": "凉爽的秋葵和番茄汤颜射",
+          "vi": "Súp đậu bắp và cà chua bukkake mát lạnh",
+          "hi": "कूल भिंडी और टमाटर का सूप बुक्कके",
+          "ru": "Крутой буккаке из бамии и томатного супа",
+          "th": "กระเจี๊ยบเขียวและซุปมะเขือเทศ bukkake",
+          "id": "Bukkake sup okra dan tomat dingin",
+          "ms": "Bendi sejuk dan sup tomato bukkake",
+          "ko": "서늘한 오크라와 토마토의 츠유부카케"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%B2%E3%82%93%E3%82%84%E3%82%8A%E3%82%AA%E3%82%AF%E3%83%A9%E3%81%A8%E3%83%88%E3%83%9E%E3%83%88%E3%81%AE%E3%81%A4%E3%82%86%E3%81%B6%E3%81%A3%E3%81%8B%E3%81%91&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%B2%E3%82%93%E3%82%84%E3%82%8A%E3%82%AA%E3%82%AF%E3%83%A9%E3%81%A8%E3%83%88%E3%83%9E%E3%83%88%E3%81%AE%E3%81%A4%E3%82%86%E3%81%B6%E3%81%A3%E3%81%8B%E3%81%91/?tag="
+      },
+      {
+        "name_ja": "オクラと長いものネバネバ和え",
+        "amount": "適量",
+        "name_translated": {
+          "en": "Okra and long ones with sticky sauce",
+          "zh_tw": "秋葵和長的黏醬",
+          "zh_cn": "秋葵和长的粘酱",
+          "vi": "Đậu bắp và dài sốt nếp",
+          "hi": "चिपचिपी चटनी के साथ ओकरा और लंबे वाले",
+          "ru": "Бамия и длинные с липким соусом",
+          "th": "กระเจี๊ยบและลูกยาวพร้อมน้ำจิ้มเหนียวๆ",
+          "id": "Okra dan yang panjang dengan saus lengket",
+          "ms": "Bendi dan yang panjang dengan sos melekit",
+          "ko": "오크라와 긴 것 네바네바 완화"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%82%AA%E3%82%AF%E3%83%A9%E3%81%A8%E9%95%B7%E3%81%84%E3%82%82%E3%81%AE%E3%83%8D%E3%83%90%E3%83%8D%E3%83%90%E5%92%8C%E3%81%88&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%82%AA%E3%82%AF%E3%83%A9%E3%81%A8%E9%95%B7%E3%81%84%E3%82%82%E3%81%AE%E3%83%8D%E3%83%90%E3%83%8D%E3%83%90%E5%92%8C%E3%81%88/?tag="
+      },
+      {
+        "name_ja": "まるごとオクラのやみつきだれ",
+        "amount": "適量",
+        "name_translated": {
+          "en": "Addictive whole okra sauce",
+          "zh_tw": "令人上癮的全秋葵醬",
+          "zh_cn": "令人上瘾的全秋葵酱",
+          "vi": "Nước sốt đậu bắp gây nghiện",
+          "hi": "नशीला संपूर्ण भिंडी सॉस",
+          "ru": "Захватывающий соус из цельной бамии",
+          "th": "ซอสกระเจี๊ยบทั้งตัวที่น่าติดตาม",
+          "id": "Saus okra utuh yang membuat ketagihan",
+          "ms": "Sos bendi penuh ketagihan",
+          "ko": "통째로 오쿠라의 야미츠키 누레"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%BE%E3%82%8B%E3%81%94%E3%81%A8%E3%82%AA%E3%82%AF%E3%83%A9%E3%81%AE%E3%82%84%E3%81%BF%E3%81%A4%E3%81%8D%E3%81%A0%E3%82%8C&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%BE%E3%82%8B%E3%81%94%E3%81%A8%E3%82%AA%E3%82%AF%E3%83%A9%E3%81%AE%E3%82%84%E3%81%BF%E3%81%A4%E3%81%8D%E3%81%A0%E3%82%8C/?tag="
+      }
+    ],
+    "steps_ja": [
+      "オクラは、ヘタを切り落としガクのまわりを削り、１ｃｍ幅の輪切りにする。耐熱容器に入れ、ふんわりとラップをし電子レンジ（６００Ｗ）で１分加熱し、粗熱を取る。",
+      "に軽く油をきったツナとコーン、「味ぽん」を加え、軽くあえる。",
+      "ひんやりオクラとトマトのつゆぶっかけ",
+      "オクラと長いものネバネバ和え",
+      "まるごとオクラのやみつきだれ"
+    ],
+    "image_url": "",
+    "title": {
+      "en": "Easy to use in the microwave! Okra and corn with tuna sauce",
+      "zh_tw": "レンジで簡単！オクラとコーンのツナ和え",
+      "zh_cn": "方便在微波炉中使用！秋葵玉米配金枪鱼酱",
+      "vi": "Dễ dàng sử dụng trong lò vi sóng! Đậu bắp bắp sốt cá ngừ",
+      "hi": "माइक्रोवेव में उपयोग करना आसान! टूना सॉस के साथ भिंडी और मक्का",
+      "ru": "Удобно использовать в микроволновке! Бамия и кукуруза с соусом из тунца",
+      "th": "ใช้งานง่ายในไมโครเวฟ! กระเจี๊ยบและข้าวโพดกับซอสทูน่า",
+      "id": "Mudah digunakan dalam microwave! Okra dan jagung dengan saus tuna",
+      "ms": "Mudah digunakan dalam ketuhar gelombang mikro! Bendi dan jagung dengan sos tuna",
+      "ko": "레인지로 간단! 오크라와 옥수수 참치"
+    },
+    "description": {
+      "en": "",
+      "zh_tw": "",
+      "zh_cn": "",
+      "vi": "",
+      "hi": "",
+      "ru": "",
+      "th": "",
+      "id": "",
+      "ms": "",
+      "ko": ""
+    },
+    "steps": {
+      "en": [
+        "Cut off the stems of the okra, scrape around the calyx, and cut into 1cm-wide slices. Place in a heat-resistant container, loosely cover with plastic wrap, and heat in the microwave (600W) for 1 minute to remove rough heat.",
+        "Add lightly oiled tuna, corn, and ``Ajipon'' to the mixture and toss lightly.",
+        "Cool okra and tomato soup bukkake",
+        "Okra and long ones with sticky sauce",
+        "Addictive whole okra sauce"
+      ],
+      "zh_tw": [
+        "秋葵切去莖部，刮去花萼周圍，切成1公分寬的片。放入耐熱容器中，鬆散地蓋上保鮮膜，然後在微波爐（600W）中加熱 1 分鐘以去除粗熱。",
+        "將塗了少許油的鮪魚、玉米和「Ajipon」加入混合物中，輕輕攪拌。",
+        "涼爽的秋葵和番茄湯顏射",
+        "秋葵和長的黏醬",
+        "令人上癮的全秋葵醬"
+      ],
+      "zh_cn": [
+        "秋葵切去茎部，刮去花萼周围，切成1厘米宽的片。放入耐热容器中，松散地盖上保鲜膜，然后在微波炉（600W）中加热 1 分钟以去除粗热。",
+        "将涂了少许油的金枪鱼、玉米和“Ajipon”加入混合物中，轻轻搅拌。",
+        "凉爽的秋葵和番茄汤颜射",
+        "秋葵和长的粘酱",
+        "令人上瘾的全秋葵酱"
+      ],
+      "vi": [
+        "Cắt bỏ cuống đậu bắp, cạo xung quanh đài hoa và cắt thành từng lát rộng 1cm. Đặt vào hộp chịu nhiệt, đậy nhẹ bằng màng bọc thực phẩm và đun nóng trong lò vi sóng (600W) trong 1 phút để loại bỏ nhiệt thô.",
+        "Thêm cá ngừ, ngô và `` Ajipon '' vào hỗn hợp và đảo nhẹ.",
+        "Súp đậu bắp và cà chua bukkake mát lạnh",
+        "Đậu bắp và dài sốt nếp",
+        "Nước sốt đậu bắp gây nghiện"
+      ],
+      "hi": [
+        "भिंडी के डंठल काट दें, कैलीक्स के चारों ओर खुरचें और 1 सेमी चौड़े स्लाइस में काट लें। गर्मी प्रतिरोधी कंटेनर में रखें, प्लास्टिक रैप से ढकें और खुरदुरी गर्मी को दूर करने के लिए माइक्रोवेव (600W) में 1 मिनट तक गर्म करें।",
+        "मिश्रण में हल्के तेल से सना हुआ ट्यूना, मक्का और ``अजिपोन'' डालें और हल्के से टॉस करें।",
+        "कूल भिंडी और टमाटर का सूप बुक्कके",
+        "चिपचिपी चटनी के साथ ओकरा और लंबे वाले",
+        "नशीला संपूर्ण भिंडी सॉस"
+      ],
+      "ru": [
+        "Отрежьте стебли бамии, очистите чашечку и нарежьте ломтиками шириной 1 см. Поместите в термостойкий контейнер, неплотно накройте полиэтиленовой пленкой и нагрейте в микроволновой печи (600 Вт) в течение 1 минуты, чтобы убрать сильный жар.",
+        "Добавьте в смесь слегка смазанный маслом тунец, кукурузу и аджипон и слегка перемешайте.",
+        "Крутой буккаке из бамии и томатного супа",
+        "Бамия и длинные с липким соусом",
+        "Захватывающий соус из цельной бамии"
+      ],
+      "th": [
+        "ตัดก้านกระเจี๊ยบออก ขูดรอบๆ กลีบเลี้ยง แล้วหั่นเป็นชิ้นกว้าง 1 ซม. วางในภาชนะที่ทนความร้อน คลุมด้วยพลาสติกแร็ปอย่างหลวมๆ แล้วนำไปให้ความร้อนในไมโครเวฟ (600W) เป็นเวลา 1 นาที เพื่อขจัดความร้อนหยาบ",
+        "ใส่ทูน่า ข้าวโพด และ ``อาจิปอง'' ที่ทาน้ำมันเล็กน้อย ลงในส่วนผสมแล้วคนให้เข้ากัน",
+        "กระเจี๊ยบเขียวและซุปมะเขือเทศ bukkake",
+        "กระเจี๊ยบและลูกยาวพร้อมน้ำจิ้มเหนียวๆ",
+        "ซอสกระเจี๊ยบทั้งตัวที่น่าติดตาม"
+      ],
+      "id": [
+        "Potong batang okra, kikis sekeliling kelopaknya, dan potong menjadi irisan selebar 1 cm. Tempatkan dalam wadah tahan panas, tutup longgar dengan bungkus plastik, dan panaskan dalam microwave (600W) selama 1 menit untuk menghilangkan panas kasar.",
+        "Tambahkan tuna, jagung, dan ``Ajipon'' yang sudah diolesi sedikit minyak ke dalam adonan dan aduk perlahan.",
+        "Bukkake sup okra dan tomat dingin",
+        "Okra dan yang panjang dengan saus lengket",
+        "Saus okra utuh yang membuat ketagihan"
+      ],
+      "ms": [
+        "Potong batang bendi, kikis di sekeliling kelopak, dan potong menjadi kepingan selebar 1cm. Letakkan dalam bekas tahan panas, tutup dengan bungkus plastik yang longgar, dan panaskan dalam ketuhar gelombang mikro (600W) selama 1 minit untuk mengeluarkan haba kasar.",
+        "Masukkan tuna, jagung dan ``Ajipon'' yang telah disapu sedikit minyak ke dalam adunan dan gaulkan sedikit.",
+        "Bendi sejuk dan sup tomato bukkake",
+        "Bendi dan yang panjang dengan sos melekit",
+        "Sos bendi penuh ketagihan"
+      ],
+      "ko": [
+        "오크라는 헤타를 잘라내어 가쿠의 주위를 깎아 1cm 폭의 윤절로 만든다. 내열 용기에 넣고 부드럽게 랩을 하고 전자 레인지(600W)로 1분 가열하고, 조열을 취한다.",
+        "에 가볍게 기름을 뿌린 참치와 옥수수, '아이폰'을 더해 가볍게 굳힌다.",
+        "서늘한 오크라와 토마토의 츠유부카케",
+        "오크라와 긴 것 네바네바 완화",
+        "통째로 오쿠라의 야미츠키 누레"
+      ]
+    }
   }
 ]

@@ -314676,5 +314676,334 @@
         "통째로 오쿠라의 야미츠키 누레"
       ]
     }
+  },
+  {
+    "id": "53c5a110",
+    "source_url": "https://www.mizkan.co.jp/ouchirecipe/recipe/?menu_id=9085",
+    "source_site": "Mizkan",
+    "title_ja": "なすと豚肉の揚げ浸し",
+    "description_ja": "",
+    "ingredients": [
+      {
+        "name_ja": "なす",
+        "amount": "２本",
+        "name_translated": {
+          "en": "Eggplant",
+          "zh_tw": "茄子",
+          "zh_cn": "茄子",
+          "vi": "cà tím",
+          "hi": "बैंगन",
+          "ru": "Баклажан",
+          "th": "มะเขือ",
+          "id": "Terung",
+          "ms": "terung",
+          "ko": "이루다"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%AA%E3%81%99&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%AA%E3%81%99/?tag="
+      },
+      {
+        "name_ja": "豚バラ肉　薄切り",
+        "amount": "１５０ｇ",
+        "name_translated": {
+          "en": "Thinly sliced ​​pork belly",
+          "zh_tw": "五花肉切成薄片",
+          "zh_cn": "五花肉切成薄片",
+          "vi": "Thịt ba chỉ thái mỏng",
+          "hi": "पतले कटा हुआ सूअर का मांस पेट",
+          "ru": "Тонко нарезанная свиная грудинка",
+          "th": "หมูสามชั้นหั่นบางๆ",
+          "id": "Perut babi diiris tipis",
+          "ms": "Perut babi yang dihiris nipis",
+          "ko": "돼지 장미 고기 얇게 썬다."
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E8%B1%9A%E3%83%90%E3%83%A9%E8%82%89%E3%80%80%E8%96%84%E5%88%87%E3%82%8A&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E8%B1%9A%E3%83%90%E3%83%A9%E8%82%89%E3%80%80%E8%96%84%E5%88%87%E3%82%8A/?tag="
+      },
+      {
+        "name_ja": "片栗粉",
+        "amount": "適量",
+        "name_translated": {
+          "en": "potato starch",
+          "zh_tw": "馬鈴薯澱粉",
+          "zh_cn": "马铃薯淀粉",
+          "vi": "tinh bột khoai tây",
+          "hi": "आलू स्टार्च",
+          "ru": "картофельный крахмал",
+          "th": "แป้งมันฝรั่ง",
+          "id": "tepung kentang",
+          "ms": "kanji kentang",
+          "ko": "가문 가루"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E7%89%87%E6%A0%97%E7%B2%89&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E7%89%87%E6%A0%97%E7%B2%89/?tag="
+      },
+      {
+        "name_ja": "揚げ油",
+        "amount": "適量",
+        "name_translated": {
+          "en": "frying oil",
+          "zh_tw": "煎炸油",
+          "zh_cn": "煎炸油",
+          "vi": "dầu chiên",
+          "hi": "तलने का तेल",
+          "ru": "масло для жарки",
+          "th": "น้ำมันทอด",
+          "id": "minyak goreng",
+          "ms": "minyak goreng",
+          "ko": "튀긴 기름"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E6%8F%9A%E3%81%92%E6%B2%B9&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E6%8F%9A%E3%81%92%E6%B2%B9/?tag="
+      },
+      {
+        "name_ja": "小ねぎ",
+        "amount": "適宜",
+        "name_translated": {
+          "en": "Onion",
+          "zh_tw": "洋蔥",
+          "zh_cn": "洋葱",
+          "vi": "Củ hành",
+          "hi": "प्याज",
+          "ru": "Лук",
+          "th": "หัวหอม",
+          "id": "Bawang bombai",
+          "ms": "Bawang besar",
+          "ko": "소파"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E5%B0%8F%E3%81%AD%E3%81%8E&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E5%B0%8F%E3%81%AD%E3%81%8E/?tag="
+      },
+      {
+        "name_ja": "ミツカン　追いがつおつゆ２倍",
+        "amount": "１００ｍｌ",
+        "name_translated": {
+          "en": "Mizkan Oigatsu Otsuyu x2",
+          "zh_tw": "味滋館大月大津 x2",
+          "zh_cn": "味滋馆大月大津 x2",
+          "vi": "Mizkan Oigatsu Otsuyu x2",
+          "hi": "मिज़कान ओइगात्सु ओत्सुयु x2",
+          "ru": "Мизкан Ойгацу Оцую x2",
+          "th": "มิซคัง โออิงัตสึ โอทสึยุ x2",
+          "id": "Mizkan Oigatsu Otsuyu x2",
+          "ms": "Mizkan Oigatsu Otsuyu x2",
+          "ko": "미쓰칸 쫓는 츠츠유 2배"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E8%BF%BD%E3%81%84%E3%81%8C%E3%81%A4%E3%81%8A%E3%81%A4%E3%82%86%EF%BC%92%E5%80%8D&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E8%BF%BD%E3%81%84%E3%81%8C%E3%81%A4%E3%81%8A%E3%81%A4%E3%82%86%EF%BC%92%E5%80%8D/?tag="
+      },
+      {
+        "name_ja": "水",
+        "amount": "１００ｍｌ",
+        "name_translated": {
+          "en": "water",
+          "zh_tw": "水",
+          "zh_cn": "水",
+          "vi": "Nước",
+          "hi": "पानी",
+          "ru": "вода",
+          "th": "น้ำ",
+          "id": "air",
+          "ms": "air",
+          "ko": "물"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E6%B0%B4&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E6%B0%B4/?tag="
+      },
+      {
+        "name_ja": "１",
+        "amount": "）は片栗粉をまぶす。なすは食べやすい大きさに切り、水けを取る。",
+        "name_translated": {
+          "en": "1",
+          "zh_tw": "1",
+          "zh_cn": "1",
+          "vi": "1",
+          "hi": "1",
+          "ru": "1",
+          "th": "1",
+          "id": "1",
+          "ms": "1",
+          "ko": "1"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%91&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%91/?tag="
+      },
+      {
+        "name_ja": "２",
+        "amount": "＜調味料＞を合わせる。",
+        "name_translated": {
+          "en": "2",
+          "zh_tw": "2",
+          "zh_cn": "2",
+          "vi": "2",
+          "hi": "2",
+          "ru": "2",
+          "th": "2",
+          "id": "2",
+          "ms": "2",
+          "ko": "2"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%92&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%92/?tag="
+      },
+      {
+        "name_ja": "３",
+        "amount": "に漬ける。",
+        "name_translated": {
+          "en": "3",
+          "zh_tw": "3",
+          "zh_cn": "3",
+          "vi": "3",
+          "hi": "3",
+          "ru": "3",
+          "th": "3",
+          "id": "3",
+          "ms": "3",
+          "ko": "3"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%93&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%93/?tag="
+      },
+      {
+        "name_ja": "４",
+        "amount": "に一緒に漬け込む。",
+        "name_translated": {
+          "en": "4",
+          "zh_tw": "4",
+          "zh_cn": "4",
+          "vi": "4",
+          "hi": "4",
+          "ru": "4",
+          "th": "4",
+          "id": "4",
+          "ms": "4",
+          "ko": "4"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%94&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%94/?tag="
+      },
+      {
+        "name_ja": "５",
+        "amount": "にした小ねぎを散らす。",
+        "name_translated": {
+          "en": "5",
+          "zh_tw": "5",
+          "zh_cn": "5",
+          "vi": "5",
+          "hi": "5",
+          "ru": "5",
+          "th": "5",
+          "id": "5",
+          "ms": "5",
+          "ko": "5"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%95&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%95/?tag="
+      }
+    ],
+    "steps_ja": [
+      "豚バラ肉（薄切り）は片栗粉をまぶす。なすは食べやすい大きさに切り、水けを取る。",
+      "＜調味料＞を合わせる。",
+      "フライパンに多めの油を熱し、豚肉を１枚ずつ広げて入れ、揚げ焼きにする。熱いうちに２に漬ける。",
+      "続けて、なすをきつね色に揚げ焼きにし、熱いうちに３に一緒に漬け込む。",
+      "粗熱が取れたら、漬け汁ごと器に盛り、小口切りにした小ねぎを散らす。"
+    ],
+    "image_url": "",
+    "title": {
+      "en": "Fried eggplant and pork",
+      "zh_tw": "炒茄子豬肉",
+      "zh_cn": "炒茄子猪肉",
+      "vi": "Cà tím chiên và thịt lợn",
+      "hi": "तला हुआ बैंगन और सूअर का मांस",
+      "ru": "Жареные баклажаны и свинина",
+      "th": "มะเขือยาวและหมูทอด",
+      "id": "Terong goreng dan daging babi",
+      "ms": "Terung goreng dan daging babi",
+      "ko": "그릇과 돼지고기 튀김"
+    },
+    "description": {
+      "en": "",
+      "zh_tw": "",
+      "zh_cn": "",
+      "vi": "",
+      "hi": "",
+      "ru": "",
+      "th": "",
+      "id": "",
+      "ms": "",
+      "ko": ""
+    },
+    "steps": {
+      "en": [
+        "Sprinkle pork belly (thinly sliced) with potato starch. Cut the eggplant into bite-sized pieces and drain the water.",
+        "Combine <seasonings>.",
+        "Heat a large amount of oil in a frying pan, spread out the pork one by one, and fry. Soak in Step 2 while hot.",
+        "Next, fry the eggplant until golden brown and marinate it in Step 3 while still hot.",
+        "Once it has cooled down, pour the pickled liquid into a bowl and sprinkle with the chopped green onions."
+      ],
+      "zh_tw": [
+        "在五花肉（切成薄片）上撒上馬鈴薯澱粉。將茄子切成一口大小的塊，瀝乾水分。",
+        "＜調味料＞を合わせる。",
+        "炒鍋中倒入大量油，燒熱，將豬肉一根一攤開，煎。趁熱浸泡在步驟2。",
+        "接下來，將茄子煎至金黃色，趁熱醃製在步驟3。",
+        "粗熱が取れたら、漬け汁ごと器に盛り、小口切りにした小ねぎを散らす。"
+      ],
+      "zh_cn": [
+        "在五花肉（切成薄片）上撒上马铃薯淀粉。将茄子切成一口大小的块，沥干水。",
+        "混合<调味料>。",
+        "炒锅中倒入大量油，烧热，将猪肉一根一根摊开，煎。趁热浸泡在步骤2中。",
+        "接下来，将茄子煎至金黄色，趁热腌制在步骤3中。",
+        "冷却后，将腌制液倒入碗中，撒上切碎的葱。"
+      ],
+      "vi": [
+        "Rắc thịt ba chỉ (thái lát mỏng) với tinh bột khoai tây. Cắt cà tím thành miếng vừa ăn và để ráo nước.",
+        "Kết hợp <gia vị>.",
+        "Đun nóng một lượng lớn dầu trong chảo, cho từng miếng thịt lợn vào chiên. Ngâm ở Bước 2 khi còn nóng.",
+        "Tiếp theo, chiên cà tím cho đến khi chín vàng rồi ướp ở Bước 3 khi còn nóng.",
+        "Sau khi nguội, đổ nước ngâm vào tô và rắc hành lá cắt nhỏ."
+      ],
+      "hi": [
+        "आलू स्टार्च के साथ पोर्क बेली (पतली कटी हुई) छिड़कें। बैंगन को छोटे टुकड़ों में काट लें और पानी निकाल दें।",
+        "<मसाला> मिलाएं।",
+        "एक फ्राइंग पैन में बड़ी मात्रा में तेल गरम करें, एक-एक करके सूअर का मांस फैलाएं और भूनें। गरम होने पर चरण 2 में भिगोएँ।",
+        "इसके बाद, बैंगन को सुनहरा भूरा होने तक भूनें और गर्म होने पर चरण 3 में मैरीनेट करें।",
+        "एक बार जब यह ठंडा हो जाए, तो मसालेदार तरल को एक कटोरे में डालें और कटा हुआ हरा प्याज छिड़कें।"
+      ],
+      "ru": [
+        "Посыпьте свиную грудинку (тонко нарезанную) картофельным крахмалом. Баклажаны нарежьте небольшими кусочками и слейте воду.",
+        "Смешайте <приправы>.",
+        "На сковороде разогрейте большое количество масла, выложите свинину по одному и обжарьте. Замачивайте в шаге 2, пока оно горячее.",
+        "Затем обжарьте баклажаны до золотистого цвета и замаринуйте их в шаге 3, пока они еще горячие.",
+        "Как только она остынет, перелейте маринованную жидкость в миску и посыпьте нарезанным зеленым луком."
+      ],
+      "th": [
+        "โรยหน้าหมูสามชั้น (หั่นบาง ๆ) ด้วยแป้งมันฝรั่ง หั่นมะเขือยาวเป็นชิ้นขนาดพอดีคำแล้วสะเด็ดน้ำ",
+        "ผสม <เครื่องปรุงรส>",
+        "ตั้งน้ำมันให้ร้อนในกระทะ เกลี่ยหมูทีละชิ้นแล้วทอด แช่ในขั้นตอนที่ 2 ขณะที่ยังร้อน",
+        "จากนั้นทอดมะเขือยาวจนเป็นสีเหลืองทองแล้วหมักในขั้นตอนที่ 3 ขณะที่ยังร้อนอยู่",
+        "เมื่อเย็นลงแล้ว ให้เทของเหลวที่ดองไว้ลงในชามแล้วโรยด้วยหัวหอมสับ"
+      ],
+      "id": [
+        "Taburi perut babi (iris tipis) dengan tepung kentang. Potong terong seukuran sekali gigit dan tiriskan airnya.",
+        "Gabungkan <bumbu>.",
+        "Panaskan minyak dalam jumlah besar dalam wajan, sebarkan daging babi satu per satu, dan goreng. Rendam pada Langkah 2 selagi panas.",
+        "Selanjutnya goreng terong hingga berwarna cokelat keemasan dan marinasi pada Langkah 3 selagi masih panas.",
+        "Setelah dingin, tuangkan cairan acar ke dalam mangkuk dan taburi dengan daun bawang cincang."
+      ],
+      "ms": [
+        "Taburkan perut babi (dihiris nipis) dengan pati kentang. Potong terung menjadi kepingan bersaiz gigitan dan toskan airnya.",
+        "Satukan <perasa>.",
+        "Panaskan sejumlah besar minyak dalam kuali, ratakan daging babi satu demi satu, dan goreng. Rendam dalam Langkah 2 semasa panas.",
+        "Seterusnya, goreng terung sehingga perang keemasan dan perap dalam Langkah 3 semasa masih panas.",
+        "Apabila ia telah sejuk, tuangkan cecair jeruk ke dalam mangkuk dan taburkan dengan bawang hijau yang dicincang."
+      ],
+      "ko": [
+        "돼지 장미 고기 (얇게 썬)는 가문 가루를 뿌린다. 나스는 먹기 쉬운 크기로 자르고 물기를 취한다.",
+        "<조미료>를 맞춘다.",
+        "프라이팬에 넉넉한 기름을 가열하고 돼지고기를 1장씩 펼쳐 넣고 튀김구이로 만든다. 뜨거운 시간에 2에 담그십시오.",
+        "이어서, 나스를 여우로 튀김 구이로 하고 뜨거울 때 3에 함께 담근다.",
+        "조열이 잡히면, 절인 국물마다 그릇에 담아, 소구치로 한 양파를 흩어 낸다."
+      ]
+    }
   }
 ]

@@ -315005,5 +315005,258 @@
         "조열이 잡히면, 절인 국물마다 그릇에 담아, 소구치로 한 양파를 흩어 낸다."
       ]
     }
+  },
+  {
+    "id": "9cfd48d2",
+    "source_url": "https://www.mizkan.co.jp/ouchirecipe/recipe/?menu_id=22600",
+    "source_site": "Mizkan",
+    "title_ja": "スペアリブのケチャップ酢煮込み【キャンプご飯】",
+    "description_ja": "",
+    "ingredients": [
+      {
+        "name_ja": "豚スペアリブ",
+        "amount": "４００ｇ（６本）",
+        "name_translated": {
+          "en": "pork spare ribs",
+          "zh_tw": "豬排骨",
+          "zh_cn": "猪排骨",
+          "vi": "sườn lợn dự phòng",
+          "hi": "सूअर के मांस की अतिरिक्त पसलियाँ",
+          "ru": "свиные ребрышки",
+          "th": "ซี่โครงหมู",
+          "id": "iga babi",
+          "ms": "tulang rusuk babi",
+          "ko": "돼지 예비 갈비"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E8%B1%9A%E3%82%B9%E3%83%9A%E3%82%A2%E3%83%AA%E3%83%96&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E8%B1%9A%E3%82%B9%E3%83%9A%E3%82%A2%E3%83%AA%E3%83%96/?tag="
+      },
+      {
+        "name_ja": "塩",
+        "amount": "ひとつまみ",
+        "name_translated": {
+          "en": "salt",
+          "zh_tw": "鹽",
+          "zh_cn": "盐",
+          "vi": "muối",
+          "hi": "नमक",
+          "ru": "соль",
+          "th": "เกลือ",
+          "id": "garam",
+          "ms": "garam",
+          "ko": "소금"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E5%A1%A9&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E5%A1%A9/?tag="
+      },
+      {
+        "name_ja": "サラダ油",
+        "amount": "小さじ１",
+        "name_translated": {
+          "en": "salad oil",
+          "zh_tw": "沙拉油",
+          "zh_cn": "色拉油",
+          "vi": "dầu trộn salad",
+          "hi": "वनस्पति - तेल",
+          "ru": "салатное масло",
+          "th": "น้ำมันสลัด",
+          "id": "minyak salad",
+          "ms": "minyak salad",
+          "ko": "샐러드 오일"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%82%B5%E3%83%A9%E3%83%80%E6%B2%B9&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%82%B5%E3%83%A9%E3%83%80%E6%B2%B9/?tag="
+      },
+      {
+        "name_ja": "ミツカン　カンタン酢",
+        "amount": "適量（５０ｍｌ程度）",
+        "name_translated": {
+          "en": "Mizkan Kantan Vinegar",
+          "zh_tw": "味滋康甘丹醋",
+          "zh_cn": "味滋康甘丹醋",
+          "vi": "Giấm Mizkan Kantan",
+          "hi": "मिज़कान कंटन सिरका",
+          "ru": "Мизкан Кантанский уксус",
+          "th": "น้ำส้มสายชูมิซกัน กันตัน",
+          "id": "Cuka Mizkan Kantan",
+          "ms": "Cuka Mizkan Kantan",
+          "ko": "미츠칸 칸탄초"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E3%82%AB%E3%83%B3%E3%82%BF%E3%83%B3%E9%85%A2&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E3%82%AB%E3%83%B3%E3%82%BF%E3%83%B3%E9%85%A2/?tag="
+      },
+      {
+        "name_ja": "トマトケチャップ",
+        "amount": "適量（大さじ１程度）",
+        "name_translated": {
+          "en": "tomato ketchup",
+          "zh_tw": "番茄醬",
+          "zh_cn": "番茄酱",
+          "vi": "sốt cà chua",
+          "hi": "टमाटर केचप",
+          "ru": "томатный кетчуп",
+          "th": "ซอสมะเขือเทศ",
+          "id": "saus tomat",
+          "ms": "sos tomato",
+          "ko": "토마토 케첩"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%88%E3%83%9E%E3%83%88%E3%82%B1%E3%83%81%E3%83%A3%E3%83%83%E3%83%97&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%88%E3%83%9E%E3%83%88%E3%82%B1%E3%83%81%E3%83%A3%E3%83%83%E3%83%97/?tag="
+      },
+      {
+        "name_ja": "水",
+        "amount": "１５０ｍｌ",
+        "name_translated": {
+          "en": "water",
+          "zh_tw": "水",
+          "zh_cn": "水",
+          "vi": "Nước",
+          "hi": "पानी",
+          "ru": "вода",
+          "th": "น้ำ",
+          "id": "air",
+          "ms": "air",
+          "ko": "물"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E6%B0%B4&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E6%B0%B4/?tag="
+      },
+      {
+        "name_ja": "１",
+        "amount": "スペアリブは塩で下味をつける。",
+        "name_translated": {
+          "en": "1",
+          "zh_tw": "1",
+          "zh_cn": "1",
+          "vi": "1",
+          "hi": "1",
+          "ru": "1",
+          "th": "1",
+          "id": "1",
+          "ms": "1",
+          "ko": "1"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%91&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%91/?tag="
+      },
+      {
+        "name_ja": "２",
+        "amount": "を全面こんがりと焼き色がつくまで焼く。",
+        "name_translated": {
+          "en": "2",
+          "zh_tw": "2",
+          "zh_cn": "2",
+          "vi": "2",
+          "hi": "2",
+          "ru": "2",
+          "th": "2",
+          "id": "2",
+          "ms": "2",
+          "ko": "2"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%92&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%92/?tag="
+      },
+      {
+        "name_ja": "３",
+        "amount": "＜調味料＞を入れて煮立たせ、ふたをして弱火で煮る。途中向きを変えながら、照りが出るまでたれを煮詰める。",
+        "name_translated": {
+          "en": "3",
+          "zh_tw": "3",
+          "zh_cn": "3",
+          "vi": "3",
+          "hi": "3",
+          "ru": "3",
+          "th": "3",
+          "id": "3",
+          "ms": "3",
+          "ko": "3"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%93&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%93/?tag="
+      }
+    ],
+    "steps_ja": [
+      "スペアリブは塩で下味をつける。",
+      "フライパンにサラダ油を入れて熱し、１を全面こんがりと焼き色がつくまで焼く。",
+      "＜調味料＞を入れて煮立たせ、ふたをして弱火で煮る。途中向きを変えながら、照りが出るまでたれを煮詰める。"
+    ],
+    "image_url": "",
+    "title": {
+      "en": "Braised spare ribs with ketchup and vinegar [camping rice]",
+      "zh_tw": "番茄醬醋癤排骨【露營飯】",
+      "zh_cn": "番茄酱醋焖排骨【野营饭】",
+      "vi": "Sườn non om sốt cà chua và giấm [cơm cắm trại]",
+      "hi": "केचप और सिरके के साथ ब्रेज़्ड अतिरिक्त पसलियाँ [कैंपिंग चावल]",
+      "ru": "Тушеные ребрышки с кетчупом и уксусом [походный рис]",
+      "th": "ซี่โครงหมูตุ๋นซอสมะเขือเทศและน้ำส้มสายชู [ข้าวแค้มป์]",
+      "id": "Iga direbus dengan saus tomat dan cuka [nasi berkemah]",
+      "ms": "Tulang rusuk rebus dengan sos tomato dan cuka [nasi perkhemahan]",
+      "ko": "예비 갈비의 케첩 식초 조림 [캠프 밥]"
+    },
+    "description": {
+      "en": "",
+      "zh_tw": "",
+      "zh_cn": "",
+      "vi": "",
+      "hi": "",
+      "ru": "",
+      "th": "",
+      "id": "",
+      "ms": "",
+      "ko": ""
+    },
+    "steps": {
+      "en": [
+        "Season the spare ribs with salt.",
+        "Heat vegetable oil in a frying pan and fry until golden brown on all sides.",
+        "Add the seasonings, bring to a boil, cover, and simmer over low heat. Boil the sauce until it thickens, changing the direction halfway through."
+      ],
+      "zh_tw": [
+        "用鹽巴給排骨調味。",
+        "在煎鍋中加熱植物油，煎至各面呈金黃色。",
+        "加入調味料，煮沸，蓋上鍋蓋，小火煮。將醬汁煮至濃稠，中途改變方向。"
+      ],
+      "zh_cn": [
+        "用盐给排骨调味。",
+        "在煎锅中加热植物油，煎至各面呈金黄色。",
+        "加入调味料，煮沸，盖上锅盖，小火煮。将酱汁煮至浓稠，中途改变方向。"
+      ],
+      "vi": [
+        "Ướp sườn dự phòng với muối.",
+        "Đun nóng dầu thực vật trong chảo rồi chiên cho đến khi chín vàng các mặt.",
+        "Thêm gia vị, đun sôi, đậy nắp và đun nhỏ lửa trên lửa nhỏ. Đun sôi nước sốt cho đến khi đặc lại, đổi hướng nửa chừng."
+      ],
+      "hi": [
+        "अतिरिक्त पसलियों पर नमक छिड़कें।",
+        "एक फ्राइंग पैन में वनस्पति तेल गरम करें और सभी तरफ सुनहरा भूरा होने तक भूनें।",
+        "मसाले डालें, उबाल लें, ढक दें और धीमी आंच पर उबाल लें। सॉस को गाढ़ा होने तक उबालें, बीच-बीच में दिशा बदलते रहें।"
+      ],
+      "ru": [
+        "Приправьте ребрышки солью.",
+        "На сковороде разогрейте растительное масло и обжарьте до золотистого цвета со всех сторон.",
+        "Добавьте приправы, доведите до кипения, накройте крышкой и варите на медленном огне. Варите соус, пока он не загустеет, в середине приготовления поменяв направление."
+      ],
+      "th": [
+        "ปรุงรสซี่โครงหมูด้วยเกลือ",
+        "ตั้งน้ำมันพืชในกระทะแล้วทอดจนเป็นสีเหลืองทองทุกด้าน",
+        "เพิ่มเครื่องปรุงรส นำไปต้ม ปิดฝา และเคี่ยวบนไฟอ่อน ต้มซอสจนข้น โดยเปลี่ยนทิศทางไปครึ่งทาง"
+      ],
+      "id": [
+        "Bumbui iga dengan garam.",
+        "Panaskan minyak sayur dalam wajan dan goreng hingga semua sisinya berwarna cokelat keemasan.",
+        "Tambahkan bumbu, didihkan, tutup, dan masak dengan api kecil. Rebus saus hingga mengental, ubah arahnya di tengah proses."
+      ],
+      "ms": [
+        "Perasakan tulang rusuk ganti dengan garam.",
+        "Panaskan minyak sayuran dalam kuali dan goreng sehingga coklat keemasan di semua sisi.",
+        "Masukkan bahan perasa, biarkan mendidih, tutup dan masak dengan api perlahan. Rebus sos sehingga pekat, tukar arah separuh jalan."
+      ],
+      "ko": [
+        "예비 갈비는 소금으로 맛을 낸다.",
+        "프라이팬에 샐러드유를 넣고 가열하고, 1을 전면 윤기와 구운 색이 붙을 때까지 굽는다.",
+        "<조미료>를 넣고 끓여 뚜껑을 하고 약불로 끓인다. 중간 방향을 바꾸면서 빛이 나올 때까지 양념장을 끓인다."
+      ]
+    }
   }
 ]

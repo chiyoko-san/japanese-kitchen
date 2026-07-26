@@ -315258,5 +315258,626 @@
         "<조미료>를 넣고 끓여 뚜껑을 하고 약불로 끓인다. 중간 방향을 바꾸면서 빛이 나올 때까지 양념장을 끓인다."
       ]
     }
+  },
+  {
+    "id": "9e4cd69b",
+    "source_url": "https://park.ajinomoto.co.jp/recipe/card/704414/",
+    "source_site": "Ajinomoto",
+    "title_ja": "おひつまぶし",
+    "description_ja": "",
+    "ingredients": [
+      {
+        "name_ja": "材料",
+        "amount": "適量",
+        "name_translated": {
+          "en": "material",
+          "zh_tw": "材料",
+          "zh_cn": "材料",
+          "vi": "vật liệu",
+          "hi": "सामग्री",
+          "ru": "материал",
+          "th": "วัสดุ",
+          "id": "bahan",
+          "ms": "bahan",
+          "ko": "소재"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E6%9D%90%E6%96%99&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E6%9D%90%E6%96%99/?tag="
+      },
+      {
+        "name_ja": "つくり方",
+        "amount": "適量",
+        "name_translated": {
+          "en": "How to make",
+          "zh_tw": "如何製作",
+          "zh_cn": "如何制作",
+          "vi": "Làm thế nào để làm",
+          "hi": "कैसे बनाना है",
+          "ru": "Как сделать",
+          "th": "วิธีทำ",
+          "id": "Cara membuat",
+          "ms": "Cara membuat",
+          "ko": "만드는 법"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%A4%E3%81%8F%E3%82%8A%E6%96%B9&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%A4%E3%81%8F%E3%82%8A%E6%96%B9/?tag="
+      },
+      {
+        "name_ja": "エネルギー",
+        "amount": "kcal",
+        "name_translated": {
+          "en": "energy",
+          "zh_tw": "活力",
+          "zh_cn": "活力",
+          "vi": "năng lượng",
+          "hi": "ऊर्जा",
+          "ru": "энергия",
+          "th": "พลังงาน",
+          "id": "energi",
+          "ms": "tenaga",
+          "ko": "에너지"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%82%A8%E3%83%8D%E3%83%AB%E3%82%AE%E3%83%BC&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%82%A8%E3%83%8D%E3%83%AB%E3%82%AE%E3%83%BC/?tag="
+      },
+      {
+        "name_ja": "738",
+        "amount": "kcal",
+        "name_translated": {
+          "en": "738",
+          "zh_tw": "第738章",
+          "zh_cn": "第738章",
+          "vi": "738",
+          "hi": "738",
+          "ru": "738",
+          "th": "738",
+          "id": "738",
+          "ms": "738",
+          "ko": "738"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=738&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/738/?tag="
+      },
+      {
+        "name_ja": "塩分",
+        "amount": "g",
+        "name_translated": {
+          "en": "salt",
+          "zh_tw": "鹽",
+          "zh_cn": "盐",
+          "vi": "muối",
+          "hi": "नमक",
+          "ru": "соль",
+          "th": "เกลือ",
+          "id": "garam",
+          "ms": "garam",
+          "ko": "염분"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E5%A1%A9%E5%88%86&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E5%A1%A9%E5%88%86/?tag="
+      },
+      {
+        "name_ja": "4.1",
+        "amount": "g",
+        "name_translated": {
+          "en": "4.1",
+          "zh_tw": "4.1",
+          "zh_cn": "4.1",
+          "vi": "4.1",
+          "hi": "4.1",
+          "ru": "4.1",
+          "th": "4.1",
+          "id": "4.1",
+          "ms": "4.1",
+          "ko": "4.1"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=4.1&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/4.1/?tag="
+      },
+      {
+        "name_ja": "たんぱく質",
+        "amount": "g",
+        "name_translated": {
+          "en": "protein",
+          "zh_tw": "蛋白質",
+          "zh_cn": "蛋白质",
+          "vi": "chất đạm",
+          "hi": "प्रोटीन",
+          "ru": "белок",
+          "th": "โปรตีน",
+          "id": "protein",
+          "ms": "protein",
+          "ko": "단백질"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%9F%E3%82%93%E3%81%B1%E3%81%8F%E8%B3%AA&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%9F%E3%82%93%E3%81%B1%E3%81%8F%E8%B3%AA/?tag="
+      },
+      {
+        "name_ja": "26.9",
+        "amount": "g",
+        "name_translated": {
+          "en": "26.9",
+          "zh_tw": "26.9",
+          "zh_cn": "26.9",
+          "vi": "26,9",
+          "hi": "26.9",
+          "ru": "26,9",
+          "th": "26.9",
+          "id": "26.9",
+          "ms": "26.9",
+          "ko": "26.9"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=26.9&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/26.9/?tag="
+      },
+      {
+        "name_ja": "脂質",
+        "amount": "g",
+        "name_translated": {
+          "en": "lipid",
+          "zh_tw": "脂質",
+          "zh_cn": "脂质",
+          "vi": "chất béo",
+          "hi": "लिपिड",
+          "ru": "липид",
+          "th": "ไขมัน",
+          "id": "lipid",
+          "ms": "lipid",
+          "ko": "지질"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E8%84%82%E8%B3%AA&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E8%84%82%E8%B3%AA/?tag="
+      },
+      {
+        "name_ja": "16.9",
+        "amount": "g",
+        "name_translated": {
+          "en": "16.9",
+          "zh_tw": "16.9",
+          "zh_cn": "16.9",
+          "vi": "16,9",
+          "hi": "16.9",
+          "ru": "16,9",
+          "th": "16.9",
+          "id": "16.9",
+          "ms": "16.9",
+          "ko": "16.9"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=16.9&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/16.9/?tag="
+      },
+      {
+        "name_ja": "もっと見る",
+        "amount": "適量",
+        "name_translated": {
+          "en": "See more",
+          "zh_tw": "看更多",
+          "zh_cn": "查看更多",
+          "vi": "Xem thêm",
+          "hi": "और देखें",
+          "ru": "Посмотреть больше",
+          "th": "ดูเพิ่มเติม",
+          "id": "Lihat selengkapnya",
+          "ms": "Lihat lagi",
+          "ko": "더 보기"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%82%82%E3%81%A3%E3%81%A8%E8%A6%8B%E3%82%8B&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%82%82%E3%81%A3%E3%81%A8%E8%A6%8B%E3%82%8B/?tag="
+      },
+      {
+        "name_ja": "マイレシピにも保存！",
+        "amount": "LINEに保存",
+        "name_translated": {
+          "en": "Save it to my recipes too!",
+          "zh_tw": "也將它保存到我的食譜中！",
+          "zh_cn": "也将它保存到我的食谱中！",
+          "vi": "Lưu nó vào công thức nấu ăn của tôi nữa!",
+          "hi": "इसे मेरे व्यंजनों में भी सहेजें!",
+          "ru": "Сохраняйте и мне в рецепты!",
+          "th": "บันทึกลงในสูตรของฉันด้วย!",
+          "id": "Simpan ke resep saya juga!",
+          "ms": "Simpan ke resipi saya juga!",
+          "ko": "마이 레시피에도 저장!"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9E%E3%82%A4%E3%83%AC%E3%82%B7%E3%83%94%E3%81%AB%E3%82%82%E4%BF%9D%E5%AD%98%EF%BC%81&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9E%E3%82%A4%E3%83%AC%E3%82%B7%E3%83%94%E3%81%AB%E3%82%82%E4%BF%9D%E5%AD%98%EF%BC%81/?tag="
+      },
+      {
+        "name_ja": "マイレシピに保存",
+        "amount": "-",
+        "name_translated": {
+          "en": "Save to My Recipe",
+          "zh_tw": "儲存到我的食譜",
+          "zh_cn": "保存到我的食谱",
+          "vi": "Lưu vào Công thức của tôi",
+          "hi": "मेरी रेसिपी में सहेजें",
+          "ru": "Сохранить в мой рецепт",
+          "th": "บันทึกลงในสูตรของฉัน",
+          "id": "Simpan ke Resep Saya",
+          "ms": "Simpan ke Resipi Saya",
+          "ko": "내 조리법에 저장"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9E%E3%82%A4%E3%83%AC%E3%82%B7%E3%83%94%E3%81%AB%E4%BF%9D%E5%AD%98&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9E%E3%82%A4%E3%83%AC%E3%82%B7%E3%83%94%E3%81%AB%E4%BF%9D%E5%AD%98/?tag="
+      },
+      {
+        "name_ja": "リンク",
+        "amount": "外部タブで開く",
+        "name_translated": {
+          "en": "link",
+          "zh_tw": "關聯",
+          "zh_cn": "关联",
+          "vi": "liên kết",
+          "hi": "जोड़ना",
+          "ru": "связь",
+          "th": "ลิงค์",
+          "id": "link",
+          "ms": "pautan",
+          "ko": "링크"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%AA%E3%83%B3%E3%82%AF&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%AA%E3%83%B3%E3%82%AF/?tag="
+      },
+      {
+        "name_ja": "材料",
+        "amount": "適量",
+        "name_translated": {
+          "en": "material",
+          "zh_tw": "材料",
+          "zh_cn": "材料",
+          "vi": "vật liệu",
+          "hi": "सामग्री",
+          "ru": "материал",
+          "th": "วัสดุ",
+          "id": "bahan",
+          "ms": "bahan",
+          "ko": "소재"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E6%9D%90%E6%96%99&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E6%9D%90%E6%96%99/?tag="
+      },
+      {
+        "name_ja": "つくり方",
+        "amount": "適量",
+        "name_translated": {
+          "en": "How to make",
+          "zh_tw": "如何製作",
+          "zh_cn": "如何制作",
+          "vi": "Làm thế nào để làm",
+          "hi": "कैसे बनाना है",
+          "ru": "Как сделать",
+          "th": "วิธีทำ",
+          "id": "Cara membuat",
+          "ms": "Cara membuat",
+          "ko": "만드는 법"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%A4%E3%81%8F%E3%82%8A%E6%96%B9&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%A4%E3%81%8F%E3%82%8A%E6%96%B9/?tag="
+      },
+      {
+        "name_ja": "1",
+        "amount": "米は洗って、普通の水加減で炊く。",
+        "name_translated": {
+          "en": "1",
+          "zh_tw": "1",
+          "zh_cn": "1",
+          "vi": "1",
+          "hi": "1",
+          "ru": "1",
+          "th": "1",
+          "id": "1",
+          "ms": "1",
+          "ko": "1"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=1&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/1/?tag="
+      },
+      {
+        "name_ja": "2",
+        "amount": "にする。",
+        "name_translated": {
+          "en": "2",
+          "zh_tw": "2",
+          "zh_cn": "2",
+          "vi": "2",
+          "hi": "2",
+          "ru": "2",
+          "th": "2",
+          "id": "2",
+          "ms": "2",
+          "ko": "2"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=2&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/2/?tag="
+      },
+      {
+        "name_ja": "3",
+        "amount": "を合わせて火にかけて煮詰め、たれを作る。",
+        "name_translated": {
+          "en": "3",
+          "zh_tw": "3",
+          "zh_cn": "3",
+          "vi": "3",
+          "hi": "3",
+          "ru": "3",
+          "th": "3",
+          "id": "3",
+          "ms": "3",
+          "ko": "3"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=3&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/3/?tag="
+      },
+      {
+        "name_ja": "4",
+        "amount": "器にご飯をよそい、（２）のかば焼きをのせ、（３）のたれをかけ、小ねぎ、練りわさび、もみのり、粉ざんしょうを添える。",
+        "name_translated": {
+          "en": "4",
+          "zh_tw": "4",
+          "zh_cn": "4",
+          "vi": "4",
+          "hi": "4",
+          "ru": "4",
+          "th": "4",
+          "id": "4",
+          "ms": "4",
+          "ko": "4"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=4&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/4/?tag="
+      },
+      {
+        "name_ja": "5",
+        "amount": "を煮立ててだし汁を作り、薬味とだし汁をかける。",
+        "name_translated": {
+          "en": "5",
+          "zh_tw": "5",
+          "zh_cn": "5",
+          "vi": "5",
+          "hi": "5",
+          "ru": "5",
+          "th": "5",
+          "id": "5",
+          "ms": "5",
+          "ko": "5"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=5&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/5/?tag="
+      },
+      {
+        "name_ja": "＊",
+        "amount": "愛知県の郷土料理",
+        "name_translated": {
+          "en": "*",
+          "zh_tw": "*",
+          "zh_cn": "*",
+          "vi": "*",
+          "hi": "*",
+          "ru": "*",
+          "th": "*",
+          "id": "*",
+          "ms": "*",
+          "ko": "＊"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%8A&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%8A/?tag="
+      },
+      {
+        "name_ja": "＊",
+        "amount": "三膳目は、薬味とだし汁をかけ、お茶漬けとして食べる。",
+        "name_translated": {
+          "en": "*",
+          "zh_tw": "*",
+          "zh_cn": "*",
+          "vi": "*",
+          "hi": "*",
+          "ru": "*",
+          "th": "*",
+          "id": "*",
+          "ms": "*",
+          "ko": "＊"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%8A&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%8A/?tag="
+      },
+      {
+        "name_ja": "ご飯",
+        "amount": "適量",
+        "name_translated": {
+          "en": "cooked rice",
+          "zh_tw": "乾飯",
+          "zh_cn": "干饭",
+          "vi": "cơm chín",
+          "hi": "पका हुआ चावल",
+          "ru": "приготовленный рис",
+          "th": "ข้าวสวย",
+          "id": "nasi",
+          "ms": "nasi masak",
+          "ko": "밥"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%94%E9%A3%AF&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%94%E9%A3%AF/?tag="
+      },
+      {
+        "name_ja": "主食",
+        "amount": "適量",
+        "name_translated": {
+          "en": "staple food",
+          "zh_tw": "主食",
+          "zh_cn": "主食",
+          "vi": "thực phẩm chủ yếu",
+          "hi": "मूल भोजन",
+          "ru": "основные продукты питания",
+          "th": "อาหารหลัก",
+          "id": "makanan pokok",
+          "ms": "makanan ruji",
+          "ko": "주식"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E4%B8%BB%E9%A3%9F&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E4%B8%BB%E9%A3%9F/?tag="
+      },
+      {
+        "name_ja": "和風",
+        "amount": "適量",
+        "name_translated": {
+          "en": "Japanese style",
+          "zh_tw": "日式風格",
+          "zh_cn": "日式风格",
+          "vi": "phong cách Nhật Bản",
+          "hi": "जापानी शैली में",
+          "ru": "Японский стиль",
+          "th": "สไตล์ญี่ปุ่น",
+          "id": "gaya Jepang",
+          "ms": "gaya Jepun",
+          "ko": "일본식"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E5%92%8C%E9%A2%A8&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E5%92%8C%E9%A2%A8/?tag="
+      },
+      {
+        "name_ja": "ほんだし®",
+        "amount": "適量",
+        "name_translated": {
+          "en": "Hondashi®",
+          "zh_tw": "本達志®",
+          "zh_cn": "本达志®",
+          "vi": "Hondashi®",
+          "hi": "होंडाशी®",
+          "ru": "Хондаши®",
+          "th": "ฮอนดาชิ®",
+          "id": "Hondashi®",
+          "ms": "Hondashi®",
+          "ko": "혼다시®"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%BB%E3%82%93%E3%81%A0%E3%81%97%C2%AE&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%BB%E3%82%93%E3%81%A0%E3%81%97%C2%AE/?tag="
+      }
+    ],
+    "steps_ja": [
+      "米は洗って、普通の水加減で炊く。",
+      "かば焼きはアルミホイルにのせ、酒をふって包み、フライパンまたはオーブントースターで温めてから、１ｃｍ幅の短冊切りにする。",
+      "鍋に「ほんだし」、Ａを合わせて火にかけて煮詰め、たれを作る。",
+      "器にご飯をよそい、（２）のかば焼きをのせ、（３）のたれをかけ、小ねぎ、練りわさび、もみのり、粉ざんしょうを添える。",
+      "お茶漬けにする場合はＢを煮立ててだし汁を作り、薬味とだし汁をかける。",
+      "＊愛知県の郷土料理",
+      "＊＜食べ方＞一膳目は、茶碗に取り分け、そのまま食べる。二膳目は、お好みの薬味をのせて食べる。三膳目は、薬味とだし汁をかけ、お茶漬けとして食べる。"
+    ],
+    "image_url": "https://images.weserv.nl/?url=https://images.microcms-assets.io/assets/3834bb6c71eb4fdd912121537b20e72d/fedc7c17801545d0b30cff3818a6bc95/recipe_main_image_704414.jpg?fm=webp&q=60&fit=min&w=600&output=jpg",
+    "title": {
+      "en": "Ohitsumabushi",
+      "zh_tw": "大三吃",
+      "zh_cn": "大三吃",
+      "vi": "Ohitsumabushi",
+      "hi": "ओहित्सुमाबुशी",
+      "ru": "Оицумабуси",
+      "th": "โอฮิสึมาบุชิ",
+      "id": "Ohitsumabushi",
+      "ms": "Ohitsumabushi",
+      "ko": "히츠마부시"
+    },
+    "description": {
+      "en": "",
+      "zh_tw": "",
+      "zh_cn": "",
+      "vi": "",
+      "hi": "",
+      "ru": "",
+      "th": "",
+      "id": "",
+      "ms": "",
+      "ko": ""
+    },
+    "steps": {
+      "en": [
+        "Wash the rice and cook with normal water.",
+        "Place the kabayaki on aluminum foil, sprinkle with sake, wrap, warm in a frying pan or toaster oven, and then cut into 1cm wide strips.",
+        "Combine ``Hondashi'' and ingredients A in a pot and boil over heat to make the sauce.",
+        "Pour the rice into a bowl, top with the kabayaki from (2), sprinkle with the sauce from (3), and garnish with the small onions, wasabi paste, seaweed, and powdered zansho.",
+        "To make Ochazuke, boil B to make stock, then add the seasonings and stock.",
+        "*Local cuisine of Aichi Prefecture",
+        "*<How to eat> Divide the first serving into bowls and eat as is. For the second meal, top with your favorite condiments and eat. The third meal is eaten as ochazuke with condiments and dashi soup."
+      ],
+      "zh_tw": [
+        "將米洗淨，用普通水煮。",
+        "將蒲燒放在鋁箔上，撒上清酒，包起來，放入煎鍋或烤箱中加熱，然後切成 1 公分寬的條。",
+        "將“本田”和材料A放入鍋中，加熱煮沸製成醬汁。",
+        "將米飯倒入碗中，上面放上(2)的蒲燒，撒上(3)的醬汁，飾以小洋蔥、芥末醬、海藻和山椒粉。",
+        "製作茶泡飯時，先將B煮沸製成高湯，然後加入調味料和高湯。",
+        "*愛知縣的鄉土料理",
+        "*<食用方法> 將第一份盛入碗中，直接食用。第二頓飯，在上面加上你最喜歡的調味品然後吃。第三餐是茶泡飯，配上調味品和高湯。"
+      ],
+      "zh_cn": [
+        "将米洗净，用普通水煮。",
+        "将蒲烧放在铝箔上，撒上清酒，包裹起来，放入煎锅或烤箱中加热，然后切成 1 厘米宽的条。",
+        "将“本田”和材料A放入锅中，加热煮沸制成酱汁。",
+        "将米饭倒入碗中，上面放上(2)的蒲烧，撒上(3)的酱汁，饰以小洋葱、芥末酱、海藻和山椒粉。",
+        "制作茶泡饭时，先将B煮沸制成高汤，然后加入调味料和高汤。",
+        "*爱知县的乡土料理",
+        "*<食用方法> 将第一份盛入碗中，直接食用。第二顿饭，在上面加上你最喜欢的调味品然后吃。第三顿饭是茶泡饭，配上调味品和高汤。"
+      ],
+      "vi": [
+        "Vo sạch gạo và nấu với nước bình thường.",
+        "Đặt kabayaki lên giấy nhôm, rắc rượu sake, bọc lại, làm ấm trong chảo rán hoặc lò nướng bánh mì, sau đó cắt thành dải rộng 1cm.",
+        "Cho ``Hondashi'' và nguyên liệu A vào nồi rồi đun sôi trên lửa để làm nước sốt.",
+        "Đổ cơm vào tô, phủ kabayaki ở (2) lên trên, rưới nước sốt ở (3) và trang trí với hành tây nhỏ, mù tạt, rong biển và bột zansho.",
+        "Để làm Ochazuke, đun sôi B để làm nước kho, sau đó thêm gia vị và nước kho.",
+        "*Ẩm thực địa phương của tỉnh Aichi",
+        "*<Cách ăn> Chia khẩu phần đầu tiên ra bát và ăn như bình thường. Đối với bữa ăn thứ hai, hãy rắc các loại gia vị yêu thích của bạn lên và thưởng thức. Bữa thứ ba được ăn như ochazuke với gia vị và súp dashi."
+      ],
+      "hi": [
+        "- चावल को धोकर सामान्य पानी से पकाएं.",
+        "कबायाकी को एल्यूमीनियम फ़ॉइल पर रखें, खातिर छिड़कें, लपेटें, फ्राइंग पैन या टोस्टर ओवन में गर्म करें, और फिर 1 सेमी चौड़ी स्ट्रिप्स में काट लें।",
+        "``होंडाशी'' और सामग्री ए को एक बर्तन में मिलाएं और सॉस बनाने के लिए आंच पर उबालें।",
+        "चावल को एक कटोरे में डालें, ऊपर (2) से काबायाकी डालें, (3) से सॉस छिड़कें, और छोटे प्याज, वसाबी पेस्ट, समुद्री शैवाल और पाउडर ज़नशो से गार्निश करें।",
+        "ओचाज़ुके बनाने के लिए, स्टॉक बनाने के लिए बी को उबालें, फिर मसाला और स्टॉक डालें।",
+        "*आइची प्रान्त का स्थानीय व्यंजन",
+        "*<कैसे खाएं> पहली सर्विंग को कटोरे में बांट लें और ऐसे ही खाएं। दूसरे भोजन के लिए, ऊपर से अपने पसंदीदा मसाले डालें और खाएं। तीसरा भोजन मसालों और दशी सूप के साथ ओचाज़ुके के रूप में खाया जाता है।"
+      ],
+      "ru": [
+        "Рис промойте и сварите в обычной воде.",
+        "Положите кабаяки на алюминиевую фольгу, посыпьте сакэ, заверните, нагрейте на сковороде или в тостере, а затем нарежьте полосками шириной 1 см.",
+        "Смешайте «Хондаши» и ингредиенты А в кастрюле и варите на огне, чтобы приготовить соус.",
+        "Высыпьте рис в миску, сверху выложите кабаяки из (2), посыпьте соусом из (3) и украсьте небольшим луком, пастой васаби, морскими водорослями и порошком зансё.",
+        "Чтобы приготовить Очазуке, вскипятите B, чтобы получился бульон, затем добавьте приправы и бульон.",
+        "*Местная кухня префектуры Айти.",
+        "*<Как есть> Разложите первую порцию по тарелкам и ешьте как есть. На второй прием добавьте любимые приправы и ешьте. Третий прием пищи едят как очазуке с приправами и супом даси."
+      ],
+      "th": [
+        "ล้างข้าวแล้วหุงด้วยน้ำปกติ",
+        "วางคาบายากิบนอลูมิเนียมฟอยล์ โรยสาเก ห่อ อุ่นในกระทะหรือเตาอบเครื่องปิ้งขนมปัง จากนั้นตัดเป็นเส้นกว้าง 1 ซม.",
+        "รวม ``ฮอนดาชิ'' และส่วนผสม A ลงในหม้อแล้วตั้งไฟให้เดือดเพื่อทำซอส",
+        "เทข้าวลงในชาม โรยหน้าด้วยคาบายากิจาก (2) โรยด้วยซอสจาก (3) และตกแต่งด้วยหัวหอมเล็ก วาซาบิบด สาหร่าย และผงซันโช",
+        "ในการทำ Ochazuke ให้ต้ม B เพื่อทำน้ำสต๊อก จากนั้นจึงเติมเครื่องปรุงรสและน้ำสต๊อกลงไป",
+        "*อาหารท้องถิ่นของจังหวัดไอจิ",
+        "*<วิธีรับประทาน> แบ่งเสิร์ฟมื้อแรกใส่ชามแล้วรับประทานตามเดิม สำหรับมื้อที่สอง โรยหน้าด้วยเครื่องปรุงรสที่คุณชื่นชอบแล้วรับประทาน มื้อที่ 3 รับประทานเป็นโอชะซึเกะพร้อมเครื่องปรุงรสและซุปดาชิ"
+      ],
+      "id": [
+        "Cuci beras dan masak dengan air biasa.",
+        "Letakkan kabayaki di atas alumunium foil, taburi sake, bungkus, hangatkan di penggorengan atau oven pemanggang roti, lalu potong-potong selebar 1 cm.",
+        "Campurkan ``Hondashi'' dan bahan A dalam panci dan rebus dengan api besar untuk membuat saus.",
+        "Tuang nasi ke dalam mangkuk, taburi dengan kabayaki dari (2), taburi saus dari (3), dan hiasi dengan bawang bombay kecil, pasta wasabi, rumput laut, dan bubuk zansho.",
+        "Untuk membuat Ochazuke, rebus B untuk membuat kaldu, lalu masukkan bumbu dan kaldu.",
+        "*Masakan lokal Prefektur Aichi",
+        "*<Cara makan> Bagi porsi pertama ke dalam mangkuk dan makan apa adanya. Untuk hidangan kedua, tambahkan bumbu favorit Anda dan makanlah. Makanan ketiga disantap sebagai ochazuke dengan bumbu dan sup dashi."
+      ],
+      "ms": [
+        "Basuh beras dan masak dengan air biasa.",
+        "Letakkan kabayaki di atas kerajang aluminium, taburkan sake, bungkus, panaskan dalam kuali atau ketuhar pembakar roti, dan kemudian potong menjadi jalur lebar 1cm.",
+        "Satukan ``Hondashi'' dan bahan A dalam periuk dan rebus dengan api untuk membuat sos.",
+        "Tuangkan nasi ke dalam mangkuk, atas dengan kabayaki dari (2), taburkan dengan sos dari (3), dan hiaskan dengan bawang kecil, pes wasabi, rumpai laut, dan serbuk zansho.",
+        "Untuk membuat Ochazuke, rebus B untuk membuat stok, kemudian masukkan bahan perasa dan stok.",
+        "*Masakan tempatan Prefektur Aichi",
+        "*<Cara makan> Bahagikan hidangan pertama ke dalam mangkuk dan makan seperti sedia ada. Untuk hidangan kedua, tambahkan dengan perasa kegemaran anda dan makan. Hidangan ketiga dimakan sebagai ochazuke dengan perasa dan sup dashi."
+      ],
+      "ko": [
+        "쌀은 씻어 보통의 물가감으로 끓인다.",
+        "가바야키는 알루미늄 호일에 얹어 술을 싸서 감싸고 프라이팬 또는 오븐 토스터로 따뜻하게 한 후 1cm 폭의 스트립으로 한다.",
+        "냄비에 「혼다시」, A를 맞추어 불에 넣고 삶아, 양념장을 만든다.",
+        "그릇에 밥을 얹어, (2)의 가바야키를 얹고, (3)의 양념장을 뿌리고, 양파, 반죽 와사비, 전나무, 가루자루를 곁들인다.",
+        "오차즈케로 하는 경우는 B를 끓여서 국물을 만들어 양념과 국물을 뿌린다.",
+        "＊아이치현의 향토 요리",
+        "＊＜먹는 방법＞일선은, 찻잔으로 떼어내, 그대로 먹는다. 두번째는 좋아하는 양념을 얹어 먹는다. 미츠케메는 양념과 국물을 뿌리고 차에 절임으로 먹는다."
+      ]
+    }
   }
 ]

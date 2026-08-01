@@ -318375,5 +318375,1660 @@
         "우유 팩으로 간단! 홍백 모자이크 스시"
       ]
     }
+  },
+  {
+    "id": "6ea78ab5",
+    "source_url": "https://www.mizkan.co.jp/ouchirecipe/recipe/?menu_id=23974",
+    "source_site": "Mizkan",
+    "title_ja": "「味ぽん」で！みたらし団子どら焼き",
+    "description_ja": "",
+    "ingredients": [
+      {
+        "name_ja": "ホットケーキミックス",
+        "amount": "１５０ｇ",
+        "name_translated": {
+          "en": "pancake mix",
+          "zh_tw": "煎餅粉",
+          "zh_cn": "煎饼粉",
+          "vi": "hỗn hợp bánh xèo",
+          "hi": "पैनकेक मिश्रण",
+          "ru": "смесь для блинов",
+          "th": "ผสมแพนเค้ก",
+          "id": "campuran pancake",
+          "ms": "campuran pancake",
+          "ko": "뜨거운 케이크 믹스"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9B%E3%83%83%E3%83%88%E3%82%B1%E3%83%BC%E3%82%AD%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9B%E3%83%83%E3%83%88%E3%82%B1%E3%83%BC%E3%82%AD%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9/?tag="
+      },
+      {
+        "name_ja": "卵",
+        "amount": "１個",
+        "name_translated": {
+          "en": "egg",
+          "zh_tw": "蛋",
+          "zh_cn": "蛋",
+          "vi": "trứng",
+          "hi": "अंडा",
+          "ru": "яйцо",
+          "th": "ไข่",
+          "id": "telur",
+          "ms": "telur",
+          "ko": "계란"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E5%8D%B5&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E5%8D%B5/?tag="
+      },
+      {
+        "name_ja": "牛乳",
+        "amount": "５０ｍｌ",
+        "name_translated": {
+          "en": "milk",
+          "zh_tw": "牛奶",
+          "zh_cn": "牛奶",
+          "vi": "sữa",
+          "hi": "दूध",
+          "ru": "молоко",
+          "th": "น้ำนม",
+          "id": "susu",
+          "ms": "susu",
+          "ko": "우유"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E7%89%9B%E4%B9%B3&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E7%89%9B%E4%B9%B3/?tag="
+      },
+      {
+        "name_ja": "はちみつ",
+        "amount": "大さじ１",
+        "name_translated": {
+          "en": "honey",
+          "zh_tw": "蜂蜜",
+          "zh_cn": "蜂蜜",
+          "vi": "Mật ong",
+          "hi": "शहद",
+          "ru": "мед",
+          "th": "น้ำผึ้ง",
+          "id": "Sayang",
+          "ms": "sayang",
+          "ko": "꿀"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%AF%E3%81%A1%E3%81%BF%E3%81%A4&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%AF%E3%81%A1%E3%81%BF%E3%81%A4/?tag="
+      },
+      {
+        "name_ja": "みりん",
+        "amount": "大さじ１",
+        "name_translated": {
+          "en": "Mirin",
+          "zh_tw": "味醂",
+          "zh_cn": "味醂",
+          "vi": "Mirin",
+          "hi": "मिरिन",
+          "ru": "Мирин",
+          "th": "มิริน",
+          "id": "Mirin",
+          "ms": "Mirin",
+          "ko": "미린"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%BF%E3%82%8A%E3%82%93&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%BF%E3%82%8A%E3%82%93/?tag="
+      },
+      {
+        "name_ja": "サラダ油",
+        "amount": "大さじ１",
+        "name_translated": {
+          "en": "salad oil",
+          "zh_tw": "沙拉油",
+          "zh_cn": "色拉油",
+          "vi": "dầu trộn salad",
+          "hi": "वनस्पति - तेल",
+          "ru": "салатное масло",
+          "th": "น้ำมันสลัด",
+          "id": "minyak salad",
+          "ms": "minyak salad",
+          "ko": "샐러드 오일"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%82%B5%E3%83%A9%E3%83%80%E6%B2%B9&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%82%B5%E3%83%A9%E3%83%80%E6%B2%B9/?tag="
+      },
+      {
+        "name_ja": "ミツカン　味ぽん",
+        "amount": "大さじ２",
+        "name_translated": {
+          "en": "Mizkan Ajipon",
+          "zh_tw": "味滋康味精",
+          "zh_cn": "味滋康味精",
+          "vi": "Mizkan Ajipon",
+          "hi": "मिज़कान अजिपोन",
+          "ru": "Мизкан Аджипон",
+          "th": "มิซกัน อาจิปอน",
+          "id": "Mizkan Ajipon",
+          "ms": "Mizkan Ajipon",
+          "ko": "미츠칸 미폰"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E5%91%B3%E3%81%BD%E3%82%93&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E5%91%B3%E3%81%BD%E3%82%93/?tag="
+      },
+      {
+        "name_ja": "砂糖",
+        "amount": "大さじ２",
+        "name_translated": {
+          "en": "sugar",
+          "zh_tw": "糖",
+          "zh_cn": "糖",
+          "vi": "đường",
+          "hi": "चीनी",
+          "ru": "сахар",
+          "th": "น้ำตาล",
+          "id": "gula",
+          "ms": "gula",
+          "ko": "설탕"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E7%A0%82%E7%B3%96&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E7%A0%82%E7%B3%96/?tag="
+      },
+      {
+        "name_ja": "片栗粉",
+        "amount": "小さじ１",
+        "name_translated": {
+          "en": "potato starch",
+          "zh_tw": "馬鈴薯澱粉",
+          "zh_cn": "马铃薯淀粉",
+          "vi": "tinh bột khoai tây",
+          "hi": "आलू स्टार्च",
+          "ru": "картофельный крахмал",
+          "th": "แป้งมันฝรั่ง",
+          "id": "tepung kentang",
+          "ms": "kanji kentang",
+          "ko": "가문 가루"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E7%89%87%E6%A0%97%E7%B2%89&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E7%89%87%E6%A0%97%E7%B2%89/?tag="
+      },
+      {
+        "name_ja": "水",
+        "amount": "小さじ２",
+        "name_translated": {
+          "en": "water",
+          "zh_tw": "水",
+          "zh_cn": "水",
+          "vi": "Nước",
+          "hi": "पानी",
+          "ru": "вода",
+          "th": "น้ำ",
+          "id": "air",
+          "ms": "air",
+          "ko": "물"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E6%B0%B4&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E6%B0%B4/?tag="
+      },
+      {
+        "name_ja": "白玉だんご",
+        "amount": "８個",
+        "name_translated": {
+          "en": "Shiratama dango",
+          "zh_tw": "白玉團子",
+          "zh_cn": "白玉团子",
+          "vi": "Shiratama dango",
+          "hi": "शिरतामा डांगो",
+          "ru": "Сиратама данго",
+          "th": "ชิราทามะ ดังโงะ",
+          "id": "Shiratama dango",
+          "ms": "Shiratama dango",
+          "ko": "하얀 구슬 단고"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E7%99%BD%E7%8E%89%E3%81%A0%E3%82%93%E3%81%94&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E7%99%BD%E7%8E%89%E3%81%A0%E3%82%93%E3%81%94/?tag="
+      },
+      {
+        "name_ja": "１",
+        "amount": "ボウルに卵と牛乳を入れ、しっかり混ぜたら、ホッケーキミックス、はちみつ、みりんを入れ、全体を混ぜ合わせる。",
+        "name_translated": {
+          "en": "1",
+          "zh_tw": "1",
+          "zh_cn": "1",
+          "vi": "1",
+          "hi": "1",
+          "ru": "1",
+          "th": "1",
+          "id": "1",
+          "ms": "1",
+          "ko": "1"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%91&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%91/?tag="
+      },
+      {
+        "name_ja": "２",
+        "amount": "の生地を流し入れる(直径８ｃｍ目安)。プツプツと小さな泡がでたらひっくり返し、火が通るまで焼く。",
+        "name_translated": {
+          "en": "2",
+          "zh_tw": "2",
+          "zh_cn": "2",
+          "vi": "2",
+          "hi": "2",
+          "ru": "2",
+          "th": "2",
+          "id": "2",
+          "ms": "2",
+          "ko": "2"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%92&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%92/?tag="
+      },
+      {
+        "name_ja": "４",
+        "amount": "耐熱容器に＜A＞を入れて混ぜ合わせ、電子レンジ（６００W）で１分ほど加熱し、みたらしあんを作る。ゆでた白玉だんごを絡める。",
+        "name_translated": {
+          "en": "4",
+          "zh_tw": "4",
+          "zh_cn": "4",
+          "vi": "4",
+          "hi": "4",
+          "ru": "4",
+          "th": "4",
+          "id": "4",
+          "ms": "4",
+          "ko": "4"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%94&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%94/?tag="
+      },
+      {
+        "name_ja": "５",
+        "amount": "のみたらし団子をはさむ。",
+        "name_translated": {
+          "en": "5",
+          "zh_tw": "5",
+          "zh_cn": "5",
+          "vi": "5",
+          "hi": "5",
+          "ru": "5",
+          "th": "5",
+          "id": "5",
+          "ms": "5",
+          "ko": "5"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%95&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%95/?tag="
+      }
+    ],
+    "steps_ja": [
+      "ボウルに卵と牛乳を入れ、しっかり混ぜたら、ホッケーキミックス、はちみつ、みりんを入れ、全体を混ぜ合わせる。",
+      "フライパンにサラダ油を入れ、弱火で熱し、１の生地を流し入れる(直径８ｃｍ目安)。プツプツと小さな泡がでたらひっくり返し、火が通るまで焼く。",
+      "耐熱容器に＜A＞を入れて混ぜ合わせ、電子レンジ（６００W）で１分ほど加熱し、みたらしあんを作る。ゆでた白玉だんごを絡める。",
+      "のどら焼きの生地に４のみたらし団子をはさむ。"
+    ],
+    "image_url": "",
+    "title": {
+      "en": "At “Ajipon”! Mitarashi dango dorayaki",
+      "zh_tw": "在“Ajipon”！禦手洗團子銅鑼燒",
+      "zh_cn": "在“Ajipon”！御手洗团子铜锣烧",
+      "vi": "Tại “Ajipon”! Mitarashi dango dorayaki",
+      "hi": "\"अजिपोन\" पर! मितरशी डांगो दोरायाकी",
+      "ru": "В «Аджипоне»! Митараси данго дораяки",
+      "th": "ที่ “อาจิพร”! มิทาราชิ ดังโงะ โดรายากิ",
+      "id": "Di “Ajipon”! Mitarashi dango dorayaki",
+      "ms": "Di \"Ajipon\"! Mitarashi dango dorayaki",
+      "ko": "「아이폰」으로! 미타라시 만두 도라야키"
+    },
+    "description": {
+      "en": "",
+      "zh_tw": "",
+      "zh_cn": "",
+      "vi": "",
+      "hi": "",
+      "ru": "",
+      "th": "",
+      "id": "",
+      "ms": "",
+      "ko": ""
+    },
+    "steps": {
+      "en": [
+        "Put eggs and milk in a bowl and mix well. Add Hockey Mix, honey, and mirin and mix everything together.",
+        "Pour vegetable oil into a frying pan, heat over low heat, and pour in the batter from step 1 (approximately 8cm in diameter). When small bubbles appear, turn over and cook until cooked through.",
+        "Mix <A> in a heat-resistant container, heat in the microwave (600W) for about 1 minute, and make mitarashi-an. Stir in the boiled shiratama dango.",
+        "Sandwich the mitarashi dango from Step 4 into the Nodorayaki dough."
+      ],
+      "zh_tw": [
+        "將雞蛋和牛奶放入碗中，攪拌均勻。加入曲棍球粉、蜂蜜和味醂，然後將所有東西混合在一起。",
+        "煎鍋中倒入植物油，小火加熱，倒入步驟1的麵糊（直徑約8公分）。当出现小气泡时，翻面煮至熟透。",
+        "將<A>放入耐熱容器中混合，以微波爐（600W）加熱約1分鐘，製成御手洗庵。加入煮好的白玉團攪拌。",
+        "將步驟 4 中的御手洗團子夾入 Nodorayaki 麵團中。"
+      ],
+      "zh_cn": [
+        "将鸡蛋和牛奶放入碗中，搅拌均匀。加入曲棍球粉、蜂蜜和味醂，然后将所有东西混合在一起。",
+        "煎锅中倒入植物油，小火加热，倒入步骤1的面糊（直径约8厘米）。当出现小气泡时，翻面煮至熟透。",
+        "将<A>放入耐热容器中混合，用微波炉（600W）加热约1分钟，制成御手洗庵。加入煮好的白玉团子搅拌。",
+        "将步骤 4 中的御手洗团子夹入 Nodorayaki 面团中。"
+      ],
+      "vi": [
+        "Cho trứng và sữa vào tô và trộn đều. Thêm Hỗn hợp khúc côn cầu, mật ong và rượu mirin rồi trộn mọi thứ lại với nhau.",
+        "Đổ dầu thực vật vào chảo, đun trên lửa nhỏ rồi đổ bột vào như bước 1 (đường kính khoảng 8cm). Khi bong bóng nhỏ xuất hiện, lật lại và nấu cho đến khi chín.",
+        "Trộn <A> trong hộp chịu nhiệt, đun nóng trong lò vi sóng (600W) trong khoảng 1 phút và làm mitarashi-an. Khuấy dango shiratama luộc.",
+        "Kẹp mitarashi dango từ Bước 4 vào bột Nodorayaki."
+      ],
+      "hi": [
+        "- एक बाउल में अंडे और दूध डालकर अच्छी तरह मिला लें. हॉकी मिक्स, शहद और मिरिन डालें और सब कुछ एक साथ मिलाएँ।",
+        "एक फ्राइंग पैन में वनस्पति तेल डालें, धीमी आंच पर गर्म करें और चरण 1 (लगभग 8 सेमी व्यास) से बैटर डालें। जब छोटे बुलबुले दिखाई दें, तो पलट दें और पकने तक पकाएं।",
+        "<A> को गर्मी प्रतिरोधी कंटेनर में मिलाएं, माइक्रोवेव में (600W) लगभग 1 मिनट तक गर्म करें, और मितरशी-एन बनाएं। उबले हुए शिरतामा डेंगो को मिलाएँ।",
+        "चरण 4 से मितराशी डेंगो को नोडोरयाकी आटे में सैंडविच करें।"
+      ],
+      "ru": [
+        "Положите яйца и молоко в миску и хорошо перемешайте. Добавьте Hockey Mix, мед и мирин и все перемешайте.",
+        "На сковороду налейте растительное масло, нагрейте на слабом огне и влейте тесто из шага 1 (диаметр примерно 8 см). Когда появятся маленькие пузырьки, переверните и готовьте до готовности.",
+        "Смешайте <A> в термостойком контейнере, нагрейте в микроволновой печи (600 Вт) около 1 минуты и приготовьте митараси-ан. Добавьте отварное ширатама данго.",
+        "Поместите митараси данго из шага 4 в тесто Нодораяки."
+      ],
+      "th": [
+        "ใส่ไข่และนมลงในชามแล้วผสมให้เข้ากัน เติมฮ็อกกี้มิกซ์ น้ำผึ้ง และมิริน แล้วผสมทุกอย่างให้เข้ากัน",
+        "เทน้ำมันพืชลงในกระทะ ตั้งไฟอ่อน แล้วเทแป้งตั้งแต่ขั้นตอนที่ 1 (เส้นผ่านศูนย์กลางประมาณ 8 ซม.) เมื่อฟองเล็กๆ ปรากฏขึ้น ให้พลิกกลับด้านแล้วปรุงจนสุกทั่ว",
+        "ผสม <A> ในภาชนะทนความร้อน นำไปให้ความร้อนในไมโครเวฟ (600W) ประมาณ 1 นาที แล้วทำมิทาราชิ-อัง ใส่ชิราทามะดังโงะที่ต้มไว้ลงไป",
+        "แซนด์วิชมิทาราชิดังโงะจากขั้นตอนที่ 4 ลงในแป้งโนโดรายากิ"
+      ],
+      "id": [
+        "Masukkan telur dan susu ke dalam mangkuk dan aduk rata. Tambahkan Campuran Hoki, madu, dan mirin, lalu campur semuanya.",
+        "Tuang minyak sayur ke dalam wajan, panaskan dengan api kecil, lalu tuang adonan dari langkah 1 (diameter kurang lebih 8cm). Jika muncul gelembung-gelembung kecil, balikkan dan masak hingga matang.",
+        "Campur <A> dalam wadah tahan panas, panaskan dalam microwave (600W) selama kurang lebih 1 menit, dan buat mitarashi-an. Masukkan shiratama dango yang sudah direbus.",
+        "Masukkan dango mitarashi dari Langkah 4 ke dalam adonan Nodorayaki."
+      ],
+      "ms": [
+        "Masukkan telur dan susu ke dalam mangkuk dan gaul rata. Tambah Campuran Hoki, madu, dan mirin dan campurkan semuanya bersama-sama.",
+        "Tuangkan minyak sayuran ke dalam kuali, panaskan dengan api perlahan, dan tuangkan adunan dari langkah 1 (diameter kira-kira 8cm). Apabila buih kecil muncul, balikkan dan masak sehingga masak.",
+        "Campurkan <A> dalam bekas tahan panas, panaskan dalam ketuhar gelombang mikro (600W) selama kira-kira 1 minit, dan buat mitarashi-an. Masukkan shiratama dango yang telah direbus tadi.",
+        "Sandwic mitarashi dango dari Langkah 4 ke dalam adunan Nodorayaki."
+      ],
+      "ko": [
+        "그릇에 계란과 우유를 넣고 잘 섞으면 하키 믹스, 꿀, 미림을 넣고 전체를 섞는다.",
+        "프라이팬에 샐러드 오일을 넣고 약한 불로 가열하고 1의 반죽을 흘려 넣는다 (직경 8cm 기준). 뿌쯔뿌쯔와 작은 거품이 나오면 뒤집어 불이 지날 때까지 굽는다.",
+        "내열 용기에 <A>를 넣고 혼합하고, 전자 레인지(600W)로 1분 정도 가열하여 미타라시안을 만든다. 삶은 흰 구슬 단고를 얽는다.",
+        "노도라야키 반죽에 4만두어 경단을 끼운다."
+      ]
+    }
+  },
+  {
+    "id": "6c6b472f",
+    "source_url": "https://www.mizkan.co.jp/ouchirecipe/recipe/?menu_id=23664",
+    "source_site": "Mizkan",
+    "title_ja": "牛丼のおろし「味ぽん」",
+    "description_ja": "",
+    "ingredients": [
+      {
+        "name_ja": "ご飯",
+        "amount": "丼２杯分",
+        "name_translated": {
+          "en": "cooked rice",
+          "zh_tw": "乾飯",
+          "zh_cn": "干饭",
+          "vi": "cơm chín",
+          "hi": "पका हुआ चावल",
+          "ru": "приготовленный рис",
+          "th": "ข้าวสวย",
+          "id": "nasi",
+          "ms": "nasi masak",
+          "ko": "밥"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%94%E9%A3%AF&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%94%E9%A3%AF/?tag="
+      },
+      {
+        "name_ja": "牛バラ肉　薄切り",
+        "amount": "２００ｇ",
+        "name_translated": {
+          "en": "Thinly sliced ​​beef belly",
+          "zh_tw": "牛肚切成薄片",
+          "zh_cn": "牛肚切成薄片",
+          "vi": "Bụng bò thái mỏng",
+          "hi": "पतला कटा हुआ गोमांस पेट",
+          "ru": "Тонко нарезанная говяжья грудинка",
+          "th": "เนื้อท้องหั่นบางๆ",
+          "id": "Perut sapi diiris tipis",
+          "ms": "Perut lembu dihiris nipis",
+          "ko": "소 장미 고기 얇게 썬다"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E7%89%9B%E3%83%90%E3%83%A9%E8%82%89%E3%80%80%E8%96%84%E5%88%87%E3%82%8A&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E7%89%9B%E3%83%90%E3%83%A9%E8%82%89%E3%80%80%E8%96%84%E5%88%87%E3%82%8A/?tag="
+      },
+      {
+        "name_ja": "たまねぎ",
+        "amount": "１／２個",
+        "name_translated": {
+          "en": "onion",
+          "zh_tw": "洋蔥",
+          "zh_cn": "洋葱",
+          "vi": "củ hành",
+          "hi": "प्याज",
+          "ru": "лук",
+          "th": "หัวหอม",
+          "id": "bawang bombai",
+          "ms": "bawang besar",
+          "ko": "양파"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%9F%E3%81%BE%E3%81%AD%E3%81%8E&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%9F%E3%81%BE%E3%81%AD%E3%81%8E/?tag="
+      },
+      {
+        "name_ja": "ミツカン　追いがつおつゆ２倍",
+        "amount": "大さじ６",
+        "name_translated": {
+          "en": "Mizkan Oigatsu Otsuyu x2",
+          "zh_tw": "味滋館大月大津 x2",
+          "zh_cn": "味滋馆大月大津 x2",
+          "vi": "Mizkan Oigatsu Otsuyu x2",
+          "hi": "मिज़कान ओइगात्सु ओत्सुयु x2",
+          "ru": "Мизкан Ойгацу Оцую x2",
+          "th": "มิซคัง โออิงัตสึ โอทสึยุ x2",
+          "id": "Mizkan Oigatsu Otsuyu x2",
+          "ms": "Mizkan Oigatsu Otsuyu x2",
+          "ko": "미츠칸 쫓는 츠츠유 2 배"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E8%BF%BD%E3%81%84%E3%81%8C%E3%81%A4%E3%81%8A%E3%81%A4%E3%82%86%EF%BC%92%E5%80%8D&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E8%BF%BD%E3%81%84%E3%81%8C%E3%81%A4%E3%81%8A%E3%81%A4%E3%82%86%EF%BC%92%E5%80%8D/?tag="
+      },
+      {
+        "name_ja": "水",
+        "amount": "７０ｍｌ",
+        "name_translated": {
+          "en": "water",
+          "zh_tw": "水",
+          "zh_cn": "水",
+          "vi": "Nước",
+          "hi": "पानी",
+          "ru": "вода",
+          "th": "น้ำ",
+          "id": "air",
+          "ms": "air",
+          "ko": "물"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E6%B0%B4&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E6%B0%B4/?tag="
+      },
+      {
+        "name_ja": "大根おろし",
+        "amount": "適量",
+        "name_translated": {
+          "en": "Grated radish",
+          "zh_tw": "蘿蔔絲",
+          "zh_cn": "萝卜丝",
+          "vi": "củ cải bào",
+          "hi": "कसा हुआ मूली",
+          "ru": "Тертая редька",
+          "th": "หัวไชเท้าขูด",
+          "id": "lobak parut",
+          "ms": "Lobak parut",
+          "ko": "무강"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E5%A4%A7%E6%A0%B9%E3%81%8A%E3%82%8D%E3%81%97&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E5%A4%A7%E6%A0%B9%E3%81%8A%E3%82%8D%E3%81%97/?tag="
+      },
+      {
+        "name_ja": "ミツカン　味ぽん",
+        "amount": "適量",
+        "name_translated": {
+          "en": "Mizkan Ajipon",
+          "zh_tw": "味滋康味精",
+          "zh_cn": "味滋康味精",
+          "vi": "Mizkan Ajipon",
+          "hi": "मिज़कान अजिपोन",
+          "ru": "Мизкан Аджипон",
+          "th": "มิซกัน อาจิปอน",
+          "id": "Mizkan Ajipon",
+          "ms": "Mizkan Ajipon",
+          "ko": "미츠칸 미폰"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E5%91%B3%E3%81%BD%E3%82%93&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E5%91%B3%E3%81%BD%E3%82%93/?tag="
+      },
+      {
+        "name_ja": "１",
+        "amount": "にする。",
+        "name_translated": {
+          "en": "1",
+          "zh_tw": "1",
+          "zh_cn": "1",
+          "vi": "1",
+          "hi": "1",
+          "ru": "1",
+          "th": "1",
+          "id": "1",
+          "ms": "1",
+          "ko": "1"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%91&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%91/?tag="
+      },
+      {
+        "name_ja": "２",
+        "amount": "を加え、火が通り全体に味がなじむまで煮る。",
+        "name_translated": {
+          "en": "2",
+          "zh_tw": "2",
+          "zh_cn": "2",
+          "vi": "2",
+          "hi": "2",
+          "ru": "2",
+          "th": "2",
+          "id": "2",
+          "ms": "2",
+          "ko": "2"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%92&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%92/?tag="
+      },
+      {
+        "name_ja": "３",
+        "amount": "をのせ、大根おろしを添え、その上に「味ぽん」をかける。",
+        "name_translated": {
+          "en": "3",
+          "zh_tw": "3",
+          "zh_cn": "3",
+          "vi": "3",
+          "hi": "3",
+          "ru": "3",
+          "th": "3",
+          "id": "3",
+          "ms": "3",
+          "ko": "3"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%93&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%93/?tag="
+      }
+    ],
+    "steps_ja": [
+      "たまねぎを薄切りにする。",
+      "鍋に「追いがつおつゆ２倍」、水けを入れて煮立たせ、１を入れて強めの中火で煮る。たまねぎが透き通ったら、牛バラ肉薄切りを加え、火が通り全体に味がなじむまで煮る。",
+      "ご飯の上に２をのせ、大根おろしを添え、その上に「味ぽん」をかける。"
+    ],
+    "image_url": "",
+    "title": {
+      "en": "Grated beef bowl “Ajipon”",
+      "zh_tw": "牛肉碎蓋飯“Ajipon”",
+      "zh_cn": "牛肉碎盖饭“Ajipon”",
+      "vi": "Bát thịt bò bào “Ajipon”",
+      "hi": "कसा हुआ बीफ़ कटोरा \"अजिपोन\"",
+      "ru": "Чаша из тертой говядины «Аджипон»",
+      "th": "ชามเนื้อขูด “อาจิปง”",
+      "id": "Mangkuk daging sapi parut “Ajipon”",
+      "ms": "Mangkuk daging lembu parut \"Ajipon\"",
+      "ko": "쇠고기 덮밥의 내림 「아이폰」"
+    },
+    "description": {
+      "en": "",
+      "zh_tw": "",
+      "zh_cn": "",
+      "vi": "",
+      "hi": "",
+      "ru": "",
+      "th": "",
+      "id": "",
+      "ms": "",
+      "ko": ""
+    },
+    "steps": {
+      "en": [
+        "Cut the onion into thin slices.",
+        "In a pot, add ``Oigatsuotsuyu x2'' and water, bring to a boil, then add 1 and simmer over medium-high heat. When the onions are translucent, add the thinly sliced ​​beef ribs and simmer until the onions are cooked through and the flavor is absorbed.",
+        "Place 2 on top of the rice, add grated daikon radish, and sprinkle ``Ajipon'' on top."
+      ],
+      "zh_tw": [
+        "將洋蔥切成薄片。",
+        "在鍋中加入「Oigatsuotsuyu x2」和水，煮沸，然後加入1，用中火煮。當洋蔥呈現半透明狀時，加入切成薄片的牛肋骨，小火煮至洋蔥熟透，味道被吸收。",
+        "將2個放在米飯上，加入磨碎的蘿蔔，並在上面撒上「Ajipon」。"
+      ],
+      "zh_cn": [
+        "将洋葱切成薄片。",
+        "在锅中加入“Oigatsuotsuyu x2”和水，煮沸，然后加入1，用中火煮。当洋葱呈半透明状时，加入切成薄片的牛肋骨，小火煮至洋葱熟透，味道被吸收。",
+        "将2个放在米饭上，加入磨碎的萝卜，并在上面撒上“Ajipon”。"
+      ],
+      "vi": [
+        "Cắt hành tây thành lát mỏng.",
+        "Cho ``Oigatsuotsuyu x2'' vào nồi và nước, đun sôi, sau đó thêm 1 và đun trên lửa vừa cao. Khi hành tây đã trong màu trong thì cho sườn bò thái mỏng vào đun nhỏ lửa cho đến khi hành chín và ngấm gia vị.",
+        "Đặt 2 miếng lên trên cơm, thêm củ cải daikon bào sợi và rắc ``Ajipon'' lên trên."
+      ],
+      "hi": [
+        "प्याज को पतले-पतले टुकड़ों में काट लें.",
+        "एक बर्तन में, ``Oigatsuotsuyu x2'' और पानी डालें, उबाल लें, फिर 1 डालें और मध्यम-उच्च गर्मी पर उबाल लें। जब प्याज पारदर्शी हो जाए, तो पतली कटी हुई बीफ़ पसलियों को डालें और तब तक उबालें जब तक कि प्याज पक न जाए और स्वाद अवशोषित न हो जाए।",
+        "चावल के ऊपर 2 रखें, कद्दूकस की हुई डेकोन मूली डालें और ऊपर ``अजिपोन'' छिड़कें।"
+      ],
+      "ru": [
+        "Лук нарезаем тонкими ломтиками.",
+        "В кастрюлю добавьте «Oigatsuotsuyu x2» и воду, доведите до кипения, затем добавьте 1 и варите на среднем или сильном огне. Когда лук станет полупрозрачным, добавьте тонко нарезанные говяжьи ребрышки и тушите, пока лук не будет готов и аромат не впитается.",
+        "Положите 2 штуки поверх риса, добавьте тертую редьку дайкон и посыпьте сверху «Аджипоном»."
+      ],
+      "th": [
+        "หั่นหัวหอมเป็นชิ้นบาง ๆ",
+        "ในหม้อ ใส่ ``Oigatsuotsuyu x2'' และน้ำ นำไปต้ม จากนั้นเติม 1 และเคี่ยวบนไฟร้อนปานกลาง เมื่อหัวหอมโปร่งแสง ให้ใส่ซี่โครงวัวหั่นบางๆ เคี่ยวจนหัวหอมสุกและรสชาติซึมซาบ",
+        "วาง 2 ชิ้นไว้บนข้าว ใส่หัวไชเท้าขูด และโรย ``อาจิปอง'' ไว้ด้านบน"
+      ],
+      "id": [
+        "Potong bawang bombay menjadi irisan tipis.",
+        "Di dalam panci, tambahkan ``Oigatsuotsuyu x2'' dan air, didihkan, lalu tambahkan 1 dan biarkan mendidih dengan api sedang-besar. Jika bawang bombay sudah bening, masukkan iga sapi yang diiris tipis dan masak hingga bawang bombay matang dan bumbu meresap.",
+        "Letakkan 2 di atas nasi, tambahkan parutan lobak daikon, dan taburkan ``Ajipon'' di atasnya."
+      ],
+      "ms": [
+        "Potong bawang menjadi kepingan nipis.",
+        "Dalam periuk, masukkan ``Oigatsuotsuyu x2'' dan air, masak sehingga mendidih, kemudian masukkan 1 dan reneh dengan api sederhana besar. Apabila bawang lut sinar, masukkan tulang rusuk daging yang dihiris nipis dan renehkan sehingga bawang masak dan rasa meresap.",
+        "Letakkan 2 di atas nasi, masukkan lobak daikon parut, dan taburkan ``Ajipon'' di atasnya."
+      ],
+      "ko": [
+        "양파를 얇게 썬다.",
+        "냄비에 '쫓는 츠유 2배', 물기를 넣고 끓여 1을 넣고 강한 중불로 끓인다. 양파가 투명해지면 소 장미 고기 얇게 썬다.",
+        "밥 위에 2를 얹고, 무강을 곁들여, 그 위에 「아이폰」을 뿌린다."
+      ]
+    }
+  },
+  {
+    "id": "281e7047",
+    "source_url": "https://www.mizkan.co.jp/ouchirecipe/recipe/?menu_id=24096",
+    "source_site": "Mizkan",
+    "title_ja": "ワンボウルで！無限納豆ぽんキャベツ",
+    "description_ja": "",
+    "ingredients": [
+      {
+        "name_ja": "せん切りキャベツ",
+        "amount": "１袋（１５０ｇ）",
+        "name_translated": {
+          "en": "shredded cabbage",
+          "zh_tw": "高麗菜絲",
+          "zh_cn": "卷心菜丝",
+          "vi": "bắp cải thái nhỏ",
+          "hi": "कटी हुई पत्तागोभी",
+          "ru": "нашинкованная капуста",
+          "th": "กะหล่ำปลีฝอย",
+          "id": "kubis parut",
+          "ms": "kobis yang dicincang",
+          "ko": "전단 양배추"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%9B%E3%82%93%E5%88%87%E3%82%8A%E3%82%AD%E3%83%A3%E3%83%99%E3%83%84&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%9B%E3%82%93%E5%88%87%E3%82%8A%E3%82%AD%E3%83%A3%E3%83%99%E3%83%84/?tag="
+      },
+      {
+        "name_ja": "サラダチキン",
+        "amount": "１枚（１１０ｇ目安）",
+        "name_translated": {
+          "en": "salad chicken",
+          "zh_tw": "沙拉雞",
+          "zh_cn": "沙拉鸡",
+          "vi": "salad gà",
+          "hi": "सलाद चिकन",
+          "ru": "салат с курицей",
+          "th": "สลัดไก่",
+          "id": "salad ayam",
+          "ms": "salad ayam",
+          "ko": "샐러드 치킨"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%82%B5%E3%83%A9%E3%83%80%E3%83%81%E3%82%AD%E3%83%B3&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%82%B5%E3%83%A9%E3%83%80%E3%83%81%E3%82%AD%E3%83%B3/?tag="
+      },
+      {
+        "name_ja": "ﾐﾂｶﾝ金のつぶ とろっ豆",
+        "amount": "１パック",
+        "name_translated": {
+          "en": "Mitsukan Kin no Tsubu Toro Bean",
+          "zh_tw": "蜜柑金之鴛鴦豆",
+          "zh_cn": "蜜柑金之鸳鸯豆",
+          "vi": "Đậu Mitsukan Kin no Tsubu Toro",
+          "hi": "मित्सुकन किन नो त्सुबू टोरो बीन",
+          "ru": "Мицукан Кин но Цубу Торо Бин",
+          "th": "มิซึคัง คิน โนะ สึบุ โทโร บีน",
+          "id": "Kacang Mitsukan Kin no Tsubu Toro",
+          "ms": "Mitsukan Kin no Tsubu Toro Bean",
+          "ko": "미키 황금 덩굴 토로 콩"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BE%90%EF%BE%82%EF%BD%B6%EF%BE%9D%E9%87%91%E3%81%AE%E3%81%A4%E3%81%B6%20%E3%81%A8%E3%82%8D%E3%81%A3%E8%B1%86&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BE%90%EF%BE%82%EF%BD%B6%EF%BE%9D%E9%87%91%E3%81%AE%E3%81%A4%E3%81%B6%20%E3%81%A8%E3%82%8D%E3%81%A3%E8%B1%86/?tag="
+      },
+      {
+        "name_ja": "ミツカン　味ぽん",
+        "amount": "大さじ２",
+        "name_translated": {
+          "en": "Mizkan Ajipon",
+          "zh_tw": "味滋康味精",
+          "zh_cn": "味滋康味精",
+          "vi": "Mizkan Ajipon",
+          "hi": "मिज़कान अजिपोन",
+          "ru": "Мизкан Аджипон",
+          "th": "มิซกัน อาจิปอน",
+          "id": "Mizkan Ajipon",
+          "ms": "Mizkan Ajipon",
+          "ko": "미츠칸 미폰"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E5%91%B3%E3%81%BD%E3%82%93&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E5%91%B3%E3%81%BD%E3%82%93/?tag="
+      },
+      {
+        "name_ja": "ごま油",
+        "amount": "大さじ１",
+        "name_translated": {
+          "en": "sesame oil",
+          "zh_tw": "香油",
+          "zh_cn": "香油",
+          "vi": "dầu mè",
+          "hi": "तिल का तेल",
+          "ru": "кунжутное масло",
+          "th": "น้ำมันงา",
+          "id": "minyak wijen",
+          "ms": "minyak bijan",
+          "ko": "참기름"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%94%E3%81%BE%E6%B2%B9&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%94%E3%81%BE%E6%B2%B9/?tag="
+      },
+      {
+        "name_ja": "温泉卵",
+        "amount": "１個",
+        "name_translated": {
+          "en": "hot spring eggs",
+          "zh_tw": "溫泉蛋",
+          "zh_cn": "温泉蛋",
+          "vi": "trứng suối nước nóng",
+          "hi": "गर्म पानी के झरने वाले अंडे",
+          "ru": "яйца из горячих источников",
+          "th": "ไข่น้ำพุร้อน",
+          "id": "telur mata air panas",
+          "ms": "telur mata air panas",
+          "ko": "온천 계란"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E6%B8%A9%E6%B3%89%E5%8D%B5&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E6%B8%A9%E6%B3%89%E5%8D%B5/?tag="
+      },
+      {
+        "name_ja": "１",
+        "amount": "納豆は添付のタレを混ぜる。",
+        "name_translated": {
+          "en": "1",
+          "zh_tw": "1",
+          "zh_cn": "1",
+          "vi": "1",
+          "hi": "1",
+          "ru": "1",
+          "th": "1",
+          "id": "1",
+          "ms": "1",
+          "ko": "1"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%91&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%91/?tag="
+      },
+      {
+        "name_ja": "２",
+        "amount": "キャベツを入れ、手で割いたサラダチキンと納豆をのせる。「味ぽん」とごま油を加えてよく混ぜる。",
+        "name_translated": {
+          "en": "2",
+          "zh_tw": "2",
+          "zh_cn": "2",
+          "vi": "2",
+          "hi": "2",
+          "ru": "2",
+          "th": "2",
+          "id": "2",
+          "ms": "2",
+          "ko": "2"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%92&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%92/?tag="
+      },
+      {
+        "name_ja": "３",
+        "amount": "中央に温泉卵をのせる。",
+        "name_translated": {
+          "en": "3",
+          "zh_tw": "3",
+          "zh_cn": "3",
+          "vi": "3",
+          "hi": "3",
+          "ru": "3",
+          "th": "3",
+          "id": "3",
+          "ms": "3",
+          "ko": "3"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%93&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%93/?tag="
+      }
+    ],
+    "steps_ja": [
+      "納豆は添付のタレを混ぜる。",
+      "ボウルにせん切りキャベツを入れ、手で割いたサラダチキンと納豆をのせる。「味ぽん」とごま油を加えてよく混ぜる。",
+      "中央に温泉卵をのせる。"
+    ],
+    "image_url": "",
+    "title": {
+      "en": "In one bowl! Mugen natto pon cabbage",
+      "zh_tw": "在一個碗裡！ Mugen 納豆 高麗菜",
+      "zh_cn": "在一个碗里！ Mugen 纳豆 卷心菜",
+      "vi": "Trong một cái bát! Mugen natto pon bắp cải",
+      "hi": "एक कटोरे में! मुगेन नट्टो पोन गोभी",
+      "ru": "В одной миске! Муген натто пон капуста",
+      "th": "ในชามเดียว! มูเกนนัตโตะปอนกะหล่ำปลี",
+      "id": "Dalam satu mangkuk! Mugen natto pon kubis",
+      "ms": "Dalam satu mangkuk! Mugen natto pon kobis",
+      "ko": "한 그릇에! 무한 낫토 폰 양배추"
+    },
+    "description": {
+      "en": "",
+      "zh_tw": "",
+      "zh_cn": "",
+      "vi": "",
+      "hi": "",
+      "ru": "",
+      "th": "",
+      "id": "",
+      "ms": "",
+      "ko": ""
+    },
+    "steps": {
+      "en": [
+        "Mix the natto with the included sauce.",
+        "Put the shredded cabbage in a bowl and top with the hand-sliced ​​salad chicken and natto. Add ``Ajipon'' and sesame oil and mix well.",
+        "Place the hot spring egg in the center."
+      ],
+      "zh_tw": [
+        "將納豆與附贈的醬汁混合。",
+        "将切碎的卷心菜放入碗中，上面放上手切的沙拉鸡肉和纳豆。加入「Ajipon」和芝麻油，攪拌均勻。",
+        "將溫泉蛋放在中間。"
+      ],
+      "zh_cn": [
+        "将纳豆与附带的酱汁混合。",
+        "将切碎的卷心菜放入碗中，上面放上手切的沙拉鸡肉和纳豆。加入“Ajipon”和芝麻油，搅拌均匀。",
+        "将温泉蛋放在中间。"
+      ],
+      "vi": [
+        "Trộn natto với nước sốt đi kèm.",
+        "Cho bắp cải thái nhỏ vào tô rồi đặt gà salad và natto cắt lát bằng tay lên trên. Thêm ``Ajipon'' và dầu mè vào rồi trộn đều.",
+        "Đặt trứng suối nước nóng vào giữa."
+      ],
+      "hi": [
+        "शामिल सॉस के साथ नट्टो मिलाएं।",
+        "कटी हुई पत्तागोभी को एक कटोरे में डालें और ऊपर से हाथ से कटा हुआ सलाद चिकन और नट्टो डालें। ``अजिपोन'' और तिल का तेल डालें और अच्छी तरह मिलाएँ।",
+        "गर्म पानी के झरने वाले अंडे को बीच में रखें।"
+      ],
+      "ru": [
+        "Смешайте натто с прилагаемым соусом.",
+        "Положите нашинкованную капусту в миску и сверху выложите нарезанную вручную салатную курицу и натто. Добавьте «Аджипон» и кунжутное масло и хорошо перемешайте.",
+        "Поместите яйцо из горячего источника в центр."
+      ],
+      "th": [
+        "ผสมนัตโตะกับซอสที่เตรียมไว้",
+        "ใส่กะหล่ำปลีฝอยลงในชามแล้วโรยหน้าด้วยไก่สลัดสไลซ์และนัตโตะ เพิ่ม ``อาจิปอน'' และน้ำมันงา และผสมให้เข้ากัน",
+        "วางไข่ออนเซ็นไว้ตรงกลาง"
+      ],
+      "id": [
+        "Campur natto dengan saus yang disertakan.",
+        "Masukkan kubis yang sudah diparut ke dalam mangkuk dan taburi dengan salad ayam yang diiris tangan dan natto. Tambahkan ``Ajipon'' dan minyak wijen, lalu aduk rata.",
+        "Tempatkan telur mata air panas di tengahnya."
+      ],
+      "ms": [
+        "Campurkan natto dengan sos yang disertakan.",
+        "Masukkan kobis yang dicincang ke dalam mangkuk dan di atasnya dengan ayam salad yang dihiris tangan dan natto. Masukkan ``Ajipon'' dan minyak bijan dan gaul rata.",
+        "Letakkan telur mata air panas di tengah."
+      ],
+      "ko": [
+        "낫토는 첨부 소스를 섞는다.",
+        "그릇에 전단 양배추를 넣고 손으로 나눈 샐러드 치킨과 낫토를 얹는다. \"맛 폰\"과 참기름을 넣고 잘 섞는다.",
+        "중앙에 온천 계란을 얹는다."
+      ]
+    }
+  },
+  {
+    "id": "90e3ab74",
+    "source_url": "https://www.mizkan.co.jp/ouchirecipe/recipe/?menu_id=23392",
+    "source_site": "Mizkan",
+    "title_ja": "フレンチぽんトースト",
+    "description_ja": "",
+    "ingredients": [
+      {
+        "name_ja": "食パン",
+        "amount": "２枚（６枚切）",
+        "name_translated": {
+          "en": "bread",
+          "zh_tw": "麵包",
+          "zh_cn": "面包",
+          "vi": "bánh mỳ",
+          "hi": "रोटी",
+          "ru": "хлеб",
+          "th": "ขนมปัง",
+          "id": "roti",
+          "ms": "roti",
+          "ko": "식빵"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E9%A3%9F%E3%83%91%E3%83%B3&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E9%A3%9F%E3%83%91%E3%83%B3/?tag="
+      },
+      {
+        "name_ja": "牛乳",
+        "amount": "２００ｍｌ",
+        "name_translated": {
+          "en": "milk",
+          "zh_tw": "牛奶",
+          "zh_cn": "牛奶",
+          "vi": "sữa",
+          "hi": "दूध",
+          "ru": "молоко",
+          "th": "น้ำนม",
+          "id": "susu",
+          "ms": "susu",
+          "ko": "우유"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E7%89%9B%E4%B9%B3&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E7%89%9B%E4%B9%B3/?tag="
+      },
+      {
+        "name_ja": "卵",
+        "amount": "１個",
+        "name_translated": {
+          "en": "egg",
+          "zh_tw": "蛋",
+          "zh_cn": "蛋",
+          "vi": "trứng",
+          "hi": "अंडा",
+          "ru": "яйцо",
+          "th": "ไข่",
+          "id": "telur",
+          "ms": "telur",
+          "ko": "계란"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E5%8D%B5&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E5%8D%B5/?tag="
+      },
+      {
+        "name_ja": "ミツカン　味ぽん",
+        "amount": "大さじ２",
+        "name_translated": {
+          "en": "Mizkan Ajipon",
+          "zh_tw": "味滋康味精",
+          "zh_cn": "味滋康味精",
+          "vi": "Mizkan Ajipon",
+          "hi": "मिज़कान अजिपोन",
+          "ru": "Мизкан Аджипон",
+          "th": "มิซกัน อาจิปอน",
+          "id": "Mizkan Ajipon",
+          "ms": "Mizkan Ajipon",
+          "ko": "미츠칸 미폰"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E5%91%B3%E3%81%BD%E3%82%93&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E5%91%B3%E3%81%BD%E3%82%93/?tag="
+      },
+      {
+        "name_ja": "砂糖",
+        "amount": "大さじ２",
+        "name_translated": {
+          "en": "sugar",
+          "zh_tw": "糖",
+          "zh_cn": "糖",
+          "vi": "đường",
+          "hi": "चीनी",
+          "ru": "сахар",
+          "th": "น้ำตาล",
+          "id": "gula",
+          "ms": "gula",
+          "ko": "설탕"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E7%A0%82%E7%B3%96&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E7%A0%82%E7%B3%96/?tag="
+      },
+      {
+        "name_ja": "バター",
+        "amount": "１０ｇ",
+        "name_translated": {
+          "en": "butter",
+          "zh_tw": "奶油",
+          "zh_cn": "黄油",
+          "vi": "bơ",
+          "hi": "मक्खन",
+          "ru": "масло",
+          "th": "เนย",
+          "id": "mentega",
+          "ms": "mentega",
+          "ko": "버터"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%90%E3%82%BF%E3%83%BC&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%90%E3%82%BF%E3%83%BC/?tag="
+      },
+      {
+        "name_ja": "はちみつ",
+        "amount": "お好みで",
+        "name_translated": {
+          "en": "honey",
+          "zh_tw": "蜂蜜",
+          "zh_cn": "蜂蜜",
+          "vi": "Mật ong",
+          "hi": "शहद",
+          "ru": "мед",
+          "th": "น้ำผึ้ง",
+          "id": "Sayang",
+          "ms": "sayang",
+          "ko": "꿀"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%AF%E3%81%A1%E3%81%BF%E3%81%A4&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%AF%E3%81%A1%E3%81%BF%E3%81%A4/?tag="
+      },
+      {
+        "name_ja": "粉砂糖",
+        "amount": "お好みで",
+        "name_translated": {
+          "en": "powdered sugar",
+          "zh_tw": "糖粉",
+          "zh_cn": "糖粉",
+          "vi": "đường bột",
+          "hi": "पिसी हुई चीनी",
+          "ru": "сахарная пудра",
+          "th": "น้ำตาลผง",
+          "id": "gula bubuk",
+          "ms": "gula tepung",
+          "ko": "가루 설탕"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E7%B2%89%E7%A0%82%E7%B3%96&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E7%B2%89%E7%A0%82%E7%B3%96/?tag="
+      },
+      {
+        "name_ja": "１",
+        "amount": "ボウルに牛乳、卵を入れ、混ぜ合わせる。混ざったら、「味ぽん」、砂糖を入れ、さらに混ぜる。卵液に半分に切った食パンを入れ、片面２分、裏返して２分ほど漬け込む。",
+        "name_translated": {
+          "en": "1",
+          "zh_tw": "1",
+          "zh_cn": "1",
+          "vi": "1",
+          "hi": "1",
+          "ru": "1",
+          "th": "1",
+          "id": "1",
+          "ms": "1",
+          "ko": "1"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%91&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%91/?tag="
+      },
+      {
+        "name_ja": "２",
+        "amount": "フライパンにバターを入れ、中火で熱する。［１］を入れ、両面きつね色になるまで焼く。",
+        "name_translated": {
+          "en": "2",
+          "zh_tw": "2",
+          "zh_cn": "2",
+          "vi": "2",
+          "hi": "2",
+          "ru": "2",
+          "th": "2",
+          "id": "2",
+          "ms": "2",
+          "ko": "2"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%92&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%92/?tag="
+      },
+      {
+        "name_ja": "３",
+        "amount": "お好みではちみつ、粉砂糖をかける。",
+        "name_translated": {
+          "en": "3",
+          "zh_tw": "3",
+          "zh_cn": "3",
+          "vi": "3",
+          "hi": "3",
+          "ru": "3",
+          "th": "3",
+          "id": "3",
+          "ms": "3",
+          "ko": "3"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%93&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%93/?tag="
+      },
+      {
+        "name_ja": "納豆ツナマヨトースト",
+        "amount": "適量",
+        "name_translated": {
+          "en": "Natto tuna mayo toast",
+          "zh_tw": "納豆鮪魚蛋黃醬吐司",
+          "zh_cn": "纳豆金枪鱼蛋黄酱吐司",
+          "vi": "Bánh mì nướng sốt mayo cá ngừ Natto",
+          "hi": "नट्टो टूना मेयो टोस्ट",
+          "ru": "Натто тост с тунцом и майонезом",
+          "th": "นัตโตะทูน่ามายองเนสโทสต์",
+          "id": "Roti panggang natto tuna mayo",
+          "ms": "Roti bakar mayo tuna Natto",
+          "ko": "낫토 참치 요스트"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E7%B4%8D%E8%B1%86%E3%83%84%E3%83%8A%E3%83%9E%E3%83%A8%E3%83%88%E3%83%BC%E3%82%B9%E3%83%88&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E7%B4%8D%E8%B1%86%E3%83%84%E3%83%8A%E3%83%9E%E3%83%A8%E3%83%88%E3%83%BC%E3%82%B9%E3%83%88/?tag="
+      },
+      {
+        "name_ja": "ベーコン＆バナナのフレンチトースト",
+        "amount": "適量",
+        "name_translated": {
+          "en": "bacon & banana french toast",
+          "zh_tw": "培根香蕉法式吐司",
+          "zh_cn": "培根香蕉法式吐司",
+          "vi": "bánh mì nướng kiểu pháp thịt xông khói và chuối",
+          "hi": "बेकन और केला फ्रेंच टोस्ट",
+          "ru": "французский тост с беконом и бананом",
+          "th": "เบคอนและกล้วยเฟรนช์โทสต์",
+          "id": "roti panggang prancis bacon & pisang",
+          "ms": "bacon & pisang french toast",
+          "ko": "베이컨 & 바나나 프렌치 토스트"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%99%E3%83%BC%E3%82%B3%E3%83%B3%EF%BC%86%E3%83%90%E3%83%8A%E3%83%8A%E3%81%AE%E3%83%95%E3%83%AC%E3%83%B3%E3%83%81%E3%83%88%E3%83%BC%E3%82%B9%E3%83%88&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%99%E3%83%BC%E3%82%B3%E3%83%B3%EF%BC%86%E3%83%90%E3%83%8A%E3%83%8A%E3%81%AE%E3%83%95%E3%83%AC%E3%83%B3%E3%83%81%E3%83%88%E3%83%BC%E3%82%B9%E3%83%88/?tag="
+      },
+      {
+        "name_ja": "白だしのフレンチトースト",
+        "amount": "適量",
+        "name_translated": {
+          "en": "white french toast",
+          "zh_tw": "白法式吐司",
+          "zh_cn": "白法式吐司",
+          "vi": "bánh mì nướng kiểu Pháp trắng",
+          "hi": "सफ़ेद फ़्रेंच टोस्ट",
+          "ru": "белый французский тост",
+          "th": "ขนมปังฝรั่งเศสสีขาว",
+          "id": "roti panggang Perancis putih",
+          "ms": "roti bakar perancis putih",
+          "ko": "흰 국물 프렌치 토스트"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E7%99%BD%E3%81%A0%E3%81%97%E3%81%AE%E3%83%95%E3%83%AC%E3%83%B3%E3%83%81%E3%83%88%E3%83%BC%E3%82%B9%E3%83%88&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E7%99%BD%E3%81%A0%E3%81%97%E3%81%AE%E3%83%95%E3%83%AC%E3%83%B3%E3%83%81%E3%83%88%E3%83%BC%E3%82%B9%E3%83%88/?tag="
+      }
+    ],
+    "steps_ja": [
+      "ボウルに牛乳、卵を入れ、混ぜ合わせる。混ざったら、「味ぽん」、砂糖を入れ、さらに混ぜる。卵液に半分に切った食パンを入れ、片面２分、裏返して２分ほど漬け込む。",
+      "フライパンにバターを入れ、中火で熱する。［１］を入れ、両面きつね色になるまで焼く。",
+      "お好みではちみつ、粉砂糖をかける。",
+      "納豆ツナマヨトースト",
+      "ベーコン＆バナナのフレンチトースト",
+      "白だしのフレンチトースト"
+    ],
+    "image_url": "",
+    "title": {
+      "en": "french pontoast",
+      "zh_tw": "法國蓬吐司",
+      "zh_cn": "法国蓬吐司",
+      "vi": "bánh mì nướng kiểu Pháp",
+      "hi": "फ़्रेंच पोंटोस्ट",
+      "ru": "французский понтост",
+      "th": "พอนโทสต์ฝรั่งเศส",
+      "id": "pontoast Perancis",
+      "ms": "pontoast perancis",
+      "ko": "프렌치 폰 토스트"
+    },
+    "description": {
+      "en": "",
+      "zh_tw": "",
+      "zh_cn": "",
+      "vi": "",
+      "hi": "",
+      "ru": "",
+      "th": "",
+      "id": "",
+      "ms": "",
+      "ko": ""
+    },
+    "steps": {
+      "en": [
+        "Add milk and eggs to a bowl and mix. Once mixed, add ``Ajipon'' and sugar and mix again. Add the bread halves to the egg mixture and marinate for 2 minutes on one side, then turn over and marinate for 2 minutes.",
+        "Put the butter in a frying pan and heat over medium heat. Add [1] and bake until golden brown on both sides.",
+        "Sprinkle with honey and powdered sugar if desired.",
+        "Natto tuna mayo toast",
+        "bacon & banana french toast",
+        "white french toast"
+      ],
+      "zh_tw": [
+        "將牛奶和雞蛋放入碗中並混合。混合後，加入「Ajipon」和糖，再次混合。將麵包半塊加入雞蛋混合物中，一側醃製 2 分鐘，然後翻面醃製 2 分鐘。",
+        "將奶油放入煎鍋中，以中火加熱。加入[1]並烤至兩面金黃色。",
+        "如果需要的話，撒上蜂蜜和糖粉。",
+        "納豆鮪魚蛋黃醬吐司",
+        "培根香蕉法式吐司",
+        "白法式吐司"
+      ],
+      "zh_cn": [
+        "将牛奶和鸡蛋放入碗中并混合。混合后，加入“Ajipon”和糖，再次混合。将面包半块加入鸡蛋混合物中，一侧腌制 2 分钟，然后翻面腌制 2 分钟。",
+        "将黄油放入煎锅中，用中火加热。添加[1]并烘烤至两面金黄色。",
+        "如果需要的话，撒上蜂蜜和糖粉。",
+        "纳豆金枪鱼蛋黄酱吐司",
+        "培根香蕉法式吐司",
+        "白法式吐司"
+      ],
+      "vi": [
+        "Thêm sữa và trứng vào tô và trộn đều. Sau khi trộn xong, thêm ``Ajipon'' và đường vào rồi trộn lại. Thêm nửa bánh mì vào hỗn hợp trứng và ướp trong 2 phút cho một mặt, sau đó lật lại và ướp trong 2 phút.",
+        "Cho bơ vào chảo rán và đun nóng trên lửa vừa. Thêm [1] và nướng cho đến khi vàng nâu cả hai mặt.",
+        "Rắc mật ong và đường bột nếu muốn.",
+        "Bánh mì nướng sốt mayo cá ngừ Natto",
+        "bánh mì nướng kiểu pháp thịt xông khói và chuối",
+        "bánh mì nướng kiểu Pháp trắng"
+      ],
+      "hi": [
+        "एक बाउल में दूध और अंडे डालें और मिलाएँ। एक बार मिश्रित होने पर, ``अजिपोन'' और चीनी डालें और फिर से मिलाएँ। अंडे के मिश्रण में ब्रेड के आधे हिस्से डालें और एक तरफ 2 मिनट के लिए मैरीनेट करें, फिर पलट दें और 2 मिनट के लिए मैरीनेट करें।",
+        "एक फ्राइंग पैन में मक्खन डालें और मध्यम आंच पर गर्म करें। [1] डालें और दोनों तरफ से सुनहरा भूरा होने तक बेक करें।",
+        "चाहें तो शहद और पिसी चीनी छिड़कें।",
+        "नट्टो टूना मेयो टोस्ट",
+        "बेकन और केला फ्रेंच टोस्ट",
+        "सफ़ेद फ़्रेंच टोस्ट"
+      ],
+      "ru": [
+        "Добавьте молоко и яйца в миску и перемешайте. После смешивания добавьте «Аджипон» и сахар и еще раз перемешайте. Добавьте половинки хлеба в яичную смесь и маринуйте 2 минуты с одной стороны, затем переверните и маринуйте 2 минуты.",
+        "Положите сливочное масло в сковороду и нагрейте на среднем огне. Добавьте [1] и запекайте до золотистого цвета с обеих сторон.",
+        "По желанию посыпьте медом и сахарной пудрой.",
+        "Натто тост с тунцом и майонезом",
+        "французский тост с беконом и бананом",
+        "белый французский тост"
+      ],
+      "th": [
+        "เพิ่มนมและไข่ลงในชามและผสม เมื่อผสมกันแล้ว ให้เติม ``อาจิปอน'' และน้ำตาล แล้วผสมอีกครั้ง เพิ่มขนมปังครึ่งหนึ่งลงในส่วนผสมของไข่และหมักเป็นเวลา 2 นาทีในด้านหนึ่ง จากนั้นพลิกกลับและหมักเป็นเวลา 2 นาที",
+        "ใส่เนยลงในกระทะแล้วตั้งไฟบนไฟร้อนปานกลาง ใส่ [1] และอบจนเป็นสีเหลืองทองทั้งสองด้าน",
+        "โรยด้วยน้ำผึ้งและน้ำตาลผงหากต้องการ",
+        "นัตโตะทูน่ามายองเนสโทสต์",
+        "เบคอนและกล้วยเฟรนช์โทสต์",
+        "ขนมปังฝรั่งเศสสีขาว"
+      ],
+      "id": [
+        "Tambahkan susu dan telur ke dalam mangkuk dan aduk. Setelah tercampur, tambahkan ``Ajipon'' dan gula pasir, lalu aduk kembali. Tambahkan separuh roti ke dalam campuran telur dan rendam selama 2 menit di satu sisi, lalu balikkan dan rendam selama 2 menit.",
+        "Masukkan mentega ke dalam wajan dan panaskan dengan api sedang. Tambahkan [1] dan panggang sampai kedua sisi berwarna coklat keemasan.",
+        "Taburi dengan madu dan gula halus jika diinginkan.",
+        "Roti panggang natto tuna mayo",
+        "roti panggang prancis bacon & pisang",
+        "roti panggang Perancis putih"
+      ],
+      "ms": [
+        "Masukkan susu dan telur ke dalam mangkuk dan gaul. Setelah sebati, masukkan ``Ajipon'' dan gula dan gaul lagi. Masukkan bahagian roti ke dalam adunan telur dan perap selama 2 minit di sebelah, kemudian terbalikkan dan perap selama 2 minit.",
+        "Masukkan mentega ke dalam kuali dan panaskan dengan api sederhana. Tambah [1] dan bakar sehingga perang keemasan di kedua-dua belah.",
+        "Taburkan madu dan gula tepung jika suka.",
+        "Roti bakar mayo tuna Natto",
+        "bacon & pisang french toast",
+        "roti bakar perancis putih"
+      ],
+      "ko": [
+        "그릇에 우유, 계란을 넣고 섞는다. 섞으면 맛을 넣고 설탕을 넣고 섞는다. 달걀액에 반으로 자른 식빵을 넣고 편면 2분, 뒤집어 2분 정도 담근다.",
+        "프라이팬에 버터를 넣고 중불로 가열한다. [1]을 넣고 양면 여우가 될 때까지 굽는다.",
+        "취향에 따라 꿀, 가루 설탕을 뿌린다.",
+        "낫토 참치 요스트",
+        "베이컨 & 바나나 프렌치 토스트",
+        "흰 국물 프렌치 토스트"
+      ]
+    }
+  },
+  {
+    "id": "b5d2a52e",
+    "source_url": "https://www.mizkan.co.jp/ouchirecipe/recipe/?menu_id=24133",
+    "source_site": "Mizkan",
+    "title_ja": "ベイクド寿司",
+    "description_ja": "",
+    "ingredients": [
+      {
+        "name_ja": "ご飯",
+        "amount": "２合分",
+        "name_translated": {
+          "en": "cooked rice",
+          "zh_tw": "乾飯",
+          "zh_cn": "干饭",
+          "vi": "cơm chín",
+          "hi": "पका हुआ चावल",
+          "ru": "приготовленный рис",
+          "th": "ข้าวสวย",
+          "id": "nasi",
+          "ms": "nasi masak",
+          "ko": "밥"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%94%E9%A3%AF&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%94%E9%A3%AF/?tag="
+      },
+      {
+        "name_ja": "ミツカン　カンタン酢",
+        "amount": "大さじ６",
+        "name_translated": {
+          "en": "Mizkan Kantan Vinegar",
+          "zh_tw": "味滋康甘丹醋",
+          "zh_cn": "味滋康甘丹醋",
+          "vi": "Giấm Mizkan Kantan",
+          "hi": "मिज़कान कंटन सिरका",
+          "ru": "Мизкан Кантанский уксус",
+          "th": "น้ำส้มสายชูมิซกัน กันตัน",
+          "id": "Cuka Mizkan Kantan",
+          "ms": "Cuka Mizkan Kantan",
+          "ko": "미츠칸 칸탄초"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E3%82%AB%E3%83%B3%E3%82%BF%E3%83%B3%E9%85%A2&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E3%82%AB%E3%83%B3%E3%82%BF%E3%83%B3%E9%85%A2/?tag="
+      },
+      {
+        "name_ja": "いりごま　（白）",
+        "amount": "大さじ１",
+        "name_translated": {
+          "en": "Roasted sesame seeds (white)",
+          "zh_tw": "烤芝麻（白）",
+          "zh_cn": "烤芝麻（白）",
+          "vi": "Hạt mè rang (trắng)",
+          "hi": "भुने हुए तिल (सफेद)",
+          "ru": "Семена кунжута жареные (белые)",
+          "th": "งาคั่ว (สีขาว)",
+          "id": "Biji wijen sangrai (putih)",
+          "ms": "Bijan panggang (putih)",
+          "ko": "이리 고마 (흰색)"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%84%E3%82%8A%E3%81%94%E3%81%BE%E3%80%80%EF%BC%88%E7%99%BD%EF%BC%89&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%84%E3%82%8A%E3%81%94%E3%81%BE%E3%80%80%EF%BC%88%E7%99%BD%EF%BC%89/?tag="
+      },
+      {
+        "name_ja": "かに風味かまぼこ",
+        "amount": "１６０ｇ",
+        "name_translated": {
+          "en": "Crab flavored kamaboko",
+          "zh_tw": "蟹味魚糕",
+          "zh_cn": "蟹味鱼糕",
+          "vi": "Kamaboko vị cua",
+          "hi": "केकड़े के स्वाद वाला कामाबोको",
+          "ru": "Камабоко со вкусом краба",
+          "th": "คามาโบโกะรสปู",
+          "id": "Kamaboko rasa kepiting",
+          "ms": "Kamaboko berperisa ketam",
+          "ko": "게 풍미 어묵"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%8B%E3%81%AB%E9%A2%A8%E5%91%B3%E3%81%8B%E3%81%BE%E3%81%BC%E3%81%93&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%8B%E3%81%AB%E9%A2%A8%E5%91%B3%E3%81%8B%E3%81%BE%E3%81%BC%E3%81%93/?tag="
+      },
+      {
+        "name_ja": "えび　（ゆで）",
+        "amount": "１２０ｇ",
+        "name_translated": {
+          "en": "Shrimp (boiled)",
+          "zh_tw": "蝦（煮）",
+          "zh_cn": "虾（煮）",
+          "vi": "Tôm (luộc)",
+          "hi": "झींगा (उबला हुआ)",
+          "ru": "Креветки (вареные)",
+          "th": "กุ้ง (ต้ม)",
+          "id": "Udang (direbus)",
+          "ms": "Udang (direbus)",
+          "ko": "새우 (삶은)"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%88%E3%81%B3%E3%80%80%EF%BC%88%E3%82%86%E3%81%A7%EF%BC%89&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%88%E3%81%B3%E3%80%80%EF%BC%88%E3%82%86%E3%81%A7%EF%BC%89/?tag="
+      },
+      {
+        "name_ja": "マヨネーズ",
+        "amount": "大さじ６",
+        "name_translated": {
+          "en": "mayonnaise",
+          "zh_tw": "美乃滋",
+          "zh_cn": "蛋黄酱",
+          "vi": "mayonaise",
+          "hi": "मेयोनेज़",
+          "ru": "майонез",
+          "th": "มายองเนส",
+          "id": "mayones",
+          "ms": "mayonis",
+          "ko": "마요네즈"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9E%E3%83%A8%E3%83%8D%E3%83%BC%E3%82%BA&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9E%E3%83%A8%E3%83%8D%E3%83%BC%E3%82%BA/?tag="
+      },
+      {
+        "name_ja": "ピザ用チーズ",
+        "amount": "適量",
+        "name_translated": {
+          "en": "cheese for pizza",
+          "zh_tw": "披薩用起司",
+          "zh_cn": "披萨用奶酪",
+          "vi": "phô mai cho pizza",
+          "hi": "पिज्जा के लिए पनीर",
+          "ru": "сыр для пиццы",
+          "th": "ชีสสำหรับพิซซ่า",
+          "id": "keju untuk pizza",
+          "ms": "keju untuk pizza",
+          "ko": "피자용 치즈"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%94%E3%82%B6%E7%94%A8%E3%83%81%E3%83%BC%E3%82%BA&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%94%E3%82%B6%E7%94%A8%E3%83%81%E3%83%BC%E3%82%BA/?tag="
+      },
+      {
+        "name_ja": "小ねぎ　（小口切り）",
+        "amount": "適量",
+        "name_translated": {
+          "en": "Onion (cut into small pieces)",
+          "zh_tw": "洋蔥（切小塊）",
+          "zh_cn": "洋葱（切小块）",
+          "vi": "Hành tây (cắt thành miếng nhỏ)",
+          "hi": "प्याज (छोटे टुकड़ों में कटा हुआ)",
+          "ru": "Лук (нарезать небольшими кусочками)",
+          "th": "หัวหอม (หั่นเป็นชิ้นเล็กๆ)",
+          "id": "Bawang bombay (potong kecil-kecil)",
+          "ms": "Bawang besar (potong kecil)",
+          "ko": "작은 양파 (작은 컷)"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E5%B0%8F%E3%81%AD%E3%81%8E%E3%80%80%EF%BC%88%E5%B0%8F%E5%8F%A3%E5%88%87%E3%82%8A%EF%BC%89&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E5%B0%8F%E3%81%AD%E3%81%8E%E3%80%80%EF%BC%88%E5%B0%8F%E5%8F%A3%E5%88%87%E3%82%8A%EF%BC%89/?tag="
+      },
+      {
+        "name_ja": "焼のり",
+        "amount": "全形４枚",
+        "name_translated": {
+          "en": "Baked seaweed",
+          "zh_tw": "烤苔",
+          "zh_cn": "烤海苔",
+          "vi": "Rong biển nướng",
+          "hi": "पके हुए समुद्री शैवाल",
+          "ru": "Запеченные водоросли",
+          "th": "สาหร่ายอบ",
+          "id": "Rumput laut panggang",
+          "ms": "Rumpai laut bakar",
+          "ko": "굽기"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E7%84%BC%E3%81%AE%E3%82%8A&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E7%84%BC%E3%81%AE%E3%82%8A/?tag="
+      },
+      {
+        "name_ja": "ラー油",
+        "amount": "お好みで",
+        "name_translated": {
+          "en": "chili oil",
+          "zh_tw": "辣椒油",
+          "zh_cn": "辣椒油",
+          "vi": "dầu ớt",
+          "hi": "मिर्च का तेल",
+          "ru": "масло чили",
+          "th": "น้ำมันพริก",
+          "id": "minyak cabai",
+          "ms": "minyak cili",
+          "ko": "라 오일"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%A9%E3%83%BC%E6%B2%B9&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%A9%E3%83%BC%E6%B2%B9/?tag="
+      },
+      {
+        "name_ja": "１",
+        "amount": "ボウルに温かいご飯を入れ、「カンタン酢」を注ぎ入れる。きるように混ぜ合わせてすし飯を作る。",
+        "name_translated": {
+          "en": "1",
+          "zh_tw": "1",
+          "zh_cn": "1",
+          "vi": "1",
+          "hi": "1",
+          "ru": "1",
+          "th": "1",
+          "id": "1",
+          "ms": "1",
+          "ko": "1"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%91&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%91/?tag="
+      },
+      {
+        "name_ja": "２",
+        "amount": "焼のりは全形１枚を６等分に切る。かに風味かまぼことえびを細かく切り、マヨネーズであえる。",
+        "name_translated": {
+          "en": "2",
+          "zh_tw": "2",
+          "zh_cn": "2",
+          "vi": "2",
+          "hi": "2",
+          "ru": "2",
+          "th": "2",
+          "id": "2",
+          "ms": "2",
+          "ko": "2"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%92&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%92/?tag="
+      },
+      {
+        "name_ja": "３",
+        "amount": "を全体に広げ、チーズをのせる。",
+        "name_translated": {
+          "en": "3",
+          "zh_tw": "3",
+          "zh_cn": "3",
+          "vi": "3",
+          "hi": "3",
+          "ru": "3",
+          "th": "3",
+          "id": "3",
+          "ms": "3",
+          "ko": "3"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%93&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%93/?tag="
+      },
+      {
+        "name_ja": "４",
+        "amount": "ホットプレートのふたをし、高温で１０分程度、チーズが溶けるまで焼く。",
+        "name_translated": {
+          "en": "4",
+          "zh_tw": "4",
+          "zh_cn": "4",
+          "vi": "4",
+          "hi": "4",
+          "ru": "4",
+          "th": "4",
+          "id": "4",
+          "ms": "4",
+          "ko": "4"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%94&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%94/?tag="
+      },
+      {
+        "name_ja": "５",
+        "amount": "小ねぎを散らす。",
+        "name_translated": {
+          "en": "5",
+          "zh_tw": "5",
+          "zh_cn": "5",
+          "vi": "5",
+          "hi": "5",
+          "ru": "5",
+          "th": "5",
+          "id": "5",
+          "ms": "5",
+          "ko": "5"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%95&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%95/?tag="
+      }
+    ],
+    "steps_ja": [
+      "ボウルに温かいご飯を入れ、「カンタン酢」を注ぎ入れる。きるように混ぜ合わせてすし飯を作る。",
+      "焼のりは全形１枚を６等分に切る。かに風味かまぼことえびを細かく切り、マヨネーズであえる。",
+      "ホットプレートの鉄板にペーパータオルで油を薄く塗る。すし飯を平にしき、全体にごまをふる。２を全体に広げ、チーズをのせる。",
+      "ホットプレートのふたをし、高温で１０分程度、チーズが溶けるまで焼く。",
+      "小ねぎを散らす。"
+    ],
+    "image_url": "",
+    "title": {
+      "en": "baked sushi",
+      "zh_tw": "烤壽司",
+      "zh_cn": "烤寿司",
+      "vi": "sushi nướng",
+      "hi": "बेक्ड सुशी",
+      "ru": "запеченные суши",
+      "th": "ซูชิอบ",
+      "id": "sushi panggang",
+      "ms": "sushi bakar",
+      "ko": "베이크드 스시"
+    },
+    "description": {
+      "en": "",
+      "zh_tw": "",
+      "zh_cn": "",
+      "vi": "",
+      "hi": "",
+      "ru": "",
+      "th": "",
+      "id": "",
+      "ms": "",
+      "ko": ""
+    },
+    "steps": {
+      "en": [
+        "Put the warm rice in a bowl and pour in the ``simple vinegar''. Mix until smooth and make sushi rice.",
+        "Cut one whole sheet of grilled seaweed into 6 equal pieces. Cut the crab-flavored kamaboko and shrimp into small pieces and coat with mayonnaise.",
+        "Lightly coat the griddle of the hot plate with oil using a paper towel. Flatten the sushi rice and sprinkle sesame seeds all over. Spread 2 all over and top with cheese.",
+        "Cover the hot plate and bake at high temperature for about 10 minutes until the cheese is melted.",
+        "Sprinkle with green onions."
+      ],
+      "zh_tw": [
+        "將溫熱的米飯放入碗中，倒入「簡單的醋」。攪拌至光滑，製成壽司飯。",
+        "將一整片烤海藻切成 6 等份。將蟹味魚糕和蝦子切成小塊，塗上蛋黃醬。",
+        "用紙巾在熱板的煎鍋上輕輕塗上一層油。將壽司米壓平，撒上芝麻。將 2 個鋪滿，並在上面撒上起司。",
+        "蓋上熱板，高溫烘烤約10分鐘，直到起司融化。",
+        "撒上蔥花。"
+      ],
+      "zh_cn": [
+        "将温热的米饭放入碗中，倒入“简单的醋”。搅拌至光滑，制成寿司饭。",
+        "将一整片烤海藻切成 6 等份。将蟹味鱼糕和虾切成小块，涂上蛋黄酱。",
+        "用纸巾在热板的煎锅上轻轻涂上一层油。将寿司米压平​​，撒上芝麻。将 2 个铺满，并在上面撒上奶酪。",
+        "盖上热板，高温烘烤约10分钟，直至奶酪融化。",
+        "撒上葱。"
+      ],
+      "vi": [
+        "Cho cơm ấm vào tô và đổ `` giấm đơn giản '' vào. Trộn cho đến khi mịn và làm cơm sushi.",
+        "Cắt cả một tấm rong biển nướng thành 6 miếng bằng nhau. Cắt kamaboko hương cua và tôm thành từng miếng nhỏ rồi phủ sốt mayonnaise.",
+        "Dùng khăn giấy bôi nhẹ dầu lên vỉ nướng của đĩa nóng. Làm phẳng cơm sushi và rắc hạt vừng lên trên. Trải đều 2 thứ lên và phủ phô mai lên trên.",
+        "Đậy đĩa nóng và nướng ở nhiệt độ cao trong khoảng 10 phút cho đến khi phô mai tan chảy.",
+        "Rắc hành lá."
+      ],
+      "hi": [
+        "गर्म चावल को एक कटोरे में रखें और ``साधारण सिरका'' डालें। चिकना होने तक मिलाएं और सुशी चावल बनाएं।",
+        "ग्रिल्ड समुद्री शैवाल की एक पूरी शीट को 6 बराबर टुकड़ों में काटें। केकड़े के स्वाद वाले कामाबोको और झींगा को छोटे टुकड़ों में काटें और मेयोनेज़ से कोट करें।",
+        "गर्म प्लेट के तवे को कागज़ के तौलिये का उपयोग करके तेल से हल्का कोट करें। सुशी चावल को चपटा करें और चारों ओर तिल छिड़कें। 2 को चारों तरफ फैलाएं और ऊपर से पनीर डालें।",
+        "गर्म प्लेट को ढक दें और पनीर के पिघलने तक उच्च तापमान पर लगभग 10 मिनट तक बेक करें।",
+        "हरा प्याज छिड़कें।"
+      ],
+      "ru": [
+        "Положите теплый рис в миску и влейте «простой уксус». Перемешайте до однородной массы и приготовьте рис для суши.",
+        "Разрежьте один целый лист жареных морских водорослей на 6 равных частей. Камабоко со вкусом краба и креветки нарежьте небольшими кусочками и смажьте майонезом.",
+        "Слегка смажьте решетку горячей плиты маслом с помощью бумажного полотенца. Разровняйте рис для суши и посыпьте его кунжутом. Разложите 2 штуки по всей поверхности и сверху посыпьте сыром.",
+        "Накройте горячую тарелку и запекайте при высокой температуре около 10 минут, пока сыр не расплавится.",
+        "Посыпаем зеленым луком."
+      ],
+      "th": [
+        "ใส่ข้าวอุ่นๆ ลงในชามแล้วเท ``น้ำส้มสายชูธรรมดา'' ลงไป ผสมจนเนียนแล้วทำข้าวซูชิ",
+        "หั่นสาหร่ายย่างหนึ่งแผ่นออกเป็น 6 ชิ้นเท่าๆ กัน หั่นคามาโบโกะและกุ้งรสปูเป็นชิ้นเล็กๆ แล้วเคลือบด้วยมายองเนส",
+        "ทาน้ำมันลงบนแผ่นเหล็กร้อนเล็กน้อยโดยใช้ผ้ากระดาษ แผ่ข้าวซูชิให้เรียบแล้วโรยงาให้ทั่ว ทา 2 แผ่นให้ทั่วและโรยหน้าด้วยชีส",
+        "ปิดจานร้อนแล้วอบที่อุณหภูมิสูงประมาณ 10 นาทีจนชีสละลาย",
+        "โรยด้วยหัวหอมสีเขียว"
+      ],
+      "id": [
+        "Masukkan nasi hangat ke dalam mangkuk dan tuangkan ``cuka sederhana''. Aduk hingga rata dan buatlah nasi sushi.",
+        "Potong satu lembar rumput laut panggang menjadi 6 bagian sama besar. Potong kecil-kecil kamaboko dan udang rasa kepiting lalu lumuri dengan mayonaise.",
+        "Lapisi sedikit wajan hot plate dengan minyak menggunakan handuk kertas. Ratakan nasi sushi dan taburkan biji wijen ke seluruh bagiannya. Oleskan 2 ke seluruh bagian dan taburi dengan keju.",
+        "Tutupi hot plate dan panggang dengan suhu tinggi selama kurang lebih 10 menit hingga keju meleleh.",
+        "Taburi dengan bawang hijau."
+      ],
+      "ms": [
+        "Masukkan nasi suam ke dalam mangkuk dan tuangkan ``cuka ringkas''. Gaul hingga rata dan buat nasi sushi.",
+        "Potong satu helaian keseluruhan rumpai laut panggang kepada 6 bahagian yang sama. Potong kamaboko dan udang perisa ketam kepada kepingan kecil dan salutkan dengan mayonis.",
+        "Sapukan perlahan griddle plat panas dengan minyak menggunakan tuala kertas. Ratakan nasi sushi dan taburkan bijan ke seluruh. Sapukan 2 ke atas dan atas dengan keju.",
+        "Tutup pinggan panas dan bakar pada suhu tinggi selama kira-kira 10 minit sehingga keju cair.",
+        "Taburkan dengan bawang hijau."
+      ],
+      "ko": [
+        "그릇에 따뜻한 밥을 넣고 \"간단식초\"를 붓는다. 와 같이 섞어서 밥을 만든다.",
+        "굽는 것은 전형 1장을 6등분으로 자른다. 게 풍미 가마보 고추를 잘게 자르고 마요네즈로 굳힌다.",
+        "핫 플레이트의 철판에 종이 타월로 기름을 얇게 바른다. 스시밥을 평평하게 하고, 전체에 참깨를 친다. 2를 전체로 펼쳐 치즈를 얹는다.",
+        "핫 플레이트 뚜껑을 덮고 고온에서 10 분 정도 치즈가 녹을 때까지 굽는다.",
+        "양파를 뿌린다."
+      ]
+    }
   }
 ]

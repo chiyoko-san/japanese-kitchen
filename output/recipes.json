@@ -320030,5 +320030,681 @@
         "양파를 뿌린다."
       ]
     }
+  },
+  {
+    "id": "4b91f965",
+    "source_url": "https://www.mizkan.co.jp/ouchirecipe/recipe/?menu_id=23781",
+    "source_site": "Mizkan",
+    "title_ja": "餃子の皮で！簡単手作り一口タコス",
+    "description_ja": "",
+    "ingredients": [
+      {
+        "name_ja": "ぎょうざの皮",
+        "amount": "（大判）８枚",
+        "name_translated": {
+          "en": "Gyoza skin",
+          "zh_tw": "餃子皮",
+          "zh_cn": "饺子皮",
+          "vi": "Da gyoza",
+          "hi": "ग्योज़ा त्वचा",
+          "ru": "Скин Гёзы",
+          "th": "หนังเกี๊ยวซ่า",
+          "id": "Kulit gyoza",
+          "ms": "Kulit Gyoza",
+          "ko": "간장 껍질"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%8E%E3%82%87%E3%81%86%E3%81%96%E3%81%AE%E7%9A%AE&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%8E%E3%82%87%E3%81%86%E3%81%96%E3%81%AE%E7%9A%AE/?tag="
+      },
+      {
+        "name_ja": "合びき肉",
+        "amount": "１２０ｇ",
+        "name_translated": {
+          "en": "Mixed meat",
+          "zh_tw": "混合肉",
+          "zh_cn": "混合肉",
+          "vi": "Thịt hỗn hợp",
+          "hi": "मिश्रित मांस",
+          "ru": "Смешанное мясо",
+          "th": "เนื้อผสม",
+          "id": "Daging campur",
+          "ms": "Daging campur",
+          "ko": "어울리는 고기"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E5%90%88%E3%81%B3%E3%81%8D%E8%82%89&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E5%90%88%E3%81%B3%E3%81%8D%E8%82%89/?tag="
+      },
+      {
+        "name_ja": "塩・こしょう",
+        "amount": "適量",
+        "name_translated": {
+          "en": "salt and pepper",
+          "zh_tw": "鹽和胡椒",
+          "zh_cn": "盐和胡椒",
+          "vi": "muối và hạt tiêu",
+          "hi": "नमक और काली मिर्च",
+          "ru": "соль и перец",
+          "th": "เกลือและพริกไทย",
+          "id": "garam dan merica",
+          "ms": "garam dan lada sulah",
+          "ko": "소금, 후추"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E5%A1%A9%E3%83%BB%E3%81%93%E3%81%97%E3%82%87%E3%81%86&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E5%A1%A9%E3%83%BB%E3%81%93%E3%81%97%E3%82%87%E3%81%86/?tag="
+      },
+      {
+        "name_ja": "レタス",
+        "amount": "２枚（約５０ｇ）",
+        "name_translated": {
+          "en": "lettuce",
+          "zh_tw": "萵苣",
+          "zh_cn": "莴苣",
+          "vi": "rau xà lách",
+          "hi": "सलाद",
+          "ru": "латук",
+          "th": "ผักกาดหอม",
+          "id": "selada",
+          "ms": "selada",
+          "ko": "양상추"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%AC%E3%82%BF%E3%82%B9&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%AC%E3%82%BF%E3%82%B9/?tag="
+      },
+      {
+        "name_ja": "スライスチーズ",
+        "amount": "２枚",
+        "name_translated": {
+          "en": "sliced ​​cheese",
+          "zh_tw": "起司片",
+          "zh_cn": "奶酪片",
+          "vi": "phô mai cắt lát",
+          "hi": "कटा हुआ पनीर",
+          "ru": "нарезанный сыр",
+          "th": "ชีสหั่นบาง ๆ",
+          "id": "irisan keju",
+          "ms": "hirisan keju",
+          "ko": "슬라이스 치즈"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%82%B9%E3%83%A9%E3%82%A4%E3%82%B9%E3%83%81%E3%83%BC%E3%82%BA&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%82%B9%E3%83%A9%E3%82%A4%E3%82%B9%E3%83%81%E3%83%BC%E3%82%BA/?tag="
+      },
+      {
+        "name_ja": "たまねぎ",
+        "amount": "１／４個",
+        "name_translated": {
+          "en": "onion",
+          "zh_tw": "洋蔥",
+          "zh_cn": "洋葱",
+          "vi": "củ hành",
+          "hi": "प्याज",
+          "ru": "лук",
+          "th": "หัวหอม",
+          "id": "bawang bombai",
+          "ms": "bawang besar",
+          "ko": "양파"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%9F%E3%81%BE%E3%81%AD%E3%81%8E&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%9F%E3%81%BE%E3%81%AD%E3%81%8E/?tag="
+      },
+      {
+        "name_ja": "ミツカン　カンタン酢",
+        "amount": "大さじ１",
+        "name_translated": {
+          "en": "Mizkan Kantan Vinegar",
+          "zh_tw": "味滋康甘丹醋",
+          "zh_cn": "味滋康甘丹醋",
+          "vi": "Giấm Mizkan Kantan",
+          "hi": "मिज़कान कंटन सिरका",
+          "ru": "Мизкан Кантанский уксус",
+          "th": "น้ำส้มสายชูมิซกัน กันตัน",
+          "id": "Cuka Mizkan Kantan",
+          "ms": "Cuka Mizkan Kantan",
+          "ko": "미츠칸 칸탄초"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E3%82%AB%E3%83%B3%E3%82%BF%E3%83%B3%E9%85%A2&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E3%82%AB%E3%83%B3%E3%82%BF%E3%83%B3%E9%85%A2/?tag="
+      },
+      {
+        "name_ja": "マヨネーズ",
+        "amount": "大さじ２",
+        "name_translated": {
+          "en": "mayonnaise",
+          "zh_tw": "美乃滋",
+          "zh_cn": "蛋黄酱",
+          "vi": "mayonaise",
+          "hi": "मेयोनेज़",
+          "ru": "майонез",
+          "th": "มายองเนส",
+          "id": "mayones",
+          "ms": "mayonis",
+          "ko": "마요네즈"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9E%E3%83%A8%E3%83%8D%E3%83%BC%E3%82%BA&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9E%E3%83%A8%E3%83%8D%E3%83%BC%E3%82%BA/?tag="
+      },
+      {
+        "name_ja": "トマトケチャップ",
+        "amount": "大さじ１",
+        "name_translated": {
+          "en": "tomato ketchup",
+          "zh_tw": "番茄醬",
+          "zh_cn": "番茄酱",
+          "vi": "sốt cà chua",
+          "hi": "टमाटर केचप",
+          "ru": "томатный кетчуп",
+          "th": "ซอสมะเขือเทศ",
+          "id": "saus tomat",
+          "ms": "sos tomato",
+          "ko": "토마토 케첩"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%88%E3%83%9E%E3%83%88%E3%82%B1%E3%83%81%E3%83%A3%E3%83%83%E3%83%97&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%88%E3%83%9E%E3%83%88%E3%82%B1%E3%83%81%E3%83%A3%E3%83%83%E3%83%97/?tag="
+      },
+      {
+        "name_ja": "１",
+        "amount": "にする。",
+        "name_translated": {
+          "en": "1",
+          "zh_tw": "1",
+          "zh_cn": "1",
+          "vi": "1",
+          "hi": "1",
+          "ru": "1",
+          "th": "1",
+          "id": "1",
+          "ms": "1",
+          "ko": "1"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%91&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%91/?tag="
+      },
+      {
+        "name_ja": "２",
+        "amount": "ぎょうざの皮の片面に合びき肉をのせ、上からラップをかけ、肉を平らに広げ貼りつける。塩・こしょうをふる。これを８個分作る。",
+        "name_translated": {
+          "en": "2",
+          "zh_tw": "2",
+          "zh_cn": "2",
+          "vi": "2",
+          "hi": "2",
+          "ru": "2",
+          "th": "2",
+          "id": "2",
+          "ms": "2",
+          "ko": "2"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%92&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%92/?tag="
+      },
+      {
+        "name_ja": "３",
+        "amount": "の肉面を下にし加熱する。肉に火が通ったら、裏返し、１／４にしたチーズを１枚ずつのせ、軽く加熱する。",
+        "name_translated": {
+          "en": "3",
+          "zh_tw": "3",
+          "zh_cn": "3",
+          "vi": "3",
+          "hi": "3",
+          "ru": "3",
+          "th": "3",
+          "id": "3",
+          "ms": "3",
+          "ko": "3"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%93&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%93/?tag="
+      },
+      {
+        "name_ja": "４",
+        "amount": "を器に盛り、ソース、レタスの順にのせて、挟む。",
+        "name_translated": {
+          "en": "4",
+          "zh_tw": "4",
+          "zh_cn": "4",
+          "vi": "4",
+          "hi": "4",
+          "ru": "4",
+          "th": "4",
+          "id": "4",
+          "ms": "4",
+          "ko": "4"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%94&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%94/?tag="
+      },
+      {
+        "name_ja": "鶏だんご鍋",
+        "amount": "適量",
+        "name_translated": {
+          "en": "chicken dumpling hot pot",
+          "zh_tw": "雞肉餃子火鍋",
+          "zh_cn": "鸡肉饺子火锅",
+          "vi": "Lẩu bánh bao gà",
+          "hi": "चिकन पकौड़ी गर्म बर्तन",
+          "ru": "горячий горшок с куриными клецками",
+          "th": "หม้อไฟเกี๊ยวไก่",
+          "id": "panci panas pangsit ayam",
+          "ms": "periuk panas ladu ayam",
+          "ko": "닭단고 냄비"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E9%B6%8F%E3%81%A0%E3%82%93%E3%81%94%E9%8D%8B&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E9%B6%8F%E3%81%A0%E3%82%93%E3%81%94%E9%8D%8B/?tag="
+      },
+      {
+        "name_ja": "たっぷりキャベツのシャキふわつくね",
+        "amount": "適量",
+        "name_translated": {
+          "en": "Crispy and fluffy meatballs with plenty of cabbage",
+          "zh_tw": "たっぷりキャベツのシャキふわつくね",
+          "zh_cn": "酥脆蓬松的肉丸配上大量的卷心菜",
+          "vi": "Thịt viên giòn và bông xốp với nhiều bắp cải",
+          "hi": "ढेर सारी पत्तागोभी के साथ कुरकुरे और फूले हुए मीटबॉल",
+          "ru": "Хрустящие и пышные фрикадельки с большим количеством капусты",
+          "th": "ลูกชิ้นกรอบและฟูพร้อมกะหล่ำปลีมากมาย",
+          "id": "Bakso renyah dan empuk dengan banyak kubis",
+          "ms": "Bebola daging yang rangup dan gebu dengan banyak kubis",
+          "ko": "충분히 양배추의 샤키 푹신 푹신"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%9F%E3%81%A3%E3%81%B7%E3%82%8A%E3%82%AD%E3%83%A3%E3%83%99%E3%83%84%E3%81%AE%E3%82%B7%E3%83%A3%E3%82%AD%E3%81%B5%E3%82%8F%E3%81%A4%E3%81%8F%E3%81%AD&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%9F%E3%81%A3%E3%81%B7%E3%82%8A%E3%82%AD%E3%83%A3%E3%83%99%E3%83%84%E3%81%AE%E3%82%B7%E3%83%A3%E3%82%AD%E3%81%B5%E3%82%8F%E3%81%A4%E3%81%8F%E3%81%AD/?tag="
+      },
+      {
+        "name_ja": "レンジで作る！キャベツしゅうまい",
+        "amount": "適量",
+        "name_translated": {
+          "en": "Make it in the microwave! cabbage shumai",
+          "zh_tw": "用微波爐做吧！高麗菜燒賣",
+          "zh_cn": "用微波炉做吧！卷心菜烧卖",
+          "vi": "Làm nó trong lò vi sóng! xíu mại bắp cải",
+          "hi": "इसे माइक्रोवेव में बनाएं! गोभी शुमाई",
+          "ru": "Сделайте это в микроволновке! капуста шумай",
+          "th": "ทำในไมโครเวฟ! ขนมจีบกะหล่ำปลี",
+          "id": "Buat di microwave! kubis siomai",
+          "ms": "Buat dalam microwave! kobis shumai",
+          "ko": "레인지로 만든다! 양배추 슈마이"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%AC%E3%83%B3%E3%82%B8%E3%81%A7%E4%BD%9C%E3%82%8B%EF%BC%81%E3%82%AD%E3%83%A3%E3%83%99%E3%83%84%E3%81%97%E3%82%85%E3%81%86%E3%81%BE%E3%81%84&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%AC%E3%83%B3%E3%82%B8%E3%81%A7%E4%BD%9C%E3%82%8B%EF%BC%81%E3%82%AD%E3%83%A3%E3%83%99%E3%83%84%E3%81%97%E3%82%85%E3%81%86%E3%81%BE%E3%81%84/?tag="
+      }
+    ],
+    "steps_ja": [
+      "たまねぎはみじん切りにし、耐熱容器に入れる。ふんわりとラップをかけ、電子レンジ（６００W）で約１分半加熱する。＜A＞の残りの材料を加え、混ぜ合わせてソースを作る。レタスはせん切りにする。",
+      "ぎょうざの皮の片面に合びき肉をのせ、上からラップをかけ、肉を平らに広げ貼りつける。塩・こしょうをふる。これを８個分作る。",
+      "フライパンを中火で熱し、２の肉面を下にし加熱する。肉に火が通ったら、裏返し、１／４にしたチーズを１枚ずつのせ、軽く加熱する。",
+      "を器に盛り、ソース、レタスの順にのせて、挟む。",
+      "鶏だんご鍋",
+      "たっぷりキャベツのシャキふわつくね",
+      "レンジで作る！キャベツしゅうまい"
+    ],
+    "image_url": "",
+    "title": {
+      "en": "With gyoza skin! Easy homemade tacos",
+      "zh_tw": "有餃子皮！簡單的自製玉米餅",
+      "zh_cn": "有饺子皮！简单的自制玉米饼",
+      "vi": "Với làn da gyoza! Bánh taco tự làm dễ dàng",
+      "hi": "ग्योज़ा त्वचा के साथ! आसान घर का बना टैकोस",
+      "ru": "С кожей гёдза! Легкие домашние тако",
+      "th": "ด้วยผิวเกี๊ยวซ่า! ทาโก้โฮมเมดง่ายๆ",
+      "id": "Dengan kulit gyoza! Taco buatan sendiri yang mudah",
+      "ms": "Dengan kulit gyoza! Taco buatan sendiri yang mudah",
+      "ko": "만두 껍질로! 쉬운 수제 한입 타코"
+    },
+    "description": {
+      "en": "",
+      "zh_tw": "",
+      "zh_cn": "",
+      "vi": "",
+      "hi": "",
+      "ru": "",
+      "th": "",
+      "id": "",
+      "ms": "",
+      "ko": ""
+    },
+    "steps": {
+      "en": [
+        "Finely chop the onion and place in a heat-resistant container. Loosely cover with plastic wrap and heat in the microwave (600W) for about 1.5 minutes. Add the remaining ingredients from <A> and mix to make the sauce. Cut the lettuce into thin strips.",
+        "Place the meat on one side of the gyoza wrapper, cover with plastic wrap, and spread the meat evenly. Season with salt and pepper. Make 8 servings of this.",
+        "Heat a frying pan over medium heat and heat it with the meat side facing down. Once the meat is cooked, turn it over, place a quarter of the cheese on top, and heat gently.",
+        "Place on a plate, top with sauce and lettuce, and sandwich.",
+        "chicken dumpling hot pot",
+        "Crispy and fluffy meatballs with plenty of cabbage",
+        "Make it in the microwave! cabbage shumai"
+      ],
+      "zh_tw": [
+        "將洋蔥切碎，放入耐熱容器中。鬆鬆地蓋上保鮮膜，然後在微波爐 (600W) 中加熱約 1.5 分鐘。加入<A>中的剩餘食材並混合製成醬汁。將生菜切成細條。",
+        "將肉放在餃子皮的一側，蓋上保鮮膜，然後將肉均勻地鋪開。用鹽和胡椒調味。做 8 份。",
+        "以中火加熱煎鍋，將肉麵朝下加熱。肉煮熟後，將其翻過來，將四分之一的起司放在上面，然後輕輕加熱。",
+        "放在盤子上，上面放上醬汁和生菜，然後放上三明治。",
+        "雞肉餃子火鍋",
+        "酥脆蓬鬆的肉丸配上大量的捲心菜",
+        "用微波爐做吧！高麗菜燒賣"
+      ],
+      "zh_cn": [
+        "将洋葱切碎，放入耐热容器中。松松地盖上保鲜膜，然后在微波炉 (600W) 中加热约 1.5 分钟。添加<A>中的剩余成分并混合制成酱汁。将生菜切成细条。",
+        "将肉放在饺子皮的一侧，盖上保鲜膜，然后将肉均匀地铺开。用盐和胡椒调味。做 8 份。",
+        "用中火加热煎锅，将肉面朝下加热。肉煮熟后，将其翻过来，将四分之一的奶酪放在上面，然后轻轻加热。",
+        "放在盘子上，上面放上酱汁和生菜，然后放上三明治。",
+        "鸡肉饺子火锅",
+        "酥脆蓬松的肉丸配上大量的卷心菜",
+        "用微波炉做吧！卷心菜烧卖"
+      ],
+      "vi": [
+        "Cắt nhỏ hành tây và cho vào hộp chịu nhiệt. Đậy kín bằng màng bọc thực phẩm và đun nóng trong lò vi sóng (600W) trong khoảng 1,5 phút. Thêm các nguyên liệu còn lại từ <A> và trộn để làm nước sốt. Cắt rau diếp thành dải mỏng.",
+        "Đặt thịt lên một mặt của giấy gói gyoza, dùng màng bọc thực phẩm bọc lại và trải đều thịt. Nêm muối và hạt tiêu. Làm 8 phần này.",
+        "Làm nóng chảo rán trên lửa vừa và đun nóng với mặt thịt úp xuống. Sau khi thịt chín, lật thịt lại, đặt 1/4 phô mai lên trên và đun nóng nhẹ.",
+        "Đặt lên đĩa, rưới nước sốt, rau diếp và bánh sandwich lên trên.",
+        "Lẩu bánh bao gà",
+        "Thịt viên giòn và bông xốp với nhiều bắp cải",
+        "Làm nó trong lò vi sóng! xíu mại bắp cải"
+      ],
+      "hi": [
+        "प्याज को बारीक काट लें और गर्मी प्रतिरोधी कंटेनर में रखें। प्लास्टिक रैप से ढकें और माइक्रोवेव (600W) में लगभग 1.5 मिनट तक गर्म करें। <ए> से बची हुई सामग्री डालें और सॉस बनाने के लिए मिलाएँ। सलाद को पतली स्ट्रिप्स में काटें।",
+        "मांस को ग्योज़ा रैपर के एक तरफ रखें, प्लास्टिक रैप से ढकें और मांस को समान रूप से फैलाएं। नमक और काली मिर्च के साथ स्वाद बढ़ाएं। इसकी 8 सर्विंग बनाएं.",
+        "एक फ्राइंग पैन को मध्यम आंच पर गर्म करें और मांस वाले हिस्से को नीचे की ओर करके गर्म करें। एक बार जब मांस पक जाए, तो इसे पलट दें, ऊपर पनीर का एक चौथाई हिस्सा रखें और धीरे से गर्म करें।",
+        "एक प्लेट में रखें, ऊपर से सॉस और सलाद और सैंडविच डालें।",
+        "चिकन पकौड़ी गर्म बर्तन",
+        "ढेर सारी पत्तागोभी के साथ कुरकुरे और फूले हुए मीटबॉल",
+        "इसे माइक्रोवेव में बनाएं! गोभी शुमाई"
+      ],
+      "ru": [
+        "Мелко нашинкуйте лук и поместите в жаропрочную емкость. Неплотно накройте полиэтиленовой пленкой и разогрейте в микроволновой печи (600 Вт) примерно 1,5 минуты. Добавьте оставшиеся ингредиенты из <A> и перемешайте, чтобы получился соус. Салат нарезаем тонкими полосками.",
+        "Положите мясо на одну сторону обертки гёдза, накройте полиэтиленовой пленкой и равномерно распределите мясо. Приправьте солью и перцем. Сделайте 8 порций этого продукта.",
+        "Нагрейте сковороду на среднем огне и разогрейте ее стороной с мясом вниз. Когда мясо будет готово, переверните его, положите сверху четверть сыра и осторожно нагрейте.",
+        "Выложите на тарелку, сверху полейте соусом, салатом и сэндвичем.",
+        "горячий горшок с куриными клецками",
+        "Хрустящие и пышные фрикадельки с большим количеством капусты",
+        "Сделайте это в микроволновке! капуста шумай"
+      ],
+      "th": [
+        "สับหัวหอมอย่างประณีตแล้วใส่ในภาชนะทนความร้อน ปิดด้วยพลาสติกแร็ปอย่างหลวมๆ แล้วนำเข้าไมโครเวฟ (600W) ประมาณ 1.5 นาที ใส่ส่วนผสมที่เหลือจาก <A> และผสมเพื่อทำซอส ตัดผักกาดหอมเป็นเส้นบาง ๆ",
+        "วางเนื้อไว้ด้านหนึ่งของกระดาษห่อเกี๊ยวซ่า ปิดด้วยพลาสติกแร็ป แล้วเกลี่ยเนื้อให้ทั่ว ปรุงรสด้วยเกลือและพริกไทย เสิร์ฟสิ่งนี้ 8 ครั้ง",
+        "ตั้งกระทะบนไฟร้อนปานกลางแล้วตั้งไฟโดยให้ด้านเนื้อคว่ำลง เมื่อเนื้อสุกแล้ว ให้พลิกกลับ วางชีส 1/4 ส่วนไว้ด้านบน และตั้งไฟเบา ๆ",
+        "วางบนจาน โรยหน้าด้วยซอสและผักกาดหอม และแซนวิช",
+        "หม้อไฟเกี๊ยวไก่",
+        "ลูกชิ้นกรอบและฟูพร้อมกะหล่ำปลีมากมาย",
+        "ทำในไมโครเวฟ! ขนมจีบกะหล่ำปลี"
+      ],
+      "id": [
+        "Cincang halus bawang bombay dan masukkan ke dalam wadah tahan panas. Tutup rapat dengan bungkus plastik dan panaskan dalam microwave (600W) selama kurang lebih 1,5 menit. Tambahkan sisa bahan dari <A> dan aduk untuk membuat saus. Potong selada menjadi potongan tipis.",
+        "Letakkan daging di salah satu sisi pembungkus gyoza, tutup dengan plastik wrap, dan ratakan daging. Bumbui dengan garam dan merica. Buat 8 porsi ini.",
+        "Panaskan penggorengan dengan api sedang dan panaskan dengan sisi daging menghadap ke bawah. Setelah daging matang, balikkan, letakkan seperempat keju di atasnya, dan panaskan perlahan.",
+        "Letakkan di piring, taburi dengan saus dan selada, dan sandwich.",
+        "panci panas pangsit ayam",
+        "Bakso renyah dan empuk dengan banyak kubis",
+        "Buat di microwave! kubis siomai"
+      ],
+      "ms": [
+        "Cincang halus bawang dan masukkan ke dalam bekas tahan panas. Tutup longgar dengan bungkus plastik dan panaskan dalam ketuhar gelombang mikro (600W) selama kira-kira 1.5 minit. Masukkan baki bahan daripada <A> dan gaul untuk membuat sos. Potong salad menjadi jalur nipis.",
+        "Letakkan daging di sebelah pembungkus gyoza, tutup dengan bungkus plastik, dan ratakan daging. Perasakan dengan garam dan lada sulah. Buat 8 hidangan ini.",
+        "Panaskan kuali dengan api sederhana dan panaskan dengan bahagian daging menghadap ke bawah. Setelah daging masak, terbalikkan, letakkan suku keju di atasnya, dan panaskan perlahan-lahan.",
+        "Letakkan di atas pinggan, atas dengan sos dan salad, dan sandwic.",
+        "periuk panas ladu ayam",
+        "Bebola daging yang rangup dan gebu dengan banyak kubis",
+        "Buat dalam microwave! kobis shumai"
+      ],
+      "ko": [
+        "양파는 다진 다음 내열 용기에 넣는다. 부드럽게 랩을 걸고, 전자 레인지(600W)로 약 1분 반 가열한다. <A>의 나머지 재료를 첨가하고 혼합하여 소스를 만든다. 상추는 깎는다.",
+        "간장 껍질의 한쪽에 맞는 고기를 얹고 위에서 랩을 걸고 고기를 평평하게 펼쳐 붙인다. 소금과 후추를 친다. 이것을 8개분 만든다.",
+        "프라이팬을 중불로 가열하고 2의 육면을 아래로 가열합니다. 고기에 불이 지나면 뒤집어 1/4로 한 치즈를 1장씩 얹고 가볍게 가열한다.",
+        "를 그릇에 담고 소스, 상추의 순서로 얹어 끼운다.",
+        "닭단고 냄비",
+        "충분히 양배추의 샤키 푹신 푹신",
+        "레인지로 만든다! 양배추 슈마이"
+      ]
+    }
+  },
+  {
+    "id": "fc134d51",
+    "source_url": "https://www.mizkan.co.jp/ouchirecipe/recipe/?menu_id=23973",
+    "source_site": "Mizkan",
+    "title_ja": "やみつきアボカド",
+    "description_ja": "",
+    "ingredients": [
+      {
+        "name_ja": "アボカド",
+        "amount": "１個",
+        "name_translated": {
+          "en": "avocado",
+          "zh_tw": "酪梨",
+          "zh_cn": "牛油果",
+          "vi": "quả bơ",
+          "hi": "एवोकाडो",
+          "ru": "авокадо",
+          "th": "อะโวคาโด",
+          "id": "alpukat",
+          "ms": "alpukat",
+          "ko": "아보카도"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%82%A2%E3%83%9C%E3%82%AB%E3%83%89&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%82%A2%E3%83%9C%E3%82%AB%E3%83%89/?tag="
+      },
+      {
+        "name_ja": "いりごま",
+        "amount": "大さじ１",
+        "name_translated": {
+          "en": "roasted sesame",
+          "zh_tw": "烤芝麻",
+          "zh_cn": "烤芝麻",
+          "vi": "vừng rang",
+          "hi": "भुना हुआ तिल",
+          "ru": "жареный кунжут",
+          "th": "งาคั่ว",
+          "id": "wijen panggang",
+          "ms": "bijan panggang",
+          "ko": "이리고마"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%84%E3%82%8A%E3%81%94%E3%81%BE&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%84%E3%82%8A%E3%81%94%E3%81%BE/?tag="
+      },
+      {
+        "name_ja": "砂糖",
+        "amount": "大さじ１／２",
+        "name_translated": {
+          "en": "sugar",
+          "zh_tw": "糖",
+          "zh_cn": "糖",
+          "vi": "đường",
+          "hi": "चीनी",
+          "ru": "сахар",
+          "th": "น้ำตาล",
+          "id": "gula",
+          "ms": "gula",
+          "ko": "설탕"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E7%A0%82%E7%B3%96&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E7%A0%82%E7%B3%96/?tag="
+      },
+      {
+        "name_ja": "おろしにんにく",
+        "amount": "２ｃｍ",
+        "name_translated": {
+          "en": "grated garlic",
+          "zh_tw": "磨碎的大蒜",
+          "zh_cn": "磨碎的大蒜",
+          "vi": "tỏi nghiền",
+          "hi": "कसा हुआ लहसुन",
+          "ru": "тертый чеснок",
+          "th": "กระเทียมขูด",
+          "id": "bawang putih parut",
+          "ms": "bawang putih parut",
+          "ko": "마늘 마늘"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%8A%E3%82%8D%E3%81%97%E3%81%AB%E3%82%93%E3%81%AB%E3%81%8F&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%8A%E3%82%8D%E3%81%97%E3%81%AB%E3%82%93%E3%81%AB%E3%81%8F/?tag="
+      },
+      {
+        "name_ja": "ごま油",
+        "amount": "大さじ１／２",
+        "name_translated": {
+          "en": "sesame oil",
+          "zh_tw": "香油",
+          "zh_cn": "香油",
+          "vi": "dầu mè",
+          "hi": "तिल का तेल",
+          "ru": "кунжутное масло",
+          "th": "น้ำมันงา",
+          "id": "minyak wijen",
+          "ms": "minyak bijan",
+          "ko": "참기름"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%94%E3%81%BE%E6%B2%B9&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%94%E3%81%BE%E6%B2%B9/?tag="
+      },
+      {
+        "name_ja": "ミツカン　味ぽん",
+        "amount": "大さじ２",
+        "name_translated": {
+          "en": "Mizkan Ajipon",
+          "zh_tw": "味滋康味精",
+          "zh_cn": "味滋康味精",
+          "vi": "Mizkan Ajipon",
+          "hi": "मिज़कान अजिपोन",
+          "ru": "Мизкан Аджипон",
+          "th": "มิซกัน อาจิปอน",
+          "id": "Mizkan Ajipon",
+          "ms": "Mizkan Ajipon",
+          "ko": "미츠칸 미폰"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E5%91%B3%E3%81%BD%E3%82%93&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E5%91%B3%E3%81%BD%E3%82%93/?tag="
+      },
+      {
+        "name_ja": "１",
+        "amount": "アボカドは縦４等分に切り目を入れ、切り目に沿ってくるりと回しながら種をとる。皮をむいて一口大に切る。",
+        "name_translated": {
+          "en": "1",
+          "zh_tw": "1",
+          "zh_cn": "1",
+          "vi": "1",
+          "hi": "1",
+          "ru": "1",
+          "th": "1",
+          "id": "1",
+          "ms": "1",
+          "ko": "1"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%91&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%91/?tag="
+      },
+      {
+        "name_ja": "２",
+        "amount": "ボウルにいりごま、砂糖、おろしにんにく、ごま油、「味ぽん」を加え、混ぜ合わせる。",
+        "name_translated": {
+          "en": "2",
+          "zh_tw": "2",
+          "zh_cn": "2",
+          "vi": "2",
+          "hi": "2",
+          "ru": "2",
+          "th": "2",
+          "id": "2",
+          "ms": "2",
+          "ko": "2"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%92&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%92/?tag="
+      },
+      {
+        "name_ja": "３",
+        "amount": "にアボカドを加えて混ぜる。",
+        "name_translated": {
+          "en": "3",
+          "zh_tw": "3",
+          "zh_cn": "3",
+          "vi": "3",
+          "hi": "3",
+          "ru": "3",
+          "th": "3",
+          "id": "3",
+          "ms": "3",
+          "ko": "3"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%93&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%93/?tag="
+      }
+    ],
+    "steps_ja": [
+      "アボカドは縦４等分に切り目を入れ、切り目に沿ってくるりと回しながら種をとる。皮をむいて一口大に切る。",
+      "ボウルにいりごま、砂糖、おろしにんにく、ごま油、「味ぽん」を加え、混ぜ合わせる。",
+      "にアボカドを加えて混ぜる。"
+    ],
+    "image_url": "",
+    "title": {
+      "en": "addictive avocado",
+      "zh_tw": "令人上癮的酪梨",
+      "zh_cn": "令人上瘾的鳄梨",
+      "vi": "bơ gây nghiện",
+      "hi": "नशे की लत एवोकैडो",
+      "ru": "вызывающий привыкание авокадо",
+      "th": "อะโวคาโดเสพติด",
+      "id": "alpukat yang membuat ketagihan",
+      "ms": "avokado ketagihan",
+      "ko": "야미츠키 아보카도"
+    },
+    "description": {
+      "en": "",
+      "zh_tw": "",
+      "zh_cn": "",
+      "vi": "",
+      "hi": "",
+      "ru": "",
+      "th": "",
+      "id": "",
+      "ms": "",
+      "ko": ""
+    },
+    "steps": {
+      "en": [
+        "Cut the avocado into quarters lengthwise and remove the seed by rotating it along the cut. Peel and cut into bite-sized pieces.",
+        "Add roasted sesame seeds, sugar, grated garlic, sesame oil, and ``Ajipon'' to a bowl and mix.",
+        "Add avocado and mix."
+      ],
+      "zh_tw": [
+        "將酪梨縱向切成四等分，並沿著切口旋轉以去除種子。去皮並切成一口大小的塊。",
+        "將烤芝麻、糖、磨碎的大蒜、芝麻油和「Ajipon」放入碗中並混合。",
+        "添加酪梨並混合。"
+      ],
+      "zh_cn": [
+        "将牛油果纵向切成四等分，并沿着切口旋转以去除种子。去皮并切成一口大小的块。",
+        "将烤芝麻、糖、磨碎的大蒜、芝麻油和“Ajipon”放入碗中并混合。",
+        "添加鳄梨并混合。"
+      ],
+      "vi": [
+        "Cắt quả bơ thành các phần tư theo chiều dọc và loại bỏ hạt bằng cách xoay quả bơ dọc theo vết cắt. Gọt vỏ và cắt thành miếng vừa ăn.",
+        "Cho hạt mè rang, đường, tỏi xay, dầu mè và ``Ajipon'' vào tô và trộn đều.",
+        "Thêm bơ và trộn."
+      ],
+      "hi": [
+        "एवोकैडो को लंबाई में चौथाई भाग में काट लें और कटे हुए हिस्से के साथ घुमाकर बीज निकाल दें। छीलकर छोटे टुकड़ों में काट लें।",
+        "एक कटोरे में भुने हुए तिल, चीनी, कसा हुआ लहसुन, तिल का तेल और ``अजिपोन'' डालें और मिलाएँ।",
+        "एवोकैडो डालें और मिलाएँ।"
+      ],
+      "ru": [
+        "Разрежьте авокадо вдоль на четвертинки и удалите косточку, вращая ее вдоль разреза. Очистите и нарежьте некрупными кусочками.",
+        "Добавьте в миску жареные семена кунжута, сахар, тертый чеснок, кунжутное масло и «Аджипон» и перемешайте.",
+        "Добавьте авокадо и перемешайте."
+      ],
+      "th": [
+        "หั่นอะโวคาโดออกเป็นสี่ส่วนตามยาว แล้วเอาเมล็ดออกโดยการหมุนตามการตัด ปอกเปลือกและหั่นเป็นชิ้นขนาดพอดีคำ",
+        "ใส่งาคั่ว น้ำตาล กระเทียมขูด น้ำมันงา และ ``อาจิปอง'' ลงในชามและผสม",
+        "เพิ่มอะโวคาโดและผสม"
+      ],
+      "id": [
+        "Potong alpukat menjadi empat bagian memanjang dan buang bijinya dengan memutarnya di sepanjang potongan. Kupas dan potong-potong seukuran sekali gigit.",
+        "Tambahkan biji wijen panggang, gula pasir, bawang putih parut, minyak wijen, dan ``Ajipon'' ke dalam mangkuk dan aduk.",
+        "Tambahkan alpukat dan aduk."
+      ],
+      "ms": [
+        "Potong alpukat menjadi empat bahagian memanjang dan keluarkan bijinya dengan memutarkannya di sepanjang potongan. Kupas dan potong bersaiz gigitan.",
+        "Masukkan bijan panggang, gula, bawang putih parut, minyak bijan, dan ``Ajipon'' ke dalam mangkuk dan gaul.",
+        "Masukkan alpukat dan gaul."
+      ],
+      "ko": [
+        "아보카도는 세로 4등분에 컷을 넣고, 컷을 따라 빙빙 돌면서 씨를 잡는다. 껍질을 벗기고 한입 크기로 자른다.",
+        "그릇에 딸기, 설탕, 강마늘, 참기름, 맛을 넣고 섞는다.",
+        "에 아보카도를 넣고 섞는다."
+      ]
+    }
   }
 ]

@@ -320706,5 +320706,649 @@
         "에 아보카도를 넣고 섞는다."
       ]
     }
+  },
+  {
+    "id": "5b56db9e",
+    "source_url": "https://www.mizkan.co.jp/ouchirecipe/recipe/?menu_id=21908",
+    "source_site": "Mizkan",
+    "title_ja": "カンタン！酢キャベツ",
+    "description_ja": "",
+    "ingredients": [
+      {
+        "name_ja": "キャベツ",
+        "amount": "１／８個（１５０ｇ）",
+        "name_translated": {
+          "en": "cabbage",
+          "zh_tw": "高麗菜",
+          "zh_cn": "卷心菜",
+          "vi": "bắp cải",
+          "hi": "पत्ता गोभी",
+          "ru": "капуста",
+          "th": "กะหล่ำปลี",
+          "id": "kubis",
+          "ms": "kubis",
+          "ko": "양배추"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%82%AD%E3%83%A3%E3%83%99%E3%83%84&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%82%AD%E3%83%A3%E3%83%99%E3%83%84/?tag="
+      },
+      {
+        "name_ja": "ミツカン　カンタン酢",
+        "amount": "１００ｍｌ",
+        "name_translated": {
+          "en": "Mizkan Kantan Vinegar",
+          "zh_tw": "味滋康甘丹醋",
+          "zh_cn": "味滋康甘丹醋",
+          "vi": "Giấm Mizkan Kantan",
+          "hi": "मिज़कान कंटन सिरका",
+          "ru": "Мизкан Кантанский уксус",
+          "th": "น้ำส้มสายชูมิซกัน กันตัน",
+          "id": "Cuka Mizkan Kantan",
+          "ms": "Cuka Mizkan Kantan",
+          "ko": "미츠칸 칸탄초"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E3%82%AB%E3%83%B3%E3%82%BF%E3%83%B3%E9%85%A2&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E3%82%AB%E3%83%B3%E3%82%BF%E3%83%B3%E9%85%A2/?tag="
+      },
+      {
+        "name_ja": "１",
+        "amount": "にする。",
+        "name_translated": {
+          "en": "1",
+          "zh_tw": "1",
+          "zh_cn": "1",
+          "vi": "1",
+          "hi": "1",
+          "ru": "1",
+          "th": "1",
+          "id": "1",
+          "ms": "1",
+          "ko": "1"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%91&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%91/?tag="
+      },
+      {
+        "name_ja": "２",
+        "amount": "ビンなどの容器にキャベツを入れ、「カンタン酢」を注ぎ入れる。冷蔵庫で半日漬け込む。",
+        "name_translated": {
+          "en": "2",
+          "zh_tw": "2",
+          "zh_cn": "2",
+          "vi": "2",
+          "hi": "2",
+          "ru": "2",
+          "th": "2",
+          "id": "2",
+          "ms": "2",
+          "ko": "2"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%92&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%92/?tag="
+      },
+      {
+        "name_ja": "基本の簡単コールスロー",
+        "amount": "適量",
+        "name_translated": {
+          "en": "Easy basic coleslaw",
+          "zh_tw": "簡單的基本涼拌高麗菜",
+          "zh_cn": "简单的基本凉拌卷心菜",
+          "vi": "Xà lách trộn cơ bản dễ dàng",
+          "hi": "आसान बुनियादी कोलस्लॉ",
+          "ru": "Простой базовый салат из капусты",
+          "th": "โคลสลอว์พื้นฐานง่ายๆ",
+          "id": "Coleslaw dasar yang mudah",
+          "ms": "Coleslaw asas yang mudah",
+          "ko": "기본 간단 콜슬로우"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E5%9F%BA%E6%9C%AC%E3%81%AE%E7%B0%A1%E5%8D%98%E3%82%B3%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%AD%E3%83%BC&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E5%9F%BA%E6%9C%AC%E3%81%AE%E7%B0%A1%E5%8D%98%E3%82%B3%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%AD%E3%83%BC/?tag="
+      },
+      {
+        "name_ja": "レンジで！無限キャベツ",
+        "amount": "適量",
+        "name_translated": {
+          "en": "In the microwave! infinite cabbage",
+          "zh_tw": "在微波爐裡！無限高麗菜",
+          "zh_cn": "在微波炉里！无限卷心菜",
+          "vi": "Trong lò vi sóng! bắp cải vô hạn",
+          "hi": "माइक्रोवेव में! अनंत गोभी",
+          "ru": "В микроволновке! бесконечная капуста",
+          "th": "ในไมโครเวฟ! กะหล่ำปลีไม่มีที่สิ้นสุด",
+          "id": "Di dalam microwave! kubis yang tak terbatas",
+          "ms": "Dalam ketuhar gelombang mikro! kubis tak terhingga",
+          "ko": "범위에서! 무한 양배추"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%AC%E3%83%B3%E3%82%B8%E3%81%A7%EF%BC%81%E7%84%A1%E9%99%90%E3%82%AD%E3%83%A3%E3%83%99%E3%83%84&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%AC%E3%83%B3%E3%82%B8%E3%81%A7%EF%BC%81%E7%84%A1%E9%99%90%E3%82%AD%E3%83%A3%E3%83%99%E3%83%84/?tag="
+      },
+      {
+        "name_ja": "秒速！パリパリおつまみキャベツ",
+        "amount": "適量",
+        "name_translated": {
+          "en": "per second! Crispy appetizer cabbage",
+          "zh_tw": "每秒！脆皮開胃白菜",
+          "zh_cn": "每秒！脆皮开胃白菜",
+          "vi": "mỗi giây! Bắp cải giòn khai vị",
+          "hi": "प्रति सेकंड! कुरकुरी क्षुधावर्धक पत्तागोभी",
+          "ru": "в секунду! Хрустящая закуска из капусты",
+          "th": "ต่อวินาที! กะหล่ำปลีเรียกน้ำย่อยกรอบ",
+          "id": "per detik! Kubis pembuka yang renyah",
+          "ms": "sesaat! Kobis pembuka selera yang rangup",
+          "ko": "초속! 파리 파리 안주 양배추"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E7%A7%92%E9%80%9F%EF%BC%81%E3%83%91%E3%83%AA%E3%83%91%E3%83%AA%E3%81%8A%E3%81%A4%E3%81%BE%E3%81%BF%E3%82%AD%E3%83%A3%E3%83%99%E3%83%84&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E7%A7%92%E9%80%9F%EF%BC%81%E3%83%91%E3%83%AA%E3%83%91%E3%83%AA%E3%81%8A%E3%81%A4%E3%81%BE%E3%81%BF%E3%82%AD%E3%83%A3%E3%83%99%E3%83%84/?tag="
+      }
+    ],
+    "steps_ja": [
+      "キャベツはせん切りにする。",
+      "ビンなどの容器にキャベツを入れ、「カンタン酢」を注ぎ入れる。冷蔵庫で半日漬け込む。",
+      "基本の簡単コールスロー",
+      "レンジで！無限キャベツ",
+      "秒速！パリパリおつまみキャベツ"
+    ],
+    "image_url": "",
+    "title": {
+      "en": "Easy! vinegar cabbage",
+      "zh_tw": "簡單的！醋白菜",
+      "zh_cn": "简单的！醋白菜",
+      "vi": "Dễ! bắp cải giấm",
+      "hi": "आसान! सिरका गोभी",
+      "ru": "Легкий! капуста с уксусом",
+      "th": "ง่าย! น้ำส้มสายชูกะหล่ำปลี",
+      "id": "Mudah! kubis cuka",
+      "ms": "Mudah! kubis cuka",
+      "ko": "간단! 식초 양배추"
+    },
+    "description": {
+      "en": "",
+      "zh_tw": "",
+      "zh_cn": "",
+      "vi": "",
+      "hi": "",
+      "ru": "",
+      "th": "",
+      "id": "",
+      "ms": "",
+      "ko": ""
+    },
+    "steps": {
+      "en": [
+        "Cut the cabbage into thin strips.",
+        "Place the cabbage in a container such as a bottle and pour in the ``simple vinegar.'' Marinate in the refrigerator for half a day.",
+        "Easy basic coleslaw",
+        "In the microwave! infinite cabbage",
+        "per second! Crispy appetizer cabbage"
+      ],
+      "zh_tw": [
+        "將高麗菜切成細條。",
+        "將高麗菜放入瓶子等容器中，倒入「簡單醋」。在冰箱中醃製半天。",
+        "簡單的基本涼拌高麗菜",
+        "在微波爐裡！無限高麗菜",
+        "每秒！脆皮開胃白菜"
+      ],
+      "zh_cn": [
+        "将卷心菜切成细条。",
+        "将卷心菜放入瓶子等容器中，倒入“简单醋”。在冰箱中腌制半天。",
+        "简单的基本凉拌卷心菜",
+        "在微波炉里！无限卷心菜",
+        "每秒！脆皮开胃白菜"
+      ],
+      "vi": [
+        "Cắt bắp cải thành dải mỏng.",
+        "Đặt bắp cải vào hộp chẳng hạn như chai và đổ ''giấm đơn giản''. Ướp trong tủ lạnh nửa ngày.",
+        "Xà lách trộn cơ bản dễ dàng",
+        "Trong lò vi sóng! bắp cải vô hạn",
+        "mỗi giây! Bắp cải giòn khai vị"
+      ],
+      "hi": [
+        "पत्तागोभी को पतली स्ट्रिप्स में काट लें.",
+        "पत्तागोभी को एक बोतल जैसे कंटेनर में रखें और ``साधारण सिरका'' डालें। आधे दिन के लिए रेफ्रिजरेटर में मैरीनेट करें।",
+        "आसान बुनियादी कोलस्लॉ",
+        "माइक्रोवेव में! अनंत गोभी",
+        "प्रति सेकंड! कुरकुरी क्षुधावर्धक पत्तागोभी"
+      ],
+      "ru": [
+        "Капусту нарезаем тонкими полосками.",
+        "Поместите капусту в емкость, например в бутылку, и залейте ее «простым уксусом». Маринуйте в холодильнике полдня.",
+        "Простой базовый салат из капусты",
+        "В микроволновке! бесконечная капуста",
+        "в секунду! Хрустящая закуска из капусты"
+      ],
+      "th": [
+        "ตัดกะหล่ำปลีเป็นเส้นบาง ๆ",
+        "วางกะหล่ำปลีในภาชนะ เช่น ขวด แล้วเท ``น้ำส้มสายชูธรรมดา'' ลงไป หมักในตู้เย็นเป็นเวลาครึ่งวัน",
+        "โคลสลอว์พื้นฐานง่ายๆ",
+        "ในไมโครเวฟ! กะหล่ำปลีไม่มีที่สิ้นสุด",
+        "ต่อวินาที! กะหล่ำปลีเรียกน้ำย่อยกรอบ"
+      ],
+      "id": [
+        "Potong kubis menjadi irisan tipis.",
+        "Tempatkan kubis dalam wadah seperti botol dan tuangkan ``cuka sederhana''. Rendam di lemari es selama setengah hari.",
+        "Coleslaw dasar yang mudah",
+        "Di dalam microwave! kubis yang tak terbatas",
+        "per detik! Kubis pembuka yang renyah"
+      ],
+      "ms": [
+        "Potong kubis menjadi jalur nipis.",
+        "Letakkan kobis dalam bekas seperti botol dan tuangkan ``cuka ringkas.'' Perap dalam peti sejuk selama setengah hari.",
+        "Coleslaw asas yang mudah",
+        "Dalam ketuhar gelombang mikro! kubis tak terhingga",
+        "sesaat! Kobis pembuka selera yang rangup"
+      ],
+      "ko": [
+        "양배추는 깎는다.",
+        "병 등의 용기에 양배추를 넣고 \"간단식초\"를 붓는다. 냉장고에서 반나절 절임.",
+        "기본 간단 콜슬로우",
+        "범위에서! 무한 양배추",
+        "초속! 파리 파리 안주 양배추"
+      ]
+    }
+  },
+  {
+    "id": "ec72e81e",
+    "source_url": "https://www.mizkan.co.jp/ouchirecipe/recipe/?menu_id=23830",
+    "source_site": "Mizkan",
+    "title_ja": "ペッパー香るパプリカのピクルス",
+    "description_ja": "",
+    "ingredients": [
+      {
+        "name_ja": "赤パプリカ",
+        "amount": "１個",
+        "name_translated": {
+          "en": "red paprika",
+          "zh_tw": "紅辣椒粉",
+          "zh_cn": "红辣椒粉",
+          "vi": "ớt đỏ",
+          "hi": "लाल शिमला मिर्च",
+          "ru": "красная паприка",
+          "th": "พริกหยวกแดง",
+          "id": "paprika merah",
+          "ms": "paprika merah",
+          "ko": "레드 파프리카"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E8%B5%A4%E3%83%91%E3%83%97%E3%83%AA%E3%82%AB&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E8%B5%A4%E3%83%91%E3%83%97%E3%83%AA%E3%82%AB/?tag="
+      },
+      {
+        "name_ja": "粒こしょう（黒）",
+        "amount": "小さじ２",
+        "name_translated": {
+          "en": "Ground pepper (black)",
+          "zh_tw": "胡椒粉（黑）",
+          "zh_cn": "胡椒粉（黑）",
+          "vi": "Tiêu xay (đen)",
+          "hi": "पिसी हुई काली मिर्च (काली)",
+          "ru": "Перец молотый (черный)",
+          "th": "พริกไทยป่น (ดำ)",
+          "id": "Lada bubuk (hitam)",
+          "ms": "Lada kisar (hitam)",
+          "ko": "곡물 후추 (검정)"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E7%B2%92%E3%81%93%E3%81%97%E3%82%87%E3%81%86%EF%BC%88%E9%BB%92%EF%BC%89&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E7%B2%92%E3%81%93%E3%81%97%E3%82%87%E3%81%86%EF%BC%88%E9%BB%92%EF%BC%89/?tag="
+      },
+      {
+        "name_ja": "ミツカン　カンタン酢",
+        "amount": "１００ｍｌ",
+        "name_translated": {
+          "en": "Mizkan Kantan Vinegar",
+          "zh_tw": "味滋康甘丹醋",
+          "zh_cn": "味滋康甘丹醋",
+          "vi": "Giấm Mizkan Kantan",
+          "hi": "मिज़कान कंटन सिरका",
+          "ru": "Мизкан Кантанский уксус",
+          "th": "น้ำส้มสายชูมิซกัน กันตัน",
+          "id": "Cuka Mizkan Kantan",
+          "ms": "Cuka Mizkan Kantan",
+          "ko": "미츠칸 칸탄초"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E3%82%AB%E3%83%B3%E3%82%BF%E3%83%B3%E9%85%A2&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E3%82%AB%E3%83%B3%E3%82%BF%E3%83%B3%E9%85%A2/?tag="
+      },
+      {
+        "name_ja": "１",
+        "amount": "する。",
+        "name_translated": {
+          "en": "1",
+          "zh_tw": "1",
+          "zh_cn": "1",
+          "vi": "1",
+          "hi": "1",
+          "ru": "1",
+          "th": "1",
+          "id": "1",
+          "ms": "1",
+          "ko": "1"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%91&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%91/?tag="
+      },
+      {
+        "name_ja": "２",
+        "amount": "と粒こしょうを入れ、「カンタン酢」を注ぎ、冷蔵庫で３時間漬ける。",
+        "name_translated": {
+          "en": "2",
+          "zh_tw": "2",
+          "zh_cn": "2",
+          "vi": "2",
+          "hi": "2",
+          "ru": "2",
+          "th": "2",
+          "id": "2",
+          "ms": "2",
+          "ko": "2"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%92&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%92/?tag="
+      }
+    ],
+    "steps_ja": [
+      "パプリカは５ｍｍ幅で縦に薄切りする。",
+      "ビンなどの容器に１と粒こしょうを入れ、「カンタン酢」を注ぎ、冷蔵庫で３時間漬ける。"
+    ],
+    "image_url": "",
+    "title": {
+      "en": "Pepper-flavored paprika pickles",
+      "zh_tw": "辣椒辣椒醬菜",
+      "zh_cn": "辣椒味辣椒酱菜",
+      "vi": "Dưa chua ớt bột hương vị tiêu",
+      "hi": "काली मिर्च के स्वाद वाला लाल शिमला मिर्च का अचार",
+      "ru": "Соленые огурцы из паприки со вкусом перца",
+      "th": "พริกขี้หนูรสพริก",
+      "id": "Acar paprika rasa lada",
+      "ms": "Acar paprika berperisa lada",
+      "ko": "페퍼 향기로운 파프리카의 피클"
+    },
+    "description": {
+      "en": "",
+      "zh_tw": "",
+      "zh_cn": "",
+      "vi": "",
+      "hi": "",
+      "ru": "",
+      "th": "",
+      "id": "",
+      "ms": "",
+      "ko": ""
+    },
+    "steps": {
+      "en": [
+        "Slice the paprika lengthwise into 5mm pieces.",
+        "Put 1 grain of pepper in a container such as a bottle, pour in ``simple vinegar,'' and soak in the refrigerator for 3 hours."
+      ],
+      "zh_tw": [
+        "將辣椒粉縱向切成 5 毫米的片。",
+        "將1粒胡椒放入瓶子等容器中，倒入“簡單的醋”，然後在冰箱中浸泡3小時。"
+      ],
+      "zh_cn": [
+        "将辣椒粉纵向切成 5 毫米的片。",
+        "将1粒胡椒放入瓶子等容器中，倒入“简单的醋”，然后在冰箱中浸泡3小时。"
+      ],
+      "vi": [
+        "Cắt ớt bột theo chiều dọc thành miếng 5 mm.",
+        "Cho 1 hạt tiêu vào hộp như chai, đổ giấm đơn giản vào và ngâm trong tủ lạnh trong 3 giờ."
+      ],
+      "hi": [
+        "लाल शिमला मिर्च को लंबाई में 5 मिमी के टुकड़ों में काट लें।",
+        "एक बोतल जैसे कंटेनर में काली मिर्च का 1 दाना डालें, ``साधारण सिरका'' डालें और 3 घंटे के लिए रेफ्रिजरेटर में भिगोएँ।"
+      ],
+      "ru": [
+        "Нарежьте перец вдоль на кусочки толщиной 5 мм.",
+        "Положите 1 зернышко перца в емкость, например в бутылку, залейте «простым уксусом» и поставьте в холодильник на 3 часа."
+      ],
+      "th": [
+        "หั่นปาปริก้าตามยาวเป็นชิ้นขนาด 5 มม.",
+        "ใส่พริกไทย 1 เม็ดลงในภาชนะ เช่น ขวด เท ``น้ำส้มสายชูธรรมดา'' แล้วแช่ในตู้เย็นเป็นเวลา 3 ชั่วโมง"
+      ],
+      "id": [
+        "Iris paprika memanjang menjadi potongan 5mm.",
+        "Masukkan 1 butir merica ke dalam wadah seperti botol, tuang ``cuka sederhana'', lalu rendam di lemari es selama 3 jam."
+      ],
+      "ms": [
+        "Potong paprika memanjang menjadi kepingan 5mm.",
+        "Masukkan 1 butir lada sulah ke dalam bekas seperti botol, tuangkan ``cuka ringkas,'' dan rendam dalam peti sejuk selama 3 jam."
+      ],
+      "ko": [
+        "파프리카는 5mm 폭으로 세로로 얇게 썬다.",
+        "병 등의 용기에 1과 곡물 후추를 넣고 \"간단 식초\"를 부어 냉장고에서 3 시간에 담근다."
+      ]
+    }
+  },
+  {
+    "id": "a30b8bc8",
+    "source_url": "https://www.mizkan.co.jp/ouchirecipe/recipe/?menu_id=9274",
+    "source_site": "Mizkan",
+    "title_ja": "パプリカのぽんマリネ",
+    "description_ja": "",
+    "ingredients": [
+      {
+        "name_ja": "赤パプリカ",
+        "amount": "１／２個",
+        "name_translated": {
+          "en": "red paprika",
+          "zh_tw": "紅辣椒粉",
+          "zh_cn": "红辣椒粉",
+          "vi": "ớt đỏ",
+          "hi": "लाल शिमला मिर्च",
+          "ru": "красная паприка",
+          "th": "พริกหยวกแดง",
+          "id": "paprika merah",
+          "ms": "paprika merah",
+          "ko": "레드 파프리카"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E8%B5%A4%E3%83%91%E3%83%97%E3%83%AA%E3%82%AB&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E8%B5%A4%E3%83%91%E3%83%97%E3%83%AA%E3%82%AB/?tag="
+      },
+      {
+        "name_ja": "黄パプリカ",
+        "amount": "１／２個",
+        "name_translated": {
+          "en": "yellow paprika",
+          "zh_tw": "黃辣椒粉",
+          "zh_cn": "黄辣椒粉",
+          "vi": "ớt bột màu vàng",
+          "hi": "पीला लाल शिमला मिर्च",
+          "ru": "желтая паприка",
+          "th": "พริกหยวกสีเหลือง",
+          "id": "paprika kuning",
+          "ms": "paprika kuning",
+          "ko": "노란 파프리카"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E9%BB%84%E3%83%91%E3%83%97%E3%83%AA%E3%82%AB&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E9%BB%84%E3%83%91%E3%83%97%E3%83%AA%E3%82%AB/?tag="
+      },
+      {
+        "name_ja": "ミツカン　味ぽんＭＩＬＤ",
+        "amount": "大さじ３",
+        "name_translated": {
+          "en": "Mizkan Ajipon MILD",
+          "zh_tw": "味滋康 Ajipon 溫和",
+          "zh_cn": "味滋康 Ajipon 温和",
+          "vi": "Mizkan Ajipon MILD",
+          "hi": "मिज़कान अजिपोन मिल्ड",
+          "ru": "Мизкан Аджипон МИЛД",
+          "th": "มิซกัน อาจิปอน MILD",
+          "id": "Mizkan Ajipon MILD",
+          "ms": "Mizkan Ajipon MILD",
+          "ko": "미츠칸 미폰 MILD"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E5%91%B3%E3%81%BD%E3%82%93%EF%BC%AD%EF%BC%A9%EF%BC%AC%EF%BC%A4&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E5%91%B3%E3%81%BD%E3%82%93%EF%BC%AD%EF%BC%A9%EF%BC%AC%EF%BC%A4/?tag="
+      },
+      {
+        "name_ja": "オリーブオイル",
+        "amount": "大さじ１",
+        "name_translated": {
+          "en": "olive oil",
+          "zh_tw": "橄欖油",
+          "zh_cn": "橄榄油",
+          "vi": "dầu ô liu",
+          "hi": "जैतून का तेल",
+          "ru": "оливковое масло",
+          "th": "น้ำมันมะกอก",
+          "id": "minyak zaitun",
+          "ms": "minyak zaitun",
+          "ko": "올리브 오일"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%82%AA%E3%83%AA%E3%83%BC%E3%83%96%E3%82%AA%E3%82%A4%E3%83%AB&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%82%AA%E3%83%AA%E3%83%BC%E3%83%96%E3%82%AA%E3%82%A4%E3%83%AB/?tag="
+      },
+      {
+        "name_ja": "ブラックペッパー",
+        "amount": "少々",
+        "name_translated": {
+          "en": "black pepper",
+          "zh_tw": "黑胡椒",
+          "zh_cn": "黑胡椒",
+          "vi": "hạt tiêu đen",
+          "hi": "काली मिर्च",
+          "ru": "черный перец",
+          "th": "พริกไทยดำ",
+          "id": "lada hitam",
+          "ms": "lada hitam",
+          "ko": "블랙 페퍼"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%83%9A%E3%83%83%E3%83%91%E3%83%BC&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%83%9A%E3%83%83%E3%83%91%E3%83%BC/?tag="
+      },
+      {
+        "name_ja": "１",
+        "amount": "パプリカは縦１ｃｍ幅に切る。水でサッと洗い、耐熱皿にのせ、ラップをして電子レンジ（６００Ｗ）で２分３０秒加熱する。",
+        "name_translated": {
+          "en": "1",
+          "zh_tw": "1",
+          "zh_cn": "1",
+          "vi": "1",
+          "hi": "1",
+          "ru": "1",
+          "th": "1",
+          "id": "1",
+          "ms": "1",
+          "ko": "1"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%91&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%91/?tag="
+      },
+      {
+        "name_ja": "２",
+        "amount": "温かいうちに、オリーブオイル、「味ぽんＭＩＬＤ」を混ぜたものに漬け込む。",
+        "name_translated": {
+          "en": "2",
+          "zh_tw": "2",
+          "zh_cn": "2",
+          "vi": "2",
+          "hi": "2",
+          "ru": "2",
+          "th": "2",
+          "id": "2",
+          "ms": "2",
+          "ko": "2"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%92&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%92/?tag="
+      },
+      {
+        "name_ja": "３",
+        "amount": "粗熱が取れたら皿に移し、ブラックペッパーをお好みでふる。",
+        "name_translated": {
+          "en": "3",
+          "zh_tw": "3",
+          "zh_cn": "3",
+          "vi": "3",
+          "hi": "3",
+          "ru": "3",
+          "th": "3",
+          "id": "3",
+          "ms": "3",
+          "ko": "3"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%93&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%93/?tag="
+      }
+    ],
+    "steps_ja": [
+      "パプリカは縦１ｃｍ幅に切る。水でサッと洗い、耐熱皿にのせ、ラップをして電子レンジ（６００Ｗ）で２分３０秒加熱する。",
+      "温かいうちに、オリーブオイル、「味ぽんＭＩＬＤ」を混ぜたものに漬け込む。",
+      "粗熱が取れたら皿に移し、ブラックペッパーをお好みでふる。"
+    ],
+    "image_url": "",
+    "title": {
+      "en": "Marinated paprika",
+      "zh_tw": "醃辣椒粉",
+      "zh_cn": "腌制辣椒粉",
+      "vi": "ớt bột ướp",
+      "hi": "मसालेदार लाल शिमला मिर्च",
+      "ru": "Маринованная паприка",
+      "th": "พริกขี้หนูหมัก",
+      "id": "paprika yang diasinkan",
+      "ms": "Paprika perap",
+      "ko": "파프리카 폰 마리네"
+    },
+    "description": {
+      "en": "",
+      "zh_tw": "",
+      "zh_cn": "",
+      "vi": "",
+      "hi": "",
+      "ru": "",
+      "th": "",
+      "id": "",
+      "ms": "",
+      "ko": ""
+    },
+    "steps": {
+      "en": [
+        "Cut the paprika lengthwise into 1cm wide pieces. Quickly wash with water, place on a heat-resistant plate, cover with plastic wrap, and heat in the microwave (600W) for 2 minutes and 30 seconds.",
+        "While still warm, marinate in a mixture of olive oil and ``Ajipon MILD''.",
+        "Once cooled, transfer to a plate and sprinkle with black pepper to taste."
+      ],
+      "zh_tw": [
+        "將辣椒粉縱向切成1公分寬的塊狀。快速用水清洗，放在耐熱盤上，蓋上保鮮膜，放入微波爐（600W）加熱2分30秒。",
+        "趁熱，用橄欖油和“Ajipon MILD”的混合物醃製。",
+        "冷卻後，盛入盤中，撒上黑胡椒調味。"
+      ],
+      "zh_cn": [
+        "将辣椒粉纵向切成1厘米宽的块。快速用水清洗，放在耐热盘上，盖上保鲜膜，放入微波炉（600W）加热2分30秒。",
+        "趁热，用橄榄油和“Ajipon MILD”的混合物腌制。",
+        "冷却后，盛入盘中，撒上黑胡椒调味。"
+      ],
+      "vi": [
+        "Cắt ớt bột theo chiều dọc thành miếng rộng 1 cm. Rửa nhanh bằng nước, đặt lên đĩa chịu nhiệt, dùng màng bọc thực phẩm bọc lại và hâm nóng trong lò vi sóng (600W) trong 2 phút 30 giây.",
+        "Khi vẫn còn ấm, hãy ướp với hỗn hợp dầu ô liu và ``Ajipon MILD''.",
+        "Sau khi nguội, bày ra đĩa và rắc hạt tiêu đen cho vừa ăn."
+      ],
+      "hi": [
+        "लाल शिमला मिर्च को लंबाई में 1 सेमी चौड़े टुकड़ों में काट लें। तुरंत पानी से धोएं, गर्मी प्रतिरोधी प्लेट पर रखें, प्लास्टिक रैप से ढकें और माइक्रोवेव (600W) में 2 मिनट और 30 सेकंड के लिए गर्म करें।",
+        "अभी भी गर्म होने पर, जैतून के तेल और ``अजिपोन माइल्ड'' के मिश्रण में मैरीनेट करें।",
+        "ठंडा होने पर एक प्लेट में निकाल लें और स्वादानुसार काली मिर्च छिड़कें।"
+      ],
+      "ru": [
+        "Нарежьте перец вдоль на кусочки шириной 1 см. Быстро промойте водой, положите на термостойкую тарелку, накройте полиэтиленовой пленкой и нагрейте в микроволновой печи (600 Вт) в течение 2 минут 30 секунд.",
+        "Пока он еще теплый, замаринуйте его в смеси оливкового масла и «Аджипон МИЛД».",
+        "Когда остынет, переложите на тарелку и посыпьте черным перцем по вкусу."
+      ],
+      "th": [
+        "หั่นพริกตามยาวเป็นชิ้นกว้าง 1 ซม. ล้างด้วยน้ำอย่างรวดเร็ว วางบนจานทนความร้อน ปิดด้วยพลาสติกแร็ป แล้วนำไปให้ความร้อนในไมโครเวฟ (600W) เป็นเวลา 2 นาที 30 วินาที",
+        "ในขณะที่ยังอุ่นอยู่ ให้หมักด้วยน้ำมันมะกอกและ ``Ajipon MILD''",
+        "เมื่อเย็นแล้ว ตักใส่จาน โรยพริกไทยดำตามชอบ"
+      ],
+      "id": [
+        "Potong paprika memanjang menjadi potongan selebar 1 cm. Segera cuci dengan air, letakkan di piring tahan panas, tutup dengan plastik wrap, dan panaskan dalam microwave (600W) selama 2 menit 30 detik.",
+        "Selagi masih hangat, marinate dengan campuran minyak zaitun dan ``Ajipon MILD''.",
+        "Setelah dingin, pindahkan ke piring dan taburi lada hitam secukupnya."
+      ],
+      "ms": [
+        "Potong paprika memanjang menjadi kepingan selebar 1cm. Basuh dengan cepat dengan air, letakkan di atas pinggan tahan panas, tutup dengan bungkus plastik, dan panaskan dalam ketuhar gelombang mikro (600W) selama 2 minit dan 30 saat.",
+        "Semasa masih suam, perap dalam campuran minyak zaitun dan ``Ajipon MILD''.",
+        "Setelah sejuk, pindahkan ke dalam pinggan dan taburkan lada hitam secukup rasa."
+      ],
+      "ko": [
+        "파프리카는 세로 1cm 폭으로 자른다. 물로 헹구고 내열 접시에 얹어 랩을 하여 전자레인지(600W)로 2분 30초 가열한다.",
+        "따뜻한 동안 올리브 오일, \"아이폰 MILD\"를 섞은 것에 담근다.",
+        "조열이 잡히면 접시에 옮기고, 블랙 페퍼를 기호로 친다."
+      ]
+    }
   }
 ]

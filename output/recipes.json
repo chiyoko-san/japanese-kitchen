@@ -323370,5 +323370,265 @@
         "에 양파, 가다랭이를 곁들여, 「아이폰」을 뿌린다."
       ]
     }
+  },
+  {
+    "id": "777fbf85",
+    "source_url": "https://www.mizkan.co.jp/ouchirecipe/recipe/?menu_id=23179",
+    "source_site": "Mizkan",
+    "title_ja": "５分であんかけ豆腐丼",
+    "description_ja": "",
+    "ingredients": [
+      {
+        "name_ja": "ご飯",
+        "amount": "茶碗２杯分",
+        "name_translated": {
+          "en": "cooked rice",
+          "zh_tw": "乾飯",
+          "zh_cn": "干饭",
+          "vi": "cơm chín",
+          "hi": "पका हुआ चावल",
+          "ru": "приготовленный рис",
+          "th": "ข้าวสวย",
+          "id": "nasi",
+          "ms": "nasi masak",
+          "ko": "밥"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%94%E9%A3%AF&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%94%E9%A3%AF/?tag="
+      },
+      {
+        "name_ja": "ミツカン　追いがつおつゆ２倍",
+        "amount": "大さじ２",
+        "name_translated": {
+          "en": "Mizkan Oigatsu Otsuyu x2",
+          "zh_tw": "味滋館大月大津 x2",
+          "zh_cn": "味滋馆大月大津 x2",
+          "vi": "Mizkan Oigatsu Otsuyu x2",
+          "hi": "मिज़कान ओइगात्सु ओत्सुयु x2",
+          "ru": "Мизкан Ойгацу Оцую x2",
+          "th": "มิซคัง โออิงัตสึ โอทสึยุ x2",
+          "id": "Mizkan Oigatsu Otsuyu x2",
+          "ms": "Mizkan Oigatsu Otsuyu x2",
+          "ko": "미쓰칸 쫓는 츠츠유 2배"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E8%BF%BD%E3%81%84%E3%81%8C%E3%81%A4%E3%81%8A%E3%81%A4%E3%82%86%EF%BC%92%E5%80%8D&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E8%BF%BD%E3%81%84%E3%81%8C%E3%81%A4%E3%81%8A%E3%81%A4%E3%82%86%EF%BC%92%E5%80%8D/?tag="
+      },
+      {
+        "name_ja": "水",
+        "amount": "大さじ２",
+        "name_translated": {
+          "en": "water",
+          "zh_tw": "水",
+          "zh_cn": "水",
+          "vi": "Nước",
+          "hi": "पानी",
+          "ru": "вода",
+          "th": "น้ำ",
+          "id": "air",
+          "ms": "air",
+          "ko": "물"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E6%B0%B4&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E6%B0%B4/?tag="
+      },
+      {
+        "name_ja": "片栗粉",
+        "amount": "小さじ１",
+        "name_translated": {
+          "en": "potato starch",
+          "zh_tw": "馬鈴薯澱粉",
+          "zh_cn": "马铃薯淀粉",
+          "vi": "tinh bột khoai tây",
+          "hi": "आलू स्टार्च",
+          "ru": "картофельный крахмал",
+          "th": "แป้งมันฝรั่ง",
+          "id": "tepung kentang",
+          "ms": "kanji kentang",
+          "ko": "가문 가루"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E7%89%87%E6%A0%97%E7%B2%89&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E7%89%87%E6%A0%97%E7%B2%89/?tag="
+      },
+      {
+        "name_ja": "絹ごし豆腐",
+        "amount": "１／２丁（１５０ｇ）",
+        "name_translated": {
+          "en": "silken tofu",
+          "zh_tw": "絲豆腐",
+          "zh_cn": "丝豆腐",
+          "vi": "đậu phụ lụa",
+          "hi": "रेशमी टोफू",
+          "ru": "шелковистый тофу",
+          "th": "เต้าหู้ไหม",
+          "id": "tahu sutra",
+          "ms": "tauhu sutera",
+          "ko": "실크 두부"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E7%B5%B9%E3%81%94%E3%81%97%E8%B1%86%E8%85%90&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E7%B5%B9%E3%81%94%E3%81%97%E8%B1%86%E8%85%90/?tag="
+      },
+      {
+        "name_ja": "かに風味かまぼこ",
+        "amount": "３本",
+        "name_translated": {
+          "en": "Crab flavored kamaboko",
+          "zh_tw": "蟹味魚糕",
+          "zh_cn": "蟹味鱼糕",
+          "vi": "Kamaboko vị cua",
+          "hi": "केकड़े के स्वाद वाला कामाबोको",
+          "ru": "Камабоко со вкусом краба",
+          "th": "คามาโบโกะรสปู",
+          "id": "Kamaboko rasa kepiting",
+          "ms": "Kamaboko berperisa ketam",
+          "ko": "게 풍미 어묵"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%8B%E3%81%AB%E9%A2%A8%E5%91%B3%E3%81%8B%E3%81%BE%E3%81%BC%E3%81%93&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%8B%E3%81%AB%E9%A2%A8%E5%91%B3%E3%81%8B%E3%81%BE%E3%81%BC%E3%81%93/?tag="
+      },
+      {
+        "name_ja": "小ねぎ　（小口切り）",
+        "amount": "お好みで",
+        "name_translated": {
+          "en": "Onion (cut into small pieces)",
+          "zh_tw": "洋蔥（切小塊）",
+          "zh_cn": "洋葱（切小块）",
+          "vi": "Hành tây (cắt thành miếng nhỏ)",
+          "hi": "प्याज (छोटे टुकड़ों में कटा हुआ)",
+          "ru": "Лук (нарезать небольшими кусочками)",
+          "th": "หัวหอม (หั่นเป็นชิ้นเล็กๆ)",
+          "id": "Bawang bombay (potong kecil-kecil)",
+          "ms": "Bawang besar (potong kecil)",
+          "ko": "작은 양파 (작은 컷)"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E5%B0%8F%E3%81%AD%E3%81%8E%E3%80%80%EF%BC%88%E5%B0%8F%E5%8F%A3%E5%88%87%E3%82%8A%EF%BC%89&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E5%B0%8F%E3%81%AD%E3%81%8E%E3%80%80%EF%BC%88%E5%B0%8F%E5%8F%A3%E5%88%87%E3%82%8A%EF%BC%89/?tag="
+      },
+      {
+        "name_ja": "おろししょうが",
+        "amount": "お好みで",
+        "name_translated": {
+          "en": "Grated ginger",
+          "zh_tw": "薑末",
+          "zh_cn": "姜末",
+          "vi": "Gừng bào sợi",
+          "hi": "कसा हुआ अदरक",
+          "ru": "Тертый имбирь",
+          "th": "ขิงขูด",
+          "id": "jahe parut",
+          "ms": "Halia parut",
+          "ko": "오로시 생강"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%8A%E3%82%8D%E3%81%97%E3%81%97%E3%82%87%E3%81%86%E3%81%8C&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%8A%E3%82%8D%E3%81%97%E3%81%97%E3%82%87%E3%81%86%E3%81%8C/?tag="
+      },
+      {
+        "name_ja": "１",
+        "amount": "深さのある耐熱容器に＜A＞を入れてよく混ぜる。豆腐をスプーンで大きくすくい入れ、かに風味かまぼこを手で割いて入れる。ふんわりとラップをかけて電子レンジ（６００W）で２分加熱する。",
+        "name_translated": {
+          "en": "1",
+          "zh_tw": "1",
+          "zh_cn": "1",
+          "vi": "1",
+          "hi": "1",
+          "ru": "1",
+          "th": "1",
+          "id": "1",
+          "ms": "1",
+          "ko": "1"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%91&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%91/?tag="
+      },
+      {
+        "name_ja": "２",
+        "amount": "をざっくりと混ぜ、ご飯にかける。お好みで、小ねぎとおろししょうがをのせる。",
+        "name_translated": {
+          "en": "2",
+          "zh_tw": "2",
+          "zh_cn": "2",
+          "vi": "2",
+          "hi": "2",
+          "ru": "2",
+          "th": "2",
+          "id": "2",
+          "ms": "2",
+          "ko": "2"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%92&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%92/?tag="
+      }
+    ],
+    "steps_ja": [
+      "深さのある耐熱容器に＜A＞を入れてよく混ぜる。豆腐をスプーンで大きくすくい入れ、かに風味かまぼこを手で割いて入れる。ふんわりとラップをかけて電子レンジ（６００W）で２分加熱する。",
+      "をざっくりと混ぜ、ご飯にかける。お好みで、小ねぎとおろししょうがをのせる。"
+    ],
+    "image_url": "",
+    "title": {
+      "en": "Tofu bowl with sauce in 5 minutes",
+      "zh_tw": "5分鐘內豆腐碗",
+      "zh_cn": "5分钟内豆腐碗",
+      "vi": "Tô đậu hũ sốt trong 5 phút",
+      "hi": "5 मिनिट में सॉस के साथ टोफू बाउल",
+      "ru": "Чаша тофу с соусом за 5 минут",
+      "th": "ชามเต้าหู้พร้อมซอสใน 5 นาที",
+      "id": "Mangkuk tahu dengan saus dalam 5 menit",
+      "ms": "Mangkuk tauhu dengan sos dalam 5 minit",
+      "ko": "5분 만에 팥죽 두부동"
+    },
+    "description": {
+      "en": "",
+      "zh_tw": "",
+      "zh_cn": "",
+      "vi": "",
+      "hi": "",
+      "ru": "",
+      "th": "",
+      "id": "",
+      "ms": "",
+      "ko": ""
+    },
+    "steps": {
+      "en": [
+        "Add <A> to a deep heat-resistant container and mix well. Scoop up the tofu with a spoon and add the crab-flavored kamaboko by breaking it up with your hands. Cover loosely with plastic wrap and heat in the microwave (600W) for 2 minutes.",
+        "Mix roughly and pour over rice. Garnish with green onions and grated ginger, if desired."
+      ],
+      "zh_tw": [
+        "將<A>加入耐熱深容器中並充分混合。用湯匙舀起豆腐，用手打碎加入蟹味魚糕。用保鮮膜鬆鬆地蓋上，然後在微波爐 (600W) 中加熱 2 分鐘。",
+        "大致混合並倒在米飯上。如果需要，可以用蔥和薑末裝飾。"
+      ],
+      "zh_cn": [
+        "将<A>添加到耐热深容器中并充分混合。用勺子舀起豆腐，用手打碎加入蟹味鱼糕。用保鲜膜松松地盖上，然后在微波炉 (600W) 中加热 2 分钟。",
+        "大致混合并倒在米饭上。如果需要，可以用葱和姜末装饰。"
+      ],
+      "vi": [
+        "Thêm <A> vào thùng chứa chịu nhiệt sâu và trộn đều. Dùng thìa múc đậu phụ và thêm kamaboko vị cua bằng cách dùng tay bẻ nhỏ. Đậy kín bằng màng bọc thực phẩm và đun nóng trong lò vi sóng (600W) trong 2 phút.",
+        "Trộn đều và đổ lên cơm. Trang trí với hành lá và gừng nạo nếu muốn."
+      ],
+      "hi": [
+        "<A> को एक गहरे गर्मी प्रतिरोधी कंटेनर में डालें और अच्छी तरह मिलाएँ। टोफू को चम्मच से निकालें और केकड़े के स्वाद वाला कामाबोको अपने हाथों से तोड़कर डालें। प्लास्टिक रैप से ढकें और माइक्रोवेव (600W) में 2 मिनट तक गर्म करें।",
+        "मोटे तौर पर मिलाएं और चावल के ऊपर डालें। चाहें तो हरे प्याज और कसा हुआ अदरक से सजाएँ।"
+      ],
+      "ru": [
+        "Добавьте <А> в глубокую термостойкую емкость и хорошо перемешайте. Зачерпните тофу ложкой и добавьте камабоко со вкусом краба, разбивая его руками. Неплотно накройте полиэтиленовой пленкой и нагрейте в микроволновой печи (600 Вт) в течение 2 минут.",
+        "Тщательно перемешайте и залейте рис. При желании украсьте зеленым луком и тертым имбирем."
+      ],
+      "th": [
+        "เติม <A> ลงในภาชนะทนความร้อนได้ลึก และผสมให้เข้ากัน ใช้ช้อนตักเต้าหู้แล้วเติมคามาโบโกะรสปูโดยใช้มือทุบ ปิดด้วยพลาสติกแรป แล้วนำเข้าไมโครเวฟ (600W) เป็นเวลา 2 นาที",
+        "ผสมให้เข้ากันแล้วเทลงบนข้าว ประดับด้วยหัวหอมสีเขียวและขิงขูดหากต้องการ"
+      ],
+      "id": [
+        "Tambahkan <A> ke dalam wadah tahan panas dan aduk rata. Ambil tahu dengan sendok dan tambahkan kamaboko rasa kepiting dengan cara dipecah-pecah menggunakan tangan. Tutup rapat dengan bungkus plastik dan panaskan dalam microwave (600W) selama 2 menit.",
+        "Aduk kasar lalu tuang ke atas nasi. Hiasi dengan daun bawang dan jahe parut, jika diinginkan."
+      ],
+      "ms": [
+        "Tambahkan <A> ke dalam bekas tahan panas dalam dan gaul rata. Cedok tauhu dengan sudu dan masukkan kamaboko berperisa ketam dengan memecahkannya dengan tangan anda. Tutup longgar dengan bungkus plastik dan panaskan dalam ketuhar gelombang mikro (600W) selama 2 minit.",
+        "Gaul rata dan tuang atas nasi. Hiaskan dengan bawang hijau dan halia parut, jika mahu."
+      ],
+      "ko": [
+        "깊이가 있는 내열 용기에 <A>를 넣고 잘 섞는다. 두부를 숟가락으로 크게 헹구고 게 풍미 어묵을 손으로 쪼개 넣는다. 부드럽게 랩을 걸고 전자레인지(600W)로 2분 가열한다.",
+        "을 푹 섞어 밥에 뿌린다. 기호로, 양파와 강추 생강을 얹는다."
+      ]
+    }
   }
 ]

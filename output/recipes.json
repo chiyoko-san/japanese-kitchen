@@ -323630,5 +323630,258 @@
         "을 푹 섞어 밥에 뿌린다. 기호로, 양파와 강추 생강을 얹는다."
       ]
     }
+  },
+  {
+    "id": "e2132bca",
+    "source_url": "https://www.mizkan.co.jp/ouchirecipe/recipe/?menu_id=22060",
+    "source_site": "Mizkan",
+    "title_ja": "ハマる！ きゅうり漬け",
+    "description_ja": "",
+    "ingredients": [
+      {
+        "name_ja": "きゅうり",
+        "amount": "２本",
+        "name_translated": {
+          "en": "cucumber",
+          "zh_tw": "黃瓜",
+          "zh_cn": "黄瓜",
+          "vi": "quả dưa chuột",
+          "hi": "खीरा",
+          "ru": "огурец",
+          "th": "แตงกวา",
+          "id": "timun",
+          "ms": "timun",
+          "ko": "오이"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%8D%E3%82%85%E3%81%86%E3%82%8A&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%8D%E3%82%85%E3%81%86%E3%82%8A/?tag="
+      },
+      {
+        "name_ja": "ミツカン　追いがつおつゆ２倍",
+        "amount": "大さじ３",
+        "name_translated": {
+          "en": "Mizkan Oigatsu Otsuyu x2",
+          "zh_tw": "味滋館大月大津 x2",
+          "zh_cn": "味滋馆大月大津 x2",
+          "vi": "Mizkan Oigatsu Otsuyu x2",
+          "hi": "मिज़कान ओइगात्सु ओत्सुयु x2",
+          "ru": "Мизкан Ойгацу Оцую x2",
+          "th": "มิซคัง โออิงัตสึ โอทสึยุ x2",
+          "id": "Mizkan Oigatsu Otsuyu x2",
+          "ms": "Mizkan Oigatsu Otsuyu x2",
+          "ko": "미쓰칸 쫓는 츠츠유 2배"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E8%BF%BD%E3%81%84%E3%81%8C%E3%81%A4%E3%81%8A%E3%81%A4%E3%82%86%EF%BC%92%E5%80%8D&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E8%BF%BD%E3%81%84%E3%81%8C%E3%81%A4%E3%81%8A%E3%81%A4%E3%82%86%EF%BC%92%E5%80%8D/?tag="
+      },
+      {
+        "name_ja": "焼き肉のたれ",
+        "amount": "大さじ３",
+        "name_translated": {
+          "en": "Yakiniku sauce",
+          "zh_tw": "烤肉醬",
+          "zh_cn": "烤肉酱",
+          "vi": "sốt Yakiniku",
+          "hi": "याकिनिकु सॉस",
+          "ru": "соус якинику",
+          "th": "ซอสยากินิกุ",
+          "id": "saus yakiniku",
+          "ms": "Sos Yakiniku",
+          "ko": "구운 고기 양념장"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E7%84%BC%E3%81%8D%E8%82%89%E3%81%AE%E3%81%9F%E3%82%8C&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E7%84%BC%E3%81%8D%E8%82%89%E3%81%AE%E3%81%9F%E3%82%8C/?tag="
+      },
+      {
+        "name_ja": "ごま油",
+        "amount": "大さじ１",
+        "name_translated": {
+          "en": "sesame oil",
+          "zh_tw": "香油",
+          "zh_cn": "香油",
+          "vi": "dầu mè",
+          "hi": "तिल का तेल",
+          "ru": "кунжутное масло",
+          "th": "น้ำมันงา",
+          "id": "minyak wijen",
+          "ms": "minyak bijan",
+          "ko": "참기름"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%94%E3%81%BE%E6%B2%B9&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%94%E3%81%BE%E6%B2%B9/?tag="
+      },
+      {
+        "name_ja": "白ごま",
+        "amount": "大さじ１",
+        "name_translated": {
+          "en": "white sesame",
+          "zh_tw": "白芝麻",
+          "zh_cn": "白芝麻",
+          "vi": "mè trắng",
+          "hi": "सफ़ेद तिल",
+          "ru": "белый кунжут",
+          "th": "งาขาว",
+          "id": "wijen putih",
+          "ms": "bijan putih",
+          "ko": "흰 참깨"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E7%99%BD%E3%81%94%E3%81%BE&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E7%99%BD%E3%81%94%E3%81%BE/?tag="
+      },
+      {
+        "name_ja": "おろしにんにく",
+        "amount": "小さじ１",
+        "name_translated": {
+          "en": "grated garlic",
+          "zh_tw": "磨碎的大蒜",
+          "zh_cn": "磨碎的大蒜",
+          "vi": "tỏi nghiền",
+          "hi": "कसा हुआ लहसुन",
+          "ru": "тертый чеснок",
+          "th": "กระเทียมขูด",
+          "id": "bawang putih parut",
+          "ms": "bawang putih parut",
+          "ko": "마늘 마늘"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%8A%E3%82%8D%E3%81%97%E3%81%AB%E3%82%93%E3%81%AB%E3%81%8F&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%8A%E3%82%8D%E3%81%97%E3%81%AB%E3%82%93%E3%81%AB%E3%81%8F/?tag="
+      },
+      {
+        "name_ja": "１",
+        "amount": "きゅうりは横向きに置き、上下に割りばしなどを添え、端から細かく切り込みを入れる。",
+        "name_translated": {
+          "en": "1",
+          "zh_tw": "1",
+          "zh_cn": "1",
+          "vi": "1",
+          "hi": "1",
+          "ru": "1",
+          "th": "1",
+          "id": "1",
+          "ms": "1",
+          "ko": "1"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%91&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%91/?tag="
+      },
+      {
+        "name_ja": "２",
+        "amount": "塩（分量外）をふってなじませ、よく洗いしぼってから２～３cm長さに切る。",
+        "name_translated": {
+          "en": "2",
+          "zh_tw": "2",
+          "zh_cn": "2",
+          "vi": "2",
+          "hi": "2",
+          "ru": "2",
+          "th": "2",
+          "id": "2",
+          "ms": "2",
+          "ko": "2"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%92&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%92/?tag="
+      },
+      {
+        "name_ja": "３",
+        "amount": "を漬ける。",
+        "name_translated": {
+          "en": "3",
+          "zh_tw": "3",
+          "zh_cn": "3",
+          "vi": "3",
+          "hi": "3",
+          "ru": "3",
+          "th": "3",
+          "id": "3",
+          "ms": "3",
+          "ko": "3"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%93&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%93/?tag="
+      }
+    ],
+    "steps_ja": [
+      "きゅうりは横向きに置き、上下に割りばしなどを添え、端から細かく切り込みを入れる。",
+      "塩（分量外）をふってなじませ、よく洗いしぼってから２～３cm長さに切る。",
+      "保存容器に＜A＞を入れ、２を漬ける。"
+    ],
+    "image_url": "",
+    "title": {
+      "en": "I'm addicted to it! pickled cucumber",
+      "zh_tw": "我已經上癮了！醃黃瓜",
+      "zh_cn": "我已经上瘾了！腌黄瓜",
+      "vi": "Tôi nghiện nó! dưa chuột muối",
+      "hi": "मैं इसका आदी हूँ! मसालेदार ककड़ी",
+      "ru": "Я пристрастился к этому! маринованный огурец",
+      "th": "ฉันเสพติดมันแล้ว! แตงกวาดอง",
+      "id": "Saya kecanduan! acar mentimun",
+      "ms": "Saya ketagih! jeruk timun",
+      "ko": "빠져! 오이 절임"
+    },
+    "description": {
+      "en": "",
+      "zh_tw": "",
+      "zh_cn": "",
+      "vi": "",
+      "hi": "",
+      "ru": "",
+      "th": "",
+      "id": "",
+      "ms": "",
+      "ko": ""
+    },
+    "steps": {
+      "en": [
+        "Place the cucumber horizontally, add a chopstick to the top and bottom, and make small incisions starting at the edges.",
+        "Sprinkle with salt (not listed), wash thoroughly, and cut into 2-3 cm lengths.",
+        "Put <A> in a storage container and soak 2."
+      ],
+      "zh_tw": [
+        "將黃瓜水平放置，在頂部和底部添加一根筷子，並從邊緣開始劃出小切口。",
+        "撒上鹽（未列出），徹底洗淨，切成2-3公分長。",
+        "將<A>放入儲存容器中並浸泡2。"
+      ],
+      "zh_cn": [
+        "将黄瓜水平放置，在顶部和底部添加一根筷子，并从边缘开始划出小切口。",
+        "撒上盐（未列出），彻底洗净，切成2-3厘米长。",
+        "将<A>放入储存容器中并浸泡2。"
+      ],
+      "vi": [
+        "Đặt dưa chuột theo chiều ngang, dùng một chiếc đũa ở trên và dưới rồi rạch những đường nhỏ bắt đầu từ mép.",
+        "Rắc muối (không liệt kê), rửa sạch và cắt thành từng đoạn dài 2-3 cm.",
+        "Đặt <A> vào hộp bảo quản và ngâm 2."
+      ],
+      "hi": [
+        "खीरे को क्षैतिज रूप से रखें, ऊपर और नीचे एक चॉपस्टिक लगाएं और किनारों से शुरू करते हुए छोटे चीरे लगाएं।",
+        "नमक छिड़कें (सूचीबद्ध नहीं), अच्छी तरह धो लें, और 2-3 सेमी लंबाई में काट लें।",
+        "<A> को एक भंडारण कंटेनर में रखें और 2 को भिगो दें।"
+      ],
+      "ru": [
+        "Положите огурец горизонтально, сверху и снизу добавьте палочки для еды и сделайте небольшие надрезы, начиная с краев.",
+        "Посыпать солью (не указана), тщательно вымыть и нарезать кусочками длиной 2–3 см.",
+        "Поместите <A> в контейнер для хранения и замочите 2."
+      ],
+      "th": [
+        "วางแตงกวาในแนวนอน ใช้ตะเกียบด้านบนและด้านล่าง แล้วกรีดเล็กๆ โดยเริ่มจากขอบ",
+        "โรยด้วยเกลือ (ไม่อยู่ในรายการ) ล้างให้สะอาด และหั่นเป็นชิ้นยาว 2-3 ซม.",
+        "ใส่ <A> ในภาชนะจัดเก็บและแช่ไว้ 2."
+      ],
+      "id": [
+        "Letakkan mentimun secara horizontal, tambahkan sumpit di bagian atas dan bawah, lalu buat sayatan kecil mulai dari tepinya.",
+        "Taburi garam (tidak dicantumkan), cuci bersih, lalu potong sepanjang 2-3 cm.",
+        "Masukkan <A> ke dalam wadah penyimpanan dan rendam 2."
+      ],
+      "ms": [
+        "Letakkan timun secara mendatar, tambah penyepit ke bahagian atas dan bawah, dan buat hirisan kecil bermula di tepi.",
+        "Taburkan dengan garam (tidak disenaraikan), basuh bersih-bersih, dan potong 2-3 cm panjang.",
+        "Masukkan <A> ke dalam bekas simpanan dan rendam 2."
+      ],
+      "ko": [
+        "오이는 옆으로 놓고, 상하에 깎아내기 등을 곁들여, 끝에서 세세하게 잘라 넣는다.",
+        "소금(분량외)을 흔들어 익히고, 잘 씻어낸 후 2~3cm 길이로 자른다.",
+        "저장 용기에 <A>를 넣고 2를 담근다."
+      ]
+    }
   }
 ]

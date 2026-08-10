@@ -323883,5 +323883,294 @@
         "저장 용기에 <A>를 넣고 2를 담근다."
       ]
     }
+  },
+  {
+    "id": "e7a6600e",
+    "source_url": "https://www.mizkan.co.jp/ouchirecipe/recipe/?menu_id=23394",
+    "source_site": "Mizkan",
+    "title_ja": "ぽんバーガー",
+    "description_ja": "",
+    "ingredients": [
+      {
+        "name_ja": "バンズ",
+        "amount": "２個",
+        "name_translated": {
+          "en": "buns",
+          "zh_tw": "包子",
+          "zh_cn": "包子",
+          "vi": "bánh bao",
+          "hi": "बन्स",
+          "ru": "булочки",
+          "th": "ซาลาเปา",
+          "id": "roti",
+          "ms": "roti",
+          "ko": "반즈"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%90%E3%83%B3%E3%82%BA&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%90%E3%83%B3%E3%82%BA/?tag="
+      },
+      {
+        "name_ja": "牛ひき肉",
+        "amount": "２００ｇ",
+        "name_translated": {
+          "en": "Ground beef",
+          "zh_tw": "碎牛肉",
+          "zh_cn": "碎牛肉",
+          "vi": "thịt bò xay",
+          "hi": "ग्राउंड बीफ़",
+          "ru": "Говяжий фарш",
+          "th": "เนื้อดิน",
+          "id": "Daging giling",
+          "ms": "Daging lembu kisar",
+          "ko": "쇠고기 고기"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E7%89%9B%E3%81%B2%E3%81%8D%E8%82%89&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E7%89%9B%E3%81%B2%E3%81%8D%E8%82%89/?tag="
+      },
+      {
+        "name_ja": "たまねぎ",
+        "amount": "１／２個",
+        "name_translated": {
+          "en": "onion",
+          "zh_tw": "洋蔥",
+          "zh_cn": "洋葱",
+          "vi": "củ hành",
+          "hi": "प्याज",
+          "ru": "лук",
+          "th": "หัวหอม",
+          "id": "bawang bombai",
+          "ms": "bawang besar",
+          "ko": "양파"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%9F%E3%81%BE%E3%81%AD%E3%81%8E&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%9F%E3%81%BE%E3%81%AD%E3%81%8E/?tag="
+      },
+      {
+        "name_ja": "レタス",
+        "amount": "２枚（５０ｇ）",
+        "name_translated": {
+          "en": "lettuce",
+          "zh_tw": "萵苣",
+          "zh_cn": "莴苣",
+          "vi": "rau xà lách",
+          "hi": "सलाद",
+          "ru": "латук",
+          "th": "ผักกาดหอม",
+          "id": "selada",
+          "ms": "selada",
+          "ko": "양상추"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%AC%E3%82%BF%E3%82%B9&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%AC%E3%82%BF%E3%82%B9/?tag="
+      },
+      {
+        "name_ja": "粗挽き黒こしょう",
+        "amount": "０．５ｇ",
+        "name_translated": {
+          "en": "coarsely ground black pepper",
+          "zh_tw": "粗磨黑胡椒",
+          "zh_cn": "粗磨黑胡椒",
+          "vi": "hạt tiêu đen xay thô",
+          "hi": "दरदरी पिसी हुई काली मिर्च",
+          "ru": "черный перец грубого помола",
+          "th": "พริกไทยดำป่นหยาบ",
+          "id": "lada hitam yang digiling kasar",
+          "ms": "lada hitam yang dikisar kasar",
+          "ko": "거친 까만 후추"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E7%B2%97%E6%8C%BD%E3%81%8D%E9%BB%92%E3%81%93%E3%81%97%E3%82%87%E3%81%86&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E7%B2%97%E6%8C%BD%E3%81%8D%E9%BB%92%E3%81%93%E3%81%97%E3%82%87%E3%81%86/?tag="
+      },
+      {
+        "name_ja": "バター",
+        "amount": "１０ｇ",
+        "name_translated": {
+          "en": "butter",
+          "zh_tw": "奶油",
+          "zh_cn": "黄油",
+          "vi": "bơ",
+          "hi": "मक्खन",
+          "ru": "масло",
+          "th": "เนย",
+          "id": "mentega",
+          "ms": "mentega",
+          "ko": "버터"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%90%E3%82%BF%E3%83%BC&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%90%E3%82%BF%E3%83%BC/?tag="
+      },
+      {
+        "name_ja": "ミツカン　味ぽん",
+        "amount": "大さじ３",
+        "name_translated": {
+          "en": "Mizkan Ajipon",
+          "zh_tw": "味滋康味精",
+          "zh_cn": "味滋康味精",
+          "vi": "Mizkan Ajipon",
+          "hi": "मिज़कान अजिपोन",
+          "ru": "Мизкан Аджипон",
+          "th": "มิซกัน อาจิปอน",
+          "id": "Mizkan Ajipon",
+          "ms": "Mizkan Ajipon",
+          "ko": "미츠칸 미폰"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E5%91%B3%E3%81%BD%E3%82%93&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E5%91%B3%E3%81%BD%E3%82%93/?tag="
+      },
+      {
+        "name_ja": "マヨネーズ",
+        "amount": "大さじ１",
+        "name_translated": {
+          "en": "mayonnaise",
+          "zh_tw": "美乃滋",
+          "zh_cn": "蛋黄酱",
+          "vi": "mayonaise",
+          "hi": "मेयोनेज़",
+          "ru": "майонез",
+          "th": "มายองเนส",
+          "id": "mayones",
+          "ms": "mayonis",
+          "ko": "마요네즈"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9E%E3%83%A8%E3%83%8D%E3%83%BC%E3%82%BA&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9E%E3%83%A8%E3%83%8D%E3%83%BC%E3%82%BA/?tag="
+      },
+      {
+        "name_ja": "１",
+        "amount": "にする。",
+        "name_translated": {
+          "en": "1",
+          "zh_tw": "1",
+          "zh_cn": "1",
+          "vi": "1",
+          "hi": "1",
+          "ru": "1",
+          "th": "1",
+          "id": "1",
+          "ms": "1",
+          "ko": "1"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%91&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%91/?tag="
+      },
+      {
+        "name_ja": "２",
+        "amount": "フライパンにバターを入れ、中火で熱する。ハンバーグ型に成形した牛ひき肉、たまねぎを入れ、両面焼き目がつき、中に火が通るまで焼く。「味ぽん」を入れ、全体に味をからめる。",
+        "name_translated": {
+          "en": "2",
+          "zh_tw": "2",
+          "zh_cn": "2",
+          "vi": "2",
+          "hi": "2",
+          "ru": "2",
+          "th": "2",
+          "id": "2",
+          "ms": "2",
+          "ko": "2"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%92&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%92/?tag="
+      },
+      {
+        "name_ja": "３",
+        "amount": "レタスは手でちぎる。バンズにレタス、マヨネーズをかけ、焼いた［１］をのせ、フライパンに残ったソースをかける。最後はバンズで挟む。",
+        "name_translated": {
+          "en": "3",
+          "zh_tw": "3",
+          "zh_cn": "3",
+          "vi": "3",
+          "hi": "3",
+          "ru": "3",
+          "th": "3",
+          "id": "3",
+          "ms": "3",
+          "ko": "3"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%93&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%93/?tag="
+      }
+    ],
+    "steps_ja": [
+      "牛ひき肉、粗挽き黒こしょうを混ぜ合わせる。たまねぎは１ｃｍ幅に輪切りにする。",
+      "フライパンにバターを入れ、中火で熱する。ハンバーグ型に成形した牛ひき肉、たまねぎを入れ、両面焼き目がつき、中に火が通るまで焼く。「味ぽん」を入れ、全体に味をからめる。",
+      "レタスは手でちぎる。バンズにレタス、マヨネーズをかけ、焼いた［１］をのせ、フライパンに残ったソースをかける。最後はバンズで挟む。"
+    ],
+    "image_url": "",
+    "title": {
+      "en": "Pon Burger",
+      "zh_tw": "龐漢堡",
+      "zh_cn": "庞汉堡",
+      "vi": "Pon Burger",
+      "hi": "पोन बर्गर",
+      "ru": "Пон Бургер",
+      "th": "ปอน เบอร์เกอร์",
+      "id": "pon burger",
+      "ms": "Burger Pon",
+      "ko": "폰 버거"
+    },
+    "description": {
+      "en": "",
+      "zh_tw": "",
+      "zh_cn": "",
+      "vi": "",
+      "hi": "",
+      "ru": "",
+      "th": "",
+      "id": "",
+      "ms": "",
+      "ko": ""
+    },
+    "steps": {
+      "en": [
+        "Mix ground beef and coarsely ground black pepper. Slice the onion into 1cm wide slices.",
+        "Put butter in a frying pan and heat over medium heat. Add the ground beef shaped into a hamburger shape and onions, and cook until both sides are browned and the inside is cooked through. Add ``Ajipon'' and mix it all with flavor.",
+        "Tear the lettuce by hand. Sprinkle lettuce and mayonnaise on the buns, top with grilled [1], and pour over the sauce left in the frying pan. Finally, sandwich it between buns."
+      ],
+      "zh_tw": [
+        "將碎牛肉和粗磨黑胡椒混合。將洋蔥切成1公分寬的片。",
+        "將奶油放入煎鍋中，以中火加熱。加入漢堡形狀的碎牛肉和洋蔥，煮至兩面焦黃且內部熟透。加入“Ajipon”並與調味料混合。",
+        "用手撕生菜。在麵包上撒上生菜和蛋黃醬，上面放上烤好的[1]，然後淋在煎鍋裡剩下的醬汁上。最後，將其夾在麵包之間。"
+      ],
+      "zh_cn": [
+        "将碎牛肉和粗磨黑胡椒混合。将洋葱切成1厘米宽的片。",
+        "将黄油放入煎锅中，用中火加热。加入汉堡形状的碎牛肉和洋葱，煮至两面焦黄且内部熟透。添加“Ajipon”并与调味料混合。",
+        "用手撕生菜。在面包上撒上生菜和蛋黄酱，上面放上烤好的[1]，然后淋在煎锅里剩下的酱汁上。最后，将其夹在面包之间。"
+      ],
+      "vi": [
+        "Trộn thịt bò xay và hạt tiêu đen xay thô. Cắt hành tây thành lát rộng 1cm.",
+        "Cho bơ vào chảo rán và đun nóng trên lửa vừa. Thêm thịt bò xay đã tạo hình bánh hamburger và hành tây vào, nấu cho đến khi cả hai mặt đều chín vàng và bên trong chín đều. Thêm ``Ajipon'' và trộn tất cả với hương vị.",
+        "Xé rau diếp bằng tay. Rắc rau diếp và sốt mayonnaise lên bánh, nướng [1] lên trên rồi rưới nước sốt còn sót lại trong chảo rán. Cuối cùng, kẹp nó vào giữa những chiếc bánh."
+      ],
+      "hi": [
+        "पिसा हुआ मांस और दरदरी कुटी हुई काली मिर्च मिला लें। प्याज को 1 सेमी चौड़े स्लाइस में काटें।",
+        "एक फ्राइंग पैन में मक्खन डालें और मध्यम आंच पर गर्म करें। हैमबर्गर के आकार का पिसा हुआ बीफ़ और प्याज़ डालें और तब तक पकाएँ जब तक दोनों तरफ से भूरा न हो जाए और अंदर से पक न जाए। ``अजिपोन'' डालें और इन सबको स्वाद के साथ मिलाएँ।",
+        "सलाद को हाथ से तोड़ लें. बन्स पर लेट्यूस और मेयोनेज़ छिड़कें, ऊपर से ग्रिल्ड [1] डालें और फ्राइंग पैन में बचा हुआ सॉस डालें। अंत में, इसे बन्स के बीच सैंडविच करें।"
+      ],
+      "ru": [
+        "Смешать говяжий фарш и крупномолотый черный перец. Нарезаем лук ломтиками шириной 1 см.",
+        "Положите сливочное масло в сковороду и нагрейте на среднем огне. Добавьте говяжий фарш в форме гамбургера и лук и готовьте, пока обе стороны не подрумянятся, а внутренняя часть не прожарится. Добавьте «Аджипон» и перемешайте все это со вкусом.",
+        "Порвите салат руками. Посыпьте булочки салатом и майонезом, сверху положите гриль [1] и полейте оставшимся на сковороде соусом. Наконец, положите его между булочками."
+      ],
+      "th": [
+        "ผสมเนื้อดินและพริกไทยดำบดหยาบ หั่นหัวหอมเป็นชิ้นกว้าง 1 ซม.",
+        "ใส่เนยลงในกระทะแล้วตั้งไฟบนไฟร้อนปานกลาง ใส่เนื้อบดที่มีรูปร่างเป็นรูปแฮมเบอร์เกอร์และหัวหอม แล้วปรุงจนทั้งสองด้านเป็นสีน้ำตาลและเนื้อในสุกทั่ว เพิ่ม ``อาจิปอน'' และผสมให้เข้ากันกับรสชาติ",
+        "ฉีกผักกาดหอมด้วยมือ โรยผักกาดหอมและมายองเนสลงบนขนมปัง โรยหน้าด้วยย่าง [1] แล้วราดซอสที่เหลือในกระทะ สุดท้ายก็ประกบระหว่างขนมปัง"
+      ],
+      "id": [
+        "Campur daging giling dan lada hitam yang digiling kasar. Iris bawang bombay menjadi irisan selebar 1 cm.",
+        "Masukkan mentega ke dalam wajan dan panaskan dengan api sedang. Tambahkan daging giling berbentuk hamburger dan bawang bombay, masak hingga kedua sisi berwarna kecoklatan dan bagian dalamnya matang. Tambahkan ``Ajipon'' dan campur semuanya dengan penyedap rasa.",
+        "Sobek selada dengan tangan. Taburkan selada dan mayones pada roti, taburi dengan panggangan [1], dan tuangkan sisa saus di penggorengan. Terakhir, selipkan di antara roti."
+      ],
+      "ms": [
+        "Campurkan daging lembu yang dikisar dan lada hitam yang dikisar kasar. Potong bawang menjadi kepingan selebar 1cm.",
+        "Masukkan mentega dalam kuali dan panaskan dengan api sederhana. Masukkan daging lembu yang telah dikisar menjadi bentuk hamburger dan bawang, dan masak sehingga kedua-dua belah keperangan dan bahagian dalamnya masak. Masukkan ``Ajipon'' dan gaulkan kesemuanya dengan rasa.",
+        "Koyakkan daun salad dengan tangan. Taburkan salad dan mayonis pada roti, atas dengan panggang [1], dan tuangkan ke atas sos yang ditinggalkan dalam kuali. Akhir sekali, sandwic di antara roti."
+      ],
+      "ko": [
+        "쇠고기 고기, 굵은 까만 후추를 섞는다. 양파는 1cm 폭으로 둥글게 자른다.",
+        "프라이팬에 버터를 넣고 중불로 가열한다. 햄버거형으로 성형한 소고기, 양파를 넣고, 양면 구이가 붙어, 안에 불이 통과할 때까지 굽는다. \"맛 폰\"을 넣고 전체에 맛을 낸다.",
+        "양상추는 손으로 찢어진다. 반즈에 ​​양상추, 마요네즈를 넣고 구운 [1]을 얹고 프라이팬에 남은 소스를 뿌린다. 마지막은 반즈로 끼운다."
+      ]
+    }
   }
 ]

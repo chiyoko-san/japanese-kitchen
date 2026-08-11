@@ -324172,5 +324172,287 @@
         "양상추는 손으로 찢어진다. 반즈에 ​​양상추, 마요네즈를 넣고 구운 [1]을 얹고 프라이팬에 남은 소스를 뿌린다. 마지막은 반즈로 끼운다."
       ]
     }
+  },
+  {
+    "id": "b63fbe99",
+    "source_url": "https://www.mizkan.co.jp/ouchirecipe/recipe/?menu_id=703917",
+    "source_site": "Mizkan",
+    "title_ja": "キウイとパインと「フルーティス　シャインマスカット」で作るフローズンビネガーバー",
+    "description_ja": "",
+    "ingredients": [
+      {
+        "name_ja": "キウイフルーツ",
+        "amount": "１／３個",
+        "name_translated": {
+          "en": "kiwi fruit",
+          "zh_tw": "奇異果",
+          "zh_cn": "猕猴桃",
+          "vi": "quả kiwi",
+          "hi": "कीवी फल",
+          "ru": "киви",
+          "th": "ผลไม้กีวี",
+          "id": "buah kiwi",
+          "ms": "buah kiwi",
+          "ko": "키위 과일"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%82%AD%E3%82%A6%E3%82%A4%E3%83%95%E3%83%AB%E3%83%BC%E3%83%84&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%82%AD%E3%82%A6%E3%82%A4%E3%83%95%E3%83%AB%E3%83%BC%E3%83%84/?tag="
+      },
+      {
+        "name_ja": "カットパイン",
+        "amount": "２個",
+        "name_translated": {
+          "en": "cut pine",
+          "zh_tw": "砍松",
+          "zh_cn": "砍松",
+          "vi": "cắt thông",
+          "hi": "चीड़ को काटें",
+          "ru": "рубить сосну",
+          "th": "ตัดต้นสน",
+          "id": "potong pinus",
+          "ms": "potong pain",
+          "ko": "컷 파인"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%82%AB%E3%83%83%E3%83%88%E3%83%91%E3%82%A4%E3%83%B3&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%82%AB%E3%83%83%E3%83%88%E3%83%91%E3%82%A4%E3%83%B3/?tag="
+      },
+      {
+        "name_ja": "フルーティス　シャインマスカット",
+        "amount": "大さじ１と１／２",
+        "name_translated": {
+          "en": "Fruitis Shine Muscat",
+          "zh_tw": "果香閃耀玫瑰香",
+          "zh_cn": "果香闪耀玫瑰香",
+          "vi": "Fruitis Shine Muscat",
+          "hi": "फ्रूटाइटिस शाइन मस्कट",
+          "ru": "Фрутис Шайн Мускат",
+          "th": "ฟรุ๊ตติส ชายน์ มัสกัต",
+          "id": "Buah-buahan Bersinar Muscat",
+          "ms": "Fruitis Shine Muscat",
+          "ko": "과일 샤인 무스카트"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%95%E3%83%AB%E3%83%BC%E3%83%86%E3%82%A3%E3%82%B9%E3%80%80%E3%82%B7%E3%83%A3%E3%82%A4%E3%83%B3%E3%83%9E%E3%82%B9%E3%82%AB%E3%83%83%E3%83%88&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%95%E3%83%AB%E3%83%BC%E3%83%86%E3%82%A3%E3%82%B9%E3%80%80%E3%82%B7%E3%83%A3%E3%82%A4%E3%83%B3%E3%83%9E%E3%82%B9%E3%82%AB%E3%83%83%E3%83%88/?tag="
+      },
+      {
+        "name_ja": "牛乳",
+        "amount": "大さじ４と１／２",
+        "name_translated": {
+          "en": "milk",
+          "zh_tw": "牛奶",
+          "zh_cn": "牛奶",
+          "vi": "sữa",
+          "hi": "दूध",
+          "ru": "молоко",
+          "th": "น้ำนม",
+          "id": "susu",
+          "ms": "susu",
+          "ko": "우유"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E7%89%9B%E4%B9%B3&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E7%89%9B%E4%B9%B3/?tag="
+      },
+      {
+        "name_ja": "または",
+        "amount": "適量",
+        "name_translated": {
+          "en": "or",
+          "zh_tw": "或者",
+          "zh_cn": "或者",
+          "vi": "hoặc",
+          "hi": "या",
+          "ru": "или",
+          "th": "หรือ",
+          "id": "atau",
+          "ms": "atau",
+          "ko": "또는"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%BE%E3%81%9F%E3%81%AF&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%BE%E3%81%9F%E3%81%AF/?tag="
+      },
+      {
+        "name_ja": "水",
+        "amount": "大さじ１と１／２",
+        "name_translated": {
+          "en": "water",
+          "zh_tw": "水",
+          "zh_cn": "水",
+          "vi": "Nước",
+          "hi": "पानी",
+          "ru": "вода",
+          "th": "น้ำ",
+          "id": "air",
+          "ms": "air",
+          "ko": "물"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E6%B0%B4&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E6%B0%B4/?tag="
+      },
+      {
+        "name_ja": "１",
+        "amount": "キウイフルーツは皮をむいて５ｍｍ幅に切る。カットパインを一口大に切る。",
+        "name_translated": {
+          "en": "1",
+          "zh_tw": "1",
+          "zh_cn": "1",
+          "vi": "1",
+          "hi": "1",
+          "ru": "1",
+          "th": "1",
+          "id": "1",
+          "ms": "1",
+          "ko": "1"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%91&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%91/?tag="
+      },
+      {
+        "name_ja": "２",
+        "amount": "「フルーティス　シャインマスカット」と牛乳、または水をよく混ぜ合わせる。",
+        "name_translated": {
+          "en": "2",
+          "zh_tw": "2",
+          "zh_cn": "2",
+          "vi": "2",
+          "hi": "2",
+          "ru": "2",
+          "th": "2",
+          "id": "2",
+          "ms": "2",
+          "ko": "2"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%92&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%92/?tag="
+      },
+      {
+        "name_ja": "３",
+        "amount": "を注ぎ、アイスキャンディー用の棒をさして半日程度冷凍庫で冷やし固める。",
+        "name_translated": {
+          "en": "3",
+          "zh_tw": "3",
+          "zh_cn": "3",
+          "vi": "3",
+          "hi": "3",
+          "ru": "3",
+          "th": "3",
+          "id": "3",
+          "ms": "3",
+          "ko": "3"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%93&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%93/?tag="
+      },
+      {
+        "name_ja": "フルーツ：牛乳または水で希釈したお酢ドリンク＝１：１程度の割合がお勧めです。",
+        "amount": "適量",
+        "name_translated": {
+          "en": "We recommend a ratio of fruit: vinegar drink diluted with milk or water = 1:1.",
+          "zh_tw": "我們建議水果與醋飲料的比例用牛奶或水稀釋= 1:1。",
+          "zh_cn": "我们建议水果与醋饮料的比例用牛奶或水稀释= 1:1。",
+          "vi": "Chúng tôi khuyến nghị tỷ lệ trái cây: giấm uống pha loãng với sữa hoặc nước = 1:1.",
+          "hi": "हम फलों के अनुपात की अनुशंसा करते हैं: दूध या पानी से पतला सिरका पेय = 1:1।",
+          "ru": "Рекомендуем соотношение фрукты:уксусный напиток, разбавленный молоком или водой = 1:1.",
+          "th": "เราขอแนะนำอัตราส่วนผลไม้: เครื่องดื่มน้ำส้มสายชูเจือจางด้วยนมหรือน้ำ = 1:1",
+          "id": "Sebaiknya perbandingan buah : minuman cuka yang diencerkan dengan susu atau air = 1:1.",
+          "ms": "Kami mengesyorkan nisbah buah: minuman cuka yang dicairkan dengan susu atau air = 1:1.",
+          "ko": "과일 : 우유 또는 물로 희석 한 식초 음료 = 1 : 1 정도의 비율이 좋습니다."
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%95%E3%83%AB%E3%83%BC%E3%83%84%EF%BC%9A%E7%89%9B%E4%B9%B3%E3%81%BE%E3%81%9F%E3%81%AF%E6%B0%B4%E3%81%A7%E5%B8%8C%E9%87%88%E3%81%97%E3%81%9F%E3%81%8A%E9%85%A2%E3%83%89%E3%83%AA%E3%83%B3%E3%82%AF%EF%BC%9D%EF%BC%91%EF%BC%9A%EF%BC%91%E7%A8%8B%E5%BA%A6%E3%81%AE%E5%89%B2%E5%90%88%E3%81%8C%E3%81%8A%E5%8B%A7%E3%82%81%E3%81%A7%E3%81%99%E3%80%82&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%95%E3%83%AB%E3%83%BC%E3%83%84%EF%BC%9A%E7%89%9B%E4%B9%B3%E3%81%BE%E3%81%9F%E3%81%AF%E6%B0%B4%E3%81%A7%E5%B8%8C%E9%87%88%E3%81%97%E3%81%9F%E3%81%8A%E9%85%A2%E3%83%89%E3%83%AA%E3%83%B3%E3%82%AF%EF%BC%9D%EF%BC%91%EF%BC%9A%EF%BC%91%E7%A8%8B%E5%BA%A6%E3%81%AE%E5%89%B2%E5%90%88%E3%81%8C%E3%81%8A%E5%8B%A7%E3%82%81%E3%81%A7%E3%81%99%E3%80%82/?tag="
+      }
+    ],
+    "steps_ja": [
+      "キウイフルーツは皮をむいて５ｍｍ幅に切る。カットパインを一口大に切る。",
+      "「フルーティス　シャインマスカット」と牛乳、または水をよく混ぜ合わせる。",
+      "アイスキャンディー型に１を入れたあとに２を注ぎ、アイスキャンディー用の棒をさして半日程度冷凍庫で冷やし固める。",
+      "フルーツ：牛乳または水で希釈したお酢ドリンク＝１：１程度の割合がお勧めです。"
+    ],
+    "image_url": "",
+    "title": {
+      "en": "Frozen vinegar bar made with kiwi, pineapple, and “Fruits Shine Muscat”",
+      "zh_tw": "由奇異果、鳳梨和「Fruits Shine Muscat」製成的冷凍醋棒",
+      "zh_cn": "由猕猴桃、菠萝和“Fruits Shine Muscat”制成的冷冻醋棒",
+      "vi": "Thanh giấm đông lạnh làm từ kiwi, dứa và “Fruits Shine Muscat”",
+      "hi": "कीवी, अनानास और \"फ्रूट्स शाइन मस्कट\" से बना फ्रोज़न सिरका बार",
+      "ru": "Замороженный уксусный батончик с киви, ананасом и мускатным орехом «Fruits Shine Muscat».",
+      "th": "น้ำส้มสายชูหมักจากผลไม้กีวี สับปะรด และ “Fruits Shine Muscat”",
+      "id": "Batangan cuka beku yang dibuat dengan kiwi, nanas, dan “Fruits Shine Muscat”",
+      "ms": "Bar cuka beku yang dibuat dengan kiwi, nanas dan \"Fruits Shine Muscat\"",
+      "ko": "키위와 파인과 \"프루티스 샤인 무스카트\"로 만드는 냉동 비네거 바"
+    },
+    "description": {
+      "en": "",
+      "zh_tw": "",
+      "zh_cn": "",
+      "vi": "",
+      "hi": "",
+      "ru": "",
+      "th": "",
+      "id": "",
+      "ms": "",
+      "ko": ""
+    },
+    "steps": {
+      "en": [
+        "Peel the kiwifruit and cut into 5mm pieces. Cut the cut pineapple into bite-sized pieces.",
+        "Mix \"Fruitis Shine Muscat\" and milk or water well.",
+        "Pour 1 and 2 into a popsicle mold, insert a popsicle stick into the mold, and chill in the freezer for about half a day to harden.",
+        "We recommend a ratio of fruit: vinegar drink diluted with milk or water = 1:1."
+      ],
+      "zh_tw": [
+        "將獼猴桃去皮，切成5毫米的塊狀。將切好的鳳梨切成一口大小的塊狀。",
+        "將“Fruitis Shine Muscat”與牛奶或水充分混合。",
+        "將1和2倒入冰棒模具中，將冰棒棒插入模具中，放入冰箱冷藏半天左右硬化。",
+        "我們建議水果與醋飲料的比例用牛奶或水稀釋= 1:1。"
+      ],
+      "zh_cn": [
+        "将猕猴桃去皮，切成5毫米的块。将切好的菠萝切成一口大小的块。",
+        "将“Fruitis Shine Muscat”与牛奶或水充分混合。",
+        "将1和2倒入冰棒模具中，将冰棒棒插入模具中，放入冰箱冷藏半天左右硬化。",
+        "我们建议水果与醋饮料的比例用牛奶或水稀释= 1:1。"
+      ],
+      "vi": [
+        "Gọt vỏ kiwi và cắt thành miếng 5mm. Cắt dứa cắt thành miếng vừa ăn.",
+        "Trộn đều \"Fruitis Shine Muscat\" và sữa hoặc nước.",
+        "Đổ 1 và 2 vào khuôn kem que, nhét que kem vào khuôn rồi để lạnh trong ngăn đá khoảng nửa ngày cho kem cứng lại.",
+        "Chúng tôi khuyến nghị tỷ lệ trái cây: giấm uống pha loãng với sữa hoặc nước = 1:1."
+      ],
+      "hi": [
+        "कीवीफल को छीलकर 5 मिमी के टुकड़ों में काट लें। कटे हुए अनानास को छोटे टुकड़ों में काट लीजिए.",
+        "\"फ्रूइटिस शाइन मस्कट\" और दूध या पानी को अच्छी तरह मिला लें।",
+        "1 और 2 को एक पॉप्सिकल सांचे में डालें, एक पॉप्सिकल स्टिक को सांचे में डालें, और सख्त होने के लिए लगभग आधे दिन के लिए फ्रीजर में ठंडा करें।",
+        "हम फलों के अनुपात की अनुशंसा करते हैं: दूध या पानी से पतला सिरका पेय = 1:1।"
+      ],
+      "ru": [
+        "Киви очистите и нарежьте кусочками толщиной 5 мм. Разрезанный ананас нарезаем небольшими кусочками.",
+        "Смешайте «Fruitis Shine Muscat» с молоком или водой.",
+        "Вылейте 1 и 2 в форму для мороженого, вставьте в форму палочку для мороженого и поставьте в морозильную камеру примерно на полдня, чтобы оно затвердело.",
+        "Рекомендуем соотношение фрукты:уксусный напиток, разбавленный молоком или водой = 1:1."
+      ],
+      "th": [
+        "ปอกผลกีวีแล้วหั่นเป็นชิ้นขนาด 5 มม. หั่นสับปะรดเป็นชิ้นขนาดพอดีคำ",
+        "ผสม \"Fruitis Shine Muscat\" กับนมหรือน้ำให้เข้ากัน",
+        "เท 1 และ 2 ลงในแม่พิมพ์ไอศกรีม ใส่แท่งไอศกรีมลงในแม่พิมพ์ และแช่เย็นในช่องแช่แข็งประมาณครึ่งวันเพื่อให้แข็งตัว",
+        "เราขอแนะนำอัตราส่วนผลไม้: เครื่องดื่มน้ำส้มสายชูเจือจางด้วยนมหรือน้ำ = 1:1"
+      ],
+      "id": [
+        "Kupas buah kiwi dan potong-potong berukuran 5 mm. Potong nanas yang sudah dipotong menjadi potongan-potongan seukuran gigitan.",
+        "Campurkan \"Fruitis Shine Muscat\" dan susu atau air hingga rata.",
+        "Tuang 1 dan 2 ke dalam cetakan es loli, masukkan stik es krim ke dalam cetakan, dan dinginkan di dalam freezer selama kurang lebih setengah hari hingga mengeras.",
+        "Sebaiknya perbandingan buah : minuman cuka yang diencerkan dengan susu atau air = 1:1."
+      ],
+      "ms": [
+        "Kupas buah kiwi dan potong 5mm. Potong nanas yang telah dipotong menjadi kepingan bersaiz gigitan.",
+        "Campurkan \"Fruitis Shine Muscat\" dan susu atau air dengan baik.",
+        "Tuangkan 1 dan 2 ke dalam acuan popsikel, masukkan batang popsikel ke dalam acuan, dan sejukkan di dalam peti sejuk selama kira-kira setengah hari untuk mengeras.",
+        "Kami mengesyorkan nisbah buah: minuman cuka yang dicairkan dengan susu atau air = 1:1."
+      ],
+      "ko": [
+        "키위 과일은 껍질을 벗기고 5mm 폭으로 자른다. 컷 파인을 한입 크기로 자른다.",
+        "\"프루티스 샤인 무스카트\"와 우유 또는 물을 잘 섞는다.",
+        "아이스캔디형에 1을 넣은 뒤에 2를 붓고 아이스캔디용의 막대를 찔러 반나절 정도 냉동고에서 식혀 굳힌다.",
+        "과일 : 우유 또는 물로 희석 한 식초 음료 = 1 : 1 정도의 비율이 좋습니다."
+      ]
+    }
   }
 ]

@@ -324454,5 +324454,688 @@
         "과일 : 우유 또는 물로 희석 한 식초 음료 = 1 : 1 정도의 비율이 좋습니다."
       ]
     }
+  },
+  {
+    "id": "122bbe66",
+    "source_url": "https://www.mizkan.co.jp/ouchirecipe/recipe/?menu_id=20273",
+    "source_site": "Mizkan",
+    "title_ja": "簡単！ちくわとツナのさっぱり和え",
+    "description_ja": "",
+    "ingredients": [
+      {
+        "name_ja": "ちくわ",
+        "amount": "小４本",
+        "name_translated": {
+          "en": "Chikuwa",
+          "zh_tw": "竹輪",
+          "zh_cn": "竹轮",
+          "vi": "Chikuwa",
+          "hi": "चिकुवा",
+          "ru": "Чикува",
+          "th": "ชิกุวะ",
+          "id": "Chikuwa",
+          "ms": "Chikuwa",
+          "ko": "치쿠와"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%A1%E3%81%8F%E3%82%8F&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%A1%E3%81%8F%E3%82%8F/?tag="
+      },
+      {
+        "name_ja": "ツナ缶",
+        "amount": "１缶（７０ｇ）",
+        "name_translated": {
+          "en": "canned tuna",
+          "zh_tw": "鮪魚罐頭",
+          "zh_cn": "金枪鱼罐头",
+          "vi": "cá ngừ đóng hộp",
+          "hi": "डिब्बाबंद टूना",
+          "ru": "консервированный тунец",
+          "th": "ปลาทูน่ากระป๋อง",
+          "id": "tuna kalengan",
+          "ms": "tuna dalam tin",
+          "ko": "참치캔"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%84%E3%83%8A%E7%BC%B6&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%84%E3%83%8A%E7%BC%B6/?tag="
+      },
+      {
+        "name_ja": "小ねぎ　（小口切り）",
+        "amount": "１０ｇ",
+        "name_translated": {
+          "en": "Onion (cut into small pieces)",
+          "zh_tw": "洋蔥（切小塊）",
+          "zh_cn": "洋葱（切小块）",
+          "vi": "Hành tây (cắt thành miếng nhỏ)",
+          "hi": "प्याज (छोटे टुकड़ों में कटा हुआ)",
+          "ru": "Лук (нарезать небольшими кусочками)",
+          "th": "หัวหอม (หั่นเป็นชิ้นเล็กๆ)",
+          "id": "Bawang bombay (potong kecil-kecil)",
+          "ms": "Bawang besar (potong kecil)",
+          "ko": "작은 양파 (작은 컷)"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E5%B0%8F%E3%81%AD%E3%81%8E%E3%80%80%EF%BC%88%E5%B0%8F%E5%8F%A3%E5%88%87%E3%82%8A%EF%BC%89&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E5%B0%8F%E3%81%AD%E3%81%8E%E3%80%80%EF%BC%88%E5%B0%8F%E5%8F%A3%E5%88%87%E3%82%8A%EF%BC%89/?tag="
+      },
+      {
+        "name_ja": "ミツカン　カンタン酢",
+        "amount": "大さじ２",
+        "name_translated": {
+          "en": "Mizkan Kantan Vinegar",
+          "zh_tw": "味滋康甘丹醋",
+          "zh_cn": "味滋康甘丹醋",
+          "vi": "Giấm Mizkan Kantan",
+          "hi": "मिज़कान कंटन सिरका",
+          "ru": "Мизкан Кантанский уксус",
+          "th": "น้ำส้มสายชูมิซกัน กันตัน",
+          "id": "Cuka Mizkan Kantan",
+          "ms": "Cuka Mizkan Kantan",
+          "ko": "미츠칸 칸탄초"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E3%82%AB%E3%83%B3%E3%82%BF%E3%83%B3%E9%85%A2&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E3%82%AB%E3%83%B3%E3%82%BF%E3%83%B3%E9%85%A2/?tag="
+      },
+      {
+        "name_ja": "鶏がらスープの素",
+        "amount": "小さじ１／２",
+        "name_translated": {
+          "en": "chicken soup base",
+          "zh_tw": "雞湯底料",
+          "zh_cn": "鸡汤底料",
+          "vi": "cơ sở súp gà",
+          "hi": "चिकन सूप बेस",
+          "ru": "основа для куриного супа",
+          "th": "ฐานซุปไก่",
+          "id": "bahan dasar sup ayam",
+          "ms": "asas sup ayam",
+          "ko": "닭고기 수프"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E9%B6%8F%E3%81%8C%E3%82%89%E3%82%B9%E3%83%BC%E3%83%97%E3%81%AE%E7%B4%A0&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E9%B6%8F%E3%81%8C%E3%82%89%E3%82%B9%E3%83%BC%E3%83%97%E3%81%AE%E7%B4%A0/?tag="
+      },
+      {
+        "name_ja": "いりごま　（白）",
+        "amount": "適量",
+        "name_translated": {
+          "en": "Roasted sesame seeds (white)",
+          "zh_tw": "いりごま　（白）",
+          "zh_cn": "烤芝麻（白）",
+          "vi": "Hạt mè rang (trắng)",
+          "hi": "भुने हुए तिल (सफेद)",
+          "ru": "Семена кунжута жареные (белые)",
+          "th": "งาคั่ว (สีขาว)",
+          "id": "Biji wijen sangrai (putih)",
+          "ms": "Bijan panggang (putih)",
+          "ko": "이리 고마 (흰색)"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%84%E3%82%8A%E3%81%94%E3%81%BE%E3%80%80%EF%BC%88%E7%99%BD%EF%BC%89&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%84%E3%82%8A%E3%81%94%E3%81%BE%E3%80%80%EF%BC%88%E7%99%BD%EF%BC%89/?tag="
+      },
+      {
+        "name_ja": "１",
+        "amount": "ちくわは８ｍｍ厚さに切る。",
+        "name_translated": {
+          "en": "1",
+          "zh_tw": "1",
+          "zh_cn": "1",
+          "vi": "1",
+          "hi": "1",
+          "ru": "1",
+          "th": "1",
+          "id": "1",
+          "ms": "1",
+          "ko": "1"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%91&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%91/?tag="
+      },
+      {
+        "name_ja": "２",
+        "amount": "、ツナ（缶汁ごと）、小ねぎ、「カンタン酢」、鶏がらスープの素、いりごまを入れ、あえる。",
+        "name_translated": {
+          "en": "2",
+          "zh_tw": "2",
+          "zh_cn": "2",
+          "vi": "2",
+          "hi": "2",
+          "ru": "2",
+          "th": "2",
+          "id": "2",
+          "ms": "2",
+          "ko": "2"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%92&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%92/?tag="
+      }
+    ],
+    "steps_ja": [
+      "ちくわは８ｍｍ厚さに切る。",
+      "ボウルに１、ツナ（缶汁ごと）、小ねぎ、「カンタン酢」、鶏がらスープの素、いりごまを入れ、あえる。"
+    ],
+    "image_url": "",
+    "title": {
+      "en": "easy! Lightly dressed chikuwa and tuna",
+      "zh_tw": "簡單的！穿著輕便的竹輪和鮪魚",
+      "zh_cn": "简单的！穿着轻便的竹轮和金枪鱼",
+      "vi": "dễ! Chikuwa và cá ngừ ăn mặc nhẹ nhàng",
+      "hi": "आसान! हल्के कपड़े पहने चिकुवा और टूना",
+      "ru": "легкий! Легко одетые тикува и тунец",
+      "th": "ง่าย! ชิกุวะและทูน่าที่แต่งแต้มเบาๆ",
+      "id": "mudah! Chikuwa dan tuna berpakaian tipis",
+      "ms": "mudah! Chikuwa dan tuna berpakaian ringan",
+      "ko": "간단! 치쿠와 참치의 상쾌함"
+    },
+    "description": {
+      "en": "",
+      "zh_tw": "",
+      "zh_cn": "",
+      "vi": "",
+      "hi": "",
+      "ru": "",
+      "th": "",
+      "id": "",
+      "ms": "",
+      "ko": ""
+    },
+    "steps": {
+      "en": [
+        "Cut the chikuwa into 8mm thick pieces.",
+        "In a bowl, add tuna (with canned juice), small onion, ``simple vinegar,'' chicken soup base, and roasted sesame seeds, and stir."
+      ],
+      "zh_tw": [
+        "將竹輪切成8毫米厚的塊狀。",
+        "在碗中加入鮪魚（加罐裝果汁）、小洋蔥、「簡單醋」、雞湯底和烤芝麻，攪拌。"
+      ],
+      "zh_cn": [
+        "将竹轮切成8毫米厚的块。",
+        "在碗中加入金枪鱼（加罐装果汁）、小洋葱、“简单醋”、鸡汤底和烤芝麻，搅拌。"
+      ],
+      "vi": [
+        "Cắt chikuwa thành miếng dày 8 mm.",
+        "Trong một cái bát, thêm cá ngừ (với nước trái cây đóng hộp), hành tây nhỏ, giấm đơn giản, nước súp gà và hạt vừng rang vào rồi khuấy đều."
+      ],
+      "hi": [
+        "चिकुवा को 8 मिमी मोटे टुकड़ों में काट लें।",
+        "एक कटोरे में, ट्यूना (डिब्बाबंद रस के साथ), छोटा प्याज, ``साधारण सिरका,'' चिकन सूप बेस, और भुने हुए तिल डालें और हिलाएं।"
+      ],
+      "ru": [
+        "Нарезаем тикуву кусочками толщиной 8 мм.",
+        "В миску добавьте тунец (с консервированным соком), небольшую луковицу, «простой уксус», основу для куриного супа и жареные семена кунжута и перемешайте."
+      ],
+      "th": [
+        "ตัดชิกุวะเป็นชิ้นหนา 8 มม.",
+        "ในชาม ใส่ทูน่า (พร้อมน้ำกระป๋อง) หัวหอมเล็ก ``น้ำส้มสายชูธรรมดา'' ซุปไก่ และเมล็ดงาคั่ว แล้วคนให้เข้ากัน"
+      ],
+      "id": [
+        "Potong chikuwa menjadi potongan setebal 8mm.",
+        "Dalam mangkuk, tambahkan tuna (dengan jus kalengan), bawang bombay kecil, ``cuka sederhana,'' bahan dasar sup ayam, dan biji wijen panggang, lalu aduk."
+      ],
+      "ms": [
+        "Potong chikuwa menjadi kepingan setebal 8mm.",
+        "Dalam mangkuk, masukkan tuna (dengan jus tin), bawang kecil, ``cuka ringkas,'' asas sup ayam, dan bijan panggang, dan kacau."
+      ],
+      "ko": [
+        "치쿠와는 8mm 두께로 자른다.",
+        "그릇에 1, 참치(캔즙마다), 양파, 「간단식초」, 닭가루 국물의 소, 이리참깨를 넣고 굳힌다."
+      ]
+    }
+  },
+  {
+    "id": "2289e4ab",
+    "source_url": "https://www.mizkan.co.jp/ouchirecipe/recipe/?menu_id=20092",
+    "source_site": "Mizkan",
+    "title_ja": "豚肉とたまごの中華あん",
+    "description_ja": "",
+    "ingredients": [
+      {
+        "name_ja": "豚肉　小間切れ",
+        "amount": "１５０ｇ",
+        "name_translated": {
+          "en": "Pork small pieces",
+          "zh_tw": "豬肉小塊",
+          "zh_cn": "猪肉小块",
+          "vi": "Thịt lợn miếng nhỏ",
+          "hi": "सूअर का मांस छोटे टुकड़े",
+          "ru": "Свинина небольшими кусочками",
+          "th": "หมูชิ้นเล็ก",
+          "id": "Potongan kecil daging babi",
+          "ms": "Potongan kecil daging babi",
+          "ko": "돼지고기 부스러기"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E8%B1%9A%E8%82%89%E3%80%80%E5%B0%8F%E9%96%93%E5%88%87%E3%82%8C&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E8%B1%9A%E8%82%89%E3%80%80%E5%B0%8F%E9%96%93%E5%88%87%E3%82%8C/?tag="
+      },
+      {
+        "name_ja": "卵",
+        "amount": "３個",
+        "name_translated": {
+          "en": "egg",
+          "zh_tw": "蛋",
+          "zh_cn": "蛋",
+          "vi": "trứng",
+          "hi": "अंडा",
+          "ru": "яйцо",
+          "th": "ไข่",
+          "id": "telur",
+          "ms": "telur",
+          "ko": "계란"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E5%8D%B5&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E5%8D%B5/?tag="
+      },
+      {
+        "name_ja": "しめじ",
+        "amount": "１パック（１００ｇ）",
+        "name_translated": {
+          "en": "Shimeji mushrooms",
+          "zh_tw": "姬菇",
+          "zh_cn": "姬菇",
+          "vi": "nấm Shimeji",
+          "hi": "शिमेजी मशरूम",
+          "ru": "Грибы симеджи",
+          "th": "เห็ดชิเมจิ",
+          "id": "jamur Shimeji",
+          "ms": "Cendawan Shimeji",
+          "ko": "시메지"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%97%E3%82%81%E3%81%98&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%97%E3%82%81%E3%81%98/?tag="
+      },
+      {
+        "name_ja": "塩・こしょう",
+        "amount": "少々",
+        "name_translated": {
+          "en": "salt and pepper",
+          "zh_tw": "鹽和胡椒",
+          "zh_cn": "盐和胡椒",
+          "vi": "muối và hạt tiêu",
+          "hi": "नमक और काली मिर्च",
+          "ru": "соль и перец",
+          "th": "เกลือและพริกไทย",
+          "id": "garam dan merica",
+          "ms": "garam dan lada sulah",
+          "ko": "소금, 후추"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E5%A1%A9%E3%83%BB%E3%81%93%E3%81%97%E3%82%87%E3%81%86&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E5%A1%A9%E3%83%BB%E3%81%93%E3%81%97%E3%82%87%E3%81%86/?tag="
+      },
+      {
+        "name_ja": "サラダ油",
+        "amount": "大さじ１",
+        "name_translated": {
+          "en": "salad oil",
+          "zh_tw": "沙拉油",
+          "zh_cn": "色拉油",
+          "vi": "dầu trộn salad",
+          "hi": "वनस्पति - तेल",
+          "ru": "салатное масло",
+          "th": "น้ำมันสลัด",
+          "id": "minyak salad",
+          "ms": "minyak salad",
+          "ko": "샐러드 오일"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%82%B5%E3%83%A9%E3%83%80%E6%B2%B9&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%82%B5%E3%83%A9%E3%83%80%E6%B2%B9/?tag="
+      },
+      {
+        "name_ja": "ごま油",
+        "amount": "大さじ１",
+        "name_translated": {
+          "en": "sesame oil",
+          "zh_tw": "香油",
+          "zh_cn": "香油",
+          "vi": "dầu mè",
+          "hi": "तिल का तेल",
+          "ru": "кунжутное масло",
+          "th": "น้ำมันงา",
+          "id": "minyak wijen",
+          "ms": "minyak bijan",
+          "ko": "참기름"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%94%E3%81%BE%E6%B2%B9&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%94%E3%81%BE%E6%B2%B9/?tag="
+      },
+      {
+        "name_ja": "ミツカン　カンタン酢",
+        "amount": "大さじ３",
+        "name_translated": {
+          "en": "Mizkan Kantan Vinegar",
+          "zh_tw": "味滋康甘丹醋",
+          "zh_cn": "味滋康甘丹醋",
+          "vi": "Giấm Mizkan Kantan",
+          "hi": "मिज़कान कंटन सिरका",
+          "ru": "Мизкан Кантанский уксус",
+          "th": "น้ำส้มสายชูมิซกัน กันตัน",
+          "id": "Cuka Mizkan Kantan",
+          "ms": "Cuka Mizkan Kantan",
+          "ko": "미츠칸 칸탄초"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E3%82%AB%E3%83%B3%E3%82%BF%E3%83%B3%E9%85%A2&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E3%82%AB%E3%83%B3%E3%82%BF%E3%83%B3%E9%85%A2/?tag="
+      },
+      {
+        "name_ja": "しょうゆ",
+        "amount": "大さじ１",
+        "name_translated": {
+          "en": "soy sauce",
+          "zh_tw": "醬油",
+          "zh_cn": "酱油",
+          "vi": "nước tương",
+          "hi": "सोया सॉस",
+          "ru": "соевый соус",
+          "th": "ซอสถั่วเหลือง",
+          "id": "kecap",
+          "ms": "kicap",
+          "ko": "간장"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%97%E3%82%87%E3%81%86%E3%82%86&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%97%E3%82%87%E3%81%86%E3%82%86/?tag="
+      },
+      {
+        "name_ja": "片栗粉",
+        "amount": "小さじ１",
+        "name_translated": {
+          "en": "potato starch",
+          "zh_tw": "馬鈴薯澱粉",
+          "zh_cn": "马铃薯淀粉",
+          "vi": "tinh bột khoai tây",
+          "hi": "आलू स्टार्च",
+          "ru": "картофельный крахмал",
+          "th": "แป้งมันฝรั่ง",
+          "id": "tepung kentang",
+          "ms": "kanji kentang",
+          "ko": "가문 가루"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E7%89%87%E6%A0%97%E7%B2%89&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E7%89%87%E6%A0%97%E7%B2%89/?tag="
+      },
+      {
+        "name_ja": "水",
+        "amount": "５０ｍｌ",
+        "name_translated": {
+          "en": "water",
+          "zh_tw": "水",
+          "zh_cn": "水",
+          "vi": "Nước",
+          "hi": "पानी",
+          "ru": "вода",
+          "th": "น้ำ",
+          "id": "air",
+          "ms": "air",
+          "ko": "물"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E6%B0%B4&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E6%B0%B4/?tag="
+      },
+      {
+        "name_ja": "小ねぎ　（小口切り）",
+        "amount": "適宜",
+        "name_translated": {
+          "en": "Onion (cut into small pieces)",
+          "zh_tw": "洋蔥（切小塊）",
+          "zh_cn": "洋葱（切小块）",
+          "vi": "Hành tây (cắt thành miếng nhỏ)",
+          "hi": "प्याज (छोटे टुकड़ों में कटा हुआ)",
+          "ru": "Лук (нарезать небольшими кусочками)",
+          "th": "หัวหอม (หั่นเป็นชิ้นเล็กๆ)",
+          "id": "Bawang bombay (potong kecil-kecil)",
+          "ms": "Bawang besar (potong kecil)",
+          "ko": "작은 양파 (작은 컷)"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E5%B0%8F%E3%81%AD%E3%81%8E%E3%80%80%EF%BC%88%E5%B0%8F%E5%8F%A3%E5%88%87%E3%82%8A%EF%BC%89&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E5%B0%8F%E3%81%AD%E3%81%8E%E3%80%80%EF%BC%88%E5%B0%8F%E5%8F%A3%E5%88%87%E3%82%8A%EF%BC%89/?tag="
+      },
+      {
+        "name_ja": "１",
+        "amount": "しめじは石づきを取り、小房に分ける。卵は溶きほぐす。",
+        "name_translated": {
+          "en": "1",
+          "zh_tw": "1",
+          "zh_cn": "1",
+          "vi": "1",
+          "hi": "1",
+          "ru": "1",
+          "th": "1",
+          "id": "1",
+          "ms": "1",
+          "ko": "1"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%91&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%91/?tag="
+      },
+      {
+        "name_ja": "２",
+        "amount": "の卵を一気に流し入れ、大きくかき混ぜて半熟のスクランブルエッグを作り、一度取り出す。",
+        "name_translated": {
+          "en": "2",
+          "zh_tw": "2",
+          "zh_cn": "2",
+          "vi": "2",
+          "hi": "2",
+          "ru": "2",
+          "th": "2",
+          "id": "2",
+          "ms": "2",
+          "ko": "2"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%92&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%92/?tag="
+      },
+      {
+        "name_ja": "３",
+        "amount": "の卵を戻し入れ、塩・こしょうで調味する。",
+        "name_translated": {
+          "en": "3",
+          "zh_tw": "3",
+          "zh_cn": "3",
+          "vi": "3",
+          "hi": "3",
+          "ru": "3",
+          "th": "3",
+          "id": "3",
+          "ms": "3",
+          "ko": "3"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%93&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%93/?tag="
+      },
+      {
+        "name_ja": "４",
+        "amount": "に＜甘酢あん＞の材料を入れて、よくかき混ぜながら中火で加熱し、煮立ってとろみがついたら、皿に盛る。お好みで小ねぎを散らす。",
+        "name_translated": {
+          "en": "4",
+          "zh_tw": "4",
+          "zh_cn": "4",
+          "vi": "4",
+          "hi": "4",
+          "ru": "4",
+          "th": "4",
+          "id": "4",
+          "ms": "4",
+          "ko": "4"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%94&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%94/?tag="
+      },
+      {
+        "name_ja": "豚肉とキャベツの「追いがつおつゆ」炒め",
+        "amount": "適量",
+        "name_translated": {
+          "en": "Stir-fried pork and cabbage with “Oigatsuotsuyu”",
+          "zh_tw": "豚肉とキャベツの「追いがつおつゆ」炒め",
+          "zh_cn": "猪肉卷心菜炒“Oigatsuotsuyu”",
+          "vi": "Thịt lợn và bắp cải xào “Oigatsuotsuyu”",
+          "hi": "\"ओइगात्सुओत्सुयू\" के साथ तली हुई सूअर का मांस और पत्तागोभी",
+          "ru": "Жареная свинина и капуста с «Ойгацуотсую»",
+          "th": "หมูผัดกะหล่ำปลีกับ “Oigatsuotsuyu”",
+          "id": "Daging babi dan kubis goreng dengan “Oigatsuotsuyu”",
+          "ms": "Daging babi dan kubis tumis dengan \"Oigatsuotsuyu\"",
+          "ko": "돼지고기와 양배추의 '쫓는 츠츠유' 볶음"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E8%B1%9A%E8%82%89%E3%81%A8%E3%82%AD%E3%83%A3%E3%83%99%E3%83%84%E3%81%AE%E3%80%8C%E8%BF%BD%E3%81%84%E3%81%8C%E3%81%A4%E3%81%8A%E3%81%A4%E3%82%86%E3%80%8D%E7%82%92%E3%82%81&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E8%B1%9A%E8%82%89%E3%81%A8%E3%82%AD%E3%83%A3%E3%83%99%E3%83%84%E3%81%AE%E3%80%8C%E8%BF%BD%E3%81%84%E3%81%8C%E3%81%A4%E3%81%8A%E3%81%A4%E3%82%86%E3%80%8D%E7%82%92%E3%82%81/?tag="
+      },
+      {
+        "name_ja": "豚こま肉と玉ねぎのぽん酢炒め（下味冷凍）",
+        "amount": "適量",
+        "name_translated": {
+          "en": "Stir-fried pork and onions with ponzu sauce (frozen seasoning)",
+          "zh_tw": "柳橙醬炒豬肉和洋蔥（冷凍調味料）",
+          "zh_cn": "橙子酱炒猪肉和洋葱（冷冻调味料）",
+          "vi": "Thịt heo xào hành tây sốt ponzu (gia vị đông lạnh)",
+          "hi": "पोंज़ू सॉस (जमे हुए मसाला) के साथ तले हुए सूअर का मांस और प्याज",
+          "ru": "Жареная свинина и лук с соусом понзу (замороженная приправа)",
+          "th": "หมูและหัวหอมผัดซอสพอนสึ (เครื่องปรุงรสแช่แข็ง)",
+          "id": "Daging babi goreng dan bawang bombay dengan saus ponzu (bumbu beku)",
+          "ms": "Daging babi dan bawang goreng dengan sos ponzu (perasa beku)",
+          "ko": "돼지 고기 고기와 양파의 폰 식초 볶음 (하미 냉동)"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E8%B1%9A%E3%81%93%E3%81%BE%E8%82%89%E3%81%A8%E7%8E%89%E3%81%AD%E3%81%8E%E3%81%AE%E3%81%BD%E3%82%93%E9%85%A2%E7%82%92%E3%82%81%EF%BC%88%E4%B8%8B%E5%91%B3%E5%86%B7%E5%87%8D%EF%BC%89&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E8%B1%9A%E3%81%93%E3%81%BE%E8%82%89%E3%81%A8%E7%8E%89%E3%81%AD%E3%81%8E%E3%81%AE%E3%81%BD%E3%82%93%E9%85%A2%E7%82%92%E3%82%81%EF%BC%88%E4%B8%8B%E5%91%B3%E5%86%B7%E5%87%8D%EF%BC%89/?tag="
+      },
+      {
+        "name_ja": "フライパンで豚肉豆腐",
+        "amount": "適量",
+        "name_translated": {
+          "en": "Pork tofu in a frying pan",
+          "zh_tw": "フライパンで豚肉豆腐",
+          "zh_cn": "猪肉豆腐放入锅中煎",
+          "vi": "Đậu hủ heo trong chảo rán",
+          "hi": "एक फ्राइंग पैन में पोर्क टोफू",
+          "ru": "Свиной тофу на сковороде",
+          "th": "เต้าหู้หมูในกระทะ",
+          "id": "Tahu babi dalam wajan",
+          "ms": "Tauhu babi dalam kuali",
+          "ko": "프라이팬에 돼지고기 두부"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%95%E3%83%A9%E3%82%A4%E3%83%91%E3%83%B3%E3%81%A7%E8%B1%9A%E8%82%89%E8%B1%86%E8%85%90&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%95%E3%83%A9%E3%82%A4%E3%83%91%E3%83%B3%E3%81%A7%E8%B1%9A%E8%82%89%E8%B1%86%E8%85%90/?tag="
+      }
+    ],
+    "steps_ja": [
+      "しめじは石づきを取り、小房に分ける。卵は溶きほぐす。",
+      "フライパンにサラダ油を強火で熱し、十分に温まったら、１の卵を一気に流し入れ、大きくかき混ぜて半熟のスクランブルエッグを作り、一度取り出す。",
+      "同じフライパンにごま油を中火で熱し、豚肉、しめじを入れて炒める。火が通ったら、２の卵を戻し入れ、塩・こしょうで調味する。",
+      "に＜甘酢あん＞の材料を入れて、よくかき混ぜながら中火で加熱し、煮立ってとろみがついたら、皿に盛る。お好みで小ねぎを散らす。",
+      "豚肉とキャベツの「追いがつおつゆ」炒め",
+      "豚こま肉と玉ねぎのぽん酢炒め（下味冷凍）",
+      "フライパンで豚肉豆腐"
+    ],
+    "image_url": "",
+    "title": {
+      "en": "Pork and egg Chinese sauce",
+      "zh_tw": "豬肉蛋中式醬",
+      "zh_cn": "猪肉鸡蛋中式酱",
+      "vi": "Sốt thịt lợn và trứng Trung Quốc",
+      "hi": "सूअर का मांस और अंडा चीनी सॉस",
+      "ru": "Китайский соус из свинины и яиц",
+      "th": "น้ำจิ้มสุกี้หมูและไข่",
+      "id": "Saus Cina dengan daging babi dan telur",
+      "ms": "Sos Cina daging babi dan telur",
+      "ko": "돼지고기와 달걀 중화안"
+    },
+    "description": {
+      "en": "",
+      "zh_tw": "",
+      "zh_cn": "",
+      "vi": "",
+      "hi": "",
+      "ru": "",
+      "th": "",
+      "id": "",
+      "ms": "",
+      "ko": ""
+    },
+    "steps": {
+      "en": [
+        "Remove the stones from the shimeji mushrooms and separate them into small bunches. Beat the eggs.",
+        "Heat salad oil in a frying pan over high heat, and once it's warm enough, pour in the eggs from step 1 all at once, stir vigorously to make half-boiled scrambled eggs, and then remove.",
+        "Heat sesame oil in the same frying pan over medium heat, add pork and shimeji mushrooms, and stir-fry. Once cooked, add the eggs from step 2 back in and season with salt and pepper.",
+        "Add the ingredients for <sweet and sour bean paste> and heat over medium heat while stirring well. When it comes to a boil and thickens, put it on a plate. Sprinkle with green onions if desired.",
+        "Stir-fried pork and cabbage with “Oigatsuotsuyu”",
+        "Stir-fried pork and onions with ponzu sauce (frozen seasoning)",
+        "Pork tofu in a frying pan"
+      ],
+      "zh_tw": [
+        "將姬菇中的石頭去掉，分成小串。打雞蛋。",
+        "煎鍋中大火燒熱沙拉油，待油溫足夠後，一次性倒入步驟1的雞蛋，用力攪拌，形成半熟的炒蛋，取出。",
+        "在同一個煎鍋中以中火加熱芝麻油，加入豬肉和姬菇，翻炒。煮熟後，將步驟 2 中的雞蛋重新加入，並用鹽和胡椒調味。",
+        "加入<糖醋豆沙>的材料，以中火加熱，同時攪拌均勻。煮沸並變稠時，將其放在盤子上。如果需要的話，撒上蔥花。",
+        "豬肉捲心菜炒“Oigatsuotsuyu”",
+        "柳橙醬炒豬肉和洋蔥（冷凍調味料）",
+        "豬肉豆腐放入鍋中煎"
+      ],
+      "zh_cn": [
+        "将姬菇中的石头去掉，分成小串。打鸡蛋。",
+        "煎锅中大火烧热色拉油，待油温足够后，一次性倒入步骤1的鸡蛋，用力搅拌，形成半熟的炒鸡蛋，取出。",
+        "在同一个煎锅中用中火加热芝麻油，加入猪肉和姬菇，翻炒。煮熟后，将步骤 2 中的鸡蛋重新加入，并用盐和胡椒调味。",
+        "加入<糖醋豆沙>的材料，中火加热，同时搅拌均匀。当煮沸并变稠时，将其放在盘子上。如果需要的话，撒上葱。",
+        "猪肉卷心菜炒“Oigatsuotsuyu”",
+        "橙子酱炒猪肉和洋葱（冷冻调味料）",
+        "猪肉豆腐放入锅中煎"
+      ],
+      "vi": [
+        "Loại bỏ những viên đá khỏi nấm shimeji và tách chúng thành từng chùm nhỏ. Đánh trứng.",
+        "Đun nóng dầu salad trong chảo rán trên lửa cao và khi dầu đủ ấm, đổ tất cả trứng ở bước 1 vào cùng một lúc, khuấy mạnh để tạo thành trứng bác luộc chín một nửa rồi vớt ra.",
+        "Đun nóng dầu mè trong cùng chảo trên lửa vừa, cho thịt lợn và nấm shimeji vào xào. Sau khi chín, cho trứng ở bước 2 trở lại và nêm muối và tiêu.",
+        "Cho các nguyên liệu làm <đậu chua ngọt> vào đun trên lửa vừa và khuấy đều. Khi sôi và đặc lại thì cho ra đĩa. Rắc hành lá nếu muốn.",
+        "Thịt lợn và bắp cải xào “Oigatsuotsuyu”",
+        "Thịt heo xào hành tây sốt ponzu (gia vị đông lạnh)",
+        "Đậu hủ heo trong chảo rán"
+      ],
+      "hi": [
+        "शिमेजी मशरूम से गुठलियां हटा दें और उन्हें छोटे-छोटे गुच्छों में अलग कर लें। अंडे मारो.",
+        "तेज़ आंच पर एक फ्राइंग पैन में सलाद तेल गरम करें, और जब यह पर्याप्त गर्म हो जाए, तो चरण 1 से सभी अंडे एक साथ डालें, आधे उबले हुए तले हुए अंडे बनाने के लिए जोर से हिलाएं और फिर हटा दें।",
+        "उसी फ्राइंग पैन में मध्यम आंच पर तिल का तेल गरम करें, उसमें सूअर का मांस और शिमीजी मशरूम डालें और हिलाते हुए भूनें। पकने के बाद, चरण 2 से अंडे वापस डालें और नमक और काली मिर्च डालें।",
+        "<मीठी और खट्टी बीन पेस्ट> के लिए सामग्री डालें और मध्यम आंच पर अच्छी तरह हिलाते हुए गर्म करें। - जब इसमें उबाल आ जाए और गाढ़ा हो जाए तो इसे एक प्लेट में निकाल लें. चाहें तो हरा प्याज छिड़कें।",
+        "\"ओइगात्सुओत्सुयू\" के साथ तली हुई सूअर का मांस और पत्तागोभी",
+        "पोंज़ू सॉस (जमे हुए मसाला) के साथ तले हुए सूअर का मांस और प्याज",
+        "एक फ्राइंग पैन में पोर्क टोफू"
+      ],
+      "ru": [
+        "Удалите косточки из грибов симэдзи и разделите их на небольшие пучки. Взбейте яйца.",
+        "Нагрейте салатное масло в сковороде на сильном огне и, как только оно станет достаточно теплым, влейте сразу все яйца из шага 1, энергично перемешайте, чтобы получилась полусваренная яичница, а затем выньте.",
+        "Нагрейте кунжутное масло в той же сковороде на среднем огне, добавьте свинину и грибы симэдзи и обжарьте, помешивая. После приготовления снова добавьте яйца из шага 2 и приправьте солью и перцем.",
+        "Добавьте ингредиенты для <кисло-сладкой фасолевой пасты> и нагрейте на среднем огне, хорошо помешивая. Когда он закипит и загустеет, выложите его на тарелку. По желанию посыпьте зеленым луком.",
+        "Жареная свинина и капуста с «Ойгацуотсую»",
+        "Жареная свинина и лук с соусом понзу (замороженная приправа)",
+        "Свиной тофу на сковороде"
+      ],
+      "th": [
+        "นำก้อนหินออกจากเห็ดชิเมจิ แล้วแยกออกเป็นช่อเล็กๆ ตีไข่.",
+        "ตั้งน้ำมันสลัดในกระทะบนไฟแรง และเมื่ออุ่นพอแล้ว ให้เทไข่จากขั้นตอนที่ 1 ลงไปพร้อมกัน คนแรงๆ เพื่อทำไข่คนครึ่งต้ม แล้วจึงเอาออก",
+        "ตั้งน้ำมันงาในกระทะใบเดียวกันบนไฟร้อนปานกลาง ใส่หมูและเห็ดชิเมจิ แล้วผัด เมื่อสุกแล้ว ให้ใส่ไข่จากขั้นตอนที่ 2 กลับเข้าไป ปรุงรสด้วยเกลือและพริกไทย",
+        "ใส่ส่วนผสมสำหรับ <เต้าเจี้ยวเปรี้ยวหวาน> และตั้งไฟปานกลางในขณะที่คนให้เข้ากัน เมื่อเดือดและข้นจัดใส่จาน โรยด้วยหัวหอมสีเขียวหากต้องการ",
+        "หมูผัดกะหล่ำปลีกับ “Oigatsuotsuyu”",
+        "หมูและหัวหอมผัดซอสพอนสึ (เครื่องปรุงรสแช่แข็ง)",
+        "เต้าหู้หมูในกระทะ"
+      ],
+      "id": [
+        "Keluarkan batu dari jamur shimeji dan pisahkan menjadi tandan kecil. Kocok telurnya.",
+        "Panaskan minyak salad dalam wajan dengan api besar, dan setelah cukup hangat, tuangkan telur dari langkah 1 sekaligus, aduk rata hingga menjadi telur orak-arik setengah matang, lalu angkat.",
+        "Panaskan minyak wijen dalam wajan yang sama dengan api sedang, tambahkan daging babi dan jamur shimeji, lalu tumis. Setelah matang, masukkan kembali telur dari langkah 2 dan bumbui dengan garam dan merica.",
+        "Masukkan bahan <pasta kacang asam manis> dan panaskan dengan api sedang sambil diaduk rata. Jika sudah mendidih dan mengental, taruh di piring. Taburi dengan bawang hijau jika diinginkan.",
+        "Daging babi dan kubis goreng dengan “Oigatsuotsuyu”",
+        "Daging babi goreng dan bawang bombay dengan saus ponzu (bumbu beku)",
+        "Tahu babi dalam wajan"
+      ],
+      "ms": [
+        "Keluarkan batu dari cendawan shimeji dan pisahkan kepada tandan kecil. Pukul telur.",
+        "Panaskan minyak salad dalam kuali dengan api yang tinggi, dan apabila sudah cukup suam, tuangkan telur dari langkah 1 sekaligus, kacau dengan kuat untuk membuat telur hancur separuh rebus, dan kemudian keluarkan.",
+        "Panaskan minyak bijan dalam kuali yang sama dengan api sederhana, masukkan daging babi dan cendawan shimeji, dan tumis. Setelah masak, masukkan telur dari langkah 2 kembali dan perasakan dengan garam dan lada sulah.",
+        "Masukkan bahan untuk <pes kacang masam manis> dan panaskan dengan api sederhana sambil dikacau rata. Bila dah mendidih dan pekat, letak atas pinggan. Taburkan dengan bawang hijau jika suka.",
+        "Daging babi dan kubis tumis dengan \"Oigatsuotsuyu\"",
+        "Daging babi dan bawang goreng dengan sos ponzu (perasa beku)",
+        "Tauhu babi dalam kuali"
+      ],
+      "ko": [
+        "시메지는 돌을 잡고 소방으로 나눈다. 계란은 녹는다.",
+        "프라이팬에 샐러드유를 강화로 가열하고, 충분히 따뜻해지면, 1의 계란을 단번에 흘려 넣고, 크게 저어 반숙의 스크램블 에그를 만들어, 한 번 꺼낸다.",
+        "같은 프라이팬에 참기름을 중불로 가열하고, 돼지고기, 시메지를 넣고 볶는다. 불이 지나면, 2의 계란을 되돌려 넣고 소금·후추로 조미한다.",
+        "에 <감초 팥>의 재료를 넣고 잘 저어하면서 중불로 가열하고, 끓여 서 녹이 붙으면 접시에 담는다. 기호로 양파를 흩어진다.",
+        "돼지고기와 양배추의 '쫓는 츠츠유' 볶음",
+        "돼지 고기 고기와 양파의 폰 식초 볶음 (하미 냉동)",
+        "프라이팬에 돼지고기 두부"
+      ]
+    }
   }
 ]

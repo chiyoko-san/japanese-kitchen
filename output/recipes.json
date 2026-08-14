@@ -325137,5 +325137,753 @@
         "프라이팬에 돼지고기 두부"
       ]
     }
+  },
+  {
+    "id": "d45da1e7",
+    "source_url": "https://www.mizkan.co.jp/ouchirecipe/recipe/?menu_id=20403",
+    "source_site": "Mizkan",
+    "title_ja": "やみつき漬けがつおののっけ盛り",
+    "description_ja": "",
+    "ingredients": [
+      {
+        "name_ja": "かつおのたたき",
+        "amount": "１０切れ（１５０ｇ）",
+        "name_translated": {
+          "en": "Seared bonito",
+          "zh_tw": "烤鰹魚",
+          "zh_cn": "烤鲣鱼",
+          "vi": "cá ngừ nướng",
+          "hi": "कटा हुआ बोनिटो",
+          "ru": "Обжаренный скумбрия",
+          "th": "โบนิโตย่าง",
+          "id": "Bonito yang menyengat",
+          "ms": "Bonito bakar",
+          "ko": "가다랭이"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%8B%E3%81%A4%E3%81%8A%E3%81%AE%E3%81%9F%E3%81%9F%E3%81%8D&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%8B%E3%81%A4%E3%81%8A%E3%81%AE%E3%81%9F%E3%81%9F%E3%81%8D/?tag="
+      },
+      {
+        "name_ja": "大根",
+        "amount": "４ｃｍ分（１６０ｇ）",
+        "name_translated": {
+          "en": "Japanese white radish",
+          "zh_tw": "日本白蘿蔔",
+          "zh_cn": "日本白萝卜",
+          "vi": "Củ cải trắng Nhật Bản",
+          "hi": "जापानी सफेद मूली",
+          "ru": "Японская белая редька",
+          "th": "หัวไชเท้าขาวญี่ปุ่น",
+          "id": "lobak putih jepang",
+          "ms": "lobak putih jepun",
+          "ko": "무"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E5%A4%A7%E6%A0%B9&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E5%A4%A7%E6%A0%B9/?tag="
+      },
+      {
+        "name_ja": "水菜",
+        "amount": "１株（５０ｇ）",
+        "name_translated": {
+          "en": "Mizuna",
+          "zh_tw": "水菜",
+          "zh_cn": "水菜",
+          "vi": "mizuna",
+          "hi": "मिज़ुना",
+          "ru": "Мизуна",
+          "th": "มิซูน่า",
+          "id": "Mizuna",
+          "ms": "Mizuna",
+          "ko": "수채"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E6%B0%B4%E8%8F%9C&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E6%B0%B4%E8%8F%9C/?tag="
+      },
+      {
+        "name_ja": "みょうが",
+        "amount": "１個",
+        "name_translated": {
+          "en": "Myoga",
+          "zh_tw": "妙荷",
+          "zh_cn": "妙荷",
+          "vi": "Myoga",
+          "hi": "मायोगा",
+          "ru": "Мёга",
+          "th": "เมียวกา",
+          "id": "Myoga",
+          "ms": "Myoga",
+          "ko": "미오가"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%BF%E3%82%87%E3%81%86%E3%81%8C&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%BF%E3%82%87%E3%81%86%E3%81%8C/?tag="
+      },
+      {
+        "name_ja": "小ねぎ　（小口切り）",
+        "amount": "適量",
+        "name_translated": {
+          "en": "Onion (cut into small pieces)",
+          "zh_tw": "洋蔥（切小塊）",
+          "zh_cn": "洋葱（切小块）",
+          "vi": "Hành tây (cắt thành miếng nhỏ)",
+          "hi": "प्याज (छोटे टुकड़ों में कटा हुआ)",
+          "ru": "Лук (нарезать небольшими кусочками)",
+          "th": "หัวหอม (หั่นเป็นชิ้นเล็กๆ)",
+          "id": "Bawang bombay (potong kecil-kecil)",
+          "ms": "Bawang besar (potong kecil)",
+          "ko": "작은 양파 (작은 컷)"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E5%B0%8F%E3%81%AD%E3%81%8E%E3%80%80%EF%BC%88%E5%B0%8F%E5%8F%A3%E5%88%87%E3%82%8A%EF%BC%89&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E5%B0%8F%E3%81%AD%E3%81%8E%E3%80%80%EF%BC%88%E5%B0%8F%E5%8F%A3%E5%88%87%E3%82%8A%EF%BC%89/?tag="
+      },
+      {
+        "name_ja": "ミツカン　味ぽん",
+        "amount": "大さじ３",
+        "name_translated": {
+          "en": "Mizkan Ajipon",
+          "zh_tw": "味滋康味精",
+          "zh_cn": "味滋康味精",
+          "vi": "Mizkan Ajipon",
+          "hi": "मिज़कान अजिपोन",
+          "ru": "Мизкан Аджипон",
+          "th": "มิซกัน อาจิปอน",
+          "id": "Mizkan Ajipon",
+          "ms": "Mizkan Ajipon",
+          "ko": "미츠칸 미포"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E5%91%B3%E3%81%BD%E3%82%93&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E5%91%B3%E3%81%BD%E3%82%93/?tag="
+      },
+      {
+        "name_ja": "すりごま",
+        "amount": "大さじ１／２",
+        "name_translated": {
+          "en": "Ground sesame seeds",
+          "zh_tw": "磨碎的芝麻",
+          "zh_cn": "磨碎的芝麻",
+          "vi": "Hạt vừng xay",
+          "hi": "पिसे हुए तिल",
+          "ru": "Семена кунжута молотые",
+          "th": "เมล็ดงาบด",
+          "id": "Biji wijen halus",
+          "ms": "Bijan dikisar",
+          "ko": "참깨"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%99%E3%82%8A%E3%81%94%E3%81%BE&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%99%E3%82%8A%E3%81%94%E3%81%BE/?tag="
+      },
+      {
+        "name_ja": "おろしにんにく",
+        "amount": "小さじ１／２",
+        "name_translated": {
+          "en": "grated garlic",
+          "zh_tw": "磨碎的大蒜",
+          "zh_cn": "磨碎的大蒜",
+          "vi": "tỏi nghiền",
+          "hi": "कसा हुआ लहसुन",
+          "ru": "тертый чеснок",
+          "th": "กระเทียมขูด",
+          "id": "bawang putih parut",
+          "ms": "bawang putih parut",
+          "ko": "마늘 마늘"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%8A%E3%82%8D%E3%81%97%E3%81%AB%E3%82%93%E3%81%AB%E3%81%8F&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%8A%E3%82%8D%E3%81%97%E3%81%AB%E3%82%93%E3%81%AB%E3%81%8F/?tag="
+      },
+      {
+        "name_ja": "１",
+        "amount": "にする。",
+        "name_translated": {
+          "en": "1",
+          "zh_tw": "1",
+          "zh_cn": "1",
+          "vi": "1",
+          "hi": "1",
+          "ru": "1",
+          "th": "1",
+          "id": "1",
+          "ms": "1",
+          "ko": "1"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%91&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%91/?tag="
+      },
+      {
+        "name_ja": "２",
+        "amount": "＜Ａ＞を混ぜ合わせたところに、かつおのたたきを加え、１０分漬け込む。",
+        "name_translated": {
+          "en": "2",
+          "zh_tw": "2",
+          "zh_cn": "2",
+          "vi": "2",
+          "hi": "2",
+          "ru": "2",
+          "th": "2",
+          "id": "2",
+          "ms": "2",
+          "ko": "2"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%92&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%92/?tag="
+      },
+      {
+        "name_ja": "３",
+        "amount": "のかつお、みょうが、小ねぎをのせ、＜Ａ＞の漬け汁を適量かける。",
+        "name_translated": {
+          "en": "3",
+          "zh_tw": "3",
+          "zh_cn": "3",
+          "vi": "3",
+          "hi": "3",
+          "ru": "3",
+          "th": "3",
+          "id": "3",
+          "ms": "3",
+          "ko": "3"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%93&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%93/?tag="
+      }
+    ],
+    "steps_ja": [
+      "大根は細切り、水菜は４ｃｍ長さに切る。みょうがは小口切りにする。",
+      "＜Ａ＞を混ぜ合わせたところに、かつおのたたきを加え、１０分漬け込む。",
+      "皿に大根と水菜を盛り、２のかつお、みょうが、小ねぎをのせ、＜Ａ＞の漬け汁を適量かける。"
+    ],
+    "image_url": "",
+    "title": {
+      "en": "Addictive pickled bonito on top",
+      "zh_tw": "上癮的醃鰹魚",
+      "zh_cn": "上瘾的腌鲣鱼",
+      "vi": "Cá ngừ ngâm gây nghiện ở trên",
+      "hi": "शीर्ष पर नशीला मसालेदार बोनिटो",
+      "ru": "Сверху аппетитный маринованный скумбрия",
+      "th": "ปลาโบนิโตดองที่ชวนติดงอมแงมอยู่ด้านบน",
+      "id": "Acar bonito yang membuat ketagihan di atasnya",
+      "ms": "Bonito jeruk ketagihan di atas",
+      "ko": "야미 츠키 절임 가쓰오 노노케 모듬"
+    },
+    "description": {
+      "en": "",
+      "zh_tw": "",
+      "zh_cn": "",
+      "vi": "",
+      "hi": "",
+      "ru": "",
+      "th": "",
+      "id": "",
+      "ms": "",
+      "ko": ""
+    },
+    "steps": {
+      "en": [
+        "Cut the radish into thin strips and the mizuna into 4cm lengths. Cut the ginger into small pieces.",
+        "Add the seared bonito to the mixture of <A> and marinate for 10 minutes.",
+        "Arrange the daikon radish and mizuna on a plate, top with the bonito, myoga, and small onion from step 2, and pour an appropriate amount of the pickling juice from <A> over it."
+      ],
+      "zh_tw": [
+        "將蘿蔔切成細條，水菜切成4公分長。將生薑切成小塊。",
+        "將煎好的鰹魚加入<A>的混合物中醃製10分鐘。",
+        "將蘿蔔和水菜放在盤子上，上面放上步驟2的鰹魚、茗荷和小洋蔥，倒入適量<A>的醃漬汁。"
+      ],
+      "zh_cn": [
+        "将萝卜切成细条，水菜切成4厘米长。将生姜切成小块。",
+        "将煎好的鲣鱼加入<A>的混合物中腌制10分钟。",
+        "将萝卜和水菜放在盘子上，上面放上步骤2的鲣鱼、茗荷和小洋葱，倒入适量<A>的腌制汁。"
+      ],
+      "vi": [
+        "Cắt củ cải thành dải mỏng và mizuna thành đoạn dài 4cm. Cắt gừng thành miếng nhỏ.",
+        "Thêm cá ngừ đã nướng vào hỗn hợp <A> và ướp trong 10 phút.",
+        "Xếp củ cải daikon và mizuna lên đĩa, đặt cá ngừ, myoga và hành tây nhỏ ở bước 2 lên trên rồi đổ một lượng nước ép dưa chua thích hợp từ <A> lên trên."
+      ],
+      "hi": [
+        "मूली को पतली स्ट्रिप्स में और मिज़ुना को 4 सेमी लंबाई में काटें। अदरक को छोटे छोटे टुकड़ों में काट लीजिये.",
+        "<ए> के मिश्रण में सिका हुआ बोनिटो मिलाएं और 10 मिनट के लिए मैरीनेट करें।",
+        "डेकोन मूली और मिज़ुना को एक प्लेट में व्यवस्थित करें, ऊपर से चरण 2 से बोनिटो, मायोगा और छोटा प्याज डालें, और इसके ऊपर <ए> से उचित मात्रा में अचार का रस डालें।"
+      ],
+      "ru": [
+        "Нарежьте редис тонкими полосками, а мизуну — кусочками длиной 4 см. Нарезаем имбирь небольшими кусочками.",
+        "Добавьте обжаренную скумбуру к смеси <А> и маринуйте 10 минут.",
+        "Разложите редис дайкон и мизуну на тарелке, сверху выложите скумбуру, миогу и небольшую луковицу из шага 2 и полейте соответствующим количеством маринованного сока из <A>."
+      ],
+      "th": [
+        "ตัดหัวไชเท้าเป็นเส้นบาง ๆ และมิซูน่าให้มีความยาว 4 ซม. หั่นขิงเป็นชิ้นเล็กๆ",
+        "เพิ่มปลาโบนิโตที่ย่างแล้วลงในส่วนผสมของ <A> และหมักไว้เป็นเวลา 10 นาที",
+        "จัดเรียงหัวไชเท้าและมิซึนะลงบนจาน โรยหน้าด้วยปลาโบนิโต เมียวกะ และหัวหอมเล็กจากขั้นตอนที่ 2 แล้วเทน้ำดองจาก <A> ในปริมาณที่เหมาะสมลงไป"
+      ],
+      "id": [
+        "Potong lobak menjadi irisan tipis dan mizuna menjadi panjang 4cm. Potong jahe menjadi potongan kecil.",
+        "Tambahkan bonito bakar ke dalam campuran <A> dan rendam selama 10 menit.",
+        "Susun lobak daikon dan mizuna di atas piring, taburi dengan bonito, myoga, dan bawang bombay kecil dari langkah 2, lalu tuangkan jus asinan dari <A> secukupnya di atasnya."
+      ],
+      "ms": [
+        "Potong lobak menjadi jalur nipis dan mizuna menjadi 4cm panjang. Potong halia menjadi kepingan kecil.",
+        "Masukkan bonito yang telah digoreng ke dalam adunan <A> dan perap selama 10 minit.",
+        "Susun lobak daikon dan mizuna di atas pinggan, atas dengan bonito, myoga, dan bawang kecil dari langkah 2, dan tuangkan jumlah jus jeruk dari <A> yang sesuai di atasnya."
+      ],
+      "ko": [
+        "무는 자르고, 수채는 4cm 길이로 자른다. 생강은 작게 자른다.",
+        "<A>를 섞은 곳에 가다랭이를 넣고 10 분간 담근다.",
+        "접시에 무와 수채를 담아, 2의 가다랭이, 명물, 양파를 얹고, <A>의 절임 국물을 적당량 뿌린다."
+      ]
+    }
+  },
+  {
+    "id": "22dcc783",
+    "source_url": "https://www.mizkan.co.jp/ouchirecipe/recipe/?menu_id=24155",
+    "source_site": "Mizkan",
+    "title_ja": "和風照りマヨミニピザ",
+    "description_ja": "",
+    "ingredients": [
+      {
+        "name_ja": "ちくわ",
+        "amount": "４本",
+        "name_translated": {
+          "en": "Chikuwa",
+          "zh_tw": "竹輪",
+          "zh_cn": "竹轮",
+          "vi": "Chikuwa",
+          "hi": "चिकुवा",
+          "ru": "Чикува",
+          "th": "ชิกุวะ",
+          "id": "Chikuwa",
+          "ms": "Chikuwa",
+          "ko": "치쿠와"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%A1%E3%81%8F%E3%82%8F&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%A1%E3%81%8F%E3%82%8F/?tag="
+      },
+      {
+        "name_ja": "ぎょうざの皮",
+        "amount": "８枚",
+        "name_translated": {
+          "en": "Gyoza skin",
+          "zh_tw": "餃子皮",
+          "zh_cn": "饺子皮",
+          "vi": "Da gyoza",
+          "hi": "ग्योज़ा त्वचा",
+          "ru": "Скин Гёзы",
+          "th": "หนังเกี๊ยวซ่า",
+          "id": "Kulit gyoza",
+          "ms": "Kulit Gyoza",
+          "ko": "간장 껍질"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%8E%E3%82%87%E3%81%86%E3%81%96%E3%81%AE%E7%9A%AE&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%8E%E3%82%87%E3%81%86%E3%81%96%E3%81%AE%E7%9A%AE/?tag="
+      },
+      {
+        "name_ja": "かつお節",
+        "amount": "６ｇ",
+        "name_translated": {
+          "en": "Bonito flakes",
+          "zh_tw": "鰹魚片",
+          "zh_cn": "鲣鱼片",
+          "vi": "mảnh cá ngừ",
+          "hi": "बोनिटो गुच्छे",
+          "ru": "хлопья скумбрии",
+          "th": "โบนิโตเกล็ด",
+          "id": "serpihan bonito",
+          "ms": "Serpihan bonito",
+          "ko": "가다랭이"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%8B%E3%81%A4%E3%81%8A%E7%AF%80&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%8B%E3%81%A4%E3%81%8A%E7%AF%80/?tag="
+      },
+      {
+        "name_ja": "ミツカン　追いがつおつゆ２倍",
+        "amount": "小さじ４",
+        "name_translated": {
+          "en": "Mizkan Oigatsu Otsuyu x2",
+          "zh_tw": "味滋館大月大津 x2",
+          "zh_cn": "味滋馆大月大津 x2",
+          "vi": "Mizkan Oigatsu Otsuyu x2",
+          "hi": "मिज़कान ओइगात्सु ओत्सुयु x2",
+          "ru": "Мизкан Ойгацу Оцую x2",
+          "th": "มิซคัง โออิงัตสึ โอทสึยุ x2",
+          "id": "Mizkan Oigatsu Otsuyu x2",
+          "ms": "Mizkan Oigatsu Otsuyu x2",
+          "ko": "미쓰칸 쫓는 츠츠유 2배"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E8%BF%BD%E3%81%84%E3%81%8C%E3%81%A4%E3%81%8A%E3%81%A4%E3%82%86%EF%BC%92%E5%80%8D&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E8%BF%BD%E3%81%84%E3%81%8C%E3%81%A4%E3%81%8A%E3%81%A4%E3%82%86%EF%BC%92%E5%80%8D/?tag="
+      },
+      {
+        "name_ja": "みりん",
+        "amount": "小さじ２",
+        "name_translated": {
+          "en": "Mirin",
+          "zh_tw": "味醂",
+          "zh_cn": "味醂",
+          "vi": "Mirin",
+          "hi": "मिरिन",
+          "ru": "Мирин",
+          "th": "มิริน",
+          "id": "Mirin",
+          "ms": "Mirin",
+          "ko": "미린"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%BF%E3%82%8A%E3%82%93&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%BF%E3%82%8A%E3%82%93/?tag="
+      },
+      {
+        "name_ja": "マヨネーズ",
+        "amount": "適量",
+        "name_translated": {
+          "en": "mayonnaise",
+          "zh_tw": "美乃滋",
+          "zh_cn": "蛋黄酱",
+          "vi": "sốt mayonnaise",
+          "hi": "मेयोनेज़",
+          "ru": "майонез",
+          "th": "มายองเนส",
+          "id": "mayones",
+          "ms": "mayonis",
+          "ko": "마요네즈"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9E%E3%83%A8%E3%83%8D%E3%83%BC%E3%82%BA&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9E%E3%83%A8%E3%83%8D%E3%83%BC%E3%82%BA/?tag="
+      },
+      {
+        "name_ja": "ピザ用チーズ",
+        "amount": "適量",
+        "name_translated": {
+          "en": "cheese for pizza",
+          "zh_tw": "披薩用起司",
+          "zh_cn": "披萨用奶酪",
+          "vi": "phô mai cho pizza",
+          "hi": "पिज्जा के लिए पनीर",
+          "ru": "сыр для пиццы",
+          "th": "ชีสสำหรับพิซซ่า",
+          "id": "keju untuk pizza",
+          "ms": "keju untuk pizza",
+          "ko": "피자용 치즈"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%94%E3%82%B6%E7%94%A8%E3%83%81%E3%83%BC%E3%82%BA&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%94%E3%82%B6%E7%94%A8%E3%83%81%E3%83%BC%E3%82%BA/?tag="
+      },
+      {
+        "name_ja": "きざみのり",
+        "amount": "適量",
+        "name_translated": {
+          "en": "Minced seaweed",
+          "zh_tw": "海藻碎",
+          "zh_cn": "海藻碎",
+          "vi": "Rong biển băm nhỏ",
+          "hi": "कीमा बनाया हुआ समुद्री शैवाल",
+          "ru": "Фарш из морских водорослей",
+          "th": "สาหร่ายสับ",
+          "id": "Rumput laut cincang",
+          "ms": "Rumpai laut cincang",
+          "ko": "키자 미노리"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%8D%E3%81%96%E3%81%BF%E3%81%AE%E3%82%8A&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%8D%E3%81%96%E3%81%BF%E3%81%AE%E3%82%8A/?tag="
+      },
+      {
+        "name_ja": "１",
+        "amount": "小さめのボウルにかつお節、「追いがつおつゆ２倍」、みりんを入れて、かつお節が調味料を吸うようによく混ぜる。",
+        "name_translated": {
+          "en": "1",
+          "zh_tw": "1",
+          "zh_cn": "1",
+          "vi": "1",
+          "hi": "1",
+          "ru": "1",
+          "th": "1",
+          "id": "1",
+          "ms": "1",
+          "ko": "1"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%91&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%91/?tag="
+      },
+      {
+        "name_ja": "２",
+        "amount": "にする。",
+        "name_translated": {
+          "en": "2",
+          "zh_tw": "2",
+          "zh_cn": "2",
+          "vi": "2",
+          "hi": "2",
+          "ru": "2",
+          "th": "2",
+          "id": "2",
+          "ms": "2",
+          "ko": "2"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%92&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%92/?tag="
+      },
+      {
+        "name_ja": "３",
+        "amount": "をそれぞれの餃子の皮に広げるようにのせる。ちくわを等分にのせ、マヨネーズをかけ、ピザ用チーズをのせて、トースター（１０００Ｗ）で５分程度こんがり色づくまで焼く。仕上げにきざみのりをのせる。",
+        "name_translated": {
+          "en": "3",
+          "zh_tw": "3",
+          "zh_cn": "3",
+          "vi": "3",
+          "hi": "3",
+          "ru": "3",
+          "th": "3",
+          "id": "3",
+          "ms": "3",
+          "ko": "3"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%93&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%93/?tag="
+      }
+    ],
+    "steps_ja": [
+      "小さめのボウルにかつお節、「追いがつおつゆ２倍」、みりんを入れて、かつお節が調味料を吸うようによく混ぜる。",
+      "ちくわは５ｍｍ幅の輪切りにする。",
+      "餃子の皮をアルミホイルに一枚ずつ並べ、１をそれぞれの餃子の皮に広げるようにのせる。ちくわを等分にのせ、マヨネーズをかけ、ピザ用チーズをのせて、トースター（１０００Ｗ）で５分程度こんがり色づくまで焼く。仕上げにきざみのりをのせる。"
+    ],
+    "image_url": "",
+    "title": {
+      "en": "Japanese style teriyaki mayo mini pizza",
+      "zh_tw": "日式照燒蛋黃醬迷你披薩",
+      "zh_cn": "日式照烧蛋黄酱迷你披萨",
+      "vi": "Pizza mini teriyaki mayo kiểu Nhật",
+      "hi": "जापानी स्टाइल टेरीयाकी मेयो मिनी पिज़्ज़ा",
+      "ru": "Мини-пицца терияки с майонезом в японском стиле",
+      "th": "มินิพิซซ่าเทอริยากิมายองเนสสไตล์ญี่ปุ่น",
+      "id": "Pizza mini teriyaki mayo gaya Jepang",
+      "ms": "Pizza mini mayo teriyaki gaya Jepun",
+      "ko": "일본식 데리 마요 미니 피자"
+    },
+    "description": {
+      "en": "",
+      "zh_tw": "",
+      "zh_cn": "",
+      "vi": "",
+      "hi": "",
+      "ru": "",
+      "th": "",
+      "id": "",
+      "ms": "",
+      "ko": ""
+    },
+    "steps": {
+      "en": [
+        "In a small bowl, add the bonito flakes, ``Oigatsuotsuyu 2x'', and mirin, and mix well so that the bonito flakes absorb the seasoning.",
+        "Slice the chikuwa into 5mm wide rounds.",
+        "Arrange the gyoza skins one by one on aluminum foil, and spread 1 on each gyoza skin. Spread the chikuwa evenly, sprinkle with mayonnaise, top with pizza cheese, and bake in a toaster (1000W) for about 5 minutes until golden brown. Finish with chopped nori."
+      ],
+      "zh_tw": [
+        "在小碗中加入鰹魚片「Oigatsuotsuyu 2x」和味淋，攪拌均勻，讓鰹魚片吸收調味料。",
+        "將竹輪切成 5 毫米寬的圓形。",
+        "將餃子皮一張一張放在鋁箔上，並在每個餃子皮上鋪上一張。將竹輪均勻鋪開，撒上蛋黃醬，上面鋪上披薩奶酪，放入烤麵包機（1000W）烤約5分鐘至金黃色。最後撒上切碎的紫菜。"
+      ],
+      "zh_cn": [
+        "在小碗中加入鲣鱼片“Oigatsuotsuyu 2x”和味淋，搅拌均匀，让鲣鱼片吸收调味料。",
+        "将竹轮切成 5 毫米宽的圆形。",
+        "将饺子皮一张一张地放在铝箔上，并在每个饺子皮上铺上一张。将竹轮均匀铺开，撒上蛋黄酱，上面铺上披萨奶酪，放入烤面包机（1000W）烤约5分钟至金黄色。最后撒上切碎的紫菜。"
+      ],
+      "vi": [
+        "Trong một bát nhỏ, thêm vảy cá ngừ, ``Oigatsuotsuyu 2x'' và mirin, rồi trộn đều để vảy cá ngừ thấm gia vị.",
+        "Cắt chikuwa thành từng khoanh rộng 5mm.",
+        "Xếp từng miếng gyoza lên giấy nhôm và phết từng miếng lên mỗi miếng gyoza. Trải đều chikuwa, rắc sốt mayonnaise, phủ phô mai pizza lên trên và nướng trong lò nướng bánh mì (1000W) trong khoảng 5 phút cho đến khi có màu vàng nâu. Kết thúc với nori cắt nhỏ."
+      ],
+      "hi": [
+        "एक छोटे कटोरे में, बोनिटो फ्लेक्स, ``ओइगात्सुओत्सुयू 2x'', और मिरिन डालें और अच्छी तरह मिलाएँ ताकि बोनिटो फ्लेक्स मसाला सोख लें।",
+        "चिकुवा को 5 मिमी चौड़े गोल टुकड़ों में काट लें।",
+        "ग्योज़ा की खालों को एल्यूमीनियम फ़ॉइल पर एक-एक करके व्यवस्थित करें, और प्रत्येक ग्योज़ा की खाल पर 1 फैलाएँ। चिकुवा को समान रूप से फैलाएं, मेयोनेज़ छिड़कें, ऊपर पिज़्ज़ा चीज़ डालें और टोस्टर (1000W) में सुनहरा भूरा होने तक लगभग 5 मिनट तक बेक करें। कटी हुई नोरी के साथ समाप्त करें।"
+      ],
+      "ru": [
+        "В небольшую миску добавьте хлопья скумбрии, «Оигацуотсую 2x» и мирин и хорошо перемешайте, чтобы хлопья скумбрии впитали приправу.",
+        "Нарезаем тикуву кружочками шириной 5 мм.",
+        "Разложите шкурки гёдза одну за другой на алюминиевой фольге и распределите по одной шкурке на каждую кожицу гёдза. Равномерно распределите тикуву, посыпьте майонезом, сверху посыпьте сыром для пиццы и запекайте в тостере (1000 Вт) около 5 минут до золотистого цвета. Завершите нарезанным нори."
+      ],
+      "th": [
+        "ในชามขนาดเล็ก ใส่เกล็ดปลาโบนิโต ``Oigatsuotsuyu 2x'' และมิริน และผสมให้เข้ากันเพื่อให้เกล็ดปลาโบนิโตดูดซับเครื่องปรุงรส",
+        "หั่นชิกุวะเป็นวงกลมกว้าง 5 มม.",
+        "จัดเรียงเปลือกเกี๊ยวซ่าทีละแผ่นบนอลูมิเนียมฟอยล์ และเกลี่ยให้ทั่วเปลือกเกี๊ยวซ่าแต่ละแผ่น ทาชิกุวะให้เท่าๆ กัน โรยด้วยมายองเนส โรยด้วยพิซซ่าชีส แล้วอบในเครื่องปิ้งขนมปัง (1000W) ประมาณ 5 นาทีจนเป็นสีเหลืองทอง ปิดท้ายด้วยโนริสับ"
+      ],
+      "id": [
+        "Dalam mangkuk kecil, tambahkan bonito flakes, ``Oigatsuotsuyu 2x'', dan mirin, lalu aduk rata agar bonito flakes menyerap bumbu.",
+        "Iris chikuwa menjadi bulatan selebar 5 mm.",
+        "Susun kulit gyoza satu per satu di atas alumunium foil, lalu oleskan 1 pada setiap kulit gyoza. Oleskan chikuwa secara merata, taburi mayones, taburi keju pizza, dan panggang dalam pemanggang roti (1000W) selama kurang lebih 5 menit hingga berwarna cokelat keemasan. Akhiri dengan nori cincang."
+      ],
+      "ms": [
+        "Dalam mangkuk kecil, masukkan kepingan bonito, ``Oigatsuotsuyu 2x'', dan mirin, dan gaul rata supaya kepingan bonito menyerap perasa.",
+        "Potong chikuwa menjadi bulatan selebar 5mm.",
+        "Susun kulit gyoza satu demi satu pada kerajang aluminium, dan sapukan 1 pada setiap kulit gyoza. Ratakan chikuwa, taburkan mayonis, atas dengan keju pizza, dan bakar dalam pembakar roti (1000W) selama kira-kira 5 minit sehingga perang keemasan. Selesai dengan nori cincang."
+      ],
+      "ko": [
+        "작은 그릇에 가다랭이, \"추구가 츠유 2배\", 미림을 넣고, 가다랭이가 조미료를 피우도록 잘 섞는다.",
+        "치쿠와는 5mm 폭의 윤절로 한다.",
+        "만두의 껍질을 알루미늄 호일에 한 장씩 늘어놓고, 1을 각각의 만두의 껍질에 펼치도록 얹는다. 치쿠와를 등분에 얹고 마요네즈를 뿌리고 피자용 치즈를 얹고 토스터(1000W)로 5분 정도 윤기가 빛날 때까지 굽는다. 마무리에 키자미노리를 얹는다."
+      ]
+    }
+  },
+  {
+    "id": "5b5be7d7",
+    "source_url": "https://www.mizkan.co.jp/ouchirecipe/recipe/?menu_id=23827",
+    "source_site": "Mizkan",
+    "title_ja": "ローリエ香るパプリカのピクルス",
+    "description_ja": "",
+    "ingredients": [
+      {
+        "name_ja": "黄パプリカ",
+        "amount": "１個",
+        "name_translated": {
+          "en": "yellow paprika",
+          "zh_tw": "黃辣椒粉",
+          "zh_cn": "黄辣椒粉",
+          "vi": "ớt bột màu vàng",
+          "hi": "पीला लाल शिमला मिर्च",
+          "ru": "желтая паприка",
+          "th": "พริกหยวกสีเหลือง",
+          "id": "paprika kuning",
+          "ms": "paprika kuning",
+          "ko": "노란 파프리카"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E9%BB%84%E3%83%91%E3%83%97%E3%83%AA%E3%82%AB&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E9%BB%84%E3%83%91%E3%83%97%E3%83%AA%E3%82%AB/?tag="
+      },
+      {
+        "name_ja": "ローリエ",
+        "amount": "２枚",
+        "name_translated": {
+          "en": "Laurier",
+          "zh_tw": "勞裡爾",
+          "zh_cn": "劳里尔",
+          "vi": "Laurier",
+          "hi": "Laurier",
+          "ru": "Лорье",
+          "th": "ลอริเอร์",
+          "id": "Laurier",
+          "ms": "Laurier",
+          "ko": "로리에"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%AD%E3%83%BC%E3%83%AA%E3%82%A8&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%AD%E3%83%BC%E3%83%AA%E3%82%A8/?tag="
+      },
+      {
+        "name_ja": "ミツカン　カンタン酢",
+        "amount": "１００ｍｌ",
+        "name_translated": {
+          "en": "Mizkan Kantan Vinegar",
+          "zh_tw": "味滋康甘丹醋",
+          "zh_cn": "味滋康甘丹醋",
+          "vi": "Giấm Mizkan Kantan",
+          "hi": "मिज़कान कंटन सिरका",
+          "ru": "Мизкан Кантанский уксус",
+          "th": "น้ำส้มสายชูมิซกัน กันตัน",
+          "id": "Cuka Mizkan Kantan",
+          "ms": "Cuka Mizkan Kantan",
+          "ko": "미츠칸 칸탄초"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E3%82%AB%E3%83%B3%E3%82%BF%E3%83%B3%E9%85%A2&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E3%82%AB%E3%83%B3%E3%82%BF%E3%83%B3%E9%85%A2/?tag="
+      },
+      {
+        "name_ja": "１",
+        "amount": "する。",
+        "name_translated": {
+          "en": "1",
+          "zh_tw": "1",
+          "zh_cn": "1",
+          "vi": "1",
+          "hi": "1",
+          "ru": "1",
+          "th": "1",
+          "id": "1",
+          "ms": "1",
+          "ko": "1"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%91&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%91/?tag="
+      },
+      {
+        "name_ja": "２",
+        "amount": "とローリエを入れ、「カンタン酢」を注ぎ、冷蔵庫で３時間漬ける。",
+        "name_translated": {
+          "en": "2",
+          "zh_tw": "2",
+          "zh_cn": "2",
+          "vi": "2",
+          "hi": "2",
+          "ru": "2",
+          "th": "2",
+          "id": "2",
+          "ms": "2",
+          "ko": "2"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%92&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%92/?tag="
+      }
+    ],
+    "steps_ja": [
+      "パプリカは５ｍｍ幅で縦に薄切りする。",
+      "ビンなどの容器に１とローリエを入れ、「カンタン酢」を注ぎ、冷蔵庫で３時間漬ける。"
+    ],
+    "image_url": "",
+    "title": {
+      "en": "Pickled paprika with bay leaf scent",
+      "zh_tw": "帶有月桂葉香味的醃製辣椒粉",
+      "zh_cn": "带有月桂叶香味的腌制辣椒粉",
+      "vi": "Ớt bột ngâm hương lá nguyệt quế",
+      "hi": "तेज़ पत्ते की सुगंध के साथ मसालेदार लाल शिमला मिर्च",
+      "ru": "Маринованная паприка с ароматом лаврового листа",
+      "th": "พริกขี้หนูดองกลิ่นใบกระวาน",
+      "id": "Acar paprika dengan aroma daun salam",
+      "ms": "Paprika jeruk dengan bau daun bay",
+      "ko": "로리에 향기로운 파프리카의 피클"
+    },
+    "description": {
+      "en": "",
+      "zh_tw": "",
+      "zh_cn": "",
+      "vi": "",
+      "hi": "",
+      "ru": "",
+      "th": "",
+      "id": "",
+      "ms": "",
+      "ko": ""
+    },
+    "steps": {
+      "en": [
+        "Slice the paprika lengthwise into 5mm pieces.",
+        "Put 1 and bay leaves in a container such as a bottle, pour in ``simple vinegar'' and soak in the refrigerator for 3 hours."
+      ],
+      "zh_tw": [
+        "將辣椒粉縱向切成 5 毫米的片。",
+        "將1片月桂葉放入瓶子等容器中，倒入“簡單醋”，放入冰箱浸泡3小時。"
+      ],
+      "zh_cn": [
+        "将辣椒粉纵向切成 5 毫米的片。",
+        "将1片月桂叶放入瓶子等容器中，倒入“简单醋”，放入冰箱浸泡3小时。"
+      ],
+      "vi": [
+        "Cắt ớt bột theo chiều dọc thành miếng 5 mm.",
+        "Cho 1 và lá nguyệt quế vào hộp như chai, đổ ''giấm đơn giản'' và ngâm trong tủ lạnh trong 3 giờ."
+      ],
+      "hi": [
+        "लाल शिमला मिर्च को लंबाई में 5 मिमी के टुकड़ों में काट लें।",
+        "1 और तेजपत्ता को एक बोतल जैसे कंटेनर में रखें, ``साधारण सिरका'' डालें और 3 घंटे के लिए रेफ्रिजरेटर में भिगो दें।"
+      ],
+      "ru": [
+        "Нарежьте перец вдоль на кусочки толщиной 5 мм.",
+        "Положите 1 и лавровый лист в емкость, например бутылку, залейте «простым уксусом» и поставьте в холодильник на 3 часа."
+      ],
+      "th": [
+        "หั่นปาปริก้าตามยาวเป็นชิ้นขนาด 5 มม.",
+        "ใส่ใบกระวาน 1 ใบลงในภาชนะ เช่น ขวด เท ``น้ำส้มสายชูธรรมดา'' แล้วแช่ในตู้เย็นเป็นเวลา 3 ชั่วโมง"
+      ],
+      "id": [
+        "Iris paprika memanjang menjadi potongan 5 mm.",
+        "Masukkan 1 buah daun salam ke dalam wadah seperti botol, tuang ``cuka sederhana'' dan rendam di lemari es selama 3 jam."
+      ],
+      "ms": [
+        "Potong paprika memanjang menjadi kepingan 5mm.",
+        "Masukkan 1 dan daun salam ke dalam bekas seperti botol, tuangkan ``cuka ringkas'' dan rendam dalam peti sejuk selama 3 jam."
+      ],
+      "ko": [
+        "파프리카는 5mm 폭으로 세로로 얇게 썬다.",
+        "병 등의 용기에 1과 로리에를 넣고 \"간단식초\"를 부어 냉장고에서 3 시간에 담근다."
+      ]
+    }
   }
 ]

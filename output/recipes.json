@@ -325885,5 +325885,157 @@
         "병 등의 용기에 1과 로리에를 넣고 \"간단식초\"를 부어 냉장고에서 3 시간에 담근다."
       ]
     }
+  },
+  {
+    "id": "55fa3b85",
+    "source_url": "https://www.mizkan.co.jp/ouchirecipe/recipe/?menu_id=21917",
+    "source_site": "Mizkan",
+    "title_ja": "カンタン！酢にんじん",
+    "description_ja": "",
+    "ingredients": [
+      {
+        "name_ja": "にんじん",
+        "amount": "１本（１５０ｇ）",
+        "name_translated": {
+          "en": "carrot",
+          "zh_tw": "紅蘿蔔",
+          "zh_cn": "胡萝卜",
+          "vi": "cà rốt",
+          "hi": "गाजर",
+          "ru": "морковь",
+          "th": "แครอท",
+          "id": "wortel",
+          "ms": "lobak merah",
+          "ko": "당근"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%AB%E3%82%93%E3%81%98%E3%82%93&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%AB%E3%82%93%E3%81%98%E3%82%93/?tag="
+      },
+      {
+        "name_ja": "ミツカン　カンタン酢",
+        "amount": "１００ｍｌ",
+        "name_translated": {
+          "en": "Mizkan Kantan Vinegar",
+          "zh_tw": "味滋康甘丹醋",
+          "zh_cn": "味滋康甘丹醋",
+          "vi": "Giấm Mizkan Kantan",
+          "hi": "मिज़कान कंटन सिरका",
+          "ru": "Мизкан Кантанский уксус",
+          "th": "น้ำส้มสายชูมิซกัน กันตัน",
+          "id": "Cuka Mizkan Kantan",
+          "ms": "Cuka Mizkan Kantan",
+          "ko": "미츠칸 칸탄초"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E3%82%AB%E3%83%B3%E3%82%BF%E3%83%B3%E9%85%A2&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E3%82%AB%E3%83%B3%E3%82%BF%E3%83%B3%E9%85%A2/?tag="
+      },
+      {
+        "name_ja": "１",
+        "amount": "にする。",
+        "name_translated": {
+          "en": "1",
+          "zh_tw": "1",
+          "zh_cn": "1",
+          "vi": "1",
+          "hi": "1",
+          "ru": "1",
+          "th": "1",
+          "id": "1",
+          "ms": "1",
+          "ko": "1"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%91&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%91/?tag="
+      },
+      {
+        "name_ja": "２",
+        "amount": "ビンなどの容器ににんじんを入れ、「カンタン酢」を注ぎ入れる。冷蔵庫で半日漬け込む。",
+        "name_translated": {
+          "en": "2",
+          "zh_tw": "2",
+          "zh_cn": "2",
+          "vi": "2",
+          "hi": "2",
+          "ru": "2",
+          "th": "2",
+          "id": "2",
+          "ms": "2",
+          "ko": "2"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%92&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%92/?tag="
+      }
+    ],
+    "steps_ja": [
+      "にんじんは４～５ｃｍ長さのせん切りにする。",
+      "ビンなどの容器ににんじんを入れ、「カンタン酢」を注ぎ入れる。冷蔵庫で半日漬け込む。"
+    ],
+    "image_url": "",
+    "title": {
+      "en": "Easy! vinegar carrots",
+      "zh_tw": "簡單的！醋胡蘿蔔",
+      "zh_cn": "简单的！醋胡萝卜",
+      "vi": "Dễ! cà rốt dấm",
+      "hi": "आसान! सिरका गाजर",
+      "ru": "Легкий! уксус морковь",
+      "th": "ง่าย! น้ำส้มสายชูแครอท",
+      "id": "Mudah! wortel cuka",
+      "ms": "Mudah! lobak merah cuka",
+      "ko": "간단! 식초 당근"
+    },
+    "description": {
+      "en": "",
+      "zh_tw": "",
+      "zh_cn": "",
+      "vi": "",
+      "hi": "",
+      "ru": "",
+      "th": "",
+      "id": "",
+      "ms": "",
+      "ko": ""
+    },
+    "steps": {
+      "en": [
+        "Cut the carrots into 4-5cm long pieces.",
+        "Place the carrots in a container such as a bottle and pour in the ``simple vinegar.'' Marinate in the refrigerator for half a day."
+      ],
+      "zh_tw": [
+        "將胡蘿蔔切成4-5公分長的塊狀。",
+        "將胡蘿蔔放入瓶子等容器中，倒入「簡單的醋」。在冰箱中醃製半天。"
+      ],
+      "zh_cn": [
+        "将胡萝卜切成4-5厘米长的块。",
+        "将胡萝卜放入瓶子等容器中，倒入“简单的醋”。在冰箱中腌制半天。"
+      ],
+      "vi": [
+        "Cắt cà rốt thành miếng dài 4-5 cm.",
+        "Đặt cà rốt vào hộp chẳng hạn như chai và đổ ''giấm đơn giản''. Ướp trong tủ lạnh nửa ngày."
+      ],
+      "hi": [
+        "गाजर को 4-5 सेमी लंबे टुकड़ों में काट लें।",
+        "गाजर को एक बोतल जैसे कंटेनर में रखें और ``साधारण सिरका'' डालें। आधे दिन के लिए रेफ्रिजरेटर में मैरीनेट करें।"
+      ],
+      "ru": [
+        "Морковь нарезаем кусочками длиной 4-5 см.",
+        "Поместите морковь в емкость, например в бутылку, и залейте «простым уксусом». Маринуйте в холодильнике полдня."
+      ],
+      "th": [
+        "หั่นแครอทเป็นชิ้นยาว 4-5 ซม.",
+        "วางแครอทลงในภาชนะ เช่น ขวด แล้วเท ``น้ำส้มสายชูธรรมดา'' ลงไป หมักในตู้เย็นเป็นเวลาครึ่งวัน"
+      ],
+      "id": [
+        "Potong wortel menjadi potongan sepanjang 4-5cm.",
+        "Tempatkan wortel dalam wadah seperti botol dan tuangkan ``cuka sederhana''. Rendam di lemari es selama setengah hari."
+      ],
+      "ms": [
+        "Potong lobak merah menjadi kepingan sepanjang 4-5cm.",
+        "Letakkan lobak merah di dalam bekas seperti botol dan tuangkan ``cuka ringkas.'' Perap di dalam peti sejuk selama setengah hari."
+      ],
+      "ko": [
+        "당근은 4~5cm 길이의 전단으로 만든다.",
+        "병 등의 용기에 당근을 넣고 \"간단식초\"를 붓는다. 냉장고에서 반나절 절임."
+      ]
+    }
   }
 ]

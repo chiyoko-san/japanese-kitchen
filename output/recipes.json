@@ -326037,5 +326037,229 @@
         "병 등의 용기에 당근을 넣고 \"간단식초\"를 붓는다. 냉장고에서 반나절 절임."
       ]
     }
+  },
+  {
+    "id": "e02e8801",
+    "source_url": "https://www.mizkan.co.jp/ouchirecipe/recipe/?menu_id=23535",
+    "source_site": "Mizkan",
+    "title_ja": "豆腐のゆずニラだれ",
+    "description_ja": "",
+    "ingredients": [
+      {
+        "name_ja": "豆腐",
+        "amount": "１／２丁（１５０ｇ）",
+        "name_translated": {
+          "en": "Tofu",
+          "zh_tw": "豆腐",
+          "zh_cn": "豆腐",
+          "vi": "Đậu phụ",
+          "hi": "टोफू",
+          "ru": "Тофу",
+          "th": "เต้าหู้",
+          "id": "Tahu",
+          "ms": "tauhu",
+          "ko": "두부"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E8%B1%86%E8%85%90&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E8%B1%86%E8%85%90/?tag="
+      },
+      {
+        "name_ja": "にら",
+        "amount": "１／２束",
+        "name_translated": {
+          "en": "Chive",
+          "zh_tw": "韭菜",
+          "zh_cn": "韭菜",
+          "vi": "hẹ",
+          "hi": "चाइव",
+          "ru": "Шнитт-лук",
+          "th": "กุ้ยช่าย",
+          "id": "Lokio",
+          "ms": "daun kucai",
+          "ko": "니라"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%AB%E3%82%89&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%AB%E3%82%89/?tag="
+      },
+      {
+        "name_ja": "しょうが",
+        "amount": "１かけ",
+        "name_translated": {
+          "en": "ginger",
+          "zh_tw": "薑",
+          "zh_cn": "姜",
+          "vi": "gừng",
+          "hi": "अदरक",
+          "ru": "имбирь",
+          "th": "ขิง",
+          "id": "jahe",
+          "ms": "halia",
+          "ko": "생강"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%97%E3%82%87%E3%81%86%E3%81%8C&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%97%E3%82%87%E3%81%86%E3%81%8C/?tag="
+      },
+      {
+        "name_ja": "ミツカン　かおりの蔵　丸搾りゆず",
+        "amount": "大さじ４",
+        "name_translated": {
+          "en": "Mizkan Kaori no Kura whole squeezed yuzu",
+          "zh_tw": "味滋館香織之藏整顆榨柚子",
+          "zh_cn": "味滋馆香织之藏整粒榨柚子",
+          "vi": "Mizkan Kaori no Kura ép toàn bộ yuzu",
+          "hi": "मिज़कान काओरी नो कुरा पूरा निचोड़ा हुआ युज़ू",
+          "ru": "Мизкан Каори но Кура целиком выжатый юзу",
+          "th": "Mizkan Kaori no Kura บีบยูสุทั้งตัว",
+          "id": "Mizkan Kaori no Kura meremas yuzu utuh",
+          "ms": "Mizkan Kaori no Kura seluruh perah yuzu",
+          "ko": "미츠칸 카오리의 창고 마루 짜기 유자"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E3%81%8B%E3%81%8A%E3%82%8A%E3%81%AE%E8%94%B5%E3%80%80%E4%B8%B8%E6%90%BE%E3%82%8A%E3%82%86%E3%81%9A&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E3%81%8B%E3%81%8A%E3%82%8A%E3%81%AE%E8%94%B5%E3%80%80%E4%B8%B8%E6%90%BE%E3%82%8A%E3%82%86%E3%81%9A/?tag="
+      },
+      {
+        "name_ja": "ごま油",
+        "amount": "大さじ１",
+        "name_translated": {
+          "en": "sesame oil",
+          "zh_tw": "香油",
+          "zh_cn": "香油",
+          "vi": "dầu mè",
+          "hi": "तिल का तेल",
+          "ru": "кунжутное масло",
+          "th": "น้ำมันงา",
+          "id": "minyak wijen",
+          "ms": "minyak bijan",
+          "ko": "참기름"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%94%E3%81%BE%E6%B2%B9&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%94%E3%81%BE%E6%B2%B9/?tag="
+      },
+      {
+        "name_ja": "ラー油",
+        "amount": "お好みで",
+        "name_translated": {
+          "en": "chili oil",
+          "zh_tw": "辣椒油",
+          "zh_cn": "辣椒油",
+          "vi": "dầu ớt",
+          "hi": "मिर्च का तेल",
+          "ru": "масло чили",
+          "th": "น้ำมันพริก",
+          "id": "minyak cabai",
+          "ms": "minyak cili",
+          "ko": "라 오일"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%A9%E3%83%BC%E6%B2%B9&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%A9%E3%83%BC%E6%B2%B9/?tag="
+      },
+      {
+        "name_ja": "１",
+        "amount": "にする。",
+        "name_translated": {
+          "en": "1",
+          "zh_tw": "1",
+          "zh_cn": "1",
+          "vi": "1",
+          "hi": "1",
+          "ru": "1",
+          "th": "1",
+          "id": "1",
+          "ms": "1",
+          "ko": "1"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%91&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%91/?tag="
+      },
+      {
+        "name_ja": "２",
+        "amount": "＜A＞ににら、しょうがを入れ、混ぜ合わせる。皿に豆腐を盛り、混ぜ合わせたたれをかける。※辛みが好きな方は、お好みでラー油を入れてください。",
+        "name_translated": {
+          "en": "2",
+          "zh_tw": "2",
+          "zh_cn": "2",
+          "vi": "2",
+          "hi": "2",
+          "ru": "2",
+          "th": "2",
+          "id": "2",
+          "ms": "2",
+          "ko": "2"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%92&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%92/?tag="
+      }
+    ],
+    "steps_ja": [
+      "豆腐は食べやすい大きさに切る。にら、しょうがはみじん切りにする。",
+      "＜A＞ににら、しょうがを入れ、混ぜ合わせる。皿に豆腐を盛り、混ぜ合わせたたれをかける。※辛みが好きな方は、お好みでラー油を入れてください。"
+    ],
+    "image_url": "",
+    "title": {
+      "en": "Tofu with yuzu chive sauce",
+      "zh_tw": "柚子香蔥醬豆腐",
+      "zh_cn": "柚子香葱酱豆腐",
+      "vi": "Đậu hủ sốt yuzu hẹ",
+      "hi": "युज़ू चाइव सॉस के साथ टोफू",
+      "ru": "Тофу с соусом из чеснока юдзу",
+      "th": "เต้าหู้กับซอสกุ้ยช่ายยูสุ",
+      "id": "Tahu dengan saus kucai yuzu",
+      "ms": "Tauhu dengan sos kucai yuzu",
+      "ko": "두부의 유자 부추"
+    },
+    "description": {
+      "en": "",
+      "zh_tw": "",
+      "zh_cn": "",
+      "vi": "",
+      "hi": "",
+      "ru": "",
+      "th": "",
+      "id": "",
+      "ms": "",
+      "ko": ""
+    },
+    "steps": {
+      "en": [
+        "Cut tofu into bite-sized pieces. Finely chop the chives and ginger.",
+        "<A> Add chives and ginger and mix. Place the tofu on a plate and pour the mixed sauce over it. *If you like spiciness, please add chili oil to your preference."
+      ],
+      "zh_tw": [
+        "將豆腐切成一口大小的塊狀。將細香蔥和薑切碎。",
+        "<A> 加入韭菜和薑，攪拌均勻。將豆腐放在盤子上，將混合好的醬汁淋在上面。 *喜歡吃辣的可以依照自己的喜好添加辣椒油。"
+      ],
+      "zh_cn": [
+        "将豆腐切成一口大小的块。将细香葱和生姜切碎。",
+        "<A> 加入韭菜和生姜，搅拌均匀。将豆腐放在盘子上，将混合好的酱汁淋在上面。 *喜欢吃辣的可以根据自己的喜好添加辣椒油。"
+      ],
+      "vi": [
+        "Cắt đậu phụ thành miếng vừa ăn. Cắt nhỏ hẹ và gừng.",
+        "<A> Thêm hẹ và gừng vào trộn đều. Đặt đậu phụ lên đĩa và rưới nước sốt đã trộn lên trên. *Nếu bạn thích ăn cay có thể thêm dầu ớt tùy theo sở thích."
+      ],
+      "hi": [
+        "टोफू को छोटे टुकड़ों में काट लें. चाइव्स और अदरक को बारीक काट लें.",
+        "<ए> चाइव्स और अदरक डालें और मिलाएँ। टोफू को एक प्लेट में रखें और उसके ऊपर मिश्रित सॉस डालें। *यदि आपको तीखापन पसंद है, तो कृपया अपनी पसंद के अनुसार मिर्च का तेल डालें।"
+      ],
+      "ru": [
+        "Нарезаем тофу небольшими кусочками. Мелко нарежьте чеснок и имбирь.",
+        "<A> Добавьте чеснок и имбирь и перемешайте. Положите тофу на тарелку и полейте смешанным соусом. *Если вам нравится острота, добавьте масло чили по вашему вкусу."
+      ],
+      "th": [
+        "หั่นเต้าหู้เป็นชิ้นขนาดพอดีคำ สับกุ้ยช่ายและขิงอย่างประณีต",
+        "<A> ใส่กุ้ยช่ายและขิงและผสม วางเต้าหู้ลงบนจานแล้วราดซอสที่ผสมไว้ลงไป *ถ้าชอบเผ็ดกรุณาเติมน้ำมันพริกตามชอบ"
+      ],
+      "id": [
+        "Potong tahu menjadi potongan-potongan kecil. Cincang halus daun bawang dan jahe.",
+        "<A> Tambahkan daun bawang dan jahe, lalu aduk. Letakkan tahu di piring dan tuangkan saus campur di atasnya. *Jika Anda suka pedas, silakan tambahkan minyak cabai sesuai selera."
+      ],
+      "ms": [
+        "Potong tauhu kepada kepingan bersaiz gigitan. Cincang halus kucai dan halia.",
+        "<A> Masukkan daun kucai dan halia dan gaul. Letakkan tauhu di atas pinggan dan tuangkan sos campuran ke atasnya. *Jika suka pedas, sila masukkan minyak cili mengikut citarasa anda."
+      ],
+      "ko": [
+        "두부는 먹기 쉬운 크기로 자른다. 에라, 생강은 다진다.",
+        "<A>에 주걱, 생강을 넣고 섞는다. 접시에 두부를 담아 섞은 양념장을 뿌린다. ※매운맛을 좋아하는 분은, 기호로 라유를 넣어 주세요."
+      ]
+    }
   }
 ]

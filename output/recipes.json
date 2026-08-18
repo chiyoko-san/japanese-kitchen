@@ -326261,5 +326261,370 @@
         "<A>에 주걱, 생강을 넣고 섞는다. 접시에 두부를 담아 섞은 양념장을 뿌린다. ※매운맛을 좋아하는 분은, 기호로 라유를 넣어 주세요."
       ]
     }
+  },
+  {
+    "id": "b5ddde68",
+    "source_url": "https://www.mizkan.co.jp/ouchirecipe/recipe/?menu_id=23524",
+    "source_site": "Mizkan",
+    "title_ja": "サラダ巻き風！パタパタおにぎり",
+    "description_ja": "",
+    "ingredients": [
+      {
+        "name_ja": "ご飯",
+        "amount": "１合（３２０ｇ）",
+        "name_translated": {
+          "en": "cooked rice",
+          "zh_tw": "乾飯",
+          "zh_cn": "干饭",
+          "vi": "cơm chín",
+          "hi": "पका हुआ चावल",
+          "ru": "приготовленный рис",
+          "th": "ข้าวสวย",
+          "id": "nasi",
+          "ms": "nasi masak",
+          "ko": "밥"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%94%E9%A3%AF&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%94%E9%A3%AF/?tag="
+      },
+      {
+        "name_ja": "ミツカン　カンタン酢",
+        "amount": "適量（４５ｍｌ程度）",
+        "name_translated": {
+          "en": "Mizkan Kantan Vinegar",
+          "zh_tw": "味滋康甘丹醋",
+          "zh_cn": "味滋康甘丹醋",
+          "vi": "Giấm Mizkan Kantan",
+          "hi": "मिज़कान कंटन सिरका",
+          "ru": "Мизкан Кантанский уксус",
+          "th": "น้ำส้มสายชูมิซกัน กันตัน",
+          "id": "Cuka Mizkan Kantan",
+          "ms": "Cuka Mizkan Kantan",
+          "ko": "미츠칸 칸탄초"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E3%82%AB%E3%83%B3%E3%82%BF%E3%83%B3%E9%85%A2&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E3%82%AB%E3%83%B3%E3%82%BF%E3%83%B3%E9%85%A2/?tag="
+      },
+      {
+        "name_ja": "焼のり",
+        "amount": "全形３枚",
+        "name_translated": {
+          "en": "Baked seaweed",
+          "zh_tw": "烤苔",
+          "zh_cn": "烤海苔",
+          "vi": "Rong biển nướng",
+          "hi": "पके हुए समुद्री शैवाल",
+          "ru": "Запеченные водоросли",
+          "th": "สาหร่ายอบ",
+          "id": "Rumput laut panggang",
+          "ms": "Rumpai laut bakar",
+          "ko": "굽기"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E7%84%BC%E3%81%AE%E3%82%8A&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E7%84%BC%E3%81%AE%E3%82%8A/?tag="
+      },
+      {
+        "name_ja": "かに風味かまぼこ",
+        "amount": "１２本",
+        "name_translated": {
+          "en": "Crab flavored kamaboko",
+          "zh_tw": "蟹味魚糕",
+          "zh_cn": "蟹味鱼糕",
+          "vi": "Kamaboko vị cua",
+          "hi": "केकड़े के स्वाद वाला कामाबोको",
+          "ru": "Камабоко со вкусом краба",
+          "th": "คามาโบโกะรสปู",
+          "id": "Kamaboko rasa kepiting",
+          "ms": "Kamaboko berperisa ketam",
+          "ko": "게 풍미 어묵"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%8B%E3%81%AB%E9%A2%A8%E5%91%B3%E3%81%8B%E3%81%BE%E3%81%BC%E3%81%93&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%8B%E3%81%AB%E9%A2%A8%E5%91%B3%E3%81%8B%E3%81%BE%E3%81%BC%E3%81%93/?tag="
+      },
+      {
+        "name_ja": "厚焼き卵",
+        "amount": "１２０ｇ",
+        "name_translated": {
+          "en": "thick fried egg",
+          "zh_tw": "厚厚的煎蛋",
+          "zh_cn": "厚厚的煎鸡蛋",
+          "vi": "trứng chiên dày",
+          "hi": "गाढ़ा तला हुआ अंडा",
+          "ru": "густое жареное яйцо",
+          "th": "ไข่ดาวหนา",
+          "id": "telur goreng kental",
+          "ms": "telur goreng pekat",
+          "ko": "두꺼운 계란"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E5%8E%9A%E7%84%BC%E3%81%8D%E5%8D%B5&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E5%8E%9A%E7%84%BC%E3%81%8D%E5%8D%B5/?tag="
+      },
+      {
+        "name_ja": "ツナ缶",
+        "amount": "小１缶",
+        "name_translated": {
+          "en": "canned tuna",
+          "zh_tw": "鮪魚罐頭",
+          "zh_cn": "金枪鱼罐头",
+          "vi": "cá ngừ đóng hộp",
+          "hi": "डिब्बाबंद टूना",
+          "ru": "консервированный тунец",
+          "th": "ปลาทูน่ากระป๋อง",
+          "id": "tuna kalengan",
+          "ms": "tuna dalam tin",
+          "ko": "참치캔"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%84%E3%83%8A%E7%BC%B6&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%84%E3%83%8A%E7%BC%B6/?tag="
+      },
+      {
+        "name_ja": "マヨネーズ",
+        "amount": "大さじ１",
+        "name_translated": {
+          "en": "mayonnaise",
+          "zh_tw": "美乃滋",
+          "zh_cn": "蛋黄酱",
+          "vi": "mayonaise",
+          "hi": "मेयोनेज़",
+          "ru": "майонез",
+          "th": "มายองเนส",
+          "id": "mayones",
+          "ms": "mayonis",
+          "ko": "마요네즈"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9E%E3%83%A8%E3%83%8D%E3%83%BC%E3%82%BA&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9E%E3%83%A8%E3%83%8D%E3%83%BC%E3%82%BA/?tag="
+      },
+      {
+        "name_ja": "しょうゆ",
+        "amount": "小さじ１／４",
+        "name_translated": {
+          "en": "soy sauce",
+          "zh_tw": "醬油",
+          "zh_cn": "酱油",
+          "vi": "nước tương",
+          "hi": "सोया सॉस",
+          "ru": "соевый соус",
+          "th": "ซอสถั่วเหลือง",
+          "id": "kecap",
+          "ms": "kicap",
+          "ko": "간장"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%97%E3%82%87%E3%81%86%E3%82%86&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%97%E3%82%87%E3%81%86%E3%82%86/?tag="
+      },
+      {
+        "name_ja": "サラダ菜",
+        "amount": "小６枚",
+        "name_translated": {
+          "en": "salad greens",
+          "zh_tw": "沙拉蔬菜",
+          "zh_cn": "沙拉蔬菜",
+          "vi": "xà lách xanh",
+          "hi": "सलाद साग",
+          "ru": "салатная зелень",
+          "th": "สลัดผัก",
+          "id": "sayuran selada",
+          "ms": "salad hijau",
+          "ko": "샐러드 유채"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%82%B5%E3%83%A9%E3%83%80%E8%8F%9C&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%82%B5%E3%83%A9%E3%83%80%E8%8F%9C/?tag="
+      },
+      {
+        "name_ja": "１",
+        "amount": "炊きたてのご飯をボウルに入れる。「カンタン酢」を回しかけ、切るように混ぜ合わせ、すし飯を作る。粗熱が取れるまでおく。",
+        "name_translated": {
+          "en": "1",
+          "zh_tw": "1",
+          "zh_cn": "1",
+          "vi": "1",
+          "hi": "1",
+          "ru": "1",
+          "th": "1",
+          "id": "1",
+          "ms": "1",
+          "ko": "1"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%91&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%91/?tag="
+      },
+      {
+        "name_ja": "２",
+        "amount": "厚焼き卵は６ｃｍ×６ｃｍ×１ｃｍ程度の厚さに切り、これを３枚用意する。ツナ缶の汁を切り、マヨネーズ、しょうゆとあえる。",
+        "name_translated": {
+          "en": "2",
+          "zh_tw": "2",
+          "zh_cn": "2",
+          "vi": "2",
+          "hi": "2",
+          "ru": "2",
+          "th": "2",
+          "id": "2",
+          "ms": "2",
+          "ko": "2"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%92&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%92/?tag="
+      },
+      {
+        "name_ja": "３",
+        "amount": "（具材、すし飯のおき方）まな板の上にラップをしき、焼のりを１枚縦長におく。焼のりを４等分のエリアに分け、左手前から時計回りに、ＡＢＣＤとする。それぞれの場所に、Ａ：サラダ菜を２枚置き、かにかまを４本並べて置く。Ｂ：厚焼き卵を置き、上にツナマヨを広げる。ＣとＤ：すし飯を平らに広げる。",
+        "name_translated": {
+          "en": "3",
+          "zh_tw": "3",
+          "zh_cn": "3",
+          "vi": "3",
+          "hi": "3",
+          "ru": "3",
+          "th": "3",
+          "id": "3",
+          "ms": "3",
+          "ko": "3"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%93&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%93/?tag="
+      },
+      {
+        "name_ja": "４",
+        "amount": "ＡとＤの間をキッチンばさみで切る。",
+        "name_translated": {
+          "en": "4",
+          "zh_tw": "4",
+          "zh_cn": "4",
+          "vi": "4",
+          "hi": "4",
+          "ru": "4",
+          "th": "4",
+          "id": "4",
+          "ms": "4",
+          "ko": "4"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%94&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%94/?tag="
+      },
+      {
+        "name_ja": "５",
+        "amount": "（折りたたみ方）ＡをＢの上に、さらにＣの上、Ｄの上へと折りたたむように重ね、ラップで巻く。これを３個作り、かにかまの断面が見えるように、半分に切る。",
+        "name_translated": {
+          "en": "5",
+          "zh_tw": "5",
+          "zh_cn": "5",
+          "vi": "5",
+          "hi": "5",
+          "ru": "5",
+          "th": "5",
+          "id": "5",
+          "ms": "5",
+          "ko": "5"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%95&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%95/?tag="
+      }
+    ],
+    "steps_ja": [
+      "炊きたてのご飯をボウルに入れる。「カンタン酢」を回しかけ、切るように混ぜ合わせ、すし飯を作る。粗熱が取れるまでおく。",
+      "厚焼き卵は６ｃｍ×６ｃｍ×１ｃｍ程度の厚さに切り、これを３枚用意する。ツナ缶の汁を切り、マヨネーズ、しょうゆとあえる。",
+      "（具材、すし飯のおき方）まな板の上にラップをしき、焼のりを１枚縦長におく。焼のりを４等分のエリアに分け、左手前から時計回りに、ＡＢＣＤとする。それぞれの場所に、Ａ：サラダ菜を２枚置き、かにかまを４本並べて置く。Ｂ：厚焼き卵を置き、上にツナマヨを広げる。ＣとＤ：すし飯を平らに広げる。",
+      "ＡとＤの間をキッチンばさみで切る。",
+      "（折りたたみ方）ＡをＢの上に、さらにＣの上、Ｄの上へと折りたたむように重ね、ラップで巻く。これを３個作り、かにかまの断面が見えるように、半分に切る。"
+    ],
+    "image_url": "",
+    "title": {
+      "en": "Salad roll style! Patapata rice ball",
+      "zh_tw": "沙拉捲風格！帕帕塔飯糰",
+      "zh_cn": "沙拉卷风格！帕帕塔饭团",
+      "vi": "Phong cách cuộn salad! Cơm nắm Patapata",
+      "hi": "सलाद रोल शैली! पटापटा चावल का गोला",
+      "ru": "Салат-ролл в стиле! Рисовые шарики Патапата",
+      "th": "สไตล์สลัดโรล! ข้าวปั้นปาตาปาต้า",
+      "id": "Gaya salad gulung! Bola nasi patapata",
+      "ms": "Gaya salad roll! Bebola nasi Patapata",
+      "ko": "샐러드 권풍! 파타 파타 주먹밥"
+    },
+    "description": {
+      "en": "",
+      "zh_tw": "",
+      "zh_cn": "",
+      "vi": "",
+      "hi": "",
+      "ru": "",
+      "th": "",
+      "id": "",
+      "ms": "",
+      "ko": ""
+    },
+    "steps": {
+      "en": [
+        "Place the freshly cooked rice in a bowl. Sprinkle with the ``simple vinegar'' and mix in a cutting motion to make sushi rice. Leave it until it has cooled down.",
+        "Cut the thick fried egg into pieces approximately 6cm x 6cm x 1cm thick and prepare three pieces. Drain the juice from the canned tuna and mix with mayonnaise and soy sauce.",
+        "(Ingredients and how to place sushi rice) Place plastic wrap on a cutting board and place a sheet of grilled seaweed vertically. Divide the roasted seaweed into four equal areas, starting from the front left and moving clockwise as ABCD. In each place, place A: 2 pieces of salad greens and 4 crab sticks side by side. B: Place the thick fried egg and spread the tuna mayonnaise on top. C and D: Spread the sushi rice flat.",
+        "Cut between A and D with kitchen scissors.",
+        "(How to fold) Fold A over B, then over C, then over D, and wrap with plastic wrap. Make 3 of these and cut them in half so you can see the cross section of the crab stick."
+      ],
+      "zh_tw": [
+        "將剛煮好的米放入碗中。撒上「簡單的醋」並以切割動作混合製成壽司飯。讓它冷卻。",
+        "厚焼き卵は６ｃｍ×６ｃｍ×１ｃｍ程度の厚さに切り、これを３枚用意する。ツナ缶の汁を切り、マヨネーズ、しょうゆとあえる。",
+        "（食材和壽司飯的放置方法）將保鮮膜放在切菜板上，然後垂直放置一張烤海苔。將烤好的海苔分成四份，從左前方開始，並依ABCD順時針方向移動。在每個地方，並排放置 A：2 片沙拉蔬菜和 4 根蟹棒。 B: 放入厚厚的煎蛋，並在上面塗上金槍魚蛋黃醬。 C和D：將壽司米鋪平。",
+        "用廚房剪刀在 A 和 D 之間剪開。",
+        "（如何折疊）將A折疊到B上，然後折疊到C上，然後折疊到D上，然後用保鮮膜包裹。製作 3 個並將它們切成兩半，這樣你就可以看到蟹棒的橫截面。"
+      ],
+      "zh_cn": [
+        "将刚煮好的米饭放入碗中。撒上“简单的醋”并以切割动作混合制成寿司饭。让它冷却。",
+        "将厚煎蛋切成约6cm x 6cm x 1cm厚的块，准备三块。将金枪鱼罐头的汁液沥干，与蛋黄酱和酱油混合。",
+        "（食材和寿司饭的放置方法）将保鲜膜放在切菜板上，然后垂直放置一张烤海苔。将烤好的紫菜分成四份，从左前方开始，按ABCD顺时针方向移动。在每个地方，并排放置 A：2 片沙拉蔬菜和 4 根蟹棒。 B: 放入厚厚的煎蛋，并在上面涂上金枪鱼蛋黄酱。 C和D：将寿司米铺平。",
+        "用厨房剪刀在 A 和 D 之间剪开。",
+        "（如何折叠）将A折叠到B上，然后折叠到C上，然后折叠到D上，然后用保鲜膜包裹。制作 3 个并将它们切成两半，这样你就可以看到蟹棒的横截面。"
+      ],
+      "vi": [
+        "Đặt cơm mới nấu vào tô. Rắc ''giấm đơn giản'' và trộn theo chuyển động cắt để làm cơm sushi. Để nó cho đến khi nó nguội.",
+        "Cắt trứng chiên dày thành từng miếng dày khoảng 6cm x 6cm x 1cm và chuẩn bị ba miếng. Xả nước ép từ cá ngừ đóng hộp và trộn với sốt mayonnaise và nước tương.",
+        "(Nguyên liệu và cách xếp cơm sushi) Đặt màng bọc thực phẩm lên thớt và đặt tấm rong biển nướng theo chiều dọc. Chia rong biển đã rang thành 4 phần bằng nhau, bắt đầu từ phía trước bên trái và di chuyển theo chiều kim đồng hồ theo ABCD. Ở mỗi nơi đặt A: 2 miếng rau xà lách và 4 thanh cua cạnh nhau. B: Đặt quả trứng chiên dày và phết sốt mayonnaise cá ngừ lên trên. C và D: Trải cơm sushi ra phẳng.",
+        "Cắt giữa A và D bằng kéo nhà bếp.",
+        "(Cách gấp) Gấp A lên B, rồi lên C, rồi lên D và dùng màng bọc thực phẩm bọc lại. Làm 3 cái này và cắt chúng làm đôi để bạn có thể nhìn thấy mặt cắt ngang của thanh cua."
+      ],
+      "hi": [
+        "ताजे पके हुए चावल को एक कटोरे में रखें। सुशी चावल बनाने के लिए ``साधारण सिरका'' छिड़कें और काटने की गति में मिलाएँ। इसे ठंडा होने तक छोड़ दें.",
+        "मोटे तले हुए अंडे को लगभग 6 सेमी x 6 सेमी x 1 सेमी मोटे टुकड़ों में काट लें और तीन टुकड़े तैयार कर लें। डिब्बाबंद ट्यूना से रस निकालें और मेयोनेज़ और सोया सॉस के साथ मिलाएं।",
+        "(सामग्री और सुशी चावल कैसे रखें) कटिंग बोर्ड पर प्लास्टिक रैप रखें और ग्रिल्ड समुद्री शैवाल की एक शीट लंबवत रखें। भुने हुए समुद्री शैवाल को सामने बाईं ओर से शुरू करके और एबीसीडी के रूप में दक्षिणावर्त घुमाते हुए, चार बराबर क्षेत्रों में विभाजित करें। प्रत्येक स्थान पर, A: सलाद साग के 2 टुकड़े और 4 केकड़े की छड़ें एक साथ रखें। बी: गाढ़ा तला हुआ अंडा रखें और ऊपर ट्यूना मेयोनेज़ फैलाएं। सी और डी: सुशी चावल को सपाट फैलाएं।",
+        "रसोई की कैंची से ए और डी के बीच काटें।",
+        "(कैसे मोड़ें) A को B के ऊपर मोड़ें, फिर C के ऊपर, फिर D के ऊपर मोड़ें और प्लास्टिक रैप से लपेटें। इनमें से 3 बनाएं और उन्हें आधा काट लें ताकि आप केकड़े की छड़ी का क्रॉस सेक्शन देख सकें।"
+      ],
+      "ru": [
+        "Положите свежеприготовленный рис в миску. Посыпьте «простым уксусом» и перемешайте режущими движениями, чтобы приготовить рис для суши. Оставьте, пока оно не остынет.",
+        "Разрежьте толстую яичницу на кусочки толщиной примерно 6х6х1 см и подготовьте три части. Слейте сок с консервированного тунца и смешайте с майонезом и соевым соусом.",
+        "(Ингредиенты и способ размещения риса для суши) Положите пищевую пленку на разделочную доску и вертикально положите лист жареных морских водорослей. Разделите жареные водоросли на четыре равные части, начиная слева спереди и двигаясь по часовой стрелке, как ABCD. В каждое место положите А: по 2 кусочка салатной зелени и 4 крабовые палочки рядом. Б: Положите толстую яичницу и намажьте сверху майонезом из тунца. C и D: Разложите рис для суши плоско.",
+        "Разрежьте между A и D кухонными ножницами.",
+        "(Как складывать) Сложите A поверх B, затем над C, затем над D и оберните полиэтиленовой пленкой. Сделайте 3 штуки и разрежьте их пополам, чтобы увидеть поперечное сечение крабовой палочки."
+      ],
+      "th": [
+        "ใส่ข้าวที่หุงเสร็จใหม่ๆ ลงในชาม. โรยด้วย ``น้ำส้มสายชูธรรมดา'' และผสมแบบตัดเพื่อทำข้าวซูชิ ปล่อยทิ้งไว้จนกว่าจะเย็นลง",
+        "หั่นไข่ดาวหนาเป็นชิ้นขนาดประมาณ 6 ซม. x 6 ซม. x 1 ซม. หนาแล้วเตรียมสามชิ้น สะเด็ดน้ำจากปลาทูน่ากระป๋องแล้วผสมกับมายองเนสและซีอิ๊วขาว",
+        "(ส่วนผสมและวิธีการวางข้าวซูชิ) วางพลาสติกห่อไว้บนเขียงแล้ววางแผ่นสาหร่ายย่างในแนวตั้ง แบ่งสาหร่ายย่างออกเป็นสี่ส่วนเท่าๆ กัน เริ่มจากด้านหน้าซ้ายแล้วเลื่อนตามเข็มนาฬิกาเป็น ABCD ในแต่ละสถานที่ให้วาง A: ผักสลัด 2 ชิ้น และปูอัด 4 ชิ้น วางคู่กัน B: วางไข่ดาวหนาๆ แล้วทามายองเนสทูน่าลงไปด้านบน C และ D: ทาข้าวซูชิให้เรียบ",
+        "ตัดระหว่าง A และ D ด้วยกรรไกรทำครัว",
+        "(วิธีพับ) พับ A ทับ B ทับ C ทับ D แล้วห่อด้วยพลาสติกแร็ป ทำ 3 อย่างแล้วผ่าครึ่งเพื่อให้คุณเห็นหน้าตัดของปูอัด"
+      ],
+      "id": [
+        "Tempatkan nasi yang baru dimasak ke dalam mangkuk. Taburi dengan ``cuka sederhana'' dan aduk dengan gerakan memotong untuk membuat nasi sushi. Biarkan sampai dingin.",
+        "Potong telur goreng kental menjadi beberapa bagian kira-kira setebal 6cm x 6cm x 1cm dan siapkan tiga potong. Tiriskan jus dari tuna kalengan dan campur dengan mayones dan kecap.",
+        "(Bahan dan cara meletakkan nasi sushi) Letakkan plastik wrap di atas talenan dan letakkan selembar rumput laut panggang secara vertikal. Bagilah rumput laut yang telah dipanggang menjadi empat bagian yang sama besar, dimulai dari kiri depan dan bergerak searah jarum jam membentuk ABCD. Di setiap tempat, letakkan A: 2 potong salad sayuran dan 4 batang kepiting bersebelahan. B: Letakkan telur goreng kental dan olesi tuna mayonnaise di atasnya. C dan D: Sebarkan nasi sushi hingga rata.",
+        "Potong antara A dan D dengan gunting dapur.",
+        "(Cara melipatnya) Lipat A di atas B, lalu di atas C, lalu di atas D, dan bungkus dengan plastik wrap. Buat 3 buah ini dan potong menjadi dua sehingga Anda dapat melihat potongan melintang stik kepiting."
+      ],
+      "ms": [
+        "Letakkan nasi yang baru dimasak dalam mangkuk. Taburkan dengan ``cuka ringkas'' dan gaul dalam gerakan memotong untuk membuat nasi sushi. Biarkan sehingga ia sejuk.",
+        "Telur goreng tebal dipotong lebih kurang 6cm x 6cm x 1cm tebal dan sediakan tiga keping. Toskan jus dari tuna tin dan campurkan dengan mayonis dan kicap.",
+        "(Bahan-bahan dan cara letak nasi sushi) Letakkan bungkus plastik di atas papan pemotong dan letakkan kepingan rumpai laut panggang secara menegak. Bahagikan rumpai laut panggang kepada empat kawasan yang sama, bermula dari kiri hadapan dan bergerak mengikut arah jam sebagai ABCD. Di setiap tempat, letakkan A: 2 keping sayur salad dan 4 batang ketam bersebelahan. B: Letakkan telur goreng pekat dan sapukan mayonis tuna di atasnya. C dan D: Ratakan nasi sushi.",
+        "Potong antara A dan D dengan gunting dapur.",
+        "(Cara melipat) Lipat A atas B, kemudian atas C, kemudian atas D, dan balut dengan bungkus plastik. Buat 3 daripada ini dan potong dua supaya anda boleh melihat keratan rentas batang ketam."
+      ],
+      "ko": [
+        "갓 볶은 밥을 그릇에 담는다. \"간단식초\"를 돌려 잘라 섞어서 밥을 만든다. 조열이 취해질 때까지 둔다.",
+        "두꺼운 계란은 6cm × 6cm × 1cm 정도의 두께로 자르고 이것을 3 장 준비한다. 참치 캔의 국물을 잘라, 마요네즈, 간장과 곁들인다.",
+        "(재료, 스시 밥을 놓는 방법) 도마 위에 랩을 넣고, 구이를 1장 세로로 둔다. 베이킹을 4 등분의 영역으로 나누고, 왼손 앞에서 시계 방향으로, ABCD로 한다. 각각의 장소에, A:샐러드채를 2장 두고, 게 가마를 4개 나란히 놓는다. B : 두꺼운 계란을 놓고 위에 참치를 펼친다. C와 D: 스시밥을 평평하게 펼친다.",
+        "A와 D 사이를 주방 가위로 자른다.",
+        "(접는 방법) A를 B 위에, C 위, D 위로 접도록 겹쳐서 랩으로 감는다. 이것을 3개 만들고, 가마의 단면이 보이도록, 반으로 자른다."
+      ]
+    }
   }
 ]

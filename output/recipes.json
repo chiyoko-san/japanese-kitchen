@@ -327020,5 +327020,730 @@
         "핸드 롤 스시"
       ]
     }
+  },
+  {
+    "id": "17ce2a70",
+    "source_url": "https://park.ajinomoto.co.jp/recipe/card/802313/",
+    "source_site": "Ajinomoto",
+    "title_ja": "フライパン１つで！鮭だしミルクパスタ",
+    "description_ja": "",
+    "ingredients": [
+      {
+        "name_ja": "材料",
+        "amount": "適量",
+        "name_translated": {
+          "en": "材料",
+          "zh_tw": "材料",
+          "zh_cn": "材料",
+          "vi": "材料",
+          "hi": "材料",
+          "ru": "材料",
+          "th": "材料",
+          "id": "材料",
+          "ms": "材料",
+          "ko": "材料"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E6%9D%90%E6%96%99&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E6%9D%90%E6%96%99/?tag="
+      },
+      {
+        "name_ja": "つくり方",
+        "amount": "適量",
+        "name_translated": {
+          "en": "つくり方",
+          "zh_tw": "つくり方",
+          "zh_cn": "つくり方",
+          "vi": "つくり方",
+          "hi": "つくり方",
+          "ru": "つくり方",
+          "th": "つくり方",
+          "id": "つくり方",
+          "ms": "つくり方",
+          "ko": "つくり方"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%A4%E3%81%8F%E3%82%8A%E6%96%B9&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%A4%E3%81%8F%E3%82%8A%E6%96%B9/?tag="
+      },
+      {
+        "name_ja": "エネルギー",
+        "amount": "kcal",
+        "name_translated": {
+          "en": "エネルギー",
+          "zh_tw": "エネルギー",
+          "zh_cn": "エネルギー",
+          "vi": "エネルギー",
+          "hi": "エネルギー",
+          "ru": "エネルギー",
+          "th": "エネルギー",
+          "id": "エネルギー",
+          "ms": "エネルギー",
+          "ko": "エネルギー"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%82%A8%E3%83%8D%E3%83%AB%E3%82%AE%E3%83%BC&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%82%A8%E3%83%8D%E3%83%AB%E3%82%AE%E3%83%BC/?tag="
+      },
+      {
+        "name_ja": "645",
+        "amount": "kcal",
+        "name_translated": {
+          "en": "645",
+          "zh_tw": "645",
+          "zh_cn": "645",
+          "vi": "645",
+          "hi": "645",
+          "ru": "645",
+          "th": "645",
+          "id": "645",
+          "ms": "645",
+          "ko": "645"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=645&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/645/?tag="
+      },
+      {
+        "name_ja": "塩分",
+        "amount": "g",
+        "name_translated": {
+          "en": "塩分",
+          "zh_tw": "塩分",
+          "zh_cn": "塩分",
+          "vi": "塩分",
+          "hi": "塩分",
+          "ru": "塩分",
+          "th": "塩分",
+          "id": "塩分",
+          "ms": "塩分",
+          "ko": "塩分"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E5%A1%A9%E5%88%86&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E5%A1%A9%E5%88%86/?tag="
+      },
+      {
+        "name_ja": "3.4",
+        "amount": "g",
+        "name_translated": {
+          "en": "3.4",
+          "zh_tw": "3.4",
+          "zh_cn": "3.4",
+          "vi": "3.4",
+          "hi": "3.4",
+          "ru": "3.4",
+          "th": "3.4",
+          "id": "3.4",
+          "ms": "3.4",
+          "ko": "3.4"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=3.4&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/3.4/?tag="
+      },
+      {
+        "name_ja": "たんぱく質",
+        "amount": "g",
+        "name_translated": {
+          "en": "たんぱく質",
+          "zh_tw": "たんぱく質",
+          "zh_cn": "たんぱく質",
+          "vi": "たんぱく質",
+          "hi": "たんぱく質",
+          "ru": "たんぱく質",
+          "th": "たんぱく質",
+          "id": "たんぱく質",
+          "ms": "たんぱく質",
+          "ko": "たんぱく質"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%9F%E3%82%93%E3%81%B1%E3%81%8F%E8%B3%AA&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%9F%E3%82%93%E3%81%B1%E3%81%8F%E8%B3%AA/?tag="
+      },
+      {
+        "name_ja": "40.5",
+        "amount": "g",
+        "name_translated": {
+          "en": "40.5",
+          "zh_tw": "40.5",
+          "zh_cn": "40.5",
+          "vi": "40.5",
+          "hi": "40.5",
+          "ru": "40.5",
+          "th": "40.5",
+          "id": "40.5",
+          "ms": "40.5",
+          "ko": "40.5"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=40.5&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/40.5/?tag="
+      },
+      {
+        "name_ja": "脂質",
+        "amount": "g",
+        "name_translated": {
+          "en": "脂質",
+          "zh_tw": "脂質",
+          "zh_cn": "脂質",
+          "vi": "脂質",
+          "hi": "脂質",
+          "ru": "脂質",
+          "th": "脂質",
+          "id": "脂質",
+          "ms": "脂質",
+          "ko": "脂質"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E8%84%82%E8%B3%AA&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E8%84%82%E8%B3%AA/?tag="
+      },
+      {
+        "name_ja": "19",
+        "amount": "g",
+        "name_translated": {
+          "en": "19",
+          "zh_tw": "19",
+          "zh_cn": "19",
+          "vi": "19",
+          "hi": "19",
+          "ru": "19",
+          "th": "19",
+          "id": "19",
+          "ms": "19",
+          "ko": "19"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=19&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/19/?tag="
+      },
+      {
+        "name_ja": "もっと見る",
+        "amount": "適量",
+        "name_translated": {
+          "en": "もっと見る",
+          "zh_tw": "もっと見る",
+          "zh_cn": "もっと見る",
+          "vi": "もっと見る",
+          "hi": "もっと見る",
+          "ru": "もっと見る",
+          "th": "もっと見る",
+          "id": "もっと見る",
+          "ms": "もっと見る",
+          "ko": "もっと見る"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%82%82%E3%81%A3%E3%81%A8%E8%A6%8B%E3%82%8B&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%82%82%E3%81%A3%E3%81%A8%E8%A6%8B%E3%82%8B/?tag="
+      },
+      {
+        "name_ja": "マイレシピにも保存！",
+        "amount": "LINEに保存",
+        "name_translated": {
+          "en": "マイレシピにも保存！",
+          "zh_tw": "マイレシピにも保存！",
+          "zh_cn": "マイレシピにも保存！",
+          "vi": "マイレシピにも保存！",
+          "hi": "マイレシピにも保存！",
+          "ru": "マイレシピにも保存！",
+          "th": "マイレシピにも保存！",
+          "id": "マイレシピにも保存！",
+          "ms": "マイレシピにも保存！",
+          "ko": "マイレシピにも保存！"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9E%E3%82%A4%E3%83%AC%E3%82%B7%E3%83%94%E3%81%AB%E3%82%82%E4%BF%9D%E5%AD%98%EF%BC%81&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9E%E3%82%A4%E3%83%AC%E3%82%B7%E3%83%94%E3%81%AB%E3%82%82%E4%BF%9D%E5%AD%98%EF%BC%81/?tag="
+      },
+      {
+        "name_ja": "マイレシピに保存",
+        "amount": "-",
+        "name_translated": {
+          "en": "マイレシピに保存",
+          "zh_tw": "マイレシピに保存",
+          "zh_cn": "マイレシピに保存",
+          "vi": "マイレシピに保存",
+          "hi": "マイレシピに保存",
+          "ru": "マイレシピに保存",
+          "th": "マイレシピに保存",
+          "id": "マイレシピに保存",
+          "ms": "マイレシピに保存",
+          "ko": "マイレシピに保存"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9E%E3%82%A4%E3%83%AC%E3%82%B7%E3%83%94%E3%81%AB%E4%BF%9D%E5%AD%98&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9E%E3%82%A4%E3%83%AC%E3%82%B7%E3%83%94%E3%81%AB%E4%BF%9D%E5%AD%98/?tag="
+      },
+      {
+        "name_ja": "リンク",
+        "amount": "外部タブで開く",
+        "name_translated": {
+          "en": "リンク",
+          "zh_tw": "リンク",
+          "zh_cn": "リンク",
+          "vi": "リンク",
+          "hi": "リンク",
+          "ru": "リンク",
+          "th": "リンク",
+          "id": "リンク",
+          "ms": "リンク",
+          "ko": "リンク"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%AA%E3%83%B3%E3%82%AF&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%AA%E3%83%B3%E3%82%AF/?tag="
+      },
+      {
+        "name_ja": "材料",
+        "amount": "適量",
+        "name_translated": {
+          "en": "材料",
+          "zh_tw": "材料",
+          "zh_cn": "材料",
+          "vi": "材料",
+          "hi": "材料",
+          "ru": "材料",
+          "th": "材料",
+          "id": "材料",
+          "ms": "材料",
+          "ko": "材料"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E6%9D%90%E6%96%99&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E6%9D%90%E6%96%99/?tag="
+      },
+      {
+        "name_ja": "つくり方",
+        "amount": "適量",
+        "name_translated": {
+          "en": "つくり方",
+          "zh_tw": "つくり方",
+          "zh_cn": "つくり方",
+          "vi": "つくり方",
+          "hi": "つくり方",
+          "ru": "つくり方",
+          "th": "つくり方",
+          "id": "つくり方",
+          "ms": "つくり方",
+          "ko": "つくり方"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%A4%E3%81%8F%E3%82%8A%E6%96%B9&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%A4%E3%81%8F%E3%82%8A%E6%96%B9/?tag="
+      },
+      {
+        "name_ja": "1",
+        "amount": "にする。",
+        "name_translated": {
+          "en": "1",
+          "zh_tw": "1",
+          "zh_cn": "1",
+          "vi": "1",
+          "hi": "1",
+          "ru": "1",
+          "th": "1",
+          "id": "1",
+          "ms": "1",
+          "ko": "1"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=1&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/1/?tag="
+      },
+      {
+        "name_ja": "2",
+        "amount": "を入れて強火にかけ、煮立ったら塩ざけを加える。スパゲッティを半分に折って加えて混ぜ、弱めの中火でときどき混ぜながら煮る。",
+        "name_translated": {
+          "en": "2",
+          "zh_tw": "2",
+          "zh_cn": "2",
+          "vi": "2",
+          "hi": "2",
+          "ru": "2",
+          "th": "2",
+          "id": "2",
+          "ms": "2",
+          "ko": "2"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=2&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/2/?tag="
+      },
+      {
+        "name_ja": "3",
+        "amount": "表示時間を目安にスパゲッティがやわらかくなったら、（１）のほうれん草を加え、しんなりしたら、火を止める。塩ざけの皮と骨を取り除き、身をほぐしながら全体をあえる。",
+        "name_translated": {
+          "en": "3",
+          "zh_tw": "3",
+          "zh_cn": "3",
+          "vi": "3",
+          "hi": "3",
+          "ru": "3",
+          "th": "3",
+          "id": "3",
+          "ms": "3",
+          "ko": "3"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=3&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/3/?tag="
+      },
+      {
+        "name_ja": "4",
+        "amount": "器に盛り、好みで黒こしょうをかける。",
+        "name_translated": {
+          "en": "4",
+          "zh_tw": "4",
+          "zh_cn": "4",
+          "vi": "4",
+          "hi": "4",
+          "ru": "4",
+          "th": "4",
+          "id": "4",
+          "ms": "4",
+          "ko": "4"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=4&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/4/?tag="
+      },
+      {
+        "name_ja": "＊",
+        "amount": "さけの皮や骨を外す際は火傷にご注意ください。",
+        "name_translated": {
+          "en": "＊",
+          "zh_tw": "＊",
+          "zh_cn": "＊",
+          "vi": "＊",
+          "hi": "＊",
+          "ru": "＊",
+          "th": "＊",
+          "id": "＊",
+          "ms": "＊",
+          "ko": "＊"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%8A&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%8A/?tag="
+      },
+      {
+        "name_ja": "10分以内",
+        "amount": "適量",
+        "name_translated": {
+          "en": "10分以内",
+          "zh_tw": "10分以内",
+          "zh_cn": "10分以内",
+          "vi": "10分以内",
+          "hi": "10分以内",
+          "ru": "10分以内",
+          "th": "10分以内",
+          "id": "10分以内",
+          "ms": "10分以内",
+          "ko": "10分以内"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=10%E5%88%86%E4%BB%A5%E5%86%85&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/10%E5%88%86%E4%BB%A5%E5%86%85/?tag="
+      },
+      {
+        "name_ja": "簡単・時短",
+        "amount": "適量",
+        "name_translated": {
+          "en": "簡単・時短",
+          "zh_tw": "簡単・時短",
+          "zh_cn": "簡単・時短",
+          "vi": "簡単・時短",
+          "hi": "簡単・時短",
+          "ru": "簡単・時短",
+          "th": "簡単・時短",
+          "id": "簡単・時短",
+          "ms": "簡単・時短",
+          "ko": "簡単・時短"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E7%B0%A1%E5%8D%98%E3%83%BB%E6%99%82%E7%9F%AD&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E7%B0%A1%E5%8D%98%E3%83%BB%E6%99%82%E7%9F%AD/?tag="
+      },
+      {
+        "name_ja": "子どもに人気",
+        "amount": "適量",
+        "name_translated": {
+          "en": "子どもに人気",
+          "zh_tw": "子どもに人気",
+          "zh_cn": "子どもに人気",
+          "vi": "子どもに人気",
+          "hi": "子どもに人気",
+          "ru": "子どもに人気",
+          "th": "子どもに人気",
+          "id": "子どもに人気",
+          "ms": "子どもに人気",
+          "ko": "子どもに人気"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E5%AD%90%E3%81%A9%E3%82%82%E3%81%AB%E4%BA%BA%E6%B0%97&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E5%AD%90%E3%81%A9%E3%82%82%E3%81%AB%E4%BA%BA%E6%B0%97/?tag="
+      },
+      {
+        "name_ja": "料理初心者",
+        "amount": "適量",
+        "name_translated": {
+          "en": "料理初心者",
+          "zh_tw": "料理初心者",
+          "zh_cn": "料理初心者",
+          "vi": "料理初心者",
+          "hi": "料理初心者",
+          "ru": "料理初心者",
+          "th": "料理初心者",
+          "id": "料理初心者",
+          "ms": "料理初心者",
+          "ko": "料理初心者"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E6%96%99%E7%90%86%E5%88%9D%E5%BF%83%E8%80%85&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E6%96%99%E7%90%86%E5%88%9D%E5%BF%83%E8%80%85/?tag="
+      },
+      {
+        "name_ja": "濃厚・こってり",
+        "amount": "適量",
+        "name_translated": {
+          "en": "濃厚・こってり",
+          "zh_tw": "濃厚・こってり",
+          "zh_cn": "濃厚・こってり",
+          "vi": "濃厚・こってり",
+          "hi": "濃厚・こってり",
+          "ru": "濃厚・こってり",
+          "th": "濃厚・こってり",
+          "id": "濃厚・こってり",
+          "ms": "濃厚・こってり",
+          "ko": "濃厚・こってり"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E6%BF%83%E5%8E%9A%E3%83%BB%E3%81%93%E3%81%A3%E3%81%A6%E3%82%8A&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E6%BF%83%E5%8E%9A%E3%83%BB%E3%81%93%E3%81%A3%E3%81%A6%E3%82%8A/?tag="
+      },
+      {
+        "name_ja": "1人前レシピ",
+        "amount": "適量",
+        "name_translated": {
+          "en": "1人前レシピ",
+          "zh_tw": "1人前レシピ",
+          "zh_cn": "1人前レシピ",
+          "vi": "1人前レシピ",
+          "hi": "1人前レシピ",
+          "ru": "1人前レシピ",
+          "th": "1人前レシピ",
+          "id": "1人前レシピ",
+          "ms": "1人前レシピ",
+          "ko": "1人前レシピ"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=1%E4%BA%BA%E5%89%8D%E3%83%AC%E3%82%B7%E3%83%94&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/1%E4%BA%BA%E5%89%8D%E3%83%AC%E3%82%B7%E3%83%94/?tag="
+      },
+      {
+        "name_ja": "パスタ",
+        "amount": "適量",
+        "name_translated": {
+          "en": "パスタ",
+          "zh_tw": "パスタ",
+          "zh_cn": "パスタ",
+          "vi": "パスタ",
+          "hi": "パスタ",
+          "ru": "パスタ",
+          "th": "パスタ",
+          "id": "パスタ",
+          "ms": "パスタ",
+          "ko": "パスタ"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%91%E3%82%B9%E3%82%BF&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%91%E3%82%B9%E3%82%BF/?tag="
+      },
+      {
+        "name_ja": "さけ",
+        "amount": "適量",
+        "name_translated": {
+          "en": "さけ",
+          "zh_tw": "さけ",
+          "zh_cn": "さけ",
+          "vi": "さけ",
+          "hi": "さけ",
+          "ru": "さけ",
+          "th": "さけ",
+          "id": "さけ",
+          "ms": "さけ",
+          "ko": "さけ"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%95%E3%81%91&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%95%E3%81%91/?tag="
+      },
+      {
+        "name_ja": "麺料理",
+        "amount": "適量",
+        "name_translated": {
+          "en": "麺料理",
+          "zh_tw": "麺料理",
+          "zh_cn": "麺料理",
+          "vi": "麺料理",
+          "hi": "麺料理",
+          "ru": "麺料理",
+          "th": "麺料理",
+          "id": "麺料理",
+          "ms": "麺料理",
+          "ko": "麺料理"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E9%BA%BA%E6%96%99%E7%90%86&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E9%BA%BA%E6%96%99%E7%90%86/?tag="
+      },
+      {
+        "name_ja": "主食",
+        "amount": "適量",
+        "name_translated": {
+          "en": "主食",
+          "zh_tw": "主食",
+          "zh_cn": "主食",
+          "vi": "主食",
+          "hi": "主食",
+          "ru": "主食",
+          "th": "主食",
+          "id": "主食",
+          "ms": "主食",
+          "ko": "主食"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E4%B8%BB%E9%A3%9F&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E4%B8%BB%E9%A3%9F/?tag="
+      },
+      {
+        "name_ja": "和風",
+        "amount": "適量",
+        "name_translated": {
+          "en": "和風",
+          "zh_tw": "和風",
+          "zh_cn": "和風",
+          "vi": "和風",
+          "hi": "和風",
+          "ru": "和風",
+          "th": "和風",
+          "id": "和風",
+          "ms": "和風",
+          "ko": "和風"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E5%92%8C%E9%A2%A8&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E5%92%8C%E9%A2%A8/?tag="
+      },
+      {
+        "name_ja": "ほんだし®",
+        "amount": "適量",
+        "name_translated": {
+          "en": "ほんだし®",
+          "zh_tw": "ほんだし®",
+          "zh_cn": "ほんだし®",
+          "vi": "ほんだし®",
+          "hi": "ほんだし®",
+          "ru": "ほんだし®",
+          "th": "ほんだし®",
+          "id": "ほんだし®",
+          "ms": "ほんだし®",
+          "ko": "ほんだし®"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%BB%E3%82%93%E3%81%A0%E3%81%97%C2%AE&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%BB%E3%82%93%E3%81%A0%E3%81%97%C2%AE/?tag="
+      },
+      {
+        "name_ja": "瀬戸のほんじお®",
+        "amount": "適量",
+        "name_translated": {
+          "en": "瀬戸のほんじお®",
+          "zh_tw": "瀬戸のほんじお®",
+          "zh_cn": "瀬戸のほんじお®",
+          "vi": "瀬戸のほんじお®",
+          "hi": "瀬戸のほんじお®",
+          "ru": "瀬戸のほんじお®",
+          "th": "瀬戸のほんじお®",
+          "id": "瀬戸のほんじお®",
+          "ms": "瀬戸のほんじお®",
+          "ko": "瀬戸のほんじお®"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E7%80%AC%E6%88%B8%E3%81%AE%E3%81%BB%E3%82%93%E3%81%98%E3%81%8A%C2%AE&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E7%80%AC%E6%88%B8%E3%81%AE%E3%81%BB%E3%82%93%E3%81%98%E3%81%8A%C2%AE/?tag="
+      }
+    ],
+    "steps_ja": [
+      "ほうれん草はザク切りにする。",
+      "フライパンにＡを入れて強火にかけ、煮立ったら塩ざけを加える。スパゲッティを半分に折って加えて混ぜ、弱めの中火でときどき混ぜながら煮る。",
+      "表示時間を目安にスパゲッティがやわらかくなったら、（１）のほうれん草を加え、しんなりしたら、火を止める。塩ざけの皮と骨を取り除き、身をほぐしながら全体をあえる。",
+      "器に盛り、好みで黒こしょうをかける。",
+      "＊さけの皮や骨を外す際は火傷にご注意ください。"
+    ],
+    "image_url": "https://images.weserv.nl/?url=https://images.microcms-assets.io/assets/3834bb6c71eb4fdd912121537b20e72d/9742e49e4b0d4156a47b375d3db4861c/recipe_main_image_802313.jpg?fm=webp&q=60&fit=min&w=600&output=jpg",
+    "title": {
+      "en": "フライパン１つで！鮭だしミルクパスタ",
+      "zh_tw": "フライパン１つで！鮭だしミルクパスタ",
+      "zh_cn": "フライパン１つで！鮭だしミルクパスタ",
+      "vi": "フライパン１つで！鮭だしミルクパスタ",
+      "hi": "フライパン１つで！鮭だしミルクパスタ",
+      "ru": "フライパン１つで！鮭だしミルクパスタ",
+      "th": "フライパン１つで！鮭だしミルクパスタ",
+      "id": "フライパン１つで！鮭だしミルクパスタ",
+      "ms": "フライパン１つで！鮭だしミルクパスタ",
+      "ko": "フライパン１つで！鮭だしミルクパスタ"
+    },
+    "description": {
+      "en": "",
+      "zh_tw": "",
+      "zh_cn": "",
+      "vi": "",
+      "hi": "",
+      "ru": "",
+      "th": "",
+      "id": "",
+      "ms": "",
+      "ko": ""
+    },
+    "steps": {
+      "en": [
+        "ほうれん草はザク切りにする。",
+        "フライパンにＡを入れて強火にかけ、煮立ったら塩ざけを加える。スパゲッティを半分に折って加えて混ぜ、弱めの中火でときどき混ぜながら煮る。",
+        "表示時間を目安にスパゲッティがやわらかくなったら、（１）のほうれん草を加え、しんなりしたら、火を止める。塩ざけの皮と骨を取り除き、身をほぐしながら全体をあえる。",
+        "器に盛り、好みで黒こしょうをかける。",
+        "＊さけの皮や骨を外す際は火傷にご注意ください。"
+      ],
+      "zh_tw": [
+        "ほうれん草はザク切りにする。",
+        "フライパンにＡを入れて強火にかけ、煮立ったら塩ざけを加える。スパゲッティを半分に折って加えて混ぜ、弱めの中火でときどき混ぜながら煮る。",
+        "表示時間を目安にスパゲッティがやわらかくなったら、（１）のほうれん草を加え、しんなりしたら、火を止める。塩ざけの皮と骨を取り除き、身をほぐしながら全体をあえる。",
+        "器に盛り、好みで黒こしょうをかける。",
+        "＊さけの皮や骨を外す際は火傷にご注意ください。"
+      ],
+      "zh_cn": [
+        "ほうれん草はザク切りにする。",
+        "フライパンにＡを入れて強火にかけ、煮立ったら塩ざけを加える。スパゲッティを半分に折って加えて混ぜ、弱めの中火でときどき混ぜながら煮る。",
+        "表示時間を目安にスパゲッティがやわらかくなったら、（１）のほうれん草を加え、しんなりしたら、火を止める。塩ざけの皮と骨を取り除き、身をほぐしながら全体をあえる。",
+        "器に盛り、好みで黒こしょうをかける。",
+        "＊さけの皮や骨を外す際は火傷にご注意ください。"
+      ],
+      "vi": [
+        "ほうれん草はザク切りにする。",
+        "フライパンにＡを入れて強火にかけ、煮立ったら塩ざけを加える。スパゲッティを半分に折って加えて混ぜ、弱めの中火でときどき混ぜながら煮る。",
+        "表示時間を目安にスパゲッティがやわらかくなったら、（１）のほうれん草を加え、しんなりしたら、火を止める。塩ざけの皮と骨を取り除き、身をほぐしながら全体をあえる。",
+        "器に盛り、好みで黒こしょうをかける。",
+        "＊さけの皮や骨を外す際は火傷にご注意ください。"
+      ],
+      "hi": [
+        "ほうれん草はザク切りにする。",
+        "フライパンにＡを入れて強火にかけ、煮立ったら塩ざけを加える。スパゲッティを半分に折って加えて混ぜ、弱めの中火でときどき混ぜながら煮る。",
+        "表示時間を目安にスパゲッティがやわらかくなったら、（１）のほうれん草を加え、しんなりしたら、火を止める。塩ざけの皮と骨を取り除き、身をほぐしながら全体をあえる。",
+        "器に盛り、好みで黒こしょうをかける。",
+        "＊さけの皮や骨を外す際は火傷にご注意ください。"
+      ],
+      "ru": [
+        "ほうれん草はザク切りにする。",
+        "フライパンにＡを入れて強火にかけ、煮立ったら塩ざけを加える。スパゲッティを半分に折って加えて混ぜ、弱めの中火でときどき混ぜながら煮る。",
+        "表示時間を目安にスパゲッティがやわらかくなったら、（１）のほうれん草を加え、しんなりしたら、火を止める。塩ざけの皮と骨を取り除き、身をほぐしながら全体をあえる。",
+        "器に盛り、好みで黒こしょうをかける。",
+        "＊さけの皮や骨を外す際は火傷にご注意ください。"
+      ],
+      "th": [
+        "ほうれん草はザク切りにする。",
+        "フライパンにＡを入れて強火にかけ、煮立ったら塩ざけを加える。スパゲッティを半分に折って加えて混ぜ、弱めの中火でときどき混ぜながら煮る。",
+        "表示時間を目安にスパゲッティがやわらかくなったら、（１）のほうれん草を加え、しんなりしたら、火を止める。塩ざけの皮と骨を取り除き、身をほぐしながら全体をあえる。",
+        "器に盛り、好みで黒こしょうをかける。",
+        "＊さけの皮や骨を外す際は火傷にご注意ください。"
+      ],
+      "id": [
+        "ほうれん草はザク切りにする。",
+        "フライパンにＡを入れて強火にかけ、煮立ったら塩ざけを加える。スパゲッティを半分に折って加えて混ぜ、弱めの中火でときどき混ぜながら煮る。",
+        "表示時間を目安にスパゲッティがやわらかくなったら、（１）のほうれん草を加え、しんなりしたら、火を止める。塩ざけの皮と骨を取り除き、身をほぐしながら全体をあえる。",
+        "器に盛り、好みで黒こしょうをかける。",
+        "＊さけの皮や骨を外す際は火傷にご注意ください。"
+      ],
+      "ms": [
+        "ほうれん草はザク切りにする。",
+        "フライパンにＡを入れて強火にかけ、煮立ったら塩ざけを加える。スパゲッティを半分に折って加えて混ぜ、弱めの中火でときどき混ぜながら煮る。",
+        "表示時間を目安にスパゲッティがやわらかくなったら、（１）のほうれん草を加え、しんなりしたら、火を止める。塩ざけの皮と骨を取り除き、身をほぐしながら全体をあえる。",
+        "器に盛り、好みで黒こしょうをかける。",
+        "＊さけの皮や骨を外す際は火傷にご注意ください。"
+      ],
+      "ko": [
+        "ほうれん草はザク切りにする。",
+        "フライパンにＡを入れて強火にかけ、煮立ったら塩ざけを加える。スパゲッティを半分に折って加えて混ぜ、弱めの中火でときどき混ぜながら煮る。",
+        "表示時間を目安にスパゲッティがやわらかくなったら、（１）のほうれん草を加え、しんなりしたら、火を止める。塩ざけの皮と骨を取り除き、身をほぐしながら全体をあえる。",
+        "器に盛り、好みで黒こしょうをかける。",
+        "＊さけの皮や骨を外す際は火傷にご注意ください。"
+      ]
+    }
   }
 ]

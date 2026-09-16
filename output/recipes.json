@@ -337497,5 +337497,681 @@
         "ジッパー付き保存袋に＜A>、ゆで卵を入れ、冷蔵庫で1時間以上冷やす。"
       ]
     }
+  },
+  {
+    "id": "42e243fb",
+    "source_url": "https://www.mizkan.co.jp/ouchirecipe/recipe/?menu_id=23689",
+    "source_site": "Mizkan",
+    "title_ja": "やみつき蓮根チップス",
+    "description_ja": "",
+    "ingredients": [
+      {
+        "name_ja": "れんこん",
+        "amount": "小１節（約１００ｇ）",
+        "name_translated": {
+          "en": "Lotus root",
+          "zh_tw": "蓮藕",
+          "zh_cn": "莲藕",
+          "vi": "Củ sen",
+          "hi": "कमल जड़",
+          "ru": "Корень лотоса",
+          "th": "รากบัว",
+          "id": "Akar teratai",
+          "ms": "Akar teratai",
+          "ko": "렌콘"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%82%8C%E3%82%93%E3%81%93%E3%82%93&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%82%8C%E3%82%93%E3%81%93%E3%82%93/?tag="
+      },
+      {
+        "name_ja": "ミツカン　追いがつおつゆ２倍",
+        "amount": "大さじ１／２",
+        "name_translated": {
+          "en": "Mizkan Oigatsu Otsuyu x2",
+          "zh_tw": "ミツカン　追いがつおつゆ２倍",
+          "zh_cn": "味滋馆大月大津 x2",
+          "vi": "Mizkan Oigatsu Otsuyu x2",
+          "hi": "मिज़कान ओइगात्सु ओत्सुयु x2",
+          "ru": "Мизкан Ойгацу Оцую x2",
+          "th": "มิซคัง โออิงัตสึ โอทสึยุ x2",
+          "id": "Mizkan Oigatsu Otsuyu x2",
+          "ms": "Mizkan Oigatsu Otsuyu x2",
+          "ko": "미쓰칸 쫓는 츠츠유 2배"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E8%BF%BD%E3%81%84%E3%81%8C%E3%81%A4%E3%81%8A%E3%81%A4%E3%82%86%EF%BC%92%E5%80%8D&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E8%BF%BD%E3%81%84%E3%81%8C%E3%81%A4%E3%81%8A%E3%81%A4%E3%82%86%EF%BC%92%E5%80%8D/?tag="
+      },
+      {
+        "name_ja": "粉チーズ",
+        "amount": "大さじ１",
+        "name_translated": {
+          "en": "powdered cheese",
+          "zh_tw": "乾酪粉",
+          "zh_cn": "干酪粉",
+          "vi": "phô mai bột",
+          "hi": "पीसा हुआ पनीर",
+          "ru": "тертый сыр",
+          "th": "ผงชีส",
+          "id": "keju bubuk",
+          "ms": "keju tepung",
+          "ko": "분말 치즈"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E7%B2%89%E3%83%81%E3%83%BC%E3%82%BA&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E7%B2%89%E3%83%81%E3%83%BC%E3%82%BA/?tag="
+      },
+      {
+        "name_ja": "片栗粉",
+        "amount": "大さじ１",
+        "name_translated": {
+          "en": "potato starch",
+          "zh_tw": "馬鈴薯澱粉",
+          "zh_cn": "马铃薯淀粉",
+          "vi": "tinh bột khoai tây",
+          "hi": "आलू स्टार्च",
+          "ru": "картофельный крахмал",
+          "th": "แป้งมันฝรั่ง",
+          "id": "tepung kentang",
+          "ms": "kanji kentang",
+          "ko": "가문 가루"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E7%89%87%E6%A0%97%E7%B2%89&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E7%89%87%E6%A0%97%E7%B2%89/?tag="
+      },
+      {
+        "name_ja": "サラダ油",
+        "amount": "大さじ３",
+        "name_translated": {
+          "en": "salad oil",
+          "zh_tw": "沙拉油",
+          "zh_cn": "色拉油",
+          "vi": "dầu trộn salad",
+          "hi": "वनस्पति - तेल",
+          "ru": "салатное масло",
+          "th": "น้ำมันสลัด",
+          "id": "minyak salad",
+          "ms": "minyak salad",
+          "ko": "샐러드 오일"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%82%B5%E3%83%A9%E3%83%80%E6%B2%B9&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%82%B5%E3%83%A9%E3%83%80%E6%B2%B9/?tag="
+      },
+      {
+        "name_ja": "青のり",
+        "amount": "適量",
+        "name_translated": {
+          "en": "Aonori",
+          "zh_tw": "青典",
+          "zh_cn": "青典",
+          "vi": "Aonori",
+          "hi": "आओनोरी",
+          "ru": "Аонори",
+          "th": "อาโอโนริ",
+          "id": "Aonori",
+          "ms": "Aonori",
+          "ko": "푸른 풀"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E9%9D%92%E3%81%AE%E3%82%8A&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E9%9D%92%E3%81%AE%E3%82%8A/?tag="
+      },
+      {
+        "name_ja": "１",
+        "amount": "にする。ポリ袋にれんこんと「追いがつおつゆ２倍」を入れ、よくもみ込む。",
+        "name_translated": {
+          "en": "1",
+          "zh_tw": "1",
+          "zh_cn": "1",
+          "vi": "1",
+          "hi": "1",
+          "ru": "1",
+          "th": "1",
+          "id": "1",
+          "ms": "1",
+          "ko": "1"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%91&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%91/?tag="
+      },
+      {
+        "name_ja": "２",
+        "amount": "の袋に＜A＞を加え、全体になじませる。",
+        "name_translated": {
+          "en": "2",
+          "zh_tw": "2",
+          "zh_cn": "2",
+          "vi": "2",
+          "hi": "2",
+          "ru": "2",
+          "th": "2",
+          "id": "2",
+          "ms": "2",
+          "ko": "2"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%92&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%92/?tag="
+      },
+      {
+        "name_ja": "３",
+        "amount": "の両面をカリッとするまで焼く。器に盛り、青のりをかけ、サクッと混ぜ合わせる。",
+        "name_translated": {
+          "en": "3",
+          "zh_tw": "3",
+          "zh_cn": "3",
+          "vi": "3",
+          "hi": "3",
+          "ru": "3",
+          "th": "3",
+          "id": "3",
+          "ms": "3",
+          "ko": "3"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%93&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%93/?tag="
+      }
+    ],
+    "steps_ja": [
+      "れんこんは皮つきのまま２～３ｍｍ幅の輪切りにする。ポリ袋にれんこんと「追いがつおつゆ２倍」を入れ、よくもみ込む。",
+      "の袋に＜A＞を加え、全体になじませる。",
+      "フライパンにサラダ油を入れ、中火で熱し、２の両面をカリッとするまで焼く。器に盛り、青のりをかけ、サクッと混ぜ合わせる。"
+    ],
+    "image_url": "",
+    "title": {
+      "en": "Addictive lotus root chips",
+      "zh_tw": "上癮的蓮藕片",
+      "zh_cn": "上瘾的莲藕片",
+      "vi": "Củ sen gây nghiện",
+      "hi": "नशे की लत कमल जड़ चिप्स",
+      "ru": "Вызывающие привыкание чипсы из корня лотоса",
+      "th": "ชิปรากบัวเสพติด",
+      "id": "Keripik akar teratai yang membuat ketagihan",
+      "ms": "Serpihan akar teratai ketagihan",
+      "ko": "야미츠키 연근 칩스"
+    },
+    "description": {
+      "en": "",
+      "zh_tw": "",
+      "zh_cn": "",
+      "vi": "",
+      "hi": "",
+      "ru": "",
+      "th": "",
+      "id": "",
+      "ms": "",
+      "ko": ""
+    },
+    "steps": {
+      "en": [
+        "Slice the lotus root into 2-3mm wide rounds, leaving the skin on. Put the lotus roots and ``Oigatsu Otsuyu x 2'' into a plastic bag and mix well.",
+        "Add <A> to the bag and mix well.",
+        "Add vegetable oil to a frying pan, heat over medium heat, and fry both sides until crispy. Place in a bowl, sprinkle with green seaweed, and mix well."
+      ],
+      "zh_tw": [
+        "將蓮藕切成2-3毫米寬的圓片，保留皮。將蓮藕和「Oigatsu Otsuyu x 2」放入塑膠袋中，攪拌均勻。",
+        "將<A>加入袋子中並充分混合。",
+        "フライパンにサラダ油を入れ、中火で熱し、２の両面をカリッとするまで焼く。器に盛り、青のりをかけ、サクッと混ぜ合わせる。"
+      ],
+      "zh_cn": [
+        "将莲藕切成2-3毫米宽的圆片，保留皮。将莲藕和“Oigatsu Otsuyu x 2”放入塑料袋中，搅拌均匀。",
+        "将<A>加入袋子中并充分混合。",
+        "煎锅中加入植物油，中火加热，将两面煎至酥脆。放入碗中，撒上绿色海藻，搅拌均匀。"
+      ],
+      "vi": [
+        "Cắt củ sen thành những khoanh tròn rộng 2-3mm, để nguyên vỏ. Cho củ sen và ``Oigatsu Otsuyu x 2'' vào túi nilon rồi trộn đều.",
+        "Thêm <A> vào túi và trộn đều.",
+        "Cho dầu thực vật vào chảo, đun nóng ở lửa vừa và chiên cả hai mặt cho đến khi giòn. Cho vào tô, rắc rong biển xanh vào, trộn đều."
+      ],
+      "hi": [
+        "कमल की जड़ को छिलका छोड़कर 2-3 मिमी चौड़े गोल टुकड़ों में काटें। कमल की जड़ें और ``ओइगात्सु ओत्सुयु x 2'' को एक प्लास्टिक बैग में डालें और अच्छी तरह मिलाएँ।",
+        "बैग में <A> डालें और अच्छी तरह मिलाएँ।",
+        "एक फ्राइंग पैन में वनस्पति तेल डालें, मध्यम आंच पर गरम करें और दोनों तरफ से कुरकुरा होने तक भूनें। एक कटोरे में रखें, हरी समुद्री शैवाल छिड़कें और अच्छी तरह मिलाएँ।"
+      ],
+      "ru": [
+        "Нарежьте корень лотоса кружочками шириной 2–3 мм, не удаляя кожицу. Положите корни лотоса и «Ойгацу Оцую x 2» в полиэтиленовый пакет и хорошо перемешайте.",
+        "Добавьте <A> в пакет и хорошо перемешайте.",
+        "На сковороду наливаем растительное масло, разогреваем на среднем огне и обжариваем с обеих сторон до хрустящей корочки. Положите в миску, посыпьте зелеными водорослями и хорошо перемешайте."
+      ],
+      "th": [
+        "หั่นรากบัวออกเป็นวงกว้าง 2-3 มม. โดยเหลือแต่เปลือกไว้ ใส่รากบัวและ ``Oigatsu Otsuyu x 2'' ลงในถุงพลาสติกแล้วผสมให้เข้ากัน",
+        "เติม <A> ลงในถุงและผสมให้เข้ากัน",
+        "ใส่น้ำมันพืชลงในกระทะ ตั้งไฟปานกลาง แล้วทอดทั้งสองด้านจนกรอบ ใส่ในชาม โรยด้วยสาหร่ายสีเขียว และผสมให้เข้ากัน"
+      ],
+      "id": [
+        "Iris akar teratai menjadi bulatan selebar 2-3 mm, sisakan kulitnya. Masukkan akar teratai dan ``Oigatsu Otsuyu x 2'' ke dalam kantong plastik lalu aduk rata.",
+        "Tambahkan <A> ke dalam kantong dan aduk rata.",
+        "Tambahkan minyak sayur ke dalam wajan, panaskan dengan api sedang, dan goreng kedua sisi hingga renyah. Masukkan ke dalam mangkuk, taburi dengan rumput laut hijau, lalu aduk rata."
+      ],
+      "ms": [
+        "Potong akar teratai menjadi bulatan selebar 2-3mm, biarkan kulitnya terbuka. Masukkan akar teratai dan ``Oigatsu Otsuyu x 2'' ke dalam beg plastik dan gaul rata.",
+        "Masukkan <A> ke dalam beg dan gaul rata.",
+        "Masukkan minyak sayuran ke dalam kuali, panaskan dengan api sederhana, dan goreng kedua-dua belah sehingga garing. Letakkan dalam mangkuk, taburkan dengan rumpai laut hijau, dan gaul rata."
+      ],
+      "ko": [
+        "벽돌은 껍질이 붙은 채로 2 ~ 3mm 폭의 둥글게 자른다. 비닐 봉투에 연근과 \"쫓는 츠유 2 배\"를 넣고 잘 전한다.",
+        "의 봉투에 <A>를 더해 전체에 친숙하게 한다.",
+        "프라이팬에 샐러드 오일을 넣고 중불로 가열하고 2 개의 양면을 바삭하게 할 때까지 굽는다. 그릇에 담아 파란 김을 뿌리고 바삭바삭하게 섞는다."
+      ]
+    }
+  },
+  {
+    "id": "4d6cf1f2",
+    "source_url": "https://www.mizkan.co.jp/ouchirecipe/recipe/?menu_id=20417",
+    "source_site": "Mizkan",
+    "title_ja": "鶏むね肉ときのこのガーリックバター炒め",
+    "description_ja": "",
+    "ingredients": [
+      {
+        "name_ja": "鶏むね肉",
+        "amount": "１枚（２８０ｇ）",
+        "name_translated": {
+          "en": "chicken breast",
+          "zh_tw": "雞胸肉",
+          "zh_cn": "鸡胸肉",
+          "vi": "ức gà",
+          "hi": "चिकन ब्रेस्ट",
+          "ru": "куриная грудка",
+          "th": "อกไก่",
+          "id": "dada ayam",
+          "ms": "dada ayam",
+          "ko": "닭고기 고기"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E9%B6%8F%E3%82%80%E3%81%AD%E8%82%89&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E9%B6%8F%E3%82%80%E3%81%AD%E8%82%89/?tag="
+      },
+      {
+        "name_ja": "片栗粉",
+        "amount": "小さじ１",
+        "name_translated": {
+          "en": "potato starch",
+          "zh_tw": "馬鈴薯澱粉",
+          "zh_cn": "马铃薯淀粉",
+          "vi": "tinh bột khoai tây",
+          "hi": "आलू स्टार्च",
+          "ru": "картофельный крахмал",
+          "th": "แป้งมันฝรั่ง",
+          "id": "tepung kentang",
+          "ms": "kanji kentang",
+          "ko": "가문 가루"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E7%89%87%E6%A0%97%E7%B2%89&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E7%89%87%E6%A0%97%E7%B2%89/?tag="
+      },
+      {
+        "name_ja": "しめじ",
+        "amount": "１パック（１００ｇ）",
+        "name_translated": {
+          "en": "Shimeji mushrooms",
+          "zh_tw": "姬菇",
+          "zh_cn": "姬菇",
+          "vi": "nấm Shimeji",
+          "hi": "शिमेजी मशरूम",
+          "ru": "Грибы симеджи",
+          "th": "เห็ดชิเมจิ",
+          "id": "jamur Shimeji",
+          "ms": "Cendawan Shimeji",
+          "ko": "시메지"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%97%E3%82%81%E3%81%98&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%97%E3%82%81%E3%81%98/?tag="
+      },
+      {
+        "name_ja": "エリンギ",
+        "amount": "１パック（１００ｇ）",
+        "name_translated": {
+          "en": "Eringi",
+          "zh_tw": "埃林吉",
+          "zh_cn": "埃林吉",
+          "vi": "Eringi",
+          "hi": "इरिंगी",
+          "ru": "Эринги",
+          "th": "เอรินจิ",
+          "id": "Eringi",
+          "ms": "Eringi",
+          "ko": "에링기"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%82%A8%E3%83%AA%E3%83%B3%E3%82%AE&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%82%A8%E3%83%AA%E3%83%B3%E3%82%AE/?tag="
+      },
+      {
+        "name_ja": "バター",
+        "amount": "２０ｇ",
+        "name_translated": {
+          "en": "butter",
+          "zh_tw": "奶油",
+          "zh_cn": "黄油",
+          "vi": "bơ",
+          "hi": "मक्खन",
+          "ru": "масло",
+          "th": "เนย",
+          "id": "mentega",
+          "ms": "mentega",
+          "ko": "버터"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%90%E3%82%BF%E3%83%BC&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%90%E3%82%BF%E3%83%BC/?tag="
+      },
+      {
+        "name_ja": "ミツカン　カンタン酢",
+        "amount": "大さじ４",
+        "name_translated": {
+          "en": "Mizkan Kantan Vinegar",
+          "zh_tw": "味滋康甘丹醋",
+          "zh_cn": "味滋康甘丹醋",
+          "vi": "Giấm Mizkan Kantan",
+          "hi": "मिज़कान कंटन सिरका",
+          "ru": "Мизкан Кантанский уксус",
+          "th": "น้ำส้มสายชูมิซกัน กันตัน",
+          "id": "Cuka Mizkan Kantan",
+          "ms": "Cuka Mizkan Kantan",
+          "ko": "미츠칸 칸탄초"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E3%82%AB%E3%83%B3%E3%82%BF%E3%83%B3%E9%85%A2&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E3%82%AB%E3%83%B3%E3%82%BF%E3%83%B3%E9%85%A2/?tag="
+      },
+      {
+        "name_ja": "おろしにんにく",
+        "amount": "小さじ１／２",
+        "name_translated": {
+          "en": "grated garlic",
+          "zh_tw": "磨碎的大蒜",
+          "zh_cn": "磨碎的大蒜",
+          "vi": "tỏi nghiền",
+          "hi": "कसा हुआ लहसुन",
+          "ru": "тертый чеснок",
+          "th": "กระเทียมขูด",
+          "id": "bawang putih parut",
+          "ms": "bawang putih parut",
+          "ko": "마늘 마늘"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%8A%E3%82%8D%E3%81%97%E3%81%AB%E3%82%93%E3%81%AB%E3%81%8F&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%8A%E3%82%8D%E3%81%97%E3%81%AB%E3%82%93%E3%81%AB%E3%81%8F/?tag="
+      },
+      {
+        "name_ja": "ブラックペッパー",
+        "amount": "少々",
+        "name_translated": {
+          "en": "black pepper",
+          "zh_tw": "黑胡椒",
+          "zh_cn": "黑胡椒",
+          "vi": "hạt tiêu đen",
+          "hi": "काली मिर्च",
+          "ru": "черный перец",
+          "th": "พริกไทยดำ",
+          "id": "lada hitam",
+          "ms": "lada hitam",
+          "ko": "블랙 페퍼"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%83%9A%E3%83%83%E3%83%91%E3%83%BC&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%83%9A%E3%83%83%E3%83%91%E3%83%BC/?tag="
+      },
+      {
+        "name_ja": "ドライパセリ",
+        "amount": "少々",
+        "name_translated": {
+          "en": "dried parsley",
+          "zh_tw": "乾歐芹",
+          "zh_cn": "干欧芹",
+          "vi": "mùi tây khô",
+          "hi": "सूखे अजमोद",
+          "ru": "сушеная петрушка",
+          "th": "ผักชีฝรั่งแห้ง",
+          "id": "peterseli kering",
+          "ms": "pasli kering",
+          "ko": "드라이 파슬리"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%89%E3%83%A9%E3%82%A4%E3%83%91%E3%82%BB%E3%83%AA&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%89%E3%83%A9%E3%82%A4%E3%83%91%E3%82%BB%E3%83%AA/?tag="
+      },
+      {
+        "name_ja": "１",
+        "amount": "にし、片栗粉をまぶす。しめじは石づきを取り、手でほぐす。エリンギは半分の長さに切り、縦４等分にする。",
+        "name_translated": {
+          "en": "1",
+          "zh_tw": "1",
+          "zh_cn": "1",
+          "vi": "1",
+          "hi": "1",
+          "ru": "1",
+          "th": "1",
+          "id": "1",
+          "ms": "1",
+          "ko": "1"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%91&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%91/?tag="
+      },
+      {
+        "name_ja": "２",
+        "amount": "フライパンにバターを入れ、中火にかけ、鶏むね肉を炒める。両面に焼き色がついて、火が通ったら、しめじとエリンギを加えて炒める。",
+        "name_translated": {
+          "en": "2",
+          "zh_tw": "2",
+          "zh_cn": "2",
+          "vi": "2",
+          "hi": "2",
+          "ru": "2",
+          "th": "2",
+          "id": "2",
+          "ms": "2",
+          "ko": "2"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%92&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%92/?tag="
+      },
+      {
+        "name_ja": "３",
+        "amount": "「カンタン酢」とおろしにんにくを加え、全体を炒め合わせる。",
+        "name_translated": {
+          "en": "3",
+          "zh_tw": "3",
+          "zh_cn": "3",
+          "vi": "3",
+          "hi": "3",
+          "ru": "3",
+          "th": "3",
+          "id": "3",
+          "ms": "3",
+          "ko": "3"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%93&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%93/?tag="
+      },
+      {
+        "name_ja": "４",
+        "amount": "皿に盛り付け、ブラックペッパーとドライパセリをふる。",
+        "name_translated": {
+          "en": "4",
+          "zh_tw": "4",
+          "zh_cn": "4",
+          "vi": "4",
+          "hi": "4",
+          "ru": "4",
+          "th": "4",
+          "id": "4",
+          "ms": "4",
+          "ko": "4"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%94&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%94/?tag="
+      },
+      {
+        "name_ja": "ザクザク！漬けこまない！「味ぽん」から揚げ",
+        "amount": "適量",
+        "name_translated": {
+          "en": "Crunchy! Don't pickle! Fried “Ajipon”",
+          "zh_tw": "脆脆的！不要腌制！炸“味锅”",
+          "zh_cn": "脆脆的！不要腌制！炸“味锅”",
+          "vi": "Giòn! Đừng muối chua! “Ajipon” chiên",
+          "hi": "कुरकुरा! अचार मत बनाओ! तला हुआ \"अजिपोन\"",
+          "ru": "Хрустящий! Не маринуйте! Жареный «Ахипон»",
+          "th": "กรุบกรอบ! อย่าดอง! “อาจิปอน” ทอด",
+          "id": "Garing! Jangan acar! Goreng “Ajipon”",
+          "ms": "rangup! Jangan acar! “Ajipon” goreng",
+          "ko": "자쿠자쿠! 담그지 마라! \"아이폰\"에서 튀김"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%82%B6%E3%82%AF%E3%82%B6%E3%82%AF%EF%BC%81%E6%BC%AC%E3%81%91%E3%81%93%E3%81%BE%E3%81%AA%E3%81%84%EF%BC%81%E3%80%8C%E5%91%B3%E3%81%BD%E3%82%93%E3%80%8D%E3%81%8B%E3%82%89%E6%8F%9A%E3%81%92&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%82%B6%E3%82%AF%E3%82%B6%E3%82%AF%EF%BC%81%E6%BC%AC%E3%81%91%E3%81%93%E3%81%BE%E3%81%AA%E3%81%84%EF%BC%81%E3%80%8C%E5%91%B3%E3%81%BD%E3%82%93%E3%80%8D%E3%81%8B%E3%82%89%E6%8F%9A%E3%81%92/?tag="
+      },
+      {
+        "name_ja": "簡単！エビチリならぬ！やわらか鶏チリ",
+        "amount": "適量",
+        "name_translated": {
+          "en": "easy! Not shrimp chili! soft chicken chili",
+          "zh_tw": "簡單的！不是蝦辣椒！軟雞肉辣椒",
+          "zh_cn": "简单的！不是虾辣椒！软鸡肉辣椒",
+          "vi": "dễ! Không phải tôm ớt! ớt gà mềm",
+          "hi": "आसान! झींगा मिर्च नहीं! नरम चिकन मिर्च",
+          "ru": "легкий! Не креветки-чили! мягкий куриный перец чили",
+          "th": "ง่าย! ไม่ใช่พริกกุ้ง! พริกไก่นุ่ม",
+          "id": "mudah! Bukan cabai udang! cabai ayam lembut",
+          "ms": "mudah! Bukan cili udang! cili ayam lembut",
+          "ko": "간단! 새우 칠리가 아니다! 부드러운 닭 칠리"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E7%B0%A1%E5%8D%98%EF%BC%81%E3%82%A8%E3%83%93%E3%83%81%E3%83%AA%E3%81%AA%E3%82%89%E3%81%AC%EF%BC%81%E3%82%84%E3%82%8F%E3%82%89%E3%81%8B%E9%B6%8F%E3%83%81%E3%83%AA&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E7%B0%A1%E5%8D%98%EF%BC%81%E3%82%A8%E3%83%93%E3%83%81%E3%83%AA%E3%81%AA%E3%82%89%E3%81%AC%EF%BC%81%E3%82%84%E3%82%8F%E3%82%89%E3%81%8B%E9%B6%8F%E3%83%81%E3%83%AA/?tag="
+      },
+      {
+        "name_ja": "やみつきガーリックペッパーチキン",
+        "amount": "適量",
+        "name_translated": {
+          "en": "Addictive garlic pepper chicken",
+          "zh_tw": "やみつきガーリックペッパーチキン",
+          "zh_cn": "让人上瘾的蒜蓉辣椒鸡",
+          "vi": "Gà ớt tỏi gây nghiện",
+          "hi": "नशे की लत लहसुन काली मिर्च चिकन",
+          "ru": "Захватывающая курица с чесноком и перцем",
+          "th": "ไก่พริกไทยกระเทียมเสพติด",
+          "id": "Ayam lada bawang putih yang membuat ketagihan",
+          "ms": "Ayam lada bawang putih ketagihan",
+          "ko": "야미 츠키 마늘 고추 치킨"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%82%84%E3%81%BF%E3%81%A4%E3%81%8D%E3%82%AC%E3%83%BC%E3%83%AA%E3%83%83%E3%82%AF%E3%83%9A%E3%83%83%E3%83%91%E3%83%BC%E3%83%81%E3%82%AD%E3%83%B3&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%82%84%E3%81%BF%E3%81%A4%E3%81%8D%E3%82%AC%E3%83%BC%E3%83%AA%E3%83%83%E3%82%AF%E3%83%9A%E3%83%83%E3%83%91%E3%83%BC%E3%83%81%E3%82%AD%E3%83%B3/?tag="
+      }
+    ],
+    "steps_ja": [
+      "鶏むね肉は一口大のそぎ切りにし、片栗粉をまぶす。しめじは石づきを取り、手でほぐす。エリンギは半分の長さに切り、縦４等分にする。",
+      "フライパンにバターを入れ、中火にかけ、鶏むね肉を炒める。両面に焼き色がついて、火が通ったら、しめじとエリンギを加えて炒める。",
+      "「カンタン酢」とおろしにんにくを加え、全体を炒め合わせる。",
+      "皿に盛り付け、ブラックペッパーとドライパセリをふる。",
+      "ザクザク！漬けこまない！「味ぽん」から揚げ",
+      "簡単！エビチリならぬ！やわらか鶏チリ",
+      "やみつきガーリックペッパーチキン"
+    ],
+    "image_url": "",
+    "title": {
+      "en": "Stir-fried chicken breast and mushrooms with garlic butter",
+      "zh_tw": "蒜蓉奶油炒雞胸肉和蘑菇",
+      "zh_cn": "蒜蓉黄油炒鸡胸肉和蘑菇",
+      "vi": "Ức gà xào nấm bơ tỏi",
+      "hi": "लहसुन के मक्खन के साथ तले हुए चिकन ब्रेस्ट और मशरूम",
+      "ru": "Жареная куриная грудка и грибы с чесночным маслом",
+      "th": "อกไก่ผัดเห็ดกับเนยกระเทียม",
+      "id": "Tumis dada ayam dan jamur dengan mentega bawang putih",
+      "ms": "Tumis dada ayam dan cendawan dengan mentega bawang putih",
+      "ko": "닭고기 고기 때이 마늘 버터 볶음"
+    },
+    "description": {
+      "en": "",
+      "zh_tw": "",
+      "zh_cn": "",
+      "vi": "",
+      "hi": "",
+      "ru": "",
+      "th": "",
+      "id": "",
+      "ms": "",
+      "ko": ""
+    },
+    "steps": {
+      "en": [
+        "Cut the chicken breast into bite-sized pieces and sprinkle with potato starch. Remove any stones from the shimeji mushrooms and loosen them with your hands. Cut the eringi mushrooms in half lengthwise, then into quarters lengthwise.",
+        "Put the butter in a frying pan, heat over medium heat, and fry the chicken breast. When both sides are browned and cooked through, add the shimeji mushrooms and king king mushrooms and stir-fry.",
+        "Add ``simple vinegar'' and grated garlic, and stir-fry everything.",
+        "Place on a plate and sprinkle with black pepper and dried parsley.",
+        "Crunchy! Don't pickle! Fried “Ajipon”",
+        "easy! Not shrimp chili! soft chicken chili",
+        "Addictive garlic pepper chicken"
+      ],
+      "zh_tw": [
+        "將雞胸肉切成一口大小的塊，撒上馬鈴薯澱粉。去除姬菇上的石頭，然後用手將其鬆開。將杏子鮑菇縱向切成兩半，然後縱向切成四份。",
+        "フライパンにバターを入れ、中火にかけ、鶏むね肉を炒める。両面に焼き色がついて、火が通ったら、しめじとエリンギを加えて炒める。",
+        "「カンタン酢」とおろしにんにくを加え、全体を炒め合わせる。",
+        "放在盤子上，撒上黑胡椒和乾歐芹。",
+        "脆脆的！不要腌制！炸“味锅”",
+        "簡單的！不是蝦辣椒！軟雞肉辣椒",
+        "讓人上癮的蒜蓉辣椒雞"
+      ],
+      "zh_cn": [
+        "将鸡胸肉切成一口大小的块，撒上马铃薯淀粉。去除姬菇上的石头，然后用手将其松开。将杏鲍菇纵向切成两半，然后纵向切成四份。",
+        "将黄油放入煎锅中，中火加热，然后煎鸡胸肉。当两面都变成褐色并煮熟时，加入姬菇和王菇并翻炒。",
+        "加入“简单的醋”和磨碎的大蒜，然后翻炒所有东西。",
+        "放在盘子上，撒上黑胡椒和干欧芹。",
+        "脆脆的！不要腌制！炸“味锅”",
+        "简单的！不是虾辣椒！软鸡肉辣椒",
+        "让人上瘾的蒜蓉辣椒鸡"
+      ],
+      "vi": [
+        "Cắt ức gà thành miếng vừa ăn và rắc tinh bột khoai tây. Loại bỏ đá khỏi nấm shimeji và dùng tay nới lỏng chúng. Cắt nấm eringi làm đôi theo chiều dọc, sau đó cắt làm 4 theo chiều dọc.",
+        "Cho bơ vào chảo, đun nóng ở lửa vừa và chiên ức gà. Khi cả hai mặt đều chín vàng, cho nấm shimeji và nấm vua vào xào.",
+        "Thêm `` giấm đơn giản '' và tỏi nghiền vào rồi xào mọi thứ.",
+        "Đặt lên đĩa và rắc hạt tiêu đen và rau mùi tây khô.",
+        "Giòn! Đừng muối chua! “Ajipon” chiên",
+        "dễ! Không phải tôm ớt! ớt gà mềm",
+        "Gà ớt tỏi gây nghiện"
+      ],
+      "hi": [
+        "चिकन ब्रेस्ट को छोटे टुकड़ों में काटें और आलू स्टार्च छिड़कें। शिमेजी मशरूम से कोई भी पत्थर हटा दें और उन्हें अपने हाथों से ढीला कर दें। इरिंगी मशरूम को लंबाई में आधा काटें, फिर लंबाई में चौथाई भाग में काटें।",
+        "एक फ्राइंग पैन में मक्खन डालें, मध्यम आंच पर गर्म करें और चिकन ब्रेस्ट को भूनें। जब दोनों तरफ से ब्राउन हो जाए और पक जाए, तो शिमीजी मशरूम और किंग किंग मशरूम डालें और हिलाते हुए भूनें।",
+        "``साधारण सिरका'' और कसा हुआ लहसुन डालें, और सब कुछ हिलाकर भूनें।",
+        "एक प्लेट पर रखें और काली मिर्च और सूखा अजमोद छिड़कें।",
+        "कुरकुरा! अचार मत बनाओ! तला हुआ \"अजिपोन\"",
+        "आसान! झींगा मिर्च नहीं! नरम चिकन मिर्च",
+        "नशे की लत लहसुन काली मिर्च चिकन"
+      ],
+      "ru": [
+        "Куриную грудку нарежьте небольшими кусочками и посыпьте картофельным крахмалом. Удалите камни из грибов симэдзи и ослабьте их руками. Разрежьте грибы эринги вдоль пополам, затем вдоль на четвертинки.",
+        "Выложите сливочное масло в сковороду, нагрейте на среднем огне и обжарьте куриную грудку. Когда обе стороны подрумянятся и прожарятся, добавьте грибы симэдзи и королевские грибы и обжарьте, помешивая.",
+        "Добавьте «простой уксус» и тертый чеснок и все обжарьте.",
+        "Выложите на тарелку и посыпьте черным перцем и сушеной петрушкой.",
+        "Хрустящий! Не маринуйте! Жареный «Ахипон»",
+        "легкий! Не креветки-чили! мягкий куриный перец чили",
+        "Захватывающая курица с чесноком и перцем"
+      ],
+      "th": [
+        "หั่นอกไก่เป็นชิ้นขนาดพอดีคำแล้วโรยด้วยแป้งมันฝรั่ง นำก้อนหินออกจากเห็ดชิเมจิแล้วใช้มือคลายออก เห็ดออรินจิผ่าครึ่งตามยาว จากนั้นแบ่งเป็นสี่ส่วนตามยาว",
+        "ใส่เนยลงในกระทะ ตั้งไฟปานกลาง แล้วทอดอกไก่ เมื่อทั้งสองด้านเป็นสีน้ำตาลและสุกแล้ว ใส่เห็ดชิเมจิและเห็ดคิงคิงแล้วผัด",
+        "เพิ่ม ``น้ำส้มสายชูธรรมดา'' และกระเทียมขูด แล้วผัดทุกอย่าง",
+        "วางบนจานแล้วโรยด้วยพริกไทยดำและพาร์สลีย์แห้ง",
+        "กรุบกรอบ! อย่าดอง! “อาจิปอน” ทอด",
+        "ง่าย! ไม่ใช่พริกกุ้ง! พริกไก่นุ่ม",
+        "ไก่พริกไทยกระเทียมเสพติด"
+      ],
+      "id": [
+        "Potong dada ayam menjadi potongan-potongan kecil dan taburi dengan tepung kentang. Buang semua batu dari jamur shimeji dan kendurkan dengan tangan Anda. Potong jamur eringi menjadi dua memanjang, lalu menjadi empat bagian memanjang.",
+        "Masukkan mentega ke dalam penggorengan, panaskan dengan api sedang, lalu goreng dada ayam. Saat kedua sisi sudah kecoklatan dan matang, tambahkan jamur shimeji dan jamur king king, lalu tumis.",
+        "Tambahkan ``cuka sederhana'' dan bawang putih parut, lalu tumis semuanya.",
+        "Letakkan di piring dan taburi dengan lada hitam dan peterseli kering.",
+        "Garing! Jangan acar! Goreng “Ajipon”",
+        "mudah! Bukan cabai udang! cabai ayam lembut",
+        "Ayam lada bawang putih yang membuat ketagihan"
+      ],
+      "ms": [
+        "Potong dada ayam kepada kepingan bersaiz gigitan dan taburkan dengan kanji kentang. Keluarkan sebarang batu dari cendawan shimeji dan longgarkannya dengan tangan anda. Potong cendawan eringi separuh memanjang, kemudian empat segi memanjang.",
+        "Masukkan mentega dalam kuali, panaskan dengan api sederhana, dan goreng dada ayam. Apabila kedua-dua belah sudah keperangan dan masak, masukkan cendawan shimeji dan cendawan raja raja dan tumis.",
+        "Masukkan ``cuka ringkas'' dan bawang putih parut, dan tumis semuanya.",
+        "Letakkan di atas pinggan dan taburkan dengan lada hitam dan pasli kering.",
+        "rangup! Jangan acar! “Ajipon” goreng",
+        "mudah! Bukan cili udang! cili ayam lembut",
+        "Ayam lada bawang putih ketagihan"
+      ],
+      "ko": [
+        "닭고기 고기는 한입 큰 썰매로 만들고 가문 가루를 뿌린다. 시메지는 돌을 잡고 손으로 풀어준다. Eringi는 절반 길이로 자르고 세로 4 등분으로 만듭니다.",
+        "프라이팬에 버터를 넣고 중불에 넣고 닭고기 고기를 볶는다. 양면에 구운 색이 붙어 불이 지나면 시메지와 에린기를 넣고 볶는다.",
+        "\"간단 식초\"와 내린 마늘을 넣고 전체를 볶는다.",
+        "접시에 담아, 블랙 페퍼와 드라이 파슬리를 체.",
+        "자쿠자쿠! 담그지 마라! \"아이폰\"에서 튀김",
+        "간단! 새우 칠리가 아니다! 부드러운 닭 칠리",
+        "야미 츠키 마늘 고추 치킨"
+      ]
+    }
   }
 ]

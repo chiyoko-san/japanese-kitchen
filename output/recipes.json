@@ -338437,5 +338437,836 @@
         "炊き上がったら全体をサックリと混ぜて器に盛り付ける。"
       ]
     }
+  },
+  {
+    "id": "1a900520",
+    "source_url": "https://www.mizkan.co.jp/ouchirecipe/recipe/?menu_id=18636",
+    "source_site": "Mizkan",
+    "title_ja": "バター香る鮭の炊き込みご飯",
+    "description_ja": "",
+    "ingredients": [
+      {
+        "name_ja": "米",
+        "amount": "２合",
+        "name_translated": {
+          "en": "rice",
+          "zh_tw": "米",
+          "zh_cn": "米",
+          "vi": "cơm",
+          "hi": "चावल",
+          "ru": "рис",
+          "th": "ข้าว",
+          "id": "beras",
+          "ms": "nasi",
+          "ko": "쌀"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E7%B1%B3&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E7%B1%B3/?tag="
+      },
+      {
+        "name_ja": "生鮭　（切り身）",
+        "amount": "２切れ（２００ｇ）",
+        "name_translated": {
+          "en": "Raw salmon (fillet)",
+          "zh_tw": "生鮭魚（魚片）",
+          "zh_cn": "生三文鱼（鱼片）",
+          "vi": "Cá hồi sống (phi lê)",
+          "hi": "कच्चा सामन (पट्टिका)",
+          "ru": "Сырой лосось (филе)",
+          "th": "ปลาแซลมอนดิบ (เนื้อ)",
+          "id": "Salmon mentah (fillet)",
+          "ms": "Salmon mentah (fillet)",
+          "ko": "생연어(필레)"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E7%94%9F%E9%AE%AD%E3%80%80%EF%BC%88%E5%88%87%E3%82%8A%E8%BA%AB%EF%BC%89&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E7%94%9F%E9%AE%AD%E3%80%80%EF%BC%88%E5%88%87%E3%82%8A%E8%BA%AB%EF%BC%89/?tag="
+      },
+      {
+        "name_ja": "しめじ",
+        "amount": "１パック（１００ｇ）",
+        "name_translated": {
+          "en": "Shimeji mushrooms",
+          "zh_tw": "姬菇",
+          "zh_cn": "姬菇",
+          "vi": "nấm Shimeji",
+          "hi": "शिमेजी मशरूम",
+          "ru": "Грибы симеджи",
+          "th": "เห็ดชิเมจิ",
+          "id": "jamur Shimeji",
+          "ms": "Cendawan Shimeji",
+          "ko": "시메지"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%97%E3%82%81%E3%81%98&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%97%E3%82%81%E3%81%98/?tag="
+      },
+      {
+        "name_ja": "おろししょうが",
+        "amount": "小さじ１／２",
+        "name_translated": {
+          "en": "Grated ginger",
+          "zh_tw": "薑末",
+          "zh_cn": "姜末",
+          "vi": "Gừng bào sợi",
+          "hi": "कसा हुआ अदरक",
+          "ru": "Тертый имбирь",
+          "th": "ขิงขูด",
+          "id": "jahe parut",
+          "ms": "Halia parut",
+          "ko": "오로시 생강"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%8A%E3%82%8D%E3%81%97%E3%81%97%E3%82%87%E3%81%86%E3%81%8C&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%8A%E3%82%8D%E3%81%97%E3%81%97%E3%82%87%E3%81%86%E3%81%8C/?tag="
+      },
+      {
+        "name_ja": "ミツカン　追いがつおつゆ２倍",
+        "amount": "１００ｍｌ",
+        "name_translated": {
+          "en": "Mizkan Oigatsu Otsuyu x2",
+          "zh_tw": "味滋館大月大津 x2",
+          "zh_cn": "味滋馆大月大津 x2",
+          "vi": "Mizkan Oigatsu Otsuyu x2",
+          "hi": "मिज़कान ओइगात्सु ओत्सुयु x2",
+          "ru": "Мизкан Ойгацу Оцую x2",
+          "th": "มิซคัง โออิงัตสึ โอทสึยุ x2",
+          "id": "Mizkan Oigatsu Otsuyu x2",
+          "ms": "Mizkan Oigatsu Otsuyu x2",
+          "ko": "미츠칸 쫓는 츠츠유 2 배"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E8%BF%BD%E3%81%84%E3%81%8C%E3%81%A4%E3%81%8A%E3%81%A4%E3%82%86%EF%BC%92%E5%80%8D&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E8%BF%BD%E3%81%84%E3%81%8C%E3%81%A4%E3%81%8A%E3%81%A4%E3%82%86%EF%BC%92%E5%80%8D/?tag="
+      },
+      {
+        "name_ja": "バター",
+        "amount": "１０ｇ",
+        "name_translated": {
+          "en": "butter",
+          "zh_tw": "奶油",
+          "zh_cn": "黄油",
+          "vi": "bơ",
+          "hi": "मक्खन",
+          "ru": "масло",
+          "th": "เนย",
+          "id": "mentega",
+          "ms": "mentega",
+          "ko": "버터"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%90%E3%82%BF%E3%83%BC&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%90%E3%82%BF%E3%83%BC/?tag="
+      },
+      {
+        "name_ja": "小ねぎ　（小口切り）",
+        "amount": "適量",
+        "name_translated": {
+          "en": "Onion (cut into small pieces)",
+          "zh_tw": "小ねぎ　（小口切り）",
+          "zh_cn": "洋葱（切小块）",
+          "vi": "Hành tây (cắt thành miếng nhỏ)",
+          "hi": "प्याज (छोटे टुकड़ों में कटा हुआ)",
+          "ru": "Лук (нарезать небольшими кусочками)",
+          "th": "หัวหอม (หั่นเป็นชิ้นเล็กๆ)",
+          "id": "Bawang bombay (potong kecil-kecil)",
+          "ms": "Bawang besar (potong kecil)",
+          "ko": "작은 양파 (작은 컷)"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E5%B0%8F%E3%81%AD%E3%81%8E%E3%80%80%EF%BC%88%E5%B0%8F%E5%8F%A3%E5%88%87%E3%82%8A%EF%BC%89&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E5%B0%8F%E3%81%AD%E3%81%8E%E3%80%80%EF%BC%88%E5%B0%8F%E5%8F%A3%E5%88%87%E3%82%8A%EF%BC%89/?tag="
+      },
+      {
+        "name_ja": "１",
+        "amount": "米は洗ってざるに取る。しめじは石づきを取り小房に分ける。",
+        "name_translated": {
+          "en": "1",
+          "zh_tw": "1",
+          "zh_cn": "1",
+          "vi": "1",
+          "hi": "1",
+          "ru": "1",
+          "th": "1",
+          "id": "1",
+          "ms": "1",
+          "ko": "1"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%91&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%91/?tag="
+      },
+      {
+        "name_ja": "２",
+        "amount": "の米を炊飯器に入れ「追いがつおつゆ２倍」とおろししょうがを加え２合の目盛りに合わせて水加減する。（具材から水分が出るので少し控えめに水加減すると美味しく炊きあがります。）生鮭としめじをのせて炊く。",
+        "name_translated": {
+          "en": "2",
+          "zh_tw": "2",
+          "zh_cn": "2",
+          "vi": "2",
+          "hi": "2",
+          "ru": "2",
+          "th": "2",
+          "id": "2",
+          "ms": "2",
+          "ko": "2"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%92&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%92/?tag="
+      },
+      {
+        "name_ja": "３",
+        "amount": "炊きあがったら鮭の皮（あれば骨も）を取り除き、バターを加えほぐして全体を混ぜる。器に盛り、小ねぎをのせる。",
+        "name_translated": {
+          "en": "3",
+          "zh_tw": "3",
+          "zh_cn": "3",
+          "vi": "3",
+          "hi": "3",
+          "ru": "3",
+          "th": "3",
+          "id": "3",
+          "ms": "3",
+          "ko": "3"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%93&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%93/?tag="
+      }
+    ],
+    "steps_ja": [
+      "米は洗ってざるに取る。しめじは石づきを取り小房に分ける。",
+      "の米を炊飯器に入れ「追いがつおつゆ２倍」とおろししょうがを加え２合の目盛りに合わせて水加減する。（具材から水分が出るので少し控えめに水加減すると美味しく炊きあがります。）生鮭としめじをのせて炊く。",
+      "炊きあがったら鮭の皮（あれば骨も）を取り除き、バターを加えほぐして全体を混ぜる。器に盛り、小ねぎをのせる。"
+    ],
+    "image_url": "",
+    "title": {
+      "en": "Buttery salmon cooked rice",
+      "zh_tw": "奶油鮭魚飯",
+      "zh_cn": "黄油三文鱼米饭",
+      "vi": "Cơm cá hồi bơ",
+      "hi": "बटरी सैल्मन पका हुआ चावल",
+      "ru": "Рис, приготовленный с лососем",
+      "th": "ข้าวต้มแซลมอนเนย",
+      "id": "Nasi dimasak salmon mentega",
+      "ms": "Nasi masak salmon mentega",
+      "ko": "버터 향기 연어 밥 밥"
+    },
+    "description": {
+      "en": "",
+      "zh_tw": "",
+      "zh_cn": "",
+      "vi": "",
+      "hi": "",
+      "ru": "",
+      "th": "",
+      "id": "",
+      "ms": "",
+      "ko": ""
+    },
+    "steps": {
+      "en": [
+        "Wash the rice and drain it in a colander. Remove the stones from the shimeji mushrooms and divide them into small bunches.",
+        "Put the rice in the rice cooker, add ``Oigatsu Otsuyu 2x'' and grated ginger, and adjust the water level to the 2 cup mark. (Moisture will come out from the ingredients, so if you reduce the amount of water a little, it will come out delicious.) Top with raw salmon and shimeji mushrooms and cook.",
+        "When the salmon is cooked, remove the skin (and bones if you have it), add the butter and mix everything together. Place in a bowl and top with green onions."
+      ],
+      "zh_tw": [
+        "將米洗淨，放入濾鍋中瀝乾。姬菇去掉石頭，分成小串。",
+        "將米放入電鍋中，加入「Oigatsu Otsuyu 2x」和薑末，將水位調整至2杯標記。 （水分會從食材中散發出來，所以如果稍微減少水量，味道就會很好。） 上面放上生鮭魚和姬菇，然後煮。",
+        "當鮭魚煮熟後，去除皮膚（如果有的話，還有骨頭），加入黃油並將所有東西混合在一起。放入碗中，上面撒上蔥花。"
+      ],
+      "zh_cn": [
+        "将米洗净，放入滤锅中沥干。姬菇去掉石头，分成小串。",
+        "将米饭放入电饭锅中，加入“Oigatsu Otsuyu 2x”和姜末，将水位调节至2杯标记。 （水分会从食材中散发出来，所以如果稍微减少水量，味道就会很好。） 上面放上生三文鱼和姬菇，然后煮。",
+        "当三文鱼煮熟后，去除皮肤（如果有的话，还有骨头），加入黄油并将所有东西混合在一起。放入碗中，上面撒上葱。"
+      ],
+      "vi": [
+        "Rửa sạch gạo và để ráo nước trong một cái chao. Loại bỏ những viên đá khỏi nấm shimeji và chia chúng thành từng chùm nhỏ.",
+        "Cho cơm vào nồi cơm điện, thêm ``Oigatsu Otsuyu 2x'' và gừng bào sợi vào, điều chỉnh mực nước đến vạch 2 cốc. (Độ ẩm sẽ thoát ra từ các nguyên liệu nên nếu bạn giảm lượng nước một chút thì sẽ có vị ngon.) Cho cá hồi sống và nấm shimeji lên trên rồi nấu chín.",
+        "Khi cá hồi chín, loại bỏ da (và xương nếu có), thêm bơ và trộn mọi thứ lại với nhau. Đặt vào một cái bát và đặt hành lá lên trên."
+      ],
+      "hi": [
+        "चावल को धोकर एक कोलंडर में निकाल लें। शिमेजी मशरूम से गुठलियां हटा दें और उन्हें छोटे-छोटे गुच्छों में बांट लें।",
+        "चावल को चावल कुकर में डालें, ``ओइगात्सु ओत्सुयू 2x'' और कसा हुआ अदरक डालें, और पानी के स्तर को 2 कप के निशान पर समायोजित करें। (सामग्रियों से नमी निकल जाएगी, इसलिए अगर आप पानी की मात्रा थोड़ी कम कर देंगे तो यह स्वादिष्ट बनेगी।) ऊपर से कच्चा सैल्मन और शिमीजी मशरूम डालें और पकाएं।",
+        "जब सैल्मन पक जाए, तो उसका छिलका हटा दें (और यदि आपके पास हड्डियाँ हैं), मक्खन डालें और सब कुछ एक साथ मिलाएँ। एक कटोरे में रखें और ऊपर हरा प्याज डालें।"
+      ],
+      "ru": [
+        "Рис промойте и откиньте на дуршлаг. Удалите косточки из грибов симэдзи и разделите их на небольшие пучки.",
+        "Положите рис в рисоварку, добавьте «Oigatsu Otsuyu 2x» и тертый имбирь и доведите уровень воды до отметки 2 стакана. (Из ингредиентов выйдет влага, поэтому, если вы немного уменьшите количество воды, получится вкусно.) Сверху выложите сырого лосося и грибы шимеджи и готовьте.",
+        "Когда лосось будет готов, снимите кожу (и кости, если они у вас есть), добавьте сливочное масло и все перемешайте. Выложите в миску и сверху посыпьте зеленым луком."
+      ],
+      "th": [
+        "ล้างข้าวและสะเด็ดน้ำในกระชอน นำก้อนหินออกจากเห็ดชิเมจิ แล้วแบ่งเป็นช่อเล็กๆ",
+        "ใส่ข้าวลงในหม้อหุงข้าว เติม ``Oigatsu Otsuyu 2x'' และขิงขูด จากนั้นปรับระดับน้ำไว้ที่เครื่องหมาย 2 ถ้วย (ความชื้นจะออกมาจากส่วนผสม ดังนั้นถ้าลดปริมาณน้ำลงนิดหน่อยก็จะออกมาอร่อยครับ) โรยหน้าด้วยปลาแซลมอนดิบและเห็ดชิเมจิแล้วปรุง",
+        "เมื่อปลาแซลมอนสุก ให้เอาหนังออก (และกระดูกด้วย ถ้ามี) ใส่เนยลงไปและผสมทุกอย่างเข้าด้วยกัน วางในชามและโรยหน้าด้วยหัวหอมสีเขียว"
+      ],
+      "id": [
+        "Cuci beras dan tiriskan dalam saringan. Keluarkan batu dari jamur shimeji dan bagi menjadi tandan kecil.",
+        "Masukkan nasi ke dalam rice cooker, tambahkan ``Oigatsu Otsuyu 2x'' dan parutan jahe, lalu sesuaikan ketinggian air hingga tanda 2 gelas. (Kelembaban akan keluar dari bahan-bahannya, jadi jika Anda mengurangi jumlah airnya sedikit, hasilnya akan enak.) Taburi dengan salmon mentah dan jamur shimeji, lalu masak.",
+        "Saat salmon sudah matang, buang kulitnya (dan tulangnya jika ada), tambahkan mentega dan campur semuanya. Tempatkan dalam mangkuk dan taburi dengan daun bawang."
+      ],
+      "ms": [
+        "Basuh beras dan toskan dalam colander. Keluarkan batu dari cendawan shimeji dan bahagikan kepada tandan kecil.",
+        "Masukkan nasi ke dalam periuk nasi, masukkan ``Oigatsu Otsuyu 2x'' dan halia parut, dan laraskan paras air pada tanda 2 cawan. (Kelembapan akan keluar dari bahan-bahan, jadi jika anda mengurangkan jumlah air sedikit, ia akan menjadi lazat.) Top dengan salmon mentah dan cendawan shimeji dan masak.",
+        "Apabila salmon masak, keluarkan kulit (dan tulang jika ada), masukkan mentega dan campurkan semuanya. Letakkan dalam mangkuk dan atas dengan bawang hijau."
+      ],
+      "ko": [
+        "쌀은 씻어야 한다. 시메지는 돌을 잡고 소방으로 나눈다.",
+        "밥을 밥솥에 넣고 '쫓는 가시오이유 2배'와 강추 생강을 더해 2합의 눈금에 맞춰 물 가감한다. (재료에서 수분이 나오므로 조금 겸손하게 물을 가감하면 맛있게 밥이 듭니다.) 생 연어와 시메지를 얹어 끓인다.",
+        "끓인다면 연어 껍질(있는 경우 뼈도)을 제거하고 버터를 넣고 풀어 전체를 섞는다. 그릇에 담아, 양파를 얹는다."
+      ]
+    }
+  },
+  {
+    "id": "6922aada",
+    "source_url": "https://www.mizkan.co.jp/ouchirecipe/recipe/?menu_id=22896",
+    "source_site": "Mizkan",
+    "title_ja": "焦がし舞茸の炊き込みご飯",
+    "description_ja": "",
+    "ingredients": [
+      {
+        "name_ja": "米",
+        "amount": "２合",
+        "name_translated": {
+          "en": "rice",
+          "zh_tw": "米",
+          "zh_cn": "米",
+          "vi": "cơm",
+          "hi": "चावल",
+          "ru": "рис",
+          "th": "ข้าว",
+          "id": "beras",
+          "ms": "nasi",
+          "ko": "쌀"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E7%B1%B3&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E7%B1%B3/?tag="
+      },
+      {
+        "name_ja": "まいたけ",
+        "amount": "１パック",
+        "name_translated": {
+          "en": "Maitake",
+          "zh_tw": "舞茸",
+          "zh_cn": "舞茸",
+          "vi": "maitake",
+          "hi": "मैताके",
+          "ru": "Майтаке",
+          "th": "ไมตาเกะ",
+          "id": "Maitake",
+          "ms": "Maitake",
+          "ko": "마이타케"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%BE%E3%81%84%E3%81%9F%E3%81%91&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%BE%E3%81%84%E3%81%9F%E3%81%91/?tag="
+      },
+      {
+        "name_ja": "ごま油",
+        "amount": "大さじ１",
+        "name_translated": {
+          "en": "sesame oil",
+          "zh_tw": "香油",
+          "zh_cn": "香油",
+          "vi": "dầu mè",
+          "hi": "तिल का तेल",
+          "ru": "кунжутное масло",
+          "th": "น้ำมันงา",
+          "id": "minyak wijen",
+          "ms": "minyak bijan",
+          "ko": "참기름"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%94%E3%81%BE%E6%B2%B9&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%94%E3%81%BE%E6%B2%B9/?tag="
+      },
+      {
+        "name_ja": "おろしにんにく",
+        "amount": "小さじ１",
+        "name_translated": {
+          "en": "grated garlic",
+          "zh_tw": "磨碎的大蒜",
+          "zh_cn": "磨碎的大蒜",
+          "vi": "tỏi nghiền",
+          "hi": "कसा हुआ लहसुन",
+          "ru": "тертый чеснок",
+          "th": "กระเทียมขูด",
+          "id": "bawang putih parut",
+          "ms": "bawang putih parut",
+          "ko": "마늘 마늘"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%8A%E3%82%8D%E3%81%97%E3%81%AB%E3%82%93%E3%81%AB%E3%81%8F&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%8A%E3%82%8D%E3%81%97%E3%81%AB%E3%82%93%E3%81%AB%E3%81%8F/?tag="
+      },
+      {
+        "name_ja": "ミツカン　追いがつおつゆ２倍",
+        "amount": "大さじ２",
+        "name_translated": {
+          "en": "Mizkan Oigatsu Otsuyu x2",
+          "zh_tw": "味滋館大月大津 x2",
+          "zh_cn": "味滋馆大月大津 x2",
+          "vi": "Mizkan Oigatsu Otsuyu x2",
+          "hi": "मिज़कान ओइगात्सु ओत्सुयु x2",
+          "ru": "Мизкан Ойгацу Оцую x2",
+          "th": "มิซคัง โออิงัตสึ โอทสึยุ x2",
+          "id": "Mizkan Oigatsu Otsuyu x2",
+          "ms": "Mizkan Oigatsu Otsuyu x2",
+          "ko": "미츠칸 쫓는 츠츠유 2 배"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E8%BF%BD%E3%81%84%E3%81%8C%E3%81%A4%E3%81%8A%E3%81%A4%E3%82%86%EF%BC%92%E5%80%8D&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E8%BF%BD%E3%81%84%E3%81%8C%E3%81%A4%E3%81%8A%E3%81%A4%E3%82%86%EF%BC%92%E5%80%8D/?tag="
+      },
+      {
+        "name_ja": "黒こしょう",
+        "amount": "お好みで",
+        "name_translated": {
+          "en": "black pepper",
+          "zh_tw": "黑胡椒",
+          "zh_cn": "黑胡椒",
+          "vi": "hạt tiêu đen",
+          "hi": "काली मिर्च",
+          "ru": "черный перец",
+          "th": "พริกไทยดำ",
+          "id": "lada hitam",
+          "ms": "lada hitam",
+          "ko": "블랙 코쇼"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E9%BB%92%E3%81%93%E3%81%97%E3%82%87%E3%81%86&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E9%BB%92%E3%81%93%E3%81%97%E3%82%87%E3%81%86/?tag="
+      },
+      {
+        "name_ja": "１",
+        "amount": "フライパンにごま油をひいて、小房に分けたまいたけを入れ、まいたけの両面に焦げ目がつくよう焼き付ける。",
+        "name_translated": {
+          "en": "1",
+          "zh_tw": "1",
+          "zh_cn": "1",
+          "vi": "1",
+          "hi": "1",
+          "ru": "1",
+          "th": "1",
+          "id": "1",
+          "ms": "1",
+          "ko": "1"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%91&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%91/?tag="
+      },
+      {
+        "name_ja": "２",
+        "amount": "に「追いがつおつゆ2倍」とにんにくを入れて、汁けがなくなるまで炒める。",
+        "name_translated": {
+          "en": "2",
+          "zh_tw": "2",
+          "zh_cn": "2",
+          "vi": "2",
+          "hi": "2",
+          "ru": "2",
+          "th": "2",
+          "id": "2",
+          "ms": "2",
+          "ko": "2"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%92&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%92/?tag="
+      },
+      {
+        "name_ja": "３",
+        "amount": "をのせ通常の水加減の水を加え炊飯する。(フライパンにこびりついた旨味をのこさないために、分量の水の一部をフライパンに入れて旨味をこそげて炊飯器に入れるとよい)",
+        "name_translated": {
+          "en": "3",
+          "zh_tw": "3",
+          "zh_cn": "3",
+          "vi": "3",
+          "hi": "3",
+          "ru": "3",
+          "th": "3",
+          "id": "3",
+          "ms": "3",
+          "ko": "3"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%93&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%93/?tag="
+      },
+      {
+        "name_ja": "４",
+        "amount": "炊き上がったら器に盛り、お好みで黒こしょうをふる。",
+        "name_translated": {
+          "en": "4",
+          "zh_tw": "4",
+          "zh_cn": "4",
+          "vi": "4",
+          "hi": "4",
+          "ru": "4",
+          "th": "4",
+          "id": "4",
+          "ms": "4",
+          "ko": "4"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%94&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%94/?tag="
+      }
+    ],
+    "steps_ja": [
+      "フライパンにごま油をひいて、小房に分けたまいたけを入れ、まいたけの両面に焦げ目がつくよう焼き付ける。",
+      "に「追いがつおつゆ2倍」とにんにくを入れて、汁けがなくなるまで炒める。",
+      "洗米した米を炊飯器に入れて、上に２をのせ通常の水加減の水を加え炊飯する。(フライパンにこびりついた旨味をのこさないために、分量の水の一部をフライパンに入れて旨味をこそげて炊飯器に入れるとよい)",
+      "炊き上がったら器に盛り、お好みで黒こしょうをふる。"
+    ],
+    "image_url": "",
+    "title": {
+      "en": "Rice cooked with charred mushrooms",
+      "zh_tw": "焦がし舞茸の炊き込みご飯",
+      "zh_cn": "烧焦蘑菇米饭",
+      "vi": "Cơm nấu nấm cháy",
+      "hi": "जले हुए मशरूम के साथ पकाया गया चावल",
+      "ru": "Рис, приготовленный с обжаренными грибами",
+      "th": "ข้าวหุงกับเห็ดย่าง",
+      "id": "Nasi dimasak dengan jamur hangus",
+      "ms": "Nasi masak dengan cendawan hangus",
+      "ko": "타는 버섯의 밥솥밥"
+    },
+    "description": {
+      "en": "",
+      "zh_tw": "",
+      "zh_cn": "",
+      "vi": "",
+      "hi": "",
+      "ru": "",
+      "th": "",
+      "id": "",
+      "ms": "",
+      "ko": ""
+    },
+    "steps": {
+      "en": [
+        "Heat sesame oil in a frying pan, add the maitake mushrooms divided into small florets, and sear the maitake mushrooms until both sides are browned.",
+        "Add ``Oigatsuotsuyu doubled'' and garlic and stir-fry until the liquid evaporates.",
+        "Put the washed rice in a rice cooker, put Step 2 on top, add water to the usual amount, and cook. (In order not to leave any umami stuck in the frying pan, it is a good idea to add some water to the frying pan to scrape up the umami and put it in the rice cooker.)",
+        "Once cooked, place in a bowl and sprinkle with black pepper to taste."
+      ],
+      "zh_tw": [
+        "將麻油放入煎鍋中加熱，加入分成小朵的舞茸，將舞茸煎至兩面焦黃。",
+        "加入“Oigatsuotsuyu doubled”和大蒜，炒至液體蒸發。",
+        "將洗淨的米放入電鍋中，將步驟2放在上面，加水至平時的量，煮。 （為了不讓鮮味黏在煎鍋裡，最好在煎鍋裡加點水，把鮮味刮掉，然後放進電鍋裡。）",
+        "煮熟後盛入碗中，撒上黑胡椒粉調味。"
+      ],
+      "zh_cn": [
+        "将麻油放入煎锅中加热，加入分成小朵的舞茸，将舞茸煎至两面焦黄。",
+        "加入“Oigatsuotsuyu doubled”和大蒜，炒至液体蒸发。",
+        "将洗净的米放入电饭锅中，将步骤2放在上面，加水至平时的量，煮。 （为了不让鲜味粘在煎锅里，最好在煎锅里加点水，把鲜味刮掉，然后放进电饭锅里。）",
+        "煮熟后盛入碗中，撒上黑胡椒粉调味。"
+      ],
+      "vi": [
+        "Đun nóng dầu mè trong chảo rán, cho nấm maitake đã chia thành từng phần nhỏ vào xào nấm maitake cho đến khi chín vàng cả hai mặt.",
+        "Thêm ``Oigatsuotsuyu double'' và tỏi vào xào cho đến khi chất lỏng bay hơi.",
+        "Cho gạo đã vo sạch vào nồi cơm điện, đặt Bước 2 lên trên, thêm nước theo lượng thông thường rồi nấu. (Để không còn vị umami bị kẹt trong chảo, bạn nên cho một ít nước vào chảo để cạo sạch vị umami rồi cho vào nồi cơm điện.)",
+        "Sau khi chín, cho vào tô và rắc hạt tiêu đen cho vừa ăn."
+      ],
+      "hi": [
+        "एक फ्राइंग पैन में तिल का तेल गर्म करें, उसमें छोटे-छोटे फूलों में बंटे हुए मैटेक मशरूम डालें और मैटेक मशरूम को दोनों तरफ से भूरा होने तक भूनें।",
+        "``Oigatsuotsuyu दोगुना'' और लहसुन डालें और तब तक भूनें जब तक कि तरल वाष्पित न हो जाए।",
+        "धुले हुए चावल को राइस कुकर में डालें, ऊपर स्टेप 2 डालें, सामान्य मात्रा में पानी डालें और पकाएँ। (फ्राइंग पैन में कोई भी उमामी फंसी न रह जाए, इसके लिए यह अच्छा विचार है कि उमामी को खुरचने के लिए फ्राइंग पैन में थोड़ा पानी डालें और इसे चावल कुकर में डालें।)",
+        "पकने के बाद इसे एक कटोरे में रखें और स्वादानुसार काली मिर्च छिड़कें।"
+      ],
+      "ru": [
+        "Нагрейте кунжутное масло на сковороде, добавьте грибы майтаке, разделенные на небольшие соцветия, и обжарьте грибы майтаке, пока обе стороны не подрумянятся.",
+        "Добавьте «Оигацуотсую вдвое» и чеснок и жарьте, помешивая, пока жидкость не выпарится.",
+        "Промытый рис выложите в рисоварку, сверху положите Шаг 2, долейте воды до обычного количества и варите. (Чтобы не оставить умами на сковороде, рекомендуется добавить в сковороду немного воды, чтобы очистить умами, и положить ее в рисоварку.)",
+        "После приготовления переложите в миску и посыпьте черным перцем по вкусу."
+      ],
+      "th": [
+        "ตั้งน้ำมันงาในกระทะ ใส่เห็ดไมตาเกะที่แบ่งออกเป็นดอกเล็กๆ และผัดเห็ดไมตาเกะจนทั้งสองด้านเป็นสีน้ำตาล",
+        "ใส่ ``Oigatsuotsuyu สองเท่า'' และกระเทียมลงไปผัดจนของเหลวระเหย",
+        "ใส่ข้าวที่ล้างแล้วลงในหม้อหุงข้าว ใส่ขั้นตอนที่ 2 ไว้ด้านบน เติมน้ำตามปริมาณปกติ แล้วปรุง (เพื่อไม่ให้อูมามิติดอยู่ในกระทะ ควรเติมน้ำลงในกระทะเพื่อขูดอูมามิออกแล้วใส่ในหม้อหุงข้าว)",
+        "เมื่อสุกแล้วใส่ในชามแล้วโรยด้วยพริกไทยดำเพื่อลิ้มรส"
+      ],
+      "id": [
+        "Panaskan minyak wijen dalam wajan, masukkan jamur maitake yang dibagi menjadi kuntum kecil, lalu bakar jamur maitake hingga kedua sisinya berwarna kecoklatan.",
+        "Tambahkan ``Oigatsuotsuyu dua kali lipat'' dan bawang putih, lalu tumis hingga cairannya menguap.",
+        "Masukkan beras yang sudah dicuci ke dalam rice cooker, taruh Langkah 2 di atasnya, tambahkan air sesuai jumlah biasa, dan masak. (Agar tidak ada umami yang tersangkut di penggorengan, ada baiknya menambahkan sedikit air ke dalam penggorengan untuk mengikis umami dan memasukkannya ke dalam penanak nasi.)",
+        "Setelah matang, masukkan ke dalam mangkuk dan taburi lada hitam sesuai selera."
+      ],
+      "ms": [
+        "Panaskan minyak bijan dalam kuali, masukkan cendawan maitake yang dibahagikan kepada bunga kecil, dan goreng cendawan maitake sehingga kedua-dua belah keperangan.",
+        "Masukkan ``Oigatsuotsuyu dua kali ganda'' dan bawang putih dan tumis sehingga cecair sejat.",
+        "Masukkan beras yang telah dibasuh ke dalam periuk nasi, letakkan Langkah 2 di atas, tambah air pada jumlah biasa, dan masak. (Untuk tidak meninggalkan sebarang umami yang tersangkut di dalam kuali, adalah idea yang baik untuk menambah sedikit air ke dalam kuali untuk mengikis umami dan memasukkannya ke dalam periuk nasi.)",
+        "Setelah masak, masukkan ke dalam mangkuk dan taburkan lada hitam secukup rasa."
+      ],
+      "ko": [
+        "프라이팬에 참기름을 두르고, 소방으로 나눠 두근두근을 넣고, 표고버섯의 양면에 탄이 생기도록 구워낸다.",
+        "에 「추구가 츠유 2배」라고 마늘을 넣고, 국물이 없어질 때까지 볶는다.",
+        "세미한 쌀을 밥솥에 넣고 위에 2를 얹어 통상의 물가감의 물을 넣어 밥솥한다. (프라이팬에 달라붙은 맛을 내리지 않으려면 분량의 물의 일부를 프라이팬에 넣고 맛을 담아 밥솥에 넣으면 좋다)",
+        "끓어 오르면 그릇에 담아, 기호로 검은 후추를 친다."
+      ]
+    }
+  },
+  {
+    "id": "e16e7c0d",
+    "source_url": "https://www.mizkan.co.jp/ouchirecipe/recipe/?menu_id=24109",
+    "source_site": "Mizkan",
+    "title_ja": "ゆず香る鮭のホイル焼き",
+    "description_ja": "",
+    "ingredients": [
+      {
+        "name_ja": "生鮭　（切り身）",
+        "amount": "２切れ",
+        "name_translated": {
+          "en": "Raw salmon (fillet)",
+          "zh_tw": "生鮭魚（魚片）",
+          "zh_cn": "生三文鱼（鱼片）",
+          "vi": "Cá hồi sống (phi lê)",
+          "hi": "कच्चा सामन (पट्टिका)",
+          "ru": "Сырой лосось (филе)",
+          "th": "ปลาแซลมอนดิบ (เนื้อ)",
+          "id": "Salmon mentah (fillet)",
+          "ms": "Salmon mentah (fillet)",
+          "ko": "생연어(필레)"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E7%94%9F%E9%AE%AD%E3%80%80%EF%BC%88%E5%88%87%E3%82%8A%E8%BA%AB%EF%BC%89&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E7%94%9F%E9%AE%AD%E3%80%80%EF%BC%88%E5%88%87%E3%82%8A%E8%BA%AB%EF%BC%89/?tag="
+      },
+      {
+        "name_ja": "キャベツ",
+        "amount": "１／１０玉（１２０ｇ）",
+        "name_translated": {
+          "en": "cabbage",
+          "zh_tw": "高麗菜",
+          "zh_cn": "卷心菜",
+          "vi": "bắp cải",
+          "hi": "पत्ता गोभी",
+          "ru": "капуста",
+          "th": "กะหล่ำปลี",
+          "id": "kubis",
+          "ms": "kubis",
+          "ko": "양배추"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%82%AD%E3%83%A3%E3%83%99%E3%83%84&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%82%AD%E3%83%A3%E3%83%99%E3%83%84/?tag="
+      },
+      {
+        "name_ja": "にんじん",
+        "amount": "１／３本",
+        "name_translated": {
+          "en": "carrot",
+          "zh_tw": "紅蘿蔔",
+          "zh_cn": "胡萝卜",
+          "vi": "cà rốt",
+          "hi": "गाजर",
+          "ru": "морковь",
+          "th": "แครอท",
+          "id": "wortel",
+          "ms": "lobak merah",
+          "ko": "당근"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%AB%E3%82%93%E3%81%98%E3%82%93&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%AB%E3%82%93%E3%81%98%E3%82%93/?tag="
+      },
+      {
+        "name_ja": "たまねぎ",
+        "amount": "１／２個",
+        "name_translated": {
+          "en": "onion",
+          "zh_tw": "洋蔥",
+          "zh_cn": "洋葱",
+          "vi": "củ hành",
+          "hi": "प्याज",
+          "ru": "лук",
+          "th": "หัวหอม",
+          "id": "bawang bombai",
+          "ms": "bawang besar",
+          "ko": "양파"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%9F%E3%81%BE%E3%81%AD%E3%81%8E&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%9F%E3%81%BE%E3%81%AD%E3%81%8E/?tag="
+      },
+      {
+        "name_ja": "しめじ",
+        "amount": "１／２パック（５０ｇ）",
+        "name_translated": {
+          "en": "Shimeji mushrooms",
+          "zh_tw": "姬菇",
+          "zh_cn": "姬菇",
+          "vi": "nấm Shimeji",
+          "hi": "शिमेजी मशरूम",
+          "ru": "Грибы симеджи",
+          "th": "เห็ดชิเมจิ",
+          "id": "jamur Shimeji",
+          "ms": "Cendawan Shimeji",
+          "ko": "시메지"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%97%E3%82%81%E3%81%98&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%97%E3%82%81%E3%81%98/?tag="
+      },
+      {
+        "name_ja": "バター",
+        "amount": "２０ｇ",
+        "name_translated": {
+          "en": "butter",
+          "zh_tw": "奶油",
+          "zh_cn": "黄油",
+          "vi": "bơ",
+          "hi": "मक्खन",
+          "ru": "масло",
+          "th": "เนย",
+          "id": "mentega",
+          "ms": "mentega",
+          "ko": "버터"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%90%E3%82%BF%E3%83%BC&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%90%E3%82%BF%E3%83%BC/?tag="
+      },
+      {
+        "name_ja": "オリーブオイル",
+        "amount": "小さじ１",
+        "name_translated": {
+          "en": "olive oil",
+          "zh_tw": "橄欖油",
+          "zh_cn": "橄榄油",
+          "vi": "dầu ô liu",
+          "hi": "जैतून का तेल",
+          "ru": "оливковое масло",
+          "th": "น้ำมันมะกอก",
+          "id": "minyak zaitun",
+          "ms": "minyak zaitun",
+          "ko": "올리브 오일"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%82%AA%E3%83%AA%E3%83%BC%E3%83%96%E3%82%AA%E3%82%A4%E3%83%AB&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%82%AA%E3%83%AA%E3%83%BC%E3%83%96%E3%82%AA%E3%82%A4%E3%83%AB/?tag="
+      },
+      {
+        "name_ja": "小ねぎ　（小口切り）",
+        "amount": "適量",
+        "name_translated": {
+          "en": "Onion (cut into small pieces)",
+          "zh_tw": "洋蔥（切小塊）",
+          "zh_cn": "洋葱（切小块）",
+          "vi": "Hành tây (cắt thành miếng nhỏ)",
+          "hi": "प्याज (छोटे टुकड़ों में कटा हुआ)",
+          "ru": "Лук (нарезать небольшими кусочками)",
+          "th": "หัวหอม (หั่นเป็นชิ้นเล็กๆ)",
+          "id": "Bawang bombay (potong kecil-kecil)",
+          "ms": "Bawang besar (potong kecil)",
+          "ko": "작은 양파 (작은 컷)"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E5%B0%8F%E3%81%AD%E3%81%8E%E3%80%80%EF%BC%88%E5%B0%8F%E5%8F%A3%E5%88%87%E3%82%8A%EF%BC%89&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E5%B0%8F%E3%81%AD%E3%81%8E%E3%80%80%EF%BC%88%E5%B0%8F%E5%8F%A3%E5%88%87%E3%82%8A%EF%BC%89/?tag="
+      },
+      {
+        "name_ja": "ミツカン　かおりの蔵　丸搾りゆず",
+        "amount": "適量",
+        "name_translated": {
+          "en": "Mizkan Kaori no Kura whole squeezed yuzu",
+          "zh_tw": "味滋館香織之藏整顆榨柚子",
+          "zh_cn": "味滋馆香织之藏整粒榨柚子",
+          "vi": "Mizkan Kaori no Kura ép toàn bộ yuzu",
+          "hi": "मिज़कान काओरी नो कुरा पूरा निचोड़ा हुआ युज़ू",
+          "ru": "Мизкан Каори но Кура целиком выжатый юзу",
+          "th": "Mizkan Kaori no Kura บีบยูสุทั้งตัว",
+          "id": "Mizkan Kaori no Kura meremas yuzu utuh",
+          "ms": "Mizkan Kaori no Kura seluruh perah yuzu",
+          "ko": "미츠칸 카오리의 창고 마루 짜기 유자"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E3%81%8B%E3%81%8A%E3%82%8A%E3%81%AE%E8%94%B5%E3%80%80%E4%B8%B8%E6%90%BE%E3%82%8A%E3%82%86%E3%81%9A&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E3%81%8B%E3%81%8A%E3%82%8A%E3%81%AE%E8%94%B5%E3%80%80%E4%B8%B8%E6%90%BE%E3%82%8A%E3%82%86%E3%81%9A/?tag="
+      },
+      {
+        "name_ja": "１",
+        "amount": "にする。しめじは石づきを取り、小房に分ける。",
+        "name_translated": {
+          "en": "1",
+          "zh_tw": "1",
+          "zh_cn": "1",
+          "vi": "1",
+          "hi": "1",
+          "ru": "1",
+          "th": "1",
+          "id": "1",
+          "ms": "1",
+          "ko": "1"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%91&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%91/?tag="
+      },
+      {
+        "name_ja": "２",
+        "amount": "アルミホイルを広げ、野菜、鮭の順にをのせ、オリーブオイルをふりかけて１人前ずつ包む。フライパンに水１ｃｍをほどの水（分量外）を入れ、中火で１０分ほど蒸し焼きにする。ふたを開け、「かおりの蔵　丸搾りゆず」をまわしかけ、小ねぎを散らす。",
+        "name_translated": {
+          "en": "2",
+          "zh_tw": "2",
+          "zh_cn": "2",
+          "vi": "2",
+          "hi": "2",
+          "ru": "2",
+          "th": "2",
+          "id": "2",
+          "ms": "2",
+          "ko": "2"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%92&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%92/?tag="
+      }
+    ],
+    "steps_ja": [
+      "鮭は骨取りする。キャベツは一口大に切る。にんじんは細切りにする。たまねぎはくし形切りにする。しめじは石づきを取り、小房に分ける。",
+      "アルミホイルを広げ、野菜、鮭の順にをのせ、オリーブオイルをふりかけて１人前ずつ包む。フライパンに水１ｃｍをほどの水（分量外）を入れ、中火で１０分ほど蒸し焼きにする。ふたを開け、「かおりの蔵　丸搾りゆず」をまわしかけ、小ねぎを散らす。"
+    ],
+    "image_url": "",
+    "title": {
+      "en": "Yuzu-scented salmon grilled in foil",
+      "zh_tw": "箔紙烤柚子香鮭魚",
+      "zh_cn": "箔纸烤柚子香三文鱼",
+      "vi": "Cá hồi thơm Yuzu nướng trong giấy bạc",
+      "hi": "युज़ु-सुगंधित सैल्मन पन्नी में ग्रील्ड",
+      "ru": "Лосось с ароматом юдзу, приготовленный на гриле в фольге",
+      "th": "ปลาแซลมอนกลิ่นยูสุย่างในกระดาษฟอยล์",
+      "id": "Salmon beraroma Yuzu dipanggang dengan kertas timah",
+      "ms": "Salmon wangi Yuzu panggang dalam foil",
+      "ko": "유자 향기 연어 호일 구이"
+    },
+    "description": {
+      "en": "",
+      "zh_tw": "",
+      "zh_cn": "",
+      "vi": "",
+      "hi": "",
+      "ru": "",
+      "th": "",
+      "id": "",
+      "ms": "",
+      "ko": ""
+    },
+    "steps": {
+      "en": [
+        "Remove the bones from the salmon. Cut the cabbage into bite-sized pieces. Cut the carrots into thin pieces. Cut the onion into wedges. Remove the stones from the shimeji mushrooms and divide them into small bunches.",
+        "Spread aluminum foil, place vegetables and salmon on top, sprinkle with olive oil, and wrap each serving individually. Pour 1cm of water (not listed) into a frying pan and steam-fry over medium heat for about 10 minutes. Open the lid, sprinkle with ``Kaori no Kura Maru-squeezed Yuzu'' and sprinkle with green onions."
+      ],
+      "zh_tw": [
+        "把鮭魚的骨頭去掉。將高麗菜切成一口大小的塊狀。將胡蘿蔔切成薄片。將洋蔥切成楔形。姬菇去掉石頭，分成小串。",
+        "鋪上鋁箔，將蔬菜和鮭魚放在上面，撒上橄欖油，然後將每份單獨包裹起來。煎鍋中倒入1公分水（未列出），以中火蒸約10分鐘。打開蓋子，撒上“香織倉丸榨柚子”，撒上蔥。"
+      ],
+      "zh_cn": [
+        "把三文鱼的骨头去掉。将卷心菜切成一口大小的块。将胡萝卜切成薄片。将洋葱切成楔形。姬菇去掉石头，分成小串。",
+        "铺上铝箔，将蔬菜和三文鱼放在上面，撒上橄榄油，然后将每份单独包裹起来。煎锅中倒入1厘米水（未列出），中火蒸约10分钟。打开盖子，撒上“香织仓丸榨柚子”，撒上葱。"
+      ],
+      "vi": [
+        "Loại bỏ xương khỏi cá hồi. Cắt bắp cải thành miếng vừa ăn. Cắt cà rốt thành miếng mỏng. Cắt hành tây thành nêm. Loại bỏ những viên đá khỏi nấm shimeji và chia chúng thành từng chùm nhỏ.",
+        "Trải giấy nhôm, đặt rau và cá hồi lên trên, rắc dầu ô liu và bọc từng phần riêng lẻ. Đổ 1 cm nước (không được liệt kê) vào chảo rán và chiên trên lửa vừa trong khoảng 10 phút. Mở nắp, rắc ``Kaori no Kura Maru-squeezed Yuzu'' và rắc hành lá."
+      ],
+      "hi": [
+        "सैल्मन से हड्डियाँ निकालें। पत्तागोभी को छोटे टुकड़ों में काट लीजिये. गाजर को पतले टुकड़ों में काट लीजिये. प्याज को वेजेज में काट लें. शिमेजी मशरूम से गुठलियां हटा दें और उन्हें छोटे-छोटे गुच्छों में बांट लें।",
+        "एल्युमीनियम फ़ॉइल फैलाएँ, ऊपर सब्जियाँ और सैल्मन रखें, जैतून का तेल छिड़कें और प्रत्येक सर्विंग को अलग-अलग लपेटें। एक फ्राइंग पैन में 1 सेमी पानी (सूचीबद्ध नहीं) डालें और मध्यम आंच पर लगभग 10 मिनट तक भाप में भूनें। ढक्कन खोलें, ``काओरी नो कुरा मारू-स्क्वीज़्ड युज़ु'' छिड़कें और हरा प्याज छिड़कें।"
+      ],
+      "ru": [
+        "Удалить кости из лосося. Капусту нарезаем некрупными кусочками. Морковь нарезаем тонкими кусочками. Лук нарезаем дольками. Удалите косточки из грибов симэдзи и разделите их на небольшие пучки.",
+        "Расстелите алюминиевую фольгу, сверху положите овощи и лосось, сбрызните оливковым маслом и заверните каждую порцию отдельно. Налейте в сковороду 1 см воды (не указана) и жарьте на пару на среднем огне около 10 минут. Откройте крышку, посыпьте «Юдзу, выжатым из Каори но Кура Мару» и посыпьте зеленым луком."
+      ],
+      "th": [
+        "เอากระดูกออกจากปลาแซลมอน ตัดกะหล่ำปลีเป็นชิ้นขนาดพอดีคำ ตัดแครอทเป็นชิ้นบาง ๆ ตัดหัวหอมเป็นเวดจ์ นำก้อนหินออกจากเห็ดชิเมจิ แล้วแบ่งเป็นช่อเล็กๆ",
+        "ทาอลูมิเนียมฟอยล์ วางผักและปลาแซลมอนไว้ด้านบน โรยด้วยน้ำมันมะกอก และห่อแต่ละมื้อแยกกัน เทน้ำ 1 ซม. (ไม่อยู่ในรายการ) ลงในกระทะแล้วทอดด้วยไฟปานกลางประมาณ 10 นาที เปิดฝา โรยด้วย ``ยูซุบีบคาโอริ โนะ คุระ มารุ'' แล้วโรยด้วยต้นหอม"
+      ],
+      "id": [
+        "Hapus tulang dari salmon. Potong kubis menjadi potongan-potongan kecil. Potong wortel menjadi potongan tipis. Potong bawang menjadi irisan. Keluarkan batu dari jamur shimeji dan bagi menjadi tandan kecil.",
+        "Oleskan aluminium foil, letakkan sayuran dan salmon di atasnya, taburi dengan minyak zaitun, dan bungkus setiap porsi satu per satu. Tuang 1 cm air (tidak tercantum) ke dalam penggorengan dan kukus dengan api sedang selama kurang lebih 10 menit. Buka tutupnya, taburi dengan ``Yuzu perasan Kaori no Kura Maru'' dan taburi dengan daun bawang."
+      ],
+      "ms": [
+        "Keluarkan tulang dari salmon. Potong kubis menjadi kepingan bersaiz gigitan. Potong lobak merah menjadi kepingan nipis. Potong bawang menjadi kepingan. Keluarkan batu dari cendawan shimeji dan bahagikan kepada tandan kecil.",
+        "Sapukan kerajang aluminium, letakkan sayur-sayuran dan salmon di atasnya, taburkan dengan minyak zaitun, dan bungkus setiap hidangan secara individu. Tuangkan 1cm air (tidak disenaraikan) ke dalam kuali dan goreng kukus dengan api sederhana selama kira-kira 10 minit. Buka penutup, taburkan ``Kaori no Kura Maru-perah Yuzu'' dan taburkan bawang hijau."
+      ],
+      "ko": [
+        "연어는 뼈 잡는다. 양배추는 한입 크기로 자른다. 당근은 잘게 썬다. 양파는 빗 모양으로 자른다. 시메지는 돌을 잡고 소방으로 나눈다.",
+        "알루미늄 호일을 펼치고, 야채, 연어 순으로 얹어 올리브 오일을 뿌려 1인분씩 감싼다. 프라이팬에 물 1cm를 정도의 물(분량외)을 넣고, 중화로 10분 정도 찜구이로 한다. 뚜껑을 열고 「카오리의 창고 마루 짜기 유자」를 돌려 양파를 흩뜨린다."
+      ]
+    }
   }
 ]

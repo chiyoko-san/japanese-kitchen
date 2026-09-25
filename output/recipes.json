@@ -340121,5 +340121,492 @@
         "に＜A＞をまわしかける。"
       ]
     }
+  },
+  {
+    "id": "6ff52cf1",
+    "source_url": "https://park.ajinomoto.co.jp/recipe/card/708332/",
+    "source_site": "Ajinomoto",
+    "title_ja": "味つけ卵",
+    "description_ja": "",
+    "ingredients": [
+      {
+        "name_ja": "材料",
+        "amount": "適量",
+        "name_translated": {
+          "en": "材料",
+          "zh_tw": "材料",
+          "zh_cn": "材料",
+          "vi": "材料",
+          "hi": "材料",
+          "ru": "材料",
+          "th": "材料",
+          "id": "材料",
+          "ms": "材料",
+          "ko": "材料"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E6%9D%90%E6%96%99&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E6%9D%90%E6%96%99/?tag="
+      },
+      {
+        "name_ja": "つくり方",
+        "amount": "適量",
+        "name_translated": {
+          "en": "つくり方",
+          "zh_tw": "つくり方",
+          "zh_cn": "つくり方",
+          "vi": "つくり方",
+          "hi": "つくり方",
+          "ru": "つくり方",
+          "th": "つくり方",
+          "id": "つくり方",
+          "ms": "つくり方",
+          "ko": "つくり方"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%A4%E3%81%8F%E3%82%8A%E6%96%B9&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%A4%E3%81%8F%E3%82%8A%E6%96%B9/?tag="
+      },
+      {
+        "name_ja": "エネルギー",
+        "amount": "kcal",
+        "name_translated": {
+          "en": "エネルギー",
+          "zh_tw": "エネルギー",
+          "zh_cn": "エネルギー",
+          "vi": "エネルギー",
+          "hi": "エネルギー",
+          "ru": "エネルギー",
+          "th": "エネルギー",
+          "id": "エネルギー",
+          "ms": "エネルギー",
+          "ko": "エネルギー"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%82%A8%E3%83%8D%E3%83%AB%E3%82%AE%E3%83%BC&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%82%A8%E3%83%8D%E3%83%AB%E3%82%AE%E3%83%BC/?tag="
+      },
+      {
+        "name_ja": "117",
+        "amount": "kcal",
+        "name_translated": {
+          "en": "117",
+          "zh_tw": "117",
+          "zh_cn": "117",
+          "vi": "117",
+          "hi": "117",
+          "ru": "117",
+          "th": "117",
+          "id": "117",
+          "ms": "117",
+          "ko": "117"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=117&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/117/?tag="
+      },
+      {
+        "name_ja": "塩分",
+        "amount": "g",
+        "name_translated": {
+          "en": "塩分",
+          "zh_tw": "塩分",
+          "zh_cn": "塩分",
+          "vi": "塩分",
+          "hi": "塩分",
+          "ru": "塩分",
+          "th": "塩分",
+          "id": "塩分",
+          "ms": "塩分",
+          "ko": "塩分"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E5%A1%A9%E5%88%86&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E5%A1%A9%E5%88%86/?tag="
+      },
+      {
+        "name_ja": "9.4",
+        "amount": "g",
+        "name_translated": {
+          "en": "9.4",
+          "zh_tw": "9.4",
+          "zh_cn": "9.4",
+          "vi": "9.4",
+          "hi": "9.4",
+          "ru": "9.4",
+          "th": "9.4",
+          "id": "9.4",
+          "ms": "9.4",
+          "ko": "9.4"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=9.4&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/9.4/?tag="
+      },
+      {
+        "name_ja": "たんぱく質",
+        "amount": "g",
+        "name_translated": {
+          "en": "たんぱく質",
+          "zh_tw": "たんぱく質",
+          "zh_cn": "たんぱく質",
+          "vi": "たんぱく質",
+          "hi": "たんぱく質",
+          "ru": "たんぱく質",
+          "th": "たんぱく質",
+          "id": "たんぱく質",
+          "ms": "たんぱく質",
+          "ko": "たんぱく質"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%9F%E3%82%93%E3%81%B1%E3%81%8F%E8%B3%AA&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%9F%E3%82%93%E3%81%B1%E3%81%8F%E8%B3%AA/?tag="
+      },
+      {
+        "name_ja": "11.3",
+        "amount": "g",
+        "name_translated": {
+          "en": "11.3",
+          "zh_tw": "11.3",
+          "zh_cn": "11.3",
+          "vi": "11.3",
+          "hi": "11.3",
+          "ru": "11.3",
+          "th": "11.3",
+          "id": "11.3",
+          "ms": "11.3",
+          "ko": "11.3"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=11.3&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/11.3/?tag="
+      },
+      {
+        "name_ja": "脂質",
+        "amount": "g",
+        "name_translated": {
+          "en": "脂質",
+          "zh_tw": "脂質",
+          "zh_cn": "脂質",
+          "vi": "脂質",
+          "hi": "脂質",
+          "ru": "脂質",
+          "th": "脂質",
+          "id": "脂質",
+          "ms": "脂質",
+          "ko": "脂質"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E8%84%82%E8%B3%AA&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E8%84%82%E8%B3%AA/?tag="
+      },
+      {
+        "name_ja": "5.2",
+        "amount": "g",
+        "name_translated": {
+          "en": "5.2",
+          "zh_tw": "5.2",
+          "zh_cn": "5.2",
+          "vi": "5.2",
+          "hi": "5.2",
+          "ru": "5.2",
+          "th": "5.2",
+          "id": "5.2",
+          "ms": "5.2",
+          "ko": "5.2"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=5.2&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/5.2/?tag="
+      },
+      {
+        "name_ja": "もっと見る",
+        "amount": "適量",
+        "name_translated": {
+          "en": "もっと見る",
+          "zh_tw": "もっと見る",
+          "zh_cn": "もっと見る",
+          "vi": "もっと見る",
+          "hi": "もっと見る",
+          "ru": "もっと見る",
+          "th": "もっと見る",
+          "id": "もっと見る",
+          "ms": "もっと見る",
+          "ko": "もっと見る"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%82%82%E3%81%A3%E3%81%A8%E8%A6%8B%E3%82%8B&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%82%82%E3%81%A3%E3%81%A8%E8%A6%8B%E3%82%8B/?tag="
+      },
+      {
+        "name_ja": "マイレシピにも保存！",
+        "amount": "LINEに保存",
+        "name_translated": {
+          "en": "マイレシピにも保存！",
+          "zh_tw": "マイレシピにも保存！",
+          "zh_cn": "マイレシピにも保存！",
+          "vi": "マイレシピにも保存！",
+          "hi": "マイレシピにも保存！",
+          "ru": "マイレシピにも保存！",
+          "th": "マイレシピにも保存！",
+          "id": "マイレシピにも保存！",
+          "ms": "マイレシピにも保存！",
+          "ko": "マイレシピにも保存！"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9E%E3%82%A4%E3%83%AC%E3%82%B7%E3%83%94%E3%81%AB%E3%82%82%E4%BF%9D%E5%AD%98%EF%BC%81&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9E%E3%82%A4%E3%83%AC%E3%82%B7%E3%83%94%E3%81%AB%E3%82%82%E4%BF%9D%E5%AD%98%EF%BC%81/?tag="
+      },
+      {
+        "name_ja": "マイレシピに保存",
+        "amount": "-",
+        "name_translated": {
+          "en": "マイレシピに保存",
+          "zh_tw": "マイレシピに保存",
+          "zh_cn": "マイレシピに保存",
+          "vi": "マイレシピに保存",
+          "hi": "マイレシピに保存",
+          "ru": "マイレシピに保存",
+          "th": "マイレシピに保存",
+          "id": "マイレシピに保存",
+          "ms": "マイレシピに保存",
+          "ko": "マイレシピに保存"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9E%E3%82%A4%E3%83%AC%E3%82%B7%E3%83%94%E3%81%AB%E4%BF%9D%E5%AD%98&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9E%E3%82%A4%E3%83%AC%E3%82%B7%E3%83%94%E3%81%AB%E4%BF%9D%E5%AD%98/?tag="
+      },
+      {
+        "name_ja": "リンク",
+        "amount": "外部タブで開く",
+        "name_translated": {
+          "en": "リンク",
+          "zh_tw": "リンク",
+          "zh_cn": "リンク",
+          "vi": "リンク",
+          "hi": "リンク",
+          "ru": "リンク",
+          "th": "リンク",
+          "id": "リンク",
+          "ms": "リンク",
+          "ko": "リンク"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%AA%E3%83%B3%E3%82%AF&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%AA%E3%83%B3%E3%82%AF/?tag="
+      },
+      {
+        "name_ja": "材料",
+        "amount": "適量",
+        "name_translated": {
+          "en": "材料",
+          "zh_tw": "材料",
+          "zh_cn": "材料",
+          "vi": "材料",
+          "hi": "材料",
+          "ru": "材料",
+          "th": "材料",
+          "id": "材料",
+          "ms": "材料",
+          "ko": "材料"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E6%9D%90%E6%96%99&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E6%9D%90%E6%96%99/?tag="
+      },
+      {
+        "name_ja": "つくり方",
+        "amount": "適量",
+        "name_translated": {
+          "en": "つくり方",
+          "zh_tw": "つくり方",
+          "zh_cn": "つくり方",
+          "vi": "つくり方",
+          "hi": "つくり方",
+          "ru": "つくり方",
+          "th": "つくり方",
+          "id": "つくり方",
+          "ms": "つくり方",
+          "ko": "つくり方"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%A4%E3%81%8F%E3%82%8A%E6%96%B9&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%A4%E3%81%8F%E3%82%8A%E6%96%B9/?tag="
+      },
+      {
+        "name_ja": "1",
+        "amount": "を混ぜ合わせて「ほんだし」をよく溶かし、しょうゆを加える。",
+        "name_translated": {
+          "en": "1",
+          "zh_tw": "1",
+          "zh_cn": "1",
+          "vi": "1",
+          "hi": "1",
+          "ru": "1",
+          "th": "1",
+          "id": "1",
+          "ms": "1",
+          "ko": "1"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=1&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/1/?tag="
+      },
+      {
+        "name_ja": "2",
+        "amount": "ゆで卵を加え、途中、上下を返しながら、味がしみるまで漬ける（時間外）。",
+        "name_translated": {
+          "en": "2",
+          "zh_tw": "2",
+          "zh_cn": "2",
+          "vi": "2",
+          "hi": "2",
+          "ru": "2",
+          "th": "2",
+          "id": "2",
+          "ms": "2",
+          "ko": "2"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=2&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/2/?tag="
+      },
+      {
+        "name_ja": "＊",
+        "amount": "『我が家のほんだし活用術』（幻冬舎刊）より",
+        "name_translated": {
+          "en": "＊",
+          "zh_tw": "＊",
+          "zh_cn": "＊",
+          "vi": "＊",
+          "hi": "＊",
+          "ru": "＊",
+          "th": "＊",
+          "id": "＊",
+          "ms": "＊",
+          "ko": "＊"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%8A&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%8A/?tag="
+      },
+      {
+        "name_ja": "メイン料理",
+        "amount": "適量",
+        "name_translated": {
+          "en": "メイン料理",
+          "zh_tw": "メイン料理",
+          "zh_cn": "メイン料理",
+          "vi": "メイン料理",
+          "hi": "メイン料理",
+          "ru": "メイン料理",
+          "th": "メイン料理",
+          "id": "メイン料理",
+          "ms": "メイン料理",
+          "ko": "メイン料理"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%A1%E3%82%A4%E3%83%B3%E6%96%99%E7%90%86&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%A1%E3%82%A4%E3%83%B3%E6%96%99%E7%90%86/?tag="
+      },
+      {
+        "name_ja": "和風",
+        "amount": "適量",
+        "name_translated": {
+          "en": "和風",
+          "zh_tw": "和風",
+          "zh_cn": "和風",
+          "vi": "和風",
+          "hi": "和風",
+          "ru": "和風",
+          "th": "和風",
+          "id": "和風",
+          "ms": "和風",
+          "ko": "和風"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E5%92%8C%E9%A2%A8&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E5%92%8C%E9%A2%A8/?tag="
+      },
+      {
+        "name_ja": "ほんだし®",
+        "amount": "適量",
+        "name_translated": {
+          "en": "ほんだし®",
+          "zh_tw": "ほんだし®",
+          "zh_cn": "ほんだし®",
+          "vi": "ほんだし®",
+          "hi": "ほんだし®",
+          "ru": "ほんだし®",
+          "th": "ほんだし®",
+          "id": "ほんだし®",
+          "ms": "ほんだし®",
+          "ko": "ほんだし®"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%BB%E3%82%93%E3%81%A0%E3%81%97%C2%AE&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%BB%E3%82%93%E3%81%A0%E3%81%97%C2%AE/?tag="
+      }
+    ],
+    "steps_ja": [
+      "保存容器にＡを混ぜ合わせて「ほんだし」をよく溶かし、しょうゆを加える。",
+      "ゆで卵を加え、途中、上下を返しながら、味がしみるまで漬ける（時間外）。",
+      "＊『我が家のほんだし活用術』（幻冬舎刊）より"
+    ],
+    "image_url": "https://images.weserv.nl/?url=https://images.microcms-assets.io/assets/3834bb6c71eb4fdd912121537b20e72d/24a8bdf428cd49d9ba2749930789f6cb/recipe_main_image_708332.jpg?fm=webp&q=60&fit=min&w=600&output=jpg",
+    "title": {
+      "en": "味つけ卵",
+      "zh_tw": "味つけ卵",
+      "zh_cn": "味つけ卵",
+      "vi": "味つけ卵",
+      "hi": "味つけ卵",
+      "ru": "味つけ卵",
+      "th": "味つけ卵",
+      "id": "味つけ卵",
+      "ms": "味つけ卵",
+      "ko": "味つけ卵"
+    },
+    "description": {
+      "en": "",
+      "zh_tw": "",
+      "zh_cn": "",
+      "vi": "",
+      "hi": "",
+      "ru": "",
+      "th": "",
+      "id": "",
+      "ms": "",
+      "ko": ""
+    },
+    "steps": {
+      "en": [
+        "保存容器にＡを混ぜ合わせて「ほんだし」をよく溶かし、しょうゆを加える。",
+        "ゆで卵を加え、途中、上下を返しながら、味がしみるまで漬ける（時間外）。",
+        "＊『我が家のほんだし活用術』（幻冬舎刊）より"
+      ],
+      "zh_tw": [
+        "保存容器にＡを混ぜ合わせて「ほんだし」をよく溶かし、しょうゆを加える。",
+        "ゆで卵を加え、途中、上下を返しながら、味がしみるまで漬ける（時間外）。",
+        "＊『我が家のほんだし活用術』（幻冬舎刊）より"
+      ],
+      "zh_cn": [
+        "保存容器にＡを混ぜ合わせて「ほんだし」をよく溶かし、しょうゆを加える。",
+        "ゆで卵を加え、途中、上下を返しながら、味がしみるまで漬ける（時間外）。",
+        "＊『我が家のほんだし活用術』（幻冬舎刊）より"
+      ],
+      "vi": [
+        "保存容器にＡを混ぜ合わせて「ほんだし」をよく溶かし、しょうゆを加える。",
+        "ゆで卵を加え、途中、上下を返しながら、味がしみるまで漬ける（時間外）。",
+        "＊『我が家のほんだし活用術』（幻冬舎刊）より"
+      ],
+      "hi": [
+        "保存容器にＡを混ぜ合わせて「ほんだし」をよく溶かし、しょうゆを加える。",
+        "ゆで卵を加え、途中、上下を返しながら、味がしみるまで漬ける（時間外）。",
+        "＊『我が家のほんだし活用術』（幻冬舎刊）より"
+      ],
+      "ru": [
+        "保存容器にＡを混ぜ合わせて「ほんだし」をよく溶かし、しょうゆを加える。",
+        "ゆで卵を加え、途中、上下を返しながら、味がしみるまで漬ける（時間外）。",
+        "＊『我が家のほんだし活用術』（幻冬舎刊）より"
+      ],
+      "th": [
+        "保存容器にＡを混ぜ合わせて「ほんだし」をよく溶かし、しょうゆを加える。",
+        "ゆで卵を加え、途中、上下を返しながら、味がしみるまで漬ける（時間外）。",
+        "＊『我が家のほんだし活用術』（幻冬舎刊）より"
+      ],
+      "id": [
+        "保存容器にＡを混ぜ合わせて「ほんだし」をよく溶かし、しょうゆを加える。",
+        "ゆで卵を加え、途中、上下を返しながら、味がしみるまで漬ける（時間外）。",
+        "＊『我が家のほんだし活用術』（幻冬舎刊）より"
+      ],
+      "ms": [
+        "保存容器にＡを混ぜ合わせて「ほんだし」をよく溶かし、しょうゆを加える。",
+        "ゆで卵を加え、途中、上下を返しながら、味がしみるまで漬ける（時間外）。",
+        "＊『我が家のほんだし活用術』（幻冬舎刊）より"
+      ],
+      "ko": [
+        "保存容器にＡを混ぜ合わせて「ほんだし」をよく溶かし、しょうゆを加える。",
+        "ゆで卵を加え、途中、上下を返しながら、味がしみるまで漬ける（時間外）。",
+        "＊『我が家のほんだし活用術』（幻冬舎刊）より"
+      ]
+    }
   }
 ]

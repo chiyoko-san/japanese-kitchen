@@ -345796,5 +345796,1433 @@
         "食べる直前に２を入れて、卵黄をのせていただく。"
       ]
     }
+  },
+  {
+    "id": "41bff9d1",
+    "source_url": "https://www.mizkan.co.jp/ouchirecipe/recipe/?menu_id=20440",
+    "source_site": "Mizkan",
+    "title_ja": "豚肉とまいたけのペッパーぽん酢炒め",
+    "description_ja": "",
+    "ingredients": [
+      {
+        "name_ja": "豚バラ肉　薄切り",
+        "amount": "２００ｇ",
+        "name_translated": {
+          "en": "Thinly sliced ​​pork belly",
+          "zh_tw": "五花肉切成薄片",
+          "zh_cn": "五花肉切成薄片",
+          "vi": "Thịt ba chỉ thái mỏng",
+          "hi": "पतले कटा हुआ सूअर का मांस पेट",
+          "ru": "Тонко нарезанная свиная грудинка",
+          "th": "หมูสามชั้นหั่นบางๆ",
+          "id": "Perut babi diiris tipis",
+          "ms": "Perut babi yang dihiris nipis",
+          "ko": "돼지 장미 고기 얇게 썬다."
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E8%B1%9A%E3%83%90%E3%83%A9%E8%82%89%E3%80%80%E8%96%84%E5%88%87%E3%82%8A&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E8%B1%9A%E3%83%90%E3%83%A9%E8%82%89%E3%80%80%E8%96%84%E5%88%87%E3%82%8A/?tag="
+      },
+      {
+        "name_ja": "まいたけ",
+        "amount": "１パック（１００ｇ）",
+        "name_translated": {
+          "en": "Maitake",
+          "zh_tw": "舞茸",
+          "zh_cn": "舞茸",
+          "vi": "maitake",
+          "hi": "मैताके",
+          "ru": "Майтаке",
+          "th": "ไมตาเกะ",
+          "id": "Maitake",
+          "ms": "Maitake",
+          "ko": "마이타케"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%BE%E3%81%84%E3%81%9F%E3%81%91&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%BE%E3%81%84%E3%81%9F%E3%81%91/?tag="
+      },
+      {
+        "name_ja": "オリーブオイル",
+        "amount": "大さじ１",
+        "name_translated": {
+          "en": "olive oil",
+          "zh_tw": "橄欖油",
+          "zh_cn": "橄榄油",
+          "vi": "dầu ô liu",
+          "hi": "जैतून का तेल",
+          "ru": "оливковое масло",
+          "th": "น้ำมันมะกอก",
+          "id": "minyak zaitun",
+          "ms": "minyak zaitun",
+          "ko": "올리브 오일"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%82%AA%E3%83%AA%E3%83%BC%E3%83%96%E3%82%AA%E3%82%A4%E3%83%AB&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%82%AA%E3%83%AA%E3%83%BC%E3%83%96%E3%82%AA%E3%82%A4%E3%83%AB/?tag="
+      },
+      {
+        "name_ja": "ミツカン　味ぽん",
+        "amount": "大さじ２",
+        "name_translated": {
+          "en": "Mizkan Ajipon",
+          "zh_tw": "味滋康味精",
+          "zh_cn": "味滋康味精",
+          "vi": "Mizkan Ajipon",
+          "hi": "मिज़कान अजिपोन",
+          "ru": "Мизкан Аджипон",
+          "th": "มิซกัน อาจิปอน",
+          "id": "Mizkan Ajipon",
+          "ms": "Mizkan Ajipon",
+          "ko": "미츠칸 미포"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E5%91%B3%E3%81%BD%E3%82%93&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E5%91%B3%E3%81%BD%E3%82%93/?tag="
+      },
+      {
+        "name_ja": "粗挽き黒こしょう",
+        "amount": "適量",
+        "name_translated": {
+          "en": "coarsely ground black pepper",
+          "zh_tw": "粗磨黑胡椒",
+          "zh_cn": "粗磨黑胡椒",
+          "vi": "hạt tiêu đen xay thô",
+          "hi": "दरदरी पिसी हुई काली मिर्च",
+          "ru": "крупномолотый черный перец",
+          "th": "พริกไทยดำป่นหยาบ",
+          "id": "lada hitam yang digiling kasar",
+          "ms": "lada hitam yang dikisar kasar",
+          "ko": "거친 까만 후추"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E7%B2%97%E6%8C%BD%E3%81%8D%E9%BB%92%E3%81%93%E3%81%97%E3%82%87%E3%81%86&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E7%B2%97%E6%8C%BD%E3%81%8D%E9%BB%92%E3%81%93%E3%81%97%E3%82%87%E3%81%86/?tag="
+      },
+      {
+        "name_ja": "１",
+        "amount": "豚肉は食べやすい大きさに切る。まいたけはほぐす。",
+        "name_translated": {
+          "en": "1",
+          "zh_tw": "1",
+          "zh_cn": "1",
+          "vi": "1",
+          "hi": "1",
+          "ru": "1",
+          "th": "1",
+          "id": "1",
+          "ms": "1",
+          "ko": "1"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%91&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%91/?tag="
+      },
+      {
+        "name_ja": "２",
+        "amount": "フライパンにオリーブオイルを熱し、強めの中火で豚肉を炒め、豚肉に火が通ったら、まいたけを加えて炒め合わせる。まいたけに油が回ったら、「味ぽん」を回し入れ、炒めからめる。",
+        "name_translated": {
+          "en": "2",
+          "zh_tw": "2",
+          "zh_cn": "2",
+          "vi": "2",
+          "hi": "2",
+          "ru": "2",
+          "th": "2",
+          "id": "2",
+          "ms": "2",
+          "ko": "2"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%92&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%92/?tag="
+      },
+      {
+        "name_ja": "３",
+        "amount": "器に盛り、粗挽き黒こしょうをふる。",
+        "name_translated": {
+          "en": "3",
+          "zh_tw": "3",
+          "zh_cn": "3",
+          "vi": "3",
+          "hi": "3",
+          "ru": "3",
+          "th": "3",
+          "id": "3",
+          "ms": "3",
+          "ko": "3"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%93&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%93/?tag="
+      }
+    ],
+    "steps_ja": [
+      "豚肉は食べやすい大きさに切る。まいたけはほぐす。",
+      "フライパンにオリーブオイルを熱し、強めの中火で豚肉を炒め、豚肉に火が通ったら、まいたけを加えて炒め合わせる。まいたけに油が回ったら、「味ぽん」を回し入れ、炒めからめる。",
+      "器に盛り、粗挽き黒こしょうをふる。"
+    ],
+    "image_url": "",
+    "title": {
+      "en": "Stir-fried pork and maitake mushrooms with pepper ponzu sauce",
+      "zh_tw": "胡椒柚子醬炒豬肉舞茸",
+      "zh_cn": "胡椒柚子酱炒猪肉舞茸",
+      "vi": "Thịt heo xào nấm maitake sốt ponzu tiêu",
+      "hi": "काली मिर्च पोंज़ू सॉस के साथ तली हुई सूअर का मांस और मैटेक मशरूम",
+      "ru": "Жареная свинина и грибы майтаке с перечным соусом понзу",
+      "th": "หมูผัดเห็ดไมตาเกะกับซอสพอนสึพริกไทย",
+      "id": "Daging babi goreng dan jamur maitake dengan saus lada ponzu",
+      "ms": "Daging babi tumis dan cendawan maitake dengan sos ponzu lada",
+      "ko": "돼지고기와 볶음밥의 고추 폰 식초 볶음"
+    },
+    "description": {
+      "en": "",
+      "zh_tw": "",
+      "zh_cn": "",
+      "vi": "",
+      "hi": "",
+      "ru": "",
+      "th": "",
+      "id": "",
+      "ms": "",
+      "ko": ""
+    },
+    "steps": {
+      "en": [
+        "Cut the pork into bite-sized pieces. Loosen the maitake mushrooms.",
+        "Heat olive oil in a frying pan and stir-fry the pork over medium-high heat. When the pork is cooked, add the maitake mushrooms and stir-fry. Once the Maitake mushrooms are coated with oil, add the Ajipon and stir-fry to coat.",
+        "Place in a bowl and sprinkle with coarsely ground black pepper."
+      ],
+      "zh_tw": [
+        "將豬肉切成一口大小的塊狀。鬆開舞茸。",
+        "在煎鍋中加熱橄欖油，以中高火炒豬肉。豬肉煮熟後，加入舞茸，翻炒。一旦舞茸塗上油，加入Ajipon並炒至塗上油。",
+        "放入碗中，撒上粗磨的黑胡椒。"
+      ],
+      "zh_cn": [
+        "将猪肉切成一口大小的块。松开舞茸。",
+        "在煎锅中加热橄榄油，用中高火炒猪肉。猪肉煮熟后，加入舞茸，翻炒。一旦舞茸涂上油，加入Ajipon并炒至涂上油。",
+        "放入碗中，撒上粗磨的黑胡椒。"
+      ],
+      "vi": [
+        "Cắt thịt lợn thành miếng vừa ăn. Nới lỏng nấm maitake.",
+        "Đun nóng dầu ô liu trong chảo rồi xào thịt lợn trên lửa vừa cao. Khi thịt chín thì cho nấm maitake vào xào chín. Sau khi nấm Maitake được phủ một lớp dầu, hãy thêm Ajipon vào và xào cho phủ đều.",
+        "Cho vào tô và rắc hạt tiêu đen xay thô."
+      ],
+      "hi": [
+        "सूअर के मांस को छोटे टुकड़ों में काट लें। मैटेक मशरूम को ढीला कर लें.",
+        "एक फ्राइंग पैन में जैतून का तेल गरम करें और मध्यम-उच्च गर्मी पर सूअर का मांस भूनें। जब सूअर का मांस पक जाए, तो मैटेक मशरूम डालें और हिलाएँ। एक बार जब मैटाके मशरूम तेल के साथ लेपित हो जाए, तो एजिपोन डालें और कोट करने के लिए हिलाएँ।",
+        "एक कटोरे में रखें और दरदरी कुटी हुई काली मिर्च छिड़कें।"
+      ],
+      "ru": [
+        "Нарезаем свинину некрупными кусочками. Ослабьте грибы майтаке.",
+        "Нагрейте оливковое масло в сковороде и обжарьте свинину на среднем огне. Когда свинина будет готова, добавьте грибы майтаке и обжарьте. Как только грибы Майтаке покроются маслом, добавьте аджипон и обжарьте, помешивая, чтобы он покрылся маслом.",
+        "Положите в миску и посыпьте черным молотым перцем."
+      ],
+      "th": [
+        "หั่นหมูเป็นชิ้นขนาดพอดีคำ คลายเห็ดไมตาเกะ",
+        "ตั้งน้ำมันมะกอกในกระทะแล้วผัดหมูด้วยไฟร้อนปานกลาง เมื่อหมูสุกแล้ว ใส่เห็ดไมตาเกะลงไปผัด เมื่อเห็ดไมตาเกะเคลือบน้ำมันแล้ว ให้ใส่อาจิปองลงไปผัดให้เคลือบ",
+        "วางในชามแล้วโรยด้วยพริกไทยดำป่นหยาบ"
+      ],
+      "id": [
+        "Potong daging babi menjadi potongan-potongan kecil. Kendurkan jamur maitake.",
+        "Panaskan minyak zaitun dalam wajan dan tumis daging babi dengan api sedang-besar. Saat daging babi sudah matang, tambahkan jamur maitake dan tumis. Setelah jamur Maitake terlumuri minyak, tambahkan Ajipon dan tumis hingga terlapisi.",
+        "Tempatkan dalam mangkuk dan taburi dengan lada hitam yang digiling kasar."
+      ],
+      "ms": [
+        "Potong daging babi menjadi kepingan bersaiz gigitan. Longgarkan cendawan maitake.",
+        "Panaskan minyak zaitun dalam kuali dan goreng daging babi di atas api yang sederhana tinggi. Bila daging babi dah masak, masukkan cendawan maitake dan tumis. Setelah cendawan Maitake disalut minyak, masukkan Ajipon dan tumis hingga bersalut.",
+        "Letakkan dalam mangkuk dan taburkan dengan lada hitam yang dikisar kasar."
+      ],
+      "ko": [
+        "돼지고기는 먹기 쉬운 크기로 자른다. 마이타케는 풀어.",
+        "프라이팬에 올리브 오일을 가열하고, 강한 중불로 돼지고기를 볶고, 돼지 고기에 불이 지나면, 표고버섯을 더해 볶아 맞춘다. 두근두근에 기름이 돌면, 「아이폰」을 돌려 볶아 낸다.",
+        "그릇에 담아, 거친 까만 후추를 친다."
+      ]
+    }
+  },
+  {
+    "id": "0465324f",
+    "source_url": "https://www.mizkan.co.jp/ouchirecipe/recipe/?menu_id=23866",
+    "source_site": "Mizkan",
+    "title_ja": "ひらひらキャロットリボンサラダ",
+    "description_ja": "",
+    "ingredients": [
+      {
+        "name_ja": "にんじん",
+        "amount": "１本",
+        "name_translated": {
+          "en": "carrot",
+          "zh_tw": "紅蘿蔔",
+          "zh_cn": "胡萝卜",
+          "vi": "cà rốt",
+          "hi": "गाजर",
+          "ru": "морковь",
+          "th": "แครอท",
+          "id": "wortel",
+          "ms": "lobak merah",
+          "ko": "당근"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%AB%E3%82%93%E3%81%98%E3%82%93&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%AB%E3%82%93%E3%81%98%E3%82%93/?tag="
+      },
+      {
+        "name_ja": "ミツカン　カンタン酢",
+        "amount": "大さじ２",
+        "name_translated": {
+          "en": "Mizkan Kantan Vinegar",
+          "zh_tw": "味滋康甘丹醋",
+          "zh_cn": "味滋康甘丹醋",
+          "vi": "Giấm Mizkan Kantan",
+          "hi": "मिज़कान कंटन सिरका",
+          "ru": "Мизкан Кантанский уксус",
+          "th": "น้ำส้มสายชูมิซกัน กันตัน",
+          "id": "Cuka Mizkan Kantan",
+          "ms": "Cuka Mizkan Kantan",
+          "ko": "미츠칸 칸탄초"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E3%82%AB%E3%83%B3%E3%82%BF%E3%83%B3%E9%85%A2&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E3%82%AB%E3%83%B3%E3%82%BF%E3%83%B3%E9%85%A2/?tag="
+      },
+      {
+        "name_ja": "はちみつ",
+        "amount": "大さじ１／２",
+        "name_translated": {
+          "en": "honey",
+          "zh_tw": "蜂蜜",
+          "zh_cn": "蜂蜜",
+          "vi": "Mật ong",
+          "hi": "शहद",
+          "ru": "мед",
+          "th": "น้ำผึ้ง",
+          "id": "Sayang",
+          "ms": "sayang",
+          "ko": "꿀"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%AF%E3%81%A1%E3%81%BF%E3%81%A4&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%AF%E3%81%A1%E3%81%BF%E3%81%A4/?tag="
+      },
+      {
+        "name_ja": "ごま油",
+        "amount": "大さじ１／２",
+        "name_translated": {
+          "en": "sesame oil",
+          "zh_tw": "香油",
+          "zh_cn": "香油",
+          "vi": "dầu mè",
+          "hi": "तिल का तेल",
+          "ru": "кунжутное масло",
+          "th": "น้ำมันงา",
+          "id": "minyak wijen",
+          "ms": "minyak bijan",
+          "ko": "참기름"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%94%E3%81%BE%E6%B2%B9&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%94%E3%81%BE%E6%B2%B9/?tag="
+      },
+      {
+        "name_ja": "白ごま",
+        "amount": "大さじ１／２",
+        "name_translated": {
+          "en": "white sesame",
+          "zh_tw": "白芝麻",
+          "zh_cn": "白芝麻",
+          "vi": "mè trắng",
+          "hi": "सफ़ेद तिल",
+          "ru": "белый кунжут",
+          "th": "งาขาว",
+          "id": "wijen putih",
+          "ms": "bijan putih",
+          "ko": "흰 참깨"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E7%99%BD%E3%81%94%E3%81%BE&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E7%99%BD%E3%81%94%E3%81%BE/?tag="
+      },
+      {
+        "name_ja": "おろしにんにく",
+        "amount": "２ｃｍ",
+        "name_translated": {
+          "en": "grated garlic",
+          "zh_tw": "磨碎的大蒜",
+          "zh_cn": "磨碎的大蒜",
+          "vi": "tỏi nghiền",
+          "hi": "कसा हुआ लहसुन",
+          "ru": "тертый чеснок",
+          "th": "กระเทียมขูด",
+          "id": "bawang putih parut",
+          "ms": "bawang putih parut",
+          "ko": "마늘 마늘"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%8A%E3%82%8D%E3%81%97%E3%81%AB%E3%82%93%E3%81%AB%E3%81%8F&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%8A%E3%82%8D%E3%81%97%E3%81%AB%E3%82%93%E3%81%AB%E3%81%8F/?tag="
+      },
+      {
+        "name_ja": "１",
+        "amount": "にんじんは端にフォークを刺し、ピーラーでリボン上に縦長にスライスする。",
+        "name_translated": {
+          "en": "1",
+          "zh_tw": "1",
+          "zh_cn": "1",
+          "vi": "1",
+          "hi": "1",
+          "ru": "1",
+          "th": "1",
+          "id": "1",
+          "ms": "1",
+          "ko": "1"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%91&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%91/?tag="
+      },
+      {
+        "name_ja": "２",
+        "amount": "と＜A＞を入れ、よくもみ込む。",
+        "name_translated": {
+          "en": "2",
+          "zh_tw": "2",
+          "zh_cn": "2",
+          "vi": "2",
+          "hi": "2",
+          "ru": "2",
+          "th": "2",
+          "id": "2",
+          "ms": "2",
+          "ko": "2"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%92&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%92/?tag="
+      },
+      {
+        "name_ja": "彩りフレッシュピクルス",
+        "amount": "適量",
+        "name_translated": {
+          "en": "colorful fresh pickles",
+          "zh_tw": "色彩繽紛的新鮮泡菜",
+          "zh_cn": "色彩缤纷的新鲜泡菜",
+          "vi": "dưa chua tươi đầy màu sắc",
+          "hi": "रंगीन ताज़ा अचार",
+          "ru": "красочные свежие соленые огурцы",
+          "th": "ผักดองสดหลากสีสัน",
+          "id": "acar segar berwarna-warni",
+          "ms": "jeruk segar berwarna-warni",
+          "ko": "색채 신선한 피클"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E5%BD%A9%E3%82%8A%E3%83%95%E3%83%AC%E3%83%83%E3%82%B7%E3%83%A5%E3%83%94%E3%82%AF%E3%83%AB%E3%82%B9&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E5%BD%A9%E3%82%8A%E3%83%95%E3%83%AC%E3%83%83%E3%82%B7%E3%83%A5%E3%83%94%E3%82%AF%E3%83%AB%E3%82%B9/?tag="
+      },
+      {
+        "name_ja": "レンジでカンタン！春雨サラダ",
+        "amount": "適量",
+        "name_translated": {
+          "en": "Easy to use in the microwave! vermicelli salad",
+          "zh_tw": "方便在微波爐中使用！粉絲沙拉",
+          "zh_cn": "方便在微波炉中使用！粉丝沙拉",
+          "vi": "Dễ dàng sử dụng trong lò vi sóng! gỏi miến",
+          "hi": "माइक्रोवेव में उपयोग करना आसान! सेंवई सलाद",
+          "ru": "Удобно использовать в микроволновке! салат с вермишелью",
+          "th": "ใช้งานง่ายในไมโครเวฟ! สลัดวุ้นเส้น",
+          "id": "Mudah digunakan dalam microwave! salad bihun",
+          "ms": "Mudah digunakan dalam ketuhar gelombang mikro! salad bihun",
+          "ko": "레인지로 간단! 봄비 샐러드"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%AC%E3%83%B3%E3%82%B8%E3%81%A7%E3%82%AB%E3%83%B3%E3%82%BF%E3%83%B3%EF%BC%81%E6%98%A5%E9%9B%A8%E3%82%B5%E3%83%A9%E3%83%80&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%AC%E3%83%B3%E3%82%B8%E3%81%A7%E3%82%AB%E3%83%B3%E3%82%BF%E3%83%B3%EF%BC%81%E6%98%A5%E9%9B%A8%E3%82%B5%E3%83%A9%E3%83%80/?tag="
+      },
+      {
+        "name_ja": "人参が甘くておいしい！まるごと人参サラダ",
+        "amount": "適量",
+        "name_translated": {
+          "en": "Carrots are sweet and delicious! whole carrot salad",
+          "zh_tw": "胡蘿蔔又甜又好吃！整個胡蘿蔔沙拉",
+          "zh_cn": "胡萝卜又甜又好吃！整个胡萝卜沙拉",
+          "vi": "Cà rốt rất ngọt và ngon! salad cà rốt nguyên hạt",
+          "hi": "गाजर मीठी और स्वादिष्ट होती है! साबुत गाजर का सलाद",
+          "ru": "Морковь сладкая и вкусная! салат из целой моркови",
+          "th": "แครอทมีรสหวานและอร่อย! สลัดแครอททั้งหมด",
+          "id": "Wortel manis dan lezat! salad wortel utuh",
+          "ms": "Lobak merah manis dan lazat! salad lobak merah keseluruhan",
+          "ko": "인삼이 달고 맛있다! 통째로 인삼 샐러드"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E4%BA%BA%E5%8F%82%E3%81%8C%E7%94%98%E3%81%8F%E3%81%A6%E3%81%8A%E3%81%84%E3%81%97%E3%81%84%EF%BC%81%E3%81%BE%E3%82%8B%E3%81%94%E3%81%A8%E4%BA%BA%E5%8F%82%E3%82%B5%E3%83%A9%E3%83%80&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E4%BA%BA%E5%8F%82%E3%81%8C%E7%94%98%E3%81%8F%E3%81%A6%E3%81%8A%E3%81%84%E3%81%97%E3%81%84%EF%BC%81%E3%81%BE%E3%82%8B%E3%81%94%E3%81%A8%E4%BA%BA%E5%8F%82%E3%82%B5%E3%83%A9%E3%83%80/?tag="
+      }
+    ],
+    "steps_ja": [
+      "にんじんは端にフォークを刺し、ピーラーでリボン上に縦長にスライスする。",
+      "ジッパー付き保存袋に１と＜A＞を入れ、よくもみ込む。",
+      "彩りフレッシュピクルス",
+      "レンジでカンタン！春雨サラダ",
+      "人参が甘くておいしい！まるごと人参サラダ"
+    ],
+    "image_url": "",
+    "title": {
+      "en": "Fluttery Carrot Ribbon Salad",
+      "zh_tw": "飄逸胡蘿蔔緞帶沙拉",
+      "zh_cn": "飘逸胡萝卜丝带沙拉",
+      "vi": "Salad ruy băng cà rốt rung",
+      "hi": "फ़्लटरी गाजर रिबन सलाद",
+      "ru": "Нежный салат из морковной ленты",
+      "th": "สลัดริบบิ้นแครอท Fluttery",
+      "id": "Salad Pita Wortel Fluttery",
+      "ms": "Salad Reben Lobak Merah Gebu",
+      "ko": "히라히라 캐럿 리본 샐러드"
+    },
+    "description": {
+      "en": "",
+      "zh_tw": "",
+      "zh_cn": "",
+      "vi": "",
+      "hi": "",
+      "ru": "",
+      "th": "",
+      "id": "",
+      "ms": "",
+      "ko": ""
+    },
+    "steps": {
+      "en": [
+        "Pierce the end of the carrot with a fork and use a peeler to slice lengthwise into ribbons.",
+        "Put 1 and <A> into a zippered storage bag and mix well.",
+        "colorful fresh pickles",
+        "Easy to use in the microwave! vermicelli salad",
+        "Carrots are sweet and delicious! whole carrot salad"
+      ],
+      "zh_tw": [
+        "用叉子刺穿胡蘿蔔的末端，然後用削皮器縱向切成絲帶。",
+        "將1和<A>放入有拉鍊的收納袋中並充分混合。",
+        "色彩繽紛的新鮮泡菜",
+        "方便在微波爐中使用！粉絲沙拉",
+        "胡蘿蔔又甜又好吃！整個胡蘿蔔沙拉"
+      ],
+      "zh_cn": [
+        "用叉子刺穿胡萝卜的末端，然后用削皮器纵向切成丝带。",
+        "将1和<A>放入带拉链的储物袋中并充分混合。",
+        "色彩缤纷的新鲜泡菜",
+        "方便在微波炉中使用！粉丝沙拉",
+        "胡萝卜又甜又好吃！整个胡萝卜沙拉"
+      ],
+      "vi": [
+        "Dùng nĩa đâm vào phần cuối của củ cà rốt và dùng dụng cụ gọt vỏ để cắt theo chiều dọc thành dải ruy băng.",
+        "Cho 1 và <A> vào túi bảo quản có khóa kéo và trộn đều.",
+        "dưa chua tươi đầy màu sắc",
+        "Dễ dàng sử dụng trong lò vi sóng! gỏi miến",
+        "Cà rốt rất ngọt và ngon! salad cà rốt nguyên hạt"
+      ],
+      "hi": [
+        "गाजर के सिरे को कांटे से छेदें और छिलके का उपयोग करके रिबन में लंबाई में काटें।",
+        "1 और <A> को ज़िप वाले स्टोरेज बैग में डालें और अच्छी तरह मिलाएँ।",
+        "रंगीन ताज़ा अचार",
+        "माइक्रोवेव में उपयोग करना आसान! सेंवई सलाद",
+        "गाजर मीठी और स्वादिष्ट होती है! साबुत गाजर का सलाद"
+      ],
+      "ru": [
+        "Проткните конец моркови вилкой и с помощью овощечистки разрежьте ее вдоль на ленты.",
+        "Поместите 1 и <A> в сумку для хранения на молнии и хорошо перемешайте.",
+        "красочные свежие соленые огурцы",
+        "Удобно использовать в микроволновке! салат с вермишелью",
+        "Морковь сладкая и вкусная! салат из целой моркови"
+      ],
+      "th": [
+        "ใช้ส้อมแทงปลายแครอท แล้วใช้ที่ปอกหั่นเป็นเส้นตามยาว",
+        "ใส่ 1 และ <A> ลงในถุงซิปล็อคและผสมให้เข้ากัน",
+        "ผักดองสดหลากสีสัน",
+        "ใช้งานง่ายในไมโครเวฟ! สลัดวุ้นเส้น",
+        "แครอทมีรสหวานและอร่อย! สลัดแครอททั้งหมด"
+      ],
+      "id": [
+        "Tusuk ujung wortel dengan garpu dan gunakan pengupas untuk mengiris memanjang menjadi pita.",
+        "Masukkan 1 dan <A> ke dalam kantong penyimpanan berritsleting dan aduk rata.",
+        "acar segar berwarna-warni",
+        "Mudah digunakan dalam microwave! salad bihun",
+        "Wortel manis dan lezat! salad wortel utuh"
+      ],
+      "ms": [
+        "Tusuk hujung lobak merah dengan garpu dan gunakan pengupas untuk menghiris memanjang menjadi reben.",
+        "Masukkan 1 dan <A> ke dalam beg penyimpanan berzip dan gaul rata.",
+        "jeruk segar berwarna-warni",
+        "Mudah digunakan dalam ketuhar gelombang mikro! salad bihun",
+        "Lobak merah manis dan lazat! salad lobak merah keseluruhan"
+      ],
+      "ko": [
+        "당근은 가장자리에 포크를 찔러 필러로 리본에 세로로 얇게 썬다.",
+        "지퍼 부착 보존봉투에 1과 <A>를 넣고 잘 전도한다.",
+        "색채 신선한 피클",
+        "레인지로 간단! 봄비 샐러드",
+        "인삼이 달고 맛있다! 통째로 인삼 샐러드"
+      ]
+    }
+  },
+  {
+    "id": "f190ebc5",
+    "source_url": "https://www.mizkan.co.jp/ouchirecipe/recipe/?menu_id=17179",
+    "source_site": "Mizkan",
+    "title_ja": "チーズ入りかぼちゃサラダ",
+    "description_ja": "",
+    "ingredients": [
+      {
+        "name_ja": "かぼちゃ",
+        "amount": "１／４個",
+        "name_translated": {
+          "en": "pumpkin",
+          "zh_tw": "南瓜",
+          "zh_cn": "南瓜",
+          "vi": "bí ngô",
+          "hi": "कद्दू",
+          "ru": "тыква",
+          "th": "ฟักทอง",
+          "id": "labu kuning",
+          "ms": "labu",
+          "ko": "호박"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%8B%E3%81%BC%E3%81%A1%E3%82%83&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%8B%E3%81%BC%E3%81%A1%E3%82%83/?tag="
+      },
+      {
+        "name_ja": "ミツカン　味ぽん",
+        "amount": "大さじ１",
+        "name_translated": {
+          "en": "Mizkan Ajipon",
+          "zh_tw": "味滋康味精",
+          "zh_cn": "味滋康味精",
+          "vi": "Mizkan Ajipon",
+          "hi": "मिज़कान अजिपोन",
+          "ru": "Мизкан Аджипон",
+          "th": "มิซกัน อาจิปอน",
+          "id": "Mizkan Ajipon",
+          "ms": "Mizkan Ajipon",
+          "ko": "미츠칸 미포"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E5%91%B3%E3%81%BD%E3%82%93&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E5%91%B3%E3%81%BD%E3%82%93/?tag="
+      },
+      {
+        "name_ja": "マヨネーズ",
+        "amount": "大さじ１",
+        "name_translated": {
+          "en": "mayonnaise",
+          "zh_tw": "美乃滋",
+          "zh_cn": "蛋黄酱",
+          "vi": "sốt mayonnaise",
+          "hi": "मेयोनेज़",
+          "ru": "майонез",
+          "th": "มายองเนส",
+          "id": "mayones",
+          "ms": "mayonis",
+          "ko": "마요네즈"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9E%E3%83%A8%E3%83%8D%E3%83%BC%E3%82%BA&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9E%E3%83%A8%E3%83%8D%E3%83%BC%E3%82%BA/?tag="
+      },
+      {
+        "name_ja": "キャンディーチーズ",
+        "amount": "４個",
+        "name_translated": {
+          "en": "candy cheese",
+          "zh_tw": "糖果乳酪",
+          "zh_cn": "糖果奶酪",
+          "vi": "kẹo phô mai",
+          "hi": "कैंडी पनीर",
+          "ru": "конфеты сырные",
+          "th": "ลูกอมชีส",
+          "id": "permen keju",
+          "ms": "gula-gula keju",
+          "ko": "사탕치즈"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%83%81%E3%83%BC%E3%82%BA&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%83%81%E3%83%BC%E3%82%BA/?tag="
+      },
+      {
+        "name_ja": "ミックスナッツ",
+        "amount": "１０ｇ",
+        "name_translated": {
+          "en": "mixed nuts",
+          "zh_tw": "混合堅果",
+          "zh_cn": "混合坚果",
+          "vi": "các loại hạt hỗn hợp",
+          "hi": "मिश्रित नट",
+          "ru": "смешанные орехи",
+          "th": "ถั่วผสม",
+          "id": "kacang campur",
+          "ms": "kacang campur",
+          "ko": "믹스 너트"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E3%83%8A%E3%83%83%E3%83%84&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E3%83%8A%E3%83%83%E3%83%84/?tag="
+      },
+      {
+        "name_ja": "レーズン",
+        "amount": "１０ｇ",
+        "name_translated": {
+          "en": "raisins",
+          "zh_tw": "葡萄乾",
+          "zh_cn": "葡萄干",
+          "vi": "nho khô",
+          "hi": "किशमिश",
+          "ru": "изюм",
+          "th": "ลูกเกด",
+          "id": "kismis",
+          "ms": "kismis",
+          "ko": "건포도"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%AC%E3%83%BC%E3%82%BA%E3%83%B3&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%AC%E3%83%BC%E3%82%BA%E3%83%B3/?tag="
+      },
+      {
+        "name_ja": "タイム",
+        "amount": "少々",
+        "name_translated": {
+          "en": "time",
+          "zh_tw": "時間",
+          "zh_cn": "时间",
+          "vi": "thời gian",
+          "hi": "समय",
+          "ru": "время",
+          "th": "เวลา",
+          "id": "waktu",
+          "ms": "masa",
+          "ko": "시간"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%82%BF%E3%82%A4%E3%83%A0&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%82%BF%E3%82%A4%E3%83%A0/?tag="
+      },
+      {
+        "name_ja": "粗挽き黒こしょう",
+        "amount": "お好みで",
+        "name_translated": {
+          "en": "coarsely ground black pepper",
+          "zh_tw": "粗磨黑胡椒",
+          "zh_cn": "粗磨黑胡椒",
+          "vi": "hạt tiêu đen xay thô",
+          "hi": "दरदरी पिसी हुई काली मिर्च",
+          "ru": "крупномолотый черный перец",
+          "th": "พริกไทยดำป่นหยาบ",
+          "id": "lada hitam yang digiling kasar",
+          "ms": "lada hitam yang dikisar kasar",
+          "ko": "거친 까만 후추"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E7%B2%97%E6%8C%BD%E3%81%8D%E9%BB%92%E3%81%93%E3%81%97%E3%82%87%E3%81%86&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E7%B2%97%E6%8C%BD%E3%81%8D%E9%BB%92%E3%81%93%E3%81%97%E3%82%87%E3%81%86/?tag="
+      },
+      {
+        "name_ja": "１",
+        "amount": "かぼちゃは一口大に切る。（硬い場合にはラップで包み、電子レンジ（６００Ｗ）で２分加熱してから切る。）ミックスナッツは砕く。キャンディーチーズは小さく切る。",
+        "name_translated": {
+          "en": "1",
+          "zh_tw": "1",
+          "zh_cn": "1",
+          "vi": "1",
+          "hi": "1",
+          "ru": "1",
+          "th": "1",
+          "id": "1",
+          "ms": "1",
+          "ko": "1"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%91&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%91/?tag="
+      },
+      {
+        "name_ja": "２",
+        "amount": "耐熱容器にかぼちゃを入れ、電子レンジ（６００Ｗ）で４～５分ほど、竹串がスッと通るまで加熱する。熱いうちに軽くつぶし、粗熱が取れたら＜調味料＞を加え、混ぜ合わせる。",
+        "name_translated": {
+          "en": "2",
+          "zh_tw": "2",
+          "zh_cn": "2",
+          "vi": "2",
+          "hi": "2",
+          "ru": "2",
+          "th": "2",
+          "id": "2",
+          "ms": "2",
+          "ko": "2"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%92&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%92/?tag="
+      },
+      {
+        "name_ja": "３",
+        "amount": "にレーズン、ミックスナッツ、キャンディーチーズを加え、混ぜる。",
+        "name_translated": {
+          "en": "3",
+          "zh_tw": "3",
+          "zh_cn": "3",
+          "vi": "3",
+          "hi": "3",
+          "ru": "3",
+          "th": "3",
+          "id": "3",
+          "ms": "3",
+          "ko": "3"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%93&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%93/?tag="
+      },
+      {
+        "name_ja": "４",
+        "amount": "器に盛り、タイムを飾り、お好みで粗挽き黒こしょうをふる。",
+        "name_translated": {
+          "en": "4",
+          "zh_tw": "4",
+          "zh_cn": "4",
+          "vi": "4",
+          "hi": "4",
+          "ru": "4",
+          "th": "4",
+          "id": "4",
+          "ms": "4",
+          "ko": "4"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%94&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%94/?tag="
+      }
+    ],
+    "steps_ja": [
+      "かぼちゃは一口大に切る。（硬い場合にはラップで包み、電子レンジ（６００Ｗ）で２分加熱してから切る。）ミックスナッツは砕く。キャンディーチーズは小さく切る。",
+      "耐熱容器にかぼちゃを入れ、電子レンジ（６００Ｗ）で４～５分ほど、竹串がスッと通るまで加熱する。熱いうちに軽くつぶし、粗熱が取れたら＜調味料＞を加え、混ぜ合わせる。",
+      "にレーズン、ミックスナッツ、キャンディーチーズを加え、混ぜる。",
+      "器に盛り、タイムを飾り、お好みで粗挽き黒こしょうをふる。"
+    ],
+    "image_url": "",
+    "title": {
+      "en": "Pumpkin salad with cheese",
+      "zh_tw": "南瓜沙拉配起司",
+      "zh_cn": "南瓜沙拉配奶酪",
+      "vi": "Salad bí ngô với phô mai",
+      "hi": "पनीर के साथ कद्दू का सलाद",
+      "ru": "Салат из тыквы с сыром",
+      "th": "สลัดฟักทองกับชีส",
+      "id": "Salad labu dengan keju",
+      "ms": "Salad labu dengan keju",
+      "ko": "치즈가 들어간 호박 샐러드"
+    },
+    "description": {
+      "en": "",
+      "zh_tw": "",
+      "zh_cn": "",
+      "vi": "",
+      "hi": "",
+      "ru": "",
+      "th": "",
+      "id": "",
+      "ms": "",
+      "ko": ""
+    },
+    "steps": {
+      "en": [
+        "Cut the pumpkin into bite-sized pieces. (If the nuts are hard, wrap them in plastic wrap and heat them in the microwave (600W) for 2 minutes before cutting.) Crush the mixed nuts. Cut candy cheese into small pieces.",
+        "Place the pumpkin in a heat-resistant container and heat in the microwave (600W) for about 4 to 5 minutes until a bamboo skewer comes out easily. Mash it lightly while still hot, and once it has cooled down, add the seasonings and mix.",
+        "Add raisins, mixed nuts, and candy cheese to and mix.",
+        "Transfer to a bowl, garnish with thyme, and sprinkle with coarsely ground black pepper if desired."
+      ],
+      "zh_tw": [
+        "將南瓜切成一口大小的塊狀。 （如果堅果較硬，可用保鮮膜包好，用微波爐（600W）加熱2分鐘後再切。）將混合好的堅果壓碎。將糖果起司切成小塊。",
+        "Place the pumpkin in a heat-resistant container and heat in the microwave (600W) for about 4 to 5 minutes until a bamboo skewer comes out easily.趁熱輕輕搗碎，冷卻後加入調味料並混合。",
+        "加入葡萄乾、混合堅果和糖果起司並混合。",
+        "轉移到碗中，用百里香裝飾，如果需要的話，撒上粗磨的黑胡椒。"
+      ],
+      "zh_cn": [
+        "将南瓜切成一口大小的块。 （如果坚果较硬，可用保鲜膜包好，用微波炉（600W）加热2分钟后再切。）将混合好的坚果压碎。将糖果奶酪切成小块。",
+        "将南瓜放入耐热容器中，用微波炉（600W）加热约4至5分钟，直至轻松取出竹签。趁热轻轻捣碎，冷却后加入调味料并混合。",
+        "加入葡萄干、混合坚果和糖果奶酪并混合。",
+        "转移到碗中，用百里香装饰，如果需要的话，撒上粗磨的黑胡椒。"
+      ],
+      "vi": [
+        "Cắt bí ngô thành miếng vừa ăn. (Nếu các loại hạt cứng, hãy bọc chúng trong màng bọc thực phẩm và đun nóng trong lò vi sóng (600W) trong 2 phút trước khi cắt.) Nghiền nát các loại hạt đã trộn. Cắt kẹo phô mai thành từng miếng nhỏ.",
+        "Đặt bí ngô vào hộp chịu nhiệt và đun nóng trong lò vi sóng (600W) trong khoảng 4 đến 5 phút cho đến khi xiên tre dễ dàng. Nghiền nhẹ khi còn nóng, khi nguội thì thêm gia vị vào và trộn đều.",
+        "Thêm nho khô, các loại hạt hỗn hợp và kẹo phô mai vào rồi trộn đều.",
+        "Chuyển vào tô, trang trí với húng tây và rắc hạt tiêu đen xay thô nếu muốn."
+      ],
+      "hi": [
+        "कद्दू को छोटे टुकड़ों में काट लीजिये. (यदि मेवे सख्त हैं, तो उन्हें प्लास्टिक रैप में लपेटें और काटने से पहले 2 मिनट के लिए माइक्रोवेव (600W) में गर्म करें।) मिश्रित मेवों को कुचल दें। कैंडी पनीर को छोटे छोटे टुकड़ों में काट लीजिये.",
+        "कद्दू को गर्मी प्रतिरोधी कंटेनर में रखें और माइक्रोवेव (600W) में लगभग 4 से 5 मिनट तक गर्म करें जब तक कि बांस की सींक आसानी से बाहर न आ जाए। गर्म होने पर ही इसे हल्का सा मैश कर लें और जब यह ठंडा हो जाए तो इसमें मसाले डालकर मिला लें।",
+        "इसमें किशमिश, मिश्रित मेवे और कैंडी चीज़ डालें और मिलाएँ।",
+        "एक कटोरे में निकाल लें, थाइम से सजाएँ और चाहें तो दरदरी कुटी हुई काली मिर्च छिड़कें।"
+      ],
+      "ru": [
+        "Нарезаем тыкву некрупными кусочками. (Если орехи твердые, заверните их в пищевую пленку и нагрейте в микроволновой печи (600 Вт) в течение 2 минут, прежде чем разрезать.) Раздавите смешанные орехи. Нарезаем сладкий сыр на небольшие кусочки.",
+        "Поместите тыкву в термостойкий контейнер и разогрейте в микроволновой печи (600 Вт) примерно 4–5 минут, пока бамбуковая шпажка не станет легко выниматься. Слегка разомните его, пока он еще горячий, а когда он остынет, добавьте приправы и перемешайте.",
+        "Добавьте изюм, смесь орехов и сладкий сыр и перемешайте.",
+        "Переложите в миску, украсьте тимьяном и при желании посыпьте черным молотым перцем."
+      ],
+      "th": [
+        "หั่นฟักทองเป็นชิ้นขนาดพอดีคำ (หากถั่วแข็ง ให้ห่อด้วยพลาสติกแร็ป แล้วนำไปอุ่นในไมโครเวฟ (600W) เป็นเวลา 2 นาที ก่อนตัด) บดถั่วที่ผสมไว้ ตัดลูกอมชีสเป็นชิ้นเล็ก ๆ",
+        "วางฟักทองลงในภาชนะที่ทนความร้อน และนำไปอุ่นในไมโครเวฟ (600W) ประมาณ 4 ถึง 5 นาที จนเสียบไม้ไผ่หลุดออกมาอย่างง่ายดาย บดเบา ๆ ในขณะที่ยังร้อนอยู่ และเมื่อเย็นลงแล้ว ให้เติมเครื่องปรุงรสและผสมให้เข้ากัน",
+        "ใส่ลูกเกด ถั่วผสม และแคนดี้ชีสลงไปผสมให้เข้ากัน",
+        "ตักใส่ชาม โรยหน้าด้วยโหระพา และโรยด้วยพริกไทยดำป่นหยาบหากต้องการ"
+      ],
+      "id": [
+        "Potong labu menjadi potongan seukuran sekali gigit. (Jika kacangnya keras, bungkus dengan plastik wrap dan panaskan dalam microwave (600W) selama 2 menit sebelum dipotong.) Hancurkan kacang yang sudah tercampur. Potong keju permen menjadi potongan-potongan kecil.",
+        "Tempatkan labu kuning dalam wadah tahan panas dan panaskan dalam microwave (600W) selama kurang lebih 4 sampai 5 menit hingga tusuk bambu mudah lepas. Hancurkan sebentar selagi masih panas, dan setelah dingin, tambahkan bumbu dan aduk.",
+        "Tambahkan kismis, kacang campur, dan permen keju ke dalamnya, lalu aduk.",
+        "Pindahkan ke mangkuk, hiasi dengan thyme, dan taburi lada hitam kasar jika diinginkan."
+      ],
+      "ms": [
+        "Potong labu menjadi kepingan bersaiz gigitan. (Jika kacang keras, bungkusnya dalam bungkus plastik dan panaskan dalam ketuhar gelombang mikro (600W) selama 2 minit sebelum dipotong.) Hancurkan kacang yang telah dicampur. Potong keju gula-gula menjadi kepingan kecil.",
+        "Letakkan labu dalam bekas tahan panas dan panaskan dalam ketuhar gelombang mikro (600W) selama kira-kira 4 hingga 5 minit sehingga lidi buluh mudah keluar. Tumbuk perlahan semasa masih panas, dan setelah ia sejuk, masukkan bahan perasa dan gaul.",
+        "Masukkan kismis, kacang campuran, dan keju gula-gula dan gaul.",
+        "Pindahkan ke dalam mangkuk, hiaskan dengan thyme, dan taburkan dengan lada hitam yang dikisar kasar jika dikehendaki."
+      ],
+      "ko": [
+        "호박은 한입 크기로 자른다. (딱딱한 경우에는 랩으로 감싸고, 전자 레인지(600W)로 2분 가열하고 나서 자른다.) 믹스 너트는 부서진다. 사탕 치즈는 작게 자른다.",
+        "내열 용기에 호박을 넣고, 전자 레인지(600W)로 4~5분 정도, 대나무 꼬치가 쑥 통과할 때까지 가열한다. 뜨거울 때 가볍게 부수고, 조열이 취해지면 <조미료>를 첨가하여 혼합한다.",
+        "에 건포도, 믹스 너트, 사탕 치즈를 넣고 섞는다.",
+        "그릇에 담아, 타임을 장식해, 기호로 거칠게 까만 후추를 체."
+      ]
+    }
+  },
+  {
+    "id": "299b9376",
+    "source_url": "https://www.mizkan.co.jp/ouchirecipe/recipe/?menu_id=23641",
+    "source_site": "Mizkan",
+    "title_ja": "ガイコツれんこんで！ハロウィンちらしずし",
+    "description_ja": "",
+    "ingredients": [
+      {
+        "name_ja": "ご飯",
+        "amount": "２合（６４０ｇ）",
+        "name_translated": {
+          "en": "cooked rice",
+          "zh_tw": "乾飯",
+          "zh_cn": "干饭",
+          "vi": "cơm chín",
+          "hi": "पका हुआ चावल",
+          "ru": "приготовленный рис",
+          "th": "ข้าวสวย",
+          "id": "nasi",
+          "ms": "nasi masak",
+          "ko": "밥"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%94%E9%A3%AF&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%94%E9%A3%AF/?tag="
+      },
+      {
+        "name_ja": "ミツカン　カンタン酢",
+        "amount": "適量（９０ｍｌ程度）",
+        "name_translated": {
+          "en": "Mizkan Kantan Vinegar",
+          "zh_tw": "味滋康甘丹醋",
+          "zh_cn": "味滋康甘丹醋",
+          "vi": "Giấm Mizkan Kantan",
+          "hi": "मिज़कान कंटन सिरका",
+          "ru": "Мизкан Кантанский уксус",
+          "th": "น้ำส้มสายชูมิซกัน กันตัน",
+          "id": "Cuka Mizkan Kantan",
+          "ms": "Cuka Mizkan Kantan",
+          "ko": "미츠칸 칸탄초"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E3%82%AB%E3%83%B3%E3%82%BF%E3%83%B3%E9%85%A2&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E3%82%AB%E3%83%B3%E3%82%BF%E3%83%B3%E9%85%A2/?tag="
+      },
+      {
+        "name_ja": "サーモン　（刺身用）",
+        "amount": "１０切れ（１２０ｇ）",
+        "name_translated": {
+          "en": "Salmon (for sashimi)",
+          "zh_tw": "鮭魚（生魚片用）",
+          "zh_cn": "三文鱼（生鱼片用）",
+          "vi": "Cá hồi (cho sashimi)",
+          "hi": "सैल्मन (सशिमी के लिए)",
+          "ru": "Лосось (для сашими)",
+          "th": "แซลมอน (สำหรับซาซิมิ)",
+          "id": "Salmon (untuk sashimi)",
+          "ms": "Salmon (untuk sashimi)",
+          "ko": "연어 (회용)"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%82%B5%E3%83%BC%E3%83%A2%E3%83%B3%E3%80%80%EF%BC%88%E5%88%BA%E8%BA%AB%E7%94%A8%EF%BC%89&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%82%B5%E3%83%BC%E3%83%A2%E3%83%B3%E3%80%80%EF%BC%88%E5%88%BA%E8%BA%AB%E7%94%A8%EF%BC%89/?tag="
+      },
+      {
+        "name_ja": "まぐろたたき",
+        "amount": "８０ｇ",
+        "name_translated": {
+          "en": "Tuna tataki",
+          "zh_tw": "鮪魚鰹魚",
+          "zh_cn": "金枪鱼鲣鱼",
+          "vi": "cá ngừ tataki",
+          "hi": "टूना टाटाकी",
+          "ru": "Татаки из тунца",
+          "th": "ทูน่าทาทากิ",
+          "id": "Tuna tataki",
+          "ms": "Tuna tataki",
+          "ko": "참치 타키"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%BE%E3%81%90%E3%82%8D%E3%81%9F%E3%81%9F%E3%81%8D&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%BE%E3%81%90%E3%82%8D%E3%81%9F%E3%81%9F%E3%81%8D/?tag="
+      },
+      {
+        "name_ja": "厚焼き卵",
+        "amount": "８０ｇ",
+        "name_translated": {
+          "en": "thick fried egg",
+          "zh_tw": "厚厚的煎蛋",
+          "zh_cn": "厚厚的煎鸡蛋",
+          "vi": "trứng chiên dày",
+          "hi": "गाढ़ा तला हुआ अंडा",
+          "ru": "густое жареное яйцо",
+          "th": "ไข่ดาวหนา",
+          "id": "telur goreng kental",
+          "ms": "telur goreng pekat",
+          "ko": "두꺼운 계란"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E5%8E%9A%E7%84%BC%E3%81%8D%E5%8D%B5&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E5%8E%9A%E7%84%BC%E3%81%8D%E5%8D%B5/?tag="
+      },
+      {
+        "name_ja": "焼のり",
+        "amount": "適量",
+        "name_translated": {
+          "en": "Baked seaweed",
+          "zh_tw": "烤苔",
+          "zh_cn": "烤海苔",
+          "vi": "Rong biển nướng",
+          "hi": "पके हुए समुद्री शैवाल",
+          "ru": "Запеченные водоросли",
+          "th": "สาหร่ายอบ",
+          "id": "Rumput laut panggang",
+          "ms": "Rumpai laut bakar",
+          "ko": "굽기"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E7%84%BC%E3%81%AE%E3%82%8A&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E7%84%BC%E3%81%AE%E3%82%8A/?tag="
+      },
+      {
+        "name_ja": "きゅうり",
+        "amount": "１／４本",
+        "name_translated": {
+          "en": "cucumber",
+          "zh_tw": "黃瓜",
+          "zh_cn": "黄瓜",
+          "vi": "quả dưa chuột",
+          "hi": "खीरा",
+          "ru": "огурец",
+          "th": "แตงกวา",
+          "id": "timun",
+          "ms": "timun",
+          "ko": "오이"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%8D%E3%82%85%E3%81%86%E3%82%8A&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%8D%E3%82%85%E3%81%86%E3%82%8A/?tag="
+      },
+      {
+        "name_ja": "れんこん",
+        "amount": "１／２節（８０ｇ）",
+        "name_translated": {
+          "en": "Lotus root",
+          "zh_tw": "蓮藕",
+          "zh_cn": "莲藕",
+          "vi": "Củ sen",
+          "hi": "कमल जड़",
+          "ru": "Корень лотоса",
+          "th": "รากบัว",
+          "id": "Akar teratai",
+          "ms": "Akar teratai",
+          "ko": "렌콘"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%82%8C%E3%82%93%E3%81%93%E3%82%93&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%82%8C%E3%82%93%E3%81%93%E3%82%93/?tag="
+      },
+      {
+        "name_ja": "ミツカン　カンタン酢",
+        "amount": "６０ｍｌ（れんこん用）",
+        "name_translated": {
+          "en": "Mizkan Kantan Vinegar",
+          "zh_tw": "味滋康甘丹醋",
+          "zh_cn": "味滋康甘丹醋",
+          "vi": "Giấm Mizkan Kantan",
+          "hi": "मिज़कान कंटन सिरका",
+          "ru": "Мизкан Кантанский уксус",
+          "th": "น้ำส้มสายชูมิซกัน กันตัน",
+          "id": "Cuka Mizkan Kantan",
+          "ms": "Cuka Mizkan Kantan",
+          "ko": "미츠칸 칸탄초"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E3%82%AB%E3%83%B3%E3%82%BF%E3%83%B3%E9%85%A2&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E3%82%AB%E3%83%B3%E3%82%BF%E3%83%B3%E9%85%A2/?tag="
+      },
+      {
+        "name_ja": "紫キャベツ",
+        "amount": "１／８個（１００ｇ）",
+        "name_translated": {
+          "en": "purple cabbage",
+          "zh_tw": "紫甘藍",
+          "zh_cn": "紫甘蓝",
+          "vi": "bắp cải tím",
+          "hi": "बैंगनी गोभी",
+          "ru": "фиолетовая капуста",
+          "th": "กะหล่ำปลีสีม่วง",
+          "id": "kubis ungu",
+          "ms": "kubis ungu",
+          "ko": "보라색 양배추"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E7%B4%AB%E3%82%AD%E3%83%A3%E3%83%99%E3%83%84&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E7%B4%AB%E3%82%AD%E3%83%A3%E3%83%99%E3%83%84/?tag="
+      },
+      {
+        "name_ja": "ミツカン　カンタン酢",
+        "amount": "７０ｍｌ（紫キャベツ用）",
+        "name_translated": {
+          "en": "Mizkan Kantan Vinegar",
+          "zh_tw": "味滋康甘丹醋",
+          "zh_cn": "味滋康甘丹醋",
+          "vi": "Giấm Mizkan Kantan",
+          "hi": "मिज़कान कंटन सिरका",
+          "ru": "Мизкан Кантанский уксус",
+          "th": "น้ำส้มสายชูมิซกัน กันตัน",
+          "id": "Cuka Mizkan Kantan",
+          "ms": "Cuka Mizkan Kantan",
+          "ko": "미츠칸 칸탄초"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E3%82%AB%E3%83%B3%E3%82%BF%E3%83%B3%E9%85%A2&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E3%82%AB%E3%83%B3%E3%82%BF%E3%83%B3%E9%85%A2/?tag="
+      },
+      {
+        "name_ja": "しょうゆ",
+        "amount": "適宜",
+        "name_translated": {
+          "en": "soy sauce",
+          "zh_tw": "醬油",
+          "zh_cn": "酱油",
+          "vi": "nước tương",
+          "hi": "सोया सॉस",
+          "ru": "соевый соус",
+          "th": "ซอสถั่วเหลือง",
+          "id": "kecap",
+          "ms": "kicap",
+          "ko": "간장"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%97%E3%82%87%E3%81%86%E3%82%86&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%97%E3%82%87%E3%81%86%E3%82%86/?tag="
+      },
+      {
+        "name_ja": "１",
+        "amount": "炊きたてのご飯をボウルに入れ、「カンタン酢」を回しかけ、切るように混ぜ合わせる。粗熱が取れたら器に盛る。",
+        "name_translated": {
+          "en": "1",
+          "zh_tw": "1",
+          "zh_cn": "1",
+          "vi": "1",
+          "hi": "1",
+          "ru": "1",
+          "th": "1",
+          "id": "1",
+          "ms": "1",
+          "ko": "1"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%91&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%91/?tag="
+      },
+      {
+        "name_ja": "２",
+        "amount": "＜ガイコツれんこん＞",
+        "name_translated": {
+          "en": "2",
+          "zh_tw": "2",
+          "zh_cn": "2",
+          "vi": "2",
+          "hi": "2",
+          "ru": "2",
+          "th": "2",
+          "id": "2",
+          "ms": "2",
+          "ko": "2"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%92&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%92/?tag="
+      },
+      {
+        "name_ja": "れんこんの皮をむく。れんこんの穴の形を活かしてガイコツの形に切る（大きい穴が２連続残るように切り、",
+        "amount": "にし、ガイコツの形にカットする）。余ったれんこんは小さめに刻む。酢水に漬けてサッと茹でる。小さい器にれんこんと「カンタン酢」を入れ、冷蔵庫で３０分漬ける。",
+        "name_translated": {
+          "en": "Peel the lotus roots. Cut the lotus root into a skeleton shape, taking advantage of the hole shape (cut so that two large holes remain in a row,",
+          "zh_tw": "蓮藕去皮。將蓮藕切成骨架形狀，利用孔洞形狀（切得兩個大孔保持一排，",
+          "zh_cn": "莲藕去皮。将莲藕切成骨架形状，利用孔形状（切得两个大孔保持一排，",
+          "vi": "Gọt vỏ củ sen. Cắt củ sen thành hình bộ xương, lợi dụng hình lỗ (cắt sao cho còn 2 lỗ lớn liên tiếp,",
+          "hi": "कमल की जड़ों को छील लें. छेद के आकार का लाभ उठाते हुए, कमल की जड़ को कंकाल के आकार में काटें (काटें ताकि दो बड़े छेद एक पंक्ति में रहें,",
+          "ru": "Очистите корни лотоса. Вырежьте корень лотоса в форме скелета, воспользовавшись формой отверстия (разрежьте так, чтобы остались два больших отверстия в ряд,",
+          "th": "ปอกเปลือกรากบัว ตัดรากบัวให้เป็นรูปทรงโครงกระดูก โดยใช้ประโยชน์จากรูปทรงของรู (ตัดให้เหลือรูใหญ่ 2 รูเรียงกัน",
+          "id": "Kupas akar teratai. Potong akar teratai menjadi bentuk kerangka, manfaatkan bentuk lubangnya (potong agar tetap ada dua lubang besar yang berjajar,",
+          "ms": "Kupas akar teratai. Potong akar teratai menjadi bentuk rangka, mengambil kesempatan daripada bentuk lubang (potong supaya dua lubang besar kekal dalam satu baris,",
+          "ko": "벽돌 껍질을 벗긴다. 벽돌 구멍의 형태를 살려 가이코트의 형태로 자른다(큰 구멍이 2연속 남도록 컷,"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%82%8C%E3%82%93%E3%81%93%E3%82%93%E3%81%AE%E7%9A%AE%E3%82%92%E3%82%80%E3%81%8F%E3%80%82%E3%82%8C%E3%82%93%E3%81%93%E3%82%93%E3%81%AE%E7%A9%B4%E3%81%AE%E5%BD%A2%E3%82%92%E6%B4%BB%E3%81%8B%E3%81%97%E3%81%A6%E3%82%AC%E3%82%A4%E3%82%B3%E3%83%84%E3%81%AE%E5%BD%A2%E3%81%AB%E5%88%87%E3%82%8B%EF%BC%88%E5%A4%A7%E3%81%8D%E3%81%84%E7%A9%B4%E3%81%8C%EF%BC%92%E9%80%A3%E7%B6%9A%E6%AE%8B%E3%82%8B%E3%82%88%E3%81%86%E3%81%AB%E5%88%87%E3%82%8A%E3%80%81&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%82%8C%E3%82%93%E3%81%93%E3%82%93%E3%81%AE%E7%9A%AE%E3%82%92%E3%82%80%E3%81%8F%E3%80%82%E3%82%8C%E3%82%93%E3%81%93%E3%82%93%E3%81%AE%E7%A9%B4%E3%81%AE%E5%BD%A2%E3%82%92%E6%B4%BB%E3%81%8B%E3%81%97%E3%81%A6%E3%82%AC%E3%82%A4%E3%82%B3%E3%83%84%E3%81%AE%E5%BD%A2%E3%81%AB%E5%88%87%E3%82%8B%EF%BC%88%E5%A4%A7%E3%81%8D%E3%81%84%E7%A9%B4%E3%81%8C%EF%BC%92%E9%80%A3%E7%B6%9A%E6%AE%8B%E3%82%8B%E3%82%88%E3%81%86%E3%81%AB%E5%88%87%E3%82%8A%E3%80%81/?tag="
+      },
+      {
+        "name_ja": "３",
+        "amount": "＜紫キャベツのピクルス＞",
+        "name_translated": {
+          "en": "3",
+          "zh_tw": "3",
+          "zh_cn": "3",
+          "vi": "3",
+          "hi": "3",
+          "ru": "3",
+          "th": "3",
+          "id": "3",
+          "ms": "3",
+          "ko": "3"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%93&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%93/?tag="
+      },
+      {
+        "name_ja": "紫キャベツは",
+        "amount": "にする。ジッパー付き保存袋に、紫キャベツと「カンタン酢」を入れ、冷蔵庫で３０分漬ける。",
+        "name_translated": {
+          "en": "purple cabbage",
+          "zh_tw": "紫甘藍",
+          "zh_cn": "紫甘蓝",
+          "vi": "bắp cải tím",
+          "hi": "बैंगनी गोभी",
+          "ru": "фиолетовая капуста",
+          "th": "กะหล่ำปลีสีม่วง",
+          "id": "kubis ungu",
+          "ms": "kubis ungu",
+          "ko": "보라색 양배추는"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E7%B4%AB%E3%82%AD%E3%83%A3%E3%83%99%E3%83%84%E3%81%AF&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E7%B4%AB%E3%82%AD%E3%83%A3%E3%83%99%E3%83%84%E3%81%AF/?tag="
+      },
+      {
+        "name_ja": "４",
+        "amount": "＜おばけきゅうり＞",
+        "name_translated": {
+          "en": "4",
+          "zh_tw": "4",
+          "zh_cn": "4",
+          "vi": "4",
+          "hi": "4",
+          "ru": "4",
+          "th": "4",
+          "id": "4",
+          "ms": "4",
+          "ko": "4"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%94&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%94/?tag="
+      },
+      {
+        "name_ja": "きゅうりは斜め",
+        "amount": "にする。ストローで３つ穴を抜き、おばけの顔を作る。口の部分は、ストローを楕円の形につぶして縦に穴を抜くと良い。抜いた穴を飾りに使用するのもおすすめ。",
+        "name_translated": {
+          "en": "cucumber diagonally",
+          "zh_tw": "黃瓜對角線",
+          "zh_cn": "黄瓜对角线",
+          "vi": "dưa chuột theo đường chéo",
+          "hi": "ककड़ी तिरछे",
+          "ru": "огурец по диагонали",
+          "th": "แตงกวาในแนวทแยง",
+          "id": "mentimun secara diagonal",
+          "ms": "timun secara menyerong",
+          "ko": "오이는 대각선"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%8D%E3%82%85%E3%81%86%E3%82%8A%E3%81%AF%E6%96%9C%E3%82%81&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%8D%E3%82%85%E3%81%86%E3%82%8A%E3%81%AF%E6%96%9C%E3%82%81/?tag="
+      },
+      {
+        "name_ja": "５",
+        "amount": "＜厚焼き卵でお墓＞",
+        "name_translated": {
+          "en": "5",
+          "zh_tw": "5",
+          "zh_cn": "5",
+          "vi": "5",
+          "hi": "5",
+          "ru": "5",
+          "th": "5",
+          "id": "5",
+          "ms": "5",
+          "ko": "5"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%95&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%95/?tag="
+      },
+      {
+        "name_ja": "厚焼き卵は６等分に切る。厚焼き卵の表面に、焼のりで十字架を描く。",
+        "amount": "適量",
+        "name_translated": {
+          "en": "Cut the hard-boiled egg into 6 equal pieces. Draw a cross on the surface of the thick-fried egg using seaweed glue.",
+          "zh_tw": "將煮熟的雞蛋切成6等份。用海藻膠在厚煎蛋表面畫十字架。",
+          "zh_cn": "将煮熟的鸡蛋切成6等份。用海藻胶在厚煎蛋表面画十字。",
+          "vi": "Cắt trứng luộc chín thành 6 miếng bằng nhau. Vẽ một hình chữ thập lên bề mặt quả trứng chiên dày bằng keo rong biển.",
+          "hi": "सख्त उबले अंडे को 6 बराबर टुकड़ों में काट लें। समुद्री शैवाल गोंद का उपयोग करके मोटे तले हुए अंडे की सतह पर एक क्रॉस बनाएं।",
+          "ru": "Разрезаем сваренное вкрутую яйцо на 6 равных частей. Нарисуйте крест на поверхности яичницы с помощью клея из морских водорослей.",
+          "th": "หั่นไข่ต้มสุกออกเป็น 6 ชิ้นเท่าๆ กัน วาดกากบาทบนพื้นผิวของไข่ดาวที่หนาโดยใช้กาวสาหร่าย",
+          "id": "Potong telur rebus menjadi 6 bagian yang sama besar. Gambarlah tanda silang pada permukaan telur goreng kental tersebut dengan menggunakan lem rumput laut.",
+          "ms": "Potong telur rebus kepada 6 bahagian yang sama. Lukiskan pangkah pada permukaan telur yang digoreng tebal menggunakan gam rumpai laut.",
+          "ko": "두꺼운 계란은 6 등분으로 자른다. 두꺼운 계란의 표면에 구운 십자가를 그립니다."
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E5%8E%9A%E7%84%BC%E3%81%8D%E5%8D%B5%E3%81%AF%EF%BC%96%E7%AD%89%E5%88%86%E3%81%AB%E5%88%87%E3%82%8B%E3%80%82%E5%8E%9A%E7%84%BC%E3%81%8D%E5%8D%B5%E3%81%AE%E8%A1%A8%E9%9D%A2%E3%81%AB%E3%80%81%E7%84%BC%E3%81%AE%E3%82%8A%E3%81%A7%E5%8D%81%E5%AD%97%E6%9E%B6%E3%82%92%E6%8F%8F%E3%81%8F%E3%80%82&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E5%8E%9A%E7%84%BC%E3%81%8D%E5%8D%B5%E3%81%AF%EF%BC%96%E7%AD%89%E5%88%86%E3%81%AB%E5%88%87%E3%82%8B%E3%80%82%E5%8E%9A%E7%84%BC%E3%81%8D%E5%8D%B5%E3%81%AE%E8%A1%A8%E9%9D%A2%E3%81%AB%E3%80%81%E7%84%BC%E3%81%AE%E3%82%8A%E3%81%A7%E5%8D%81%E5%AD%97%E6%9E%B6%E3%82%92%E6%8F%8F%E3%81%8F%E3%80%82/?tag="
+      },
+      {
+        "name_ja": "６",
+        "amount": "の上に、水けを切ったれんこん（刻んだほう）と紫キャベツをのせる。サーモンとまぐろたたきを、間隔を空けて盛り付ける。その上に、ガイコツれんこん、厚焼き卵、おばけきゅうりを飾る。",
+        "name_translated": {
+          "en": "6",
+          "zh_tw": "6",
+          "zh_cn": "6",
+          "vi": "6",
+          "hi": "6",
+          "ru": "6",
+          "th": "6",
+          "id": "6",
+          "ms": "6",
+          "ko": "6"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%96&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%96/?tag="
+      }
+    ],
+    "steps_ja": [
+      "炊きたてのご飯をボウルに入れ、「カンタン酢」を回しかけ、切るように混ぜ合わせる。粗熱が取れたら器に盛る。",
+      "＜ガイコツれんこん＞",
+      "れんこんの皮をむく。れんこんの穴の形を活かしてガイコツの形に切る（大きい穴が２連続残るように切り、薄切りにし、ガイコツの形にカットする）。余ったれんこんは小さめに刻む。酢水に漬けてサッと茹でる。小さい器にれんこんと「カンタン酢」を入れ、冷蔵庫で３０分漬ける。",
+      "＜紫キャベツのピクルス＞",
+      "紫キャベツはせん切りにする。ジッパー付き保存袋に、紫キャベツと「カンタン酢」を入れ、冷蔵庫で３０分漬ける。",
+      "＜おばけきゅうり＞",
+      "きゅうりは斜め薄切りにする。ストローで３つ穴を抜き、おばけの顔を作る。口の部分は、ストローを楕円の形につぶして縦に穴を抜くと良い。抜いた穴を飾りに使用するのもおすすめ。",
+      "＜厚焼き卵でお墓＞",
+      "厚焼き卵は６等分に切る。厚焼き卵の表面に、焼のりで十字架を描く。",
+      "の上に、水けを切ったれんこん（刻んだほう）と紫キャベツをのせる。サーモンとまぐろたたきを、間隔を空けて盛り付ける。その上に、ガイコツれんこん、厚焼き卵、おばけきゅうりを飾る。"
+    ],
+    "image_url": "",
+    "title": {
+      "en": "With skeleton lotus root! Halloween Chirashi Sushi",
+      "zh_tw": "配上骷髏蓮藕！萬聖節散壽司",
+      "zh_cn": "配骷髅莲藕！万圣节散寿司",
+      "vi": "Với củ sen xương! Chirashi Sushi Halloween",
+      "hi": "कंकाल कमल जड़ के साथ! हैलोवीन चिराशी सुशी",
+      "ru": "Со скелетным корнем лотоса! Хэллоуин Чираши Суши",
+      "th": "ด้วยรากบัวโครงกระดูก! ซูชิฮาโลวีนชิราชิ",
+      "id": "Dengan akar teratai kerangka! Sushi Chirashi Halloween",
+      "ms": "Dengan akar teratai rangka! Halloween Chirashi Sushi",
+      "ko": "가이코츠 벽돌! 할로윈 치라시즈시"
+    },
+    "description": {
+      "en": "",
+      "zh_tw": "",
+      "zh_cn": "",
+      "vi": "",
+      "hi": "",
+      "ru": "",
+      "th": "",
+      "id": "",
+      "ms": "",
+      "ko": ""
+    },
+    "steps": {
+      "en": [
+        "Place the freshly cooked rice in a bowl, sprinkle with the ``simple vinegar'' and stir to combine. Once it has cooled down, put it in a bowl.",
+        "<Skeleton lotus root>",
+        "Peel the lotus roots. Taking advantage of the shape of the hole in the lotus root, cut it into a skeleton shape (cut so that there are two large holes in a row, then thinly slice and cut into a skeleton shape). Chop the remaining lotus root into small pieces. Soak in vinegar water and boil quickly. Put the lotus root and ``simple vinegar'' in a small bowl and let it marinate in the refrigerator for 30 minutes.",
+        "<Pickled purple cabbage>",
+        "Slice the purple cabbage. Put the purple cabbage and ``simple vinegar'' into a zippered storage bag and marinate in the refrigerator for 30 minutes.",
+        "<Ghost Cucumber>",
+        "Slice the cucumber diagonally. Cut three holes with a straw to make a ghost's face. For the mouth part, crush the straw into an oval shape and cut a hole vertically. We also recommend using the holes you cut out for decoration.",
+        "<Grave with thick fried eggs>",
+        "Cut the hard-boiled egg into 6 equal pieces. Draw a cross on the surface of the thick-fried egg using seaweed glue.",
+        "Place drained lotus roots (chopped) and purple cabbage on top. Arrange the salmon and tuna tataki, leaving space between them. Garnish with the skeleton lotus root, thick fried egg, and ghost cucumber on top."
+      ],
+      "zh_tw": [
+        "將剛煮熟的米飯放入碗中，撒上「簡單的醋」並攪拌混合。待其冷卻後，將其放入碗中。",
+        "<排骨蓮藕>",
+        "蓮藕去皮。利用蓮藕孔的形狀，將其切成骨架形狀（切得有兩個大孔連續，然後切成薄片，切成骨架形狀）。將剩餘的蓮藕切成小塊。用醋水浸泡並快速煮沸。將蓮藕和「簡單的醋」放入小碗中，放入冰箱醃製30分鐘。",
+        "<酸菜紫甘藍>",
+        "將紫甘藍切片。將紫甘藍和「簡單醋」放入拉鍊的保鮮袋中，放入冰箱醃製30分鐘。",
+        "<幽靈黃瓜>",
+        "將黃瓜對角切片。用稻草打三個洞，做成鬼臉。對於嘴部，將吸管壓成橢圓形並垂直切一個孔。我們還建議使用您切出的孔進行裝飾。",
+        "<墳墓上有厚厚的煎蛋>",
+        "將煮熟的雞蛋切成6等份。用海藻膠在厚煎蛋表面畫十字架。",
+        "將瀝乾水分的蓮藕（切碎）和紫甘藍放在上面。排列鮭魚和鮪魚的塔塔基，它們之間留出空間。上面飾有排骨蓮藕、厚煎蛋和鬼黃瓜。"
+      ],
+      "zh_cn": [
+        "将刚煮熟的米饭放入碗中，撒上“简单的醋”并搅拌混合。待其冷却后，将其放入碗中。",
+        "<排骨莲藕>",
+        "莲藕去皮。利用莲藕孔的形状，将其切成骨架形状（切得有两个大孔连续，然后切成薄片，切成骨架形状）。将剩余的莲藕切成小块。用醋水浸泡并快速煮沸。将莲藕和“简单的醋”放入小碗中，放入冰箱腌制30分钟。",
+        "<酸菜紫甘蓝>",
+        "将紫甘蓝切片。将紫甘蓝和“简单醋”放入带拉链的保鲜袋中，放入冰箱腌制30分钟。",
+        "<幽灵黄瓜>",
+        "将黄瓜对角切片。用稻草打三个洞，做成鬼脸。对于嘴部，将吸管压成椭圆形并垂直切一个孔。我们还建议使用您切出的孔进行装饰。",
+        "<坟墓上有厚厚的煎蛋>",
+        "将煮熟的鸡蛋切成6等份。用海藻胶在厚煎蛋表面画十字。",
+        "将沥干水分的莲藕（切碎）和紫甘蓝放在上面。排列三文鱼和金枪鱼的塔塔基，它们之间留出空间。上面饰有排骨莲藕、厚煎蛋和鬼黄瓜。"
+      ],
+      "vi": [
+        "Cho cơm mới nấu vào tô, rắc ''dấm đơn'' và khuấy đều. Khi nó đã nguội, đặt nó vào một cái bát.",
+        "<Bộ xương củ sen>",
+        "Gọt vỏ củ sen. Lợi dụng hình dạng lỗ trên củ sen, cắt thành hình bộ xương (cắt sao cho có hai lỗ lớn liên tiếp, sau đó thái mỏng và cắt thành hình bộ xương). Cắt củ sen còn lại thành từng miếng nhỏ. Ngâm trong nước giấm và đun sôi nhanh chóng. Cho củ sen và giấm đơn giản vào tô nhỏ rồi để trong tủ lạnh khoảng 30 phút.",
+        "<Bắp cải tím ngâm>",
+        "Cắt nhỏ bắp cải tím. Cho bắp cải tím và ''giấm đơn'' vào túi bảo quản có khóa kéo và ướp trong tủ lạnh trong 30 phút.",
+        "<Dưa chuột ma>",
+        "Cắt dưa chuột theo đường chéo. Dùng ống hút khoét ba lỗ để làm mặt ma. Đối với phần miệng, nghiền ống hút thành hình bầu dục và cắt một lỗ theo chiều dọc. Chúng tôi cũng khuyên bạn nên sử dụng các lỗ bạn đã cắt để trang trí.",
+        "<Mộ trứng rán dầy>",
+        "Cắt trứng luộc chín thành 6 miếng bằng nhau. Vẽ một hình chữ thập lên bề mặt quả trứng chiên dày bằng keo rong biển.",
+        "Đặt củ sen đã ráo nước (cắt nhỏ) và bắp cải tím lên trên. Sắp xếp tataki cá hồi và cá ngừ, chừa khoảng trống giữa chúng. Trang trí với củ sen xương, trứng chiên dày và dưa ma bên trên."
+      ],
+      "hi": [
+        "ताजे पके हुए चावल को एक कटोरे में रखें, ``साधारण सिरका'' छिड़कें और मिलाने के लिए हिलाएँ। जब यह ठंडा हो जाए तो इसे एक बाउल में निकाल लें।",
+        "<कंकाल कमल जड़>",
+        "कमल की जड़ों को छील लें. कमल की जड़ में छेद के आकार का लाभ उठाते हुए, इसे कंकाल के आकार में काटें (इस तरह काटें कि एक पंक्ति में दो बड़े छेद हों, फिर पतले टुकड़े करके कंकाल के आकार में काटें)। बची हुई कमल की जड़ को छोटे-छोटे टुकड़ों में काट लीजिए. सिरके के पानी में भिगोएँ और जल्दी से उबालें। एक छोटे कटोरे में कमल की जड़ और ``साधारण सिरका'' डालें और इसे 30 मिनट के लिए रेफ्रिजरेटर में मैरीनेट होने दें।",
+        "<मसालेदार बैंगनी गोभी>",
+        "बैंगनी पत्तागोभी को काट लें। बैंगनी पत्तागोभी और ``साधारण सिरका'' को ज़िप वाले स्टोरेज बैग में रखें और 30 मिनट के लिए रेफ्रिजरेटर में मैरीनेट करें।",
+        "<भूत ककड़ी>",
+        "खीरे को तिरछा काटें। भूत का चेहरा बनाने के लिए पुआल से तीन छेद करें। मुँह वाले हिस्से के लिए, पुआल को एक अंडाकार आकार में कुचलें और लंबवत रूप से एक छेद काट लें। हम सजावट के लिए आपके द्वारा काटे गए छेदों का उपयोग करने की भी सलाह देते हैं।",
+        "<मोटे तले हुए अंडे के साथ कब्र>",
+        "सख्त उबले अंडे को 6 बराबर टुकड़ों में काट लें। समुद्री शैवाल गोंद का उपयोग करके मोटे तले हुए अंडे की सतह पर एक क्रॉस बनाएं।",
+        "ऊपर से सूखी हुई कमल की जड़ें (कटी हुई) और बैंगनी पत्तागोभी रखें। सैल्मन और टूना टाटाकी को व्यवस्थित करें, उनके बीच जगह छोड़ें। ऊपर से कंकाल कमल की जड़, गाढ़ा तला हुआ अंडा और घोस्ट ककड़ी से गार्निश करें।"
+      ],
+      "ru": [
+        "Поместите свежеприготовленный рис в миску, сбрызните «простым уксусом» и перемешайте. Как только он остынет, переложите его в миску.",
+        "<Скелетный корень лотоса>",
+        "Очистите корни лотоса. Воспользовавшись формой отверстия в корне лотоса, вырежьте его в форме скелета (разрежьте так, чтобы было два больших отверстия в ряд, затем тонко нарежьте и вырежьте в форме скелета). Оставшийся корень лотоса нарежьте небольшими кусочками. Замочить в воде с уксусом и быстро прокипятить. Положите корень лотоса и «простой уксус» в небольшую миску и оставьте мариноваться в холодильнике на 30 минут.",
+        "<Маринованная фиолетовая капуста>",
+        "Нарезаем фиолетовую капусту. Положите фиолетовую капусту и «простой уксус» в пакет для хранения на молнии и поставьте мариноваться в холодильник на 30 минут.",
+        "<Призрачный огурец>",
+        "Разрежьте огурец по диагонали. Вырежьте соломинкой три отверстия, чтобы сделать лицо привидения. Для ротовой части придайте соломинке овальную форму и вырежьте вертикальное отверстие. Также рекомендуем использовать вырезанные вами отверстия для украшения.",
+        "<Могила с густой яичницей>",
+        "Разрезаем сваренное вкрутую яйцо на 6 равных частей. Нарисуйте крест на поверхности яичницы с помощью клея из морских водорослей.",
+        "Сверху поместите высушенные корни лотоса (нарезанные) и фиолетовую капусту. Разложите татаки из лосося и тунца, оставляя между ними пространство. Украсьте скелетом корня лотоса, толстым жареным яйцом и призрачным огурцом сверху."
+      ],
+      "th": [
+        "ใส่ข้าวที่หุงสุกใหม่ๆ ลงในชาม โรยด้วย ``น้ำส้มสายชูธรรมดา'' แล้วคนให้เข้ากัน เมื่อเย็นลงแล้วจึงใส่ลงในชาม",
+        "<โครงกระดูกรากบัว>",
+        "ปอกเปลือกรากบัว ใช้รูปทรงของรูในรากบัวเป็นรูปทรงโครงกระดูก (ตัดให้มีรูใหญ่ 2 รูเรียงกันเป็นแถว แล้วหั่นเป็นชิ้นบางๆ แล้วตัดเป็นโครงกระดูก) สับรากบัวที่เหลือเป็นชิ้นเล็กๆ แช่น้ำส้มสายชูแล้วต้มอย่างรวดเร็ว ใส่รากบัวและ ``น้ำส้มสายชูธรรมดา'' ลงในชามขนาดเล็ก แล้วหมักไว้ในตู้เย็นเป็นเวลา 30 นาที",
+        "<กะหล่ำปลีม่วงดอง>",
+        "หั่นกะหล่ำปลีสีม่วง ใส่กะหล่ำปลีม่วงและ ``น้ำส้มสายชูธรรมดา'' ลงในถุงซิปล็อค แล้วหมักในตู้เย็นเป็นเวลา 30 นาที",
+        "<แตงกวาผี>",
+        "หั่นแตงกวาเป็นแนวทแยง ใช้หลอดตัดสามรูให้กลายเป็นหน้าผี สำหรับส่วนของปาก ให้บดฟางให้เป็นวงรีแล้วตัดเป็นรูในแนวตั้ง เราขอแนะนำให้ใช้รูที่คุณตัดออกมาเพื่อการตกแต่งด้วย",
+        "<หลุมศพด้วยไข่ดาวหนาๆ>",
+        "หั่นไข่ต้มสุกออกเป็น 6 ชิ้นเท่าๆ กัน วาดกากบาทบนพื้นผิวของไข่ดาวที่หนาโดยใช้กาวสาหร่าย",
+        "วางรากบัวที่สับแล้ว (สับ) และกะหล่ำปลีม่วงไว้ด้านบน จัดเรียงปลาแซลมอนและทูน่าทาทากิ โดยเว้นช่องว่างระหว่างพวกมัน โรยหน้าด้วยรากบัวโครงกระดูก ไข่ดาวหนาๆ และแตงกวาดองด้านบน"
+      ],
+      "id": [
+        "Tempatkan nasi yang baru dimasak ke dalam mangkuk, taburi dengan ``cuka sederhana'' dan aduk hingga tercampur. Setelah dingin, masukkan ke dalam mangkuk.",
+        "<Kerangka akar teratai>",
+        "Kupas akar teratai. Memanfaatkan bentuk lubang pada akar teratai, potonglah menjadi bentuk kerangka (potong sedemikian rupa sehingga terdapat dua lubang besar yang berjajar, kemudian iris tipis dan potong menjadi bentuk kerangka). Potong sisa akar teratai menjadi potongan kecil. Rendam dalam air cuka dan rebus dengan cepat. Masukkan akar teratai dan ``cuka sederhana'' ke dalam mangkuk kecil dan diamkan di lemari es selama 30 menit.",
+        "<Acar kubis ungu>",
+        "Iris kubis ungu. Masukkan kubis ungu dan ``cuka sederhana'' ke dalam kantong penyimpanan berritsleting dan rendam di lemari es selama 30 menit.",
+        "<Mentimun Hantu>",
+        "Iris mentimun secara diagonal. Potong tiga lubang dengan sedotan untuk membuat wajah hantu. Untuk bagian mulutnya, hancurkan sedotan menjadi bentuk lonjong dan buat lubang secara vertikal. Kami juga merekomendasikan menggunakan lubang yang Anda potong untuk hiasan.",
+        "<Kuburan dengan telur goreng kental>",
+        "Potong telur rebus menjadi 6 bagian yang sama besar. Gambarlah tanda silang pada permukaan telur goreng kental tersebut dengan menggunakan lem rumput laut.",
+        "Letakkan akar teratai yang sudah dikeringkan (cincang) dan kubis ungu di atasnya. Tata tataki salmon dan tuna, sisakan ruang di antara keduanya. Hiasi dengan kerangka akar teratai, telur goreng kental, dan mentimun hantu di atasnya."
+      ],
+      "ms": [
+        "Letakkan nasi yang baru dimasak dalam mangkuk, taburkan dengan ``cuka ringkas'' dan kacau sehingga sebati. Apabila ia telah sejuk, masukkan ke dalam mangkuk.",
+        "<Akar teratai rangka>",
+        "Kupas akar teratai. Mengambil kesempatan daripada bentuk lubang pada akar teratai, potong menjadi bentuk rangka (potong supaya ada dua lubang besar berturut-turut, kemudian hiris nipis dan potong bentuk rangka). Potong akar teratai yang tinggal menjadi kepingan kecil. Rendam dalam air cuka dan rebus dengan cepat. Masukkan akar teratai dan ``cuka ringkas'' dalam mangkuk kecil dan biarkan ia perap di dalam peti sejuk selama 30 minit.",
+        "<Acar kubis ungu>",
+        "Hiris kobis ungu. Masukkan kobis ungu dan ``simple vinegar'' ke dalam beg penyimpanan berzip dan perap di dalam peti sejuk selama 30 minit.",
+        "<Timun Hantu>",
+        "Hiris timun secara menyerong. Potong tiga lubang dengan straw untuk membuat muka hantu. Untuk bahagian mulut, hancurkan straw menjadi bentuk bujur dan potong lubang secara menegak. Kami juga mengesyorkan menggunakan lubang yang anda potong untuk hiasan.",
+        "<Kubur dengan telur goreng pekat>",
+        "Potong telur rebus kepada 6 bahagian yang sama. Lukiskan pangkah pada permukaan telur yang digoreng tebal menggunakan gam rumpai laut.",
+        "Letakkan akar teratai yang telah dikeringkan (dicincang) dan kubis ungu di atasnya. Susun salmon dan tuna tataki, tinggalkan ruang di antara mereka. Hiaskan dengan akar teratai rangka, telur goreng tebal, dan timun hantu di atasnya."
+      ],
+      "ko": [
+        "갓 볶은 밥을 그릇에 넣고 \"간단식초\"를 돌려 잘라 섞는다. 조열이 잡히면 그릇에 담는다.",
+        "<가이코츠 렌콘>",
+        "벽돌 껍질을 벗긴다. 벽돌 구멍의 형태를 살려서 가이코트의 형태로 자른다(큰 구멍이 2연속 남도록 썰어, 얇게 자르고, 가이코트의 형태로 컷한다). 남은 벽돌은 작게 새긴다. 식초 물에 담그고 살짝 삶는다. 작은 그릇에 벽돌과 \"간단 식초\"를 넣고 냉장고로 30 분간 담그다.",
+        "<보라색 양배추의 피클>",
+        "보라색 양배추는 깎는다. 지퍼가 달린 보존 봉투에 보라색 양배추와 \"간단 식초\"를 넣고 냉장고로 30 분간 담그십시오.",
+        "<귀신 오이>",
+        "오이는 비스듬히 얇게 썬다. 빨대에서 3개의 구멍을 뽑아 귀신의 얼굴을 만든다. 입의 부분은 빨대를 타원형으로 부수고 세로로 구멍을 뚫는 것이 좋다. 뽑은 구멍을 장식에 사용하는 것도 추천.",
+        "<후구이 계란으로 무덤>",
+        "두꺼운 계란은 6 등분으로 자른다. 두꺼운 계란의 표면에 구운 십자가를 그립니다.",
+        "위에 물기를 자른 벽돌 (새긴 쪽)과 보라색 양배추를 얹는다. 연어와 참치를, 간격을 비워 담는다. 그 위에 가이코트 벽돌, 두꺼운 구운 계란, 귀신 오이를 장식한다."
+      ]
+    }
   }
 ]

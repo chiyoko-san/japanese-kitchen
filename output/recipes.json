@@ -347224,5 +347224,1963 @@
         "위에 물기를 자른 벽돌 (새긴 쪽)과 보라색 양배추를 얹는다. 연어와 참치를, 간격을 비워 담는다. 그 위에 가이코트 벽돌, 두꺼운 구운 계란, 귀신 오이를 장식한다."
       ]
     }
+  },
+  {
+    "id": "0fa13767",
+    "source_url": "https://park.ajinomoto.co.jp/recipe/card/706981/",
+    "source_site": "Ajinomoto",
+    "title_ja": "鶏のうま味が効いてる！水炊き",
+    "description_ja": "",
+    "ingredients": [
+      {
+        "name_ja": "材料",
+        "amount": "適量",
+        "name_translated": {
+          "en": "材料",
+          "zh_tw": "材料",
+          "zh_cn": "材料",
+          "vi": "材料",
+          "hi": "材料",
+          "ru": "材料",
+          "th": "材料",
+          "id": "材料",
+          "ms": "材料",
+          "ko": "材料"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E6%9D%90%E6%96%99&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E6%9D%90%E6%96%99/?tag="
+      },
+      {
+        "name_ja": "つくり方",
+        "amount": "適量",
+        "name_translated": {
+          "en": "つくり方",
+          "zh_tw": "つくり方",
+          "zh_cn": "つくり方",
+          "vi": "つくり方",
+          "hi": "つくり方",
+          "ru": "つくり方",
+          "th": "つくり方",
+          "id": "つくり方",
+          "ms": "つくり方",
+          "ko": "つくり方"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%A4%E3%81%8F%E3%82%8A%E6%96%B9&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%A4%E3%81%8F%E3%82%8A%E6%96%B9/?tag="
+      },
+      {
+        "name_ja": "エネルギー",
+        "amount": "kcal",
+        "name_translated": {
+          "en": "エネルギー",
+          "zh_tw": "エネルギー",
+          "zh_cn": "エネルギー",
+          "vi": "エネルギー",
+          "hi": "エネルギー",
+          "ru": "エネルギー",
+          "th": "エネルギー",
+          "id": "エネルギー",
+          "ms": "エネルギー",
+          "ko": "エネルギー"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%82%A8%E3%83%8D%E3%83%AB%E3%82%AE%E3%83%BC&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%82%A8%E3%83%8D%E3%83%AB%E3%82%AE%E3%83%BC/?tag="
+      },
+      {
+        "name_ja": "406",
+        "amount": "kcal",
+        "name_translated": {
+          "en": "406",
+          "zh_tw": "406",
+          "zh_cn": "406",
+          "vi": "406",
+          "hi": "406",
+          "ru": "406",
+          "th": "406",
+          "id": "406",
+          "ms": "406",
+          "ko": "406"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=406&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/406/?tag="
+      },
+      {
+        "name_ja": "塩分",
+        "amount": "g",
+        "name_translated": {
+          "en": "塩分",
+          "zh_tw": "塩分",
+          "zh_cn": "塩分",
+          "vi": "塩分",
+          "hi": "塩分",
+          "ru": "塩分",
+          "th": "塩分",
+          "id": "塩分",
+          "ms": "塩分",
+          "ko": "塩分"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E5%A1%A9%E5%88%86&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E5%A1%A9%E5%88%86/?tag="
+      },
+      {
+        "name_ja": "2.1",
+        "amount": "g",
+        "name_translated": {
+          "en": "2.1",
+          "zh_tw": "2.1",
+          "zh_cn": "2.1",
+          "vi": "2.1",
+          "hi": "2.1",
+          "ru": "2.1",
+          "th": "2.1",
+          "id": "2.1",
+          "ms": "2.1",
+          "ko": "2.1"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=2.1&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/2.1/?tag="
+      },
+      {
+        "name_ja": "たんぱく質",
+        "amount": "g",
+        "name_translated": {
+          "en": "たんぱく質",
+          "zh_tw": "たんぱく質",
+          "zh_cn": "たんぱく質",
+          "vi": "たんぱく質",
+          "hi": "たんぱく質",
+          "ru": "たんぱく質",
+          "th": "たんぱく質",
+          "id": "たんぱく質",
+          "ms": "たんぱく質",
+          "ko": "たんぱく質"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%9F%E3%82%93%E3%81%B1%E3%81%8F%E8%B3%AA&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%9F%E3%82%93%E3%81%B1%E3%81%8F%E8%B3%AA/?tag="
+      },
+      {
+        "name_ja": "31.4",
+        "amount": "g",
+        "name_translated": {
+          "en": "31.4",
+          "zh_tw": "31.4",
+          "zh_cn": "31.4",
+          "vi": "31.4",
+          "hi": "31.4",
+          "ru": "31.4",
+          "th": "31.4",
+          "id": "31.4",
+          "ms": "31.4",
+          "ko": "31.4"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=31.4&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/31.4/?tag="
+      },
+      {
+        "name_ja": "脂質",
+        "amount": "g",
+        "name_translated": {
+          "en": "脂質",
+          "zh_tw": "脂質",
+          "zh_cn": "脂質",
+          "vi": "脂質",
+          "hi": "脂質",
+          "ru": "脂質",
+          "th": "脂質",
+          "id": "脂質",
+          "ms": "脂質",
+          "ko": "脂質"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E8%84%82%E8%B3%AA&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E8%84%82%E8%B3%AA/?tag="
+      },
+      {
+        "name_ja": "24.2",
+        "amount": "g",
+        "name_translated": {
+          "en": "24.2",
+          "zh_tw": "24.2",
+          "zh_cn": "24.2",
+          "vi": "24.2",
+          "hi": "24.2",
+          "ru": "24.2",
+          "th": "24.2",
+          "id": "24.2",
+          "ms": "24.2",
+          "ko": "24.2"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=24.2&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/24.2/?tag="
+      },
+      {
+        "name_ja": "もっと見る",
+        "amount": "適量",
+        "name_translated": {
+          "en": "もっと見る",
+          "zh_tw": "もっと見る",
+          "zh_cn": "もっと見る",
+          "vi": "もっと見る",
+          "hi": "もっと見る",
+          "ru": "もっと見る",
+          "th": "もっと見る",
+          "id": "もっと見る",
+          "ms": "もっと見る",
+          "ko": "もっと見る"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%82%82%E3%81%A3%E3%81%A8%E8%A6%8B%E3%82%8B&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%82%82%E3%81%A3%E3%81%A8%E8%A6%8B%E3%82%8B/?tag="
+      },
+      {
+        "name_ja": "マイレシピにも保存！",
+        "amount": "LINEに保存",
+        "name_translated": {
+          "en": "マイレシピにも保存！",
+          "zh_tw": "マイレシピにも保存！",
+          "zh_cn": "マイレシピにも保存！",
+          "vi": "マイレシピにも保存！",
+          "hi": "マイレシピにも保存！",
+          "ru": "マイレシピにも保存！",
+          "th": "マイレシピにも保存！",
+          "id": "マイレシピにも保存！",
+          "ms": "マイレシピにも保存！",
+          "ko": "マイレシピにも保存！"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9E%E3%82%A4%E3%83%AC%E3%82%B7%E3%83%94%E3%81%AB%E3%82%82%E4%BF%9D%E5%AD%98%EF%BC%81&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9E%E3%82%A4%E3%83%AC%E3%82%B7%E3%83%94%E3%81%AB%E3%82%82%E4%BF%9D%E5%AD%98%EF%BC%81/?tag="
+      },
+      {
+        "name_ja": "マイレシピに保存",
+        "amount": "-",
+        "name_translated": {
+          "en": "マイレシピに保存",
+          "zh_tw": "マイレシピに保存",
+          "zh_cn": "マイレシピに保存",
+          "vi": "マイレシピに保存",
+          "hi": "マイレシピに保存",
+          "ru": "マイレシピに保存",
+          "th": "マイレシピに保存",
+          "id": "マイレシピに保存",
+          "ms": "マイレシピに保存",
+          "ko": "マイレシピに保存"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9E%E3%82%A4%E3%83%AC%E3%82%B7%E3%83%94%E3%81%AB%E4%BF%9D%E5%AD%98&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9E%E3%82%A4%E3%83%AC%E3%82%B7%E3%83%94%E3%81%AB%E4%BF%9D%E5%AD%98/?tag="
+      },
+      {
+        "name_ja": "リンク",
+        "amount": "外部タブで開く",
+        "name_translated": {
+          "en": "リンク",
+          "zh_tw": "リンク",
+          "zh_cn": "リンク",
+          "vi": "リンク",
+          "hi": "リンク",
+          "ru": "リンク",
+          "th": "リンク",
+          "id": "リンク",
+          "ms": "リンク",
+          "ko": "リンク"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%AA%E3%83%B3%E3%82%AF&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%AA%E3%83%B3%E3%82%AF/?tag="
+      },
+      {
+        "name_ja": "材料",
+        "amount": "適量",
+        "name_translated": {
+          "en": "材料",
+          "zh_tw": "材料",
+          "zh_cn": "材料",
+          "vi": "材料",
+          "hi": "材料",
+          "ru": "材料",
+          "th": "材料",
+          "id": "材料",
+          "ms": "材料",
+          "ko": "材料"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E6%9D%90%E6%96%99&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E6%9D%90%E6%96%99/?tag="
+      },
+      {
+        "name_ja": "つくり方",
+        "amount": "適量",
+        "name_translated": {
+          "en": "つくり方",
+          "zh_tw": "つくり方",
+          "zh_cn": "つくり方",
+          "vi": "つくり方",
+          "hi": "つくり方",
+          "ru": "つくり方",
+          "th": "つくり方",
+          "id": "つくり方",
+          "ms": "つくり方",
+          "ko": "つくり方"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%A4%E3%81%8F%E3%82%8A%E6%96%B9&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%A4%E3%81%8F%E3%82%8A%E6%96%B9/?tag="
+      },
+      {
+        "name_ja": "1",
+        "amount": "にする。",
+        "name_translated": {
+          "en": "1",
+          "zh_tw": "1",
+          "zh_cn": "1",
+          "vi": "1",
+          "hi": "1",
+          "ru": "1",
+          "th": "1",
+          "id": "1",
+          "ms": "1",
+          "ko": "1"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=1&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/1/?tag="
+      },
+      {
+        "name_ja": "2",
+        "amount": "、（１）の鶏肉を入れて強火にかけ、沸騰したらアクを取り、中火にする。",
+        "name_translated": {
+          "en": "2",
+          "zh_tw": "2",
+          "zh_cn": "2",
+          "vi": "2",
+          "hi": "2",
+          "ru": "2",
+          "th": "2",
+          "id": "2",
+          "ms": "2",
+          "ko": "2"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=2&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/2/?tag="
+      },
+      {
+        "name_ja": "3",
+        "amount": "を加えて味を調える。",
+        "name_translated": {
+          "en": "3",
+          "zh_tw": "3",
+          "zh_cn": "3",
+          "vi": "3",
+          "hi": "3",
+          "ru": "3",
+          "th": "3",
+          "id": "3",
+          "ms": "3",
+          "ko": "3"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=3&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/3/?tag="
+      },
+      {
+        "name_ja": "4",
+        "amount": "をつけて食べる。",
+        "name_translated": {
+          "en": "4",
+          "zh_tw": "4",
+          "zh_cn": "4",
+          "vi": "4",
+          "hi": "4",
+          "ru": "4",
+          "th": "4",
+          "id": "4",
+          "ms": "4",
+          "ko": "4"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=4&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/4/?tag="
+      },
+      {
+        "name_ja": "家族で囲む",
+        "amount": "適量",
+        "name_translated": {
+          "en": "家族で囲む",
+          "zh_tw": "家族で囲む",
+          "zh_cn": "家族で囲む",
+          "vi": "家族で囲む",
+          "hi": "家族で囲む",
+          "ru": "家族で囲む",
+          "th": "家族で囲む",
+          "id": "家族で囲む",
+          "ms": "家族で囲む",
+          "ko": "家族で囲む"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E5%AE%B6%E6%97%8F%E3%81%A7%E5%9B%B2%E3%82%80&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E5%AE%B6%E6%97%8F%E3%81%A7%E5%9B%B2%E3%82%80/?tag="
+      },
+      {
+        "name_ja": "カラダぽかぽか",
+        "amount": "適量",
+        "name_translated": {
+          "en": "カラダぽかぽか",
+          "zh_tw": "カラダぽかぽか",
+          "zh_cn": "カラダぽかぽか",
+          "vi": "カラダぽかぽか",
+          "hi": "カラダぽかぽか",
+          "ru": "カラダぽかぽか",
+          "th": "カラダぽかぽか",
+          "id": "カラダぽかぽか",
+          "ms": "カラダぽかぽか",
+          "ko": "カラダぽかぽか"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%82%AB%E3%83%A9%E3%83%80%E3%81%BD%E3%81%8B%E3%81%BD%E3%81%8B&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%82%AB%E3%83%A9%E3%83%80%E3%81%BD%E3%81%8B%E3%81%BD%E3%81%8B/?tag="
+      },
+      {
+        "name_ja": "鶏肉",
+        "amount": "適量",
+        "name_translated": {
+          "en": "鶏肉",
+          "zh_tw": "鶏肉",
+          "zh_cn": "鶏肉",
+          "vi": "鶏肉",
+          "hi": "鶏肉",
+          "ru": "鶏肉",
+          "th": "鶏肉",
+          "id": "鶏肉",
+          "ms": "鶏肉",
+          "ko": "鶏肉"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E9%B6%8F%E8%82%89&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E9%B6%8F%E8%82%89/?tag="
+      },
+      {
+        "name_ja": "豆腐",
+        "amount": "適量",
+        "name_translated": {
+          "en": "豆腐",
+          "zh_tw": "豆腐",
+          "zh_cn": "豆腐",
+          "vi": "豆腐",
+          "hi": "豆腐",
+          "ru": "豆腐",
+          "th": "豆腐",
+          "id": "豆腐",
+          "ms": "豆腐",
+          "ko": "豆腐"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E8%B1%86%E8%85%90&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E8%B1%86%E8%85%90/?tag="
+      },
+      {
+        "name_ja": "水菜",
+        "amount": "適量",
+        "name_translated": {
+          "en": "水菜",
+          "zh_tw": "水菜",
+          "zh_cn": "水菜",
+          "vi": "水菜",
+          "hi": "水菜",
+          "ru": "水菜",
+          "th": "水菜",
+          "id": "水菜",
+          "ms": "水菜",
+          "ko": "水菜"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E6%B0%B4%E8%8F%9C&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E6%B0%B4%E8%8F%9C/?tag="
+      },
+      {
+        "name_ja": "きのこ",
+        "amount": "適量",
+        "name_translated": {
+          "en": "きのこ",
+          "zh_tw": "きのこ",
+          "zh_cn": "きのこ",
+          "vi": "きのこ",
+          "hi": "きのこ",
+          "ru": "きのこ",
+          "th": "きのこ",
+          "id": "きのこ",
+          "ms": "きのこ",
+          "ko": "きのこ"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%8D%E3%81%AE%E3%81%93&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%8D%E3%81%AE%E3%81%93/?tag="
+      },
+      {
+        "name_ja": "鍋物",
+        "amount": "適量",
+        "name_translated": {
+          "en": "鍋物",
+          "zh_tw": "鍋物",
+          "zh_cn": "鍋物",
+          "vi": "鍋物",
+          "hi": "鍋物",
+          "ru": "鍋物",
+          "th": "鍋物",
+          "id": "鍋物",
+          "ms": "鍋物",
+          "ko": "鍋物"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E9%8D%8B%E7%89%A9&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E9%8D%8B%E7%89%A9/?tag="
+      },
+      {
+        "name_ja": "メイン料理",
+        "amount": "適量",
+        "name_translated": {
+          "en": "メイン料理",
+          "zh_tw": "メイン料理",
+          "zh_cn": "メイン料理",
+          "vi": "メイン料理",
+          "hi": "メイン料理",
+          "ru": "メイン料理",
+          "th": "メイン料理",
+          "id": "メイン料理",
+          "ms": "メイン料理",
+          "ko": "メイン料理"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%A1%E3%82%A4%E3%83%B3%E6%96%99%E7%90%86&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%A1%E3%82%A4%E3%83%B3%E6%96%99%E7%90%86/?tag="
+      },
+      {
+        "name_ja": "和風",
+        "amount": "適量",
+        "name_translated": {
+          "en": "和風",
+          "zh_tw": "和風",
+          "zh_cn": "和風",
+          "vi": "和風",
+          "hi": "和風",
+          "ru": "和風",
+          "th": "和風",
+          "id": "和風",
+          "ms": "和風",
+          "ko": "和風"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E5%92%8C%E9%A2%A8&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E5%92%8C%E9%A2%A8/?tag="
+      },
+      {
+        "name_ja": "秋レシピ",
+        "amount": "適量",
+        "name_translated": {
+          "en": "秋レシピ",
+          "zh_tw": "秋レシピ",
+          "zh_cn": "秋レシピ",
+          "vi": "秋レシピ",
+          "hi": "秋レシピ",
+          "ru": "秋レシピ",
+          "th": "秋レシピ",
+          "id": "秋レシピ",
+          "ms": "秋レシピ",
+          "ko": "秋レシピ"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E7%A7%8B%E3%83%AC%E3%82%B7%E3%83%94&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E7%A7%8B%E3%83%AC%E3%82%B7%E3%83%94/?tag="
+      },
+      {
+        "name_ja": "冬レシピ",
+        "amount": "適量",
+        "name_translated": {
+          "en": "冬レシピ",
+          "zh_tw": "冬レシピ",
+          "zh_cn": "冬レシピ",
+          "vi": "冬レシピ",
+          "hi": "冬レシピ",
+          "ru": "冬レシピ",
+          "th": "冬レシピ",
+          "id": "冬レシピ",
+          "ms": "冬レシピ",
+          "ko": "冬レシピ"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E5%86%AC%E3%83%AC%E3%82%B7%E3%83%94&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E5%86%AC%E3%83%AC%E3%82%B7%E3%83%94/?tag="
+      },
+      {
+        "name_ja": "丸鶏がらスープ",
+        "amount": "適量",
+        "name_translated": {
+          "en": "丸鶏がらスープ",
+          "zh_tw": "丸鶏がらスープ",
+          "zh_cn": "丸鶏がらスープ",
+          "vi": "丸鶏がらスープ",
+          "hi": "丸鶏がらスープ",
+          "ru": "丸鶏がらスープ",
+          "th": "丸鶏がらスープ",
+          "id": "丸鶏がらスープ",
+          "ms": "丸鶏がらスープ",
+          "ko": "丸鶏がらスープ"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E4%B8%B8%E9%B6%8F%E3%81%8C%E3%82%89%E3%82%B9%E3%83%BC%E3%83%97&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E4%B8%B8%E9%B6%8F%E3%81%8C%E3%82%89%E3%82%B9%E3%83%BC%E3%83%97/?tag="
+      }
+    ],
+    "steps_ja": [
+      "鶏肉はひと口大に切り、水菜は４ｃｍ長さに切る。ねぎは１ｃｍ幅の斜め切りにし、しめじ、えのきだけは根元を切って小房に分ける。豆腐はひと口大の角切りにする。",
+      "鍋にＡ、（１）の鶏肉を入れて強火にかけ、沸騰したらアクを取り、中火にする。",
+      "鶏肉に火が通ったら、（１）の水菜・ねぎ・きのこ類・豆腐を加え、Ｂを加えて味を調える。",
+      "好みでＣをつけて食べる。"
+    ],
+    "image_url": "https://images.weserv.nl/?url=https://images.microcms-assets.io/assets/3834bb6c71eb4fdd912121537b20e72d/2fb3e7a8bd6a4d639df0e7fdc1c4ee76/recipe_main_image_706981.jpg?fm=webp&q=60&fit=min&w=600&output=jpg",
+    "title": {
+      "en": "鶏のうま味が効いてる！水炊き",
+      "zh_tw": "鶏のうま味が効いてる！水炊き",
+      "zh_cn": "鶏のうま味が効いてる！水炊き",
+      "vi": "鶏のうま味が効いてる！水炊き",
+      "hi": "鶏のうま味が効いてる！水炊き",
+      "ru": "鶏のうま味が効いてる！水炊き",
+      "th": "鶏のうま味が効いてる！水炊き",
+      "id": "鶏のうま味が効いてる！水炊き",
+      "ms": "鶏のうま味が効いてる！水炊き",
+      "ko": "鶏のうま味が効いてる！水炊き"
+    },
+    "description": {
+      "en": "",
+      "zh_tw": "",
+      "zh_cn": "",
+      "vi": "",
+      "hi": "",
+      "ru": "",
+      "th": "",
+      "id": "",
+      "ms": "",
+      "ko": ""
+    },
+    "steps": {
+      "en": [
+        "鶏肉はひと口大に切り、水菜は４ｃｍ長さに切る。ねぎは１ｃｍ幅の斜め切りにし、しめじ、えのきだけは根元を切って小房に分ける。豆腐はひと口大の角切りにする。",
+        "鍋にＡ、（１）の鶏肉を入れて強火にかけ、沸騰したらアクを取り、中火にする。",
+        "鶏肉に火が通ったら、（１）の水菜・ねぎ・きのこ類・豆腐を加え、Ｂを加えて味を調える。",
+        "好みでＣをつけて食べる。"
+      ],
+      "zh_tw": [
+        "鶏肉はひと口大に切り、水菜は４ｃｍ長さに切る。ねぎは１ｃｍ幅の斜め切りにし、しめじ、えのきだけは根元を切って小房に分ける。豆腐はひと口大の角切りにする。",
+        "鍋にＡ、（１）の鶏肉を入れて強火にかけ、沸騰したらアクを取り、中火にする。",
+        "鶏肉に火が通ったら、（１）の水菜・ねぎ・きのこ類・豆腐を加え、Ｂを加えて味を調える。",
+        "好みでＣをつけて食べる。"
+      ],
+      "zh_cn": [
+        "鶏肉はひと口大に切り、水菜は４ｃｍ長さに切る。ねぎは１ｃｍ幅の斜め切りにし、しめじ、えのきだけは根元を切って小房に分ける。豆腐はひと口大の角切りにする。",
+        "鍋にＡ、（１）の鶏肉を入れて強火にかけ、沸騰したらアクを取り、中火にする。",
+        "鶏肉に火が通ったら、（１）の水菜・ねぎ・きのこ類・豆腐を加え、Ｂを加えて味を調える。",
+        "好みでＣをつけて食べる。"
+      ],
+      "vi": [
+        "鶏肉はひと口大に切り、水菜は４ｃｍ長さに切る。ねぎは１ｃｍ幅の斜め切りにし、しめじ、えのきだけは根元を切って小房に分ける。豆腐はひと口大の角切りにする。",
+        "鍋にＡ、（１）の鶏肉を入れて強火にかけ、沸騰したらアクを取り、中火にする。",
+        "鶏肉に火が通ったら、（１）の水菜・ねぎ・きのこ類・豆腐を加え、Ｂを加えて味を調える。",
+        "好みでＣをつけて食べる。"
+      ],
+      "hi": [
+        "鶏肉はひと口大に切り、水菜は４ｃｍ長さに切る。ねぎは１ｃｍ幅の斜め切りにし、しめじ、えのきだけは根元を切って小房に分ける。豆腐はひと口大の角切りにする。",
+        "鍋にＡ、（１）の鶏肉を入れて強火にかけ、沸騰したらアクを取り、中火にする。",
+        "鶏肉に火が通ったら、（１）の水菜・ねぎ・きのこ類・豆腐を加え、Ｂを加えて味を調える。",
+        "好みでＣをつけて食べる。"
+      ],
+      "ru": [
+        "鶏肉はひと口大に切り、水菜は４ｃｍ長さに切る。ねぎは１ｃｍ幅の斜め切りにし、しめじ、えのきだけは根元を切って小房に分ける。豆腐はひと口大の角切りにする。",
+        "鍋にＡ、（１）の鶏肉を入れて強火にかけ、沸騰したらアクを取り、中火にする。",
+        "鶏肉に火が通ったら、（１）の水菜・ねぎ・きのこ類・豆腐を加え、Ｂを加えて味を調える。",
+        "好みでＣをつけて食べる。"
+      ],
+      "th": [
+        "鶏肉はひと口大に切り、水菜は４ｃｍ長さに切る。ねぎは１ｃｍ幅の斜め切りにし、しめじ、えのきだけは根元を切って小房に分ける。豆腐はひと口大の角切りにする。",
+        "鍋にＡ、（１）の鶏肉を入れて強火にかけ、沸騰したらアクを取り、中火にする。",
+        "鶏肉に火が通ったら、（１）の水菜・ねぎ・きのこ類・豆腐を加え、Ｂを加えて味を調える。",
+        "好みでＣをつけて食べる。"
+      ],
+      "id": [
+        "鶏肉はひと口大に切り、水菜は４ｃｍ長さに切る。ねぎは１ｃｍ幅の斜め切りにし、しめじ、えのきだけは根元を切って小房に分ける。豆腐はひと口大の角切りにする。",
+        "鍋にＡ、（１）の鶏肉を入れて強火にかけ、沸騰したらアクを取り、中火にする。",
+        "鶏肉に火が通ったら、（１）の水菜・ねぎ・きのこ類・豆腐を加え、Ｂを加えて味を調える。",
+        "好みでＣをつけて食べる。"
+      ],
+      "ms": [
+        "鶏肉はひと口大に切り、水菜は４ｃｍ長さに切る。ねぎは１ｃｍ幅の斜め切りにし、しめじ、えのきだけは根元を切って小房に分ける。豆腐はひと口大の角切りにする。",
+        "鍋にＡ、（１）の鶏肉を入れて強火にかけ、沸騰したらアクを取り、中火にする。",
+        "鶏肉に火が通ったら、（１）の水菜・ねぎ・きのこ類・豆腐を加え、Ｂを加えて味を調える。",
+        "好みでＣをつけて食べる。"
+      ],
+      "ko": [
+        "鶏肉はひと口大に切り、水菜は４ｃｍ長さに切る。ねぎは１ｃｍ幅の斜め切りにし、しめじ、えのきだけは根元を切って小房に分ける。豆腐はひと口大の角切りにする。",
+        "鍋にＡ、（１）の鶏肉を入れて強火にかけ、沸騰したらアクを取り、中火にする。",
+        "鶏肉に火が通ったら、（１）の水菜・ねぎ・きのこ類・豆腐を加え、Ｂを加えて味を調える。",
+        "好みでＣをつけて食べる。"
+      ]
+    }
+  },
+  {
+    "id": "61d34e8c",
+    "source_url": "https://www.mizkan.co.jp/ouchirecipe/recipe/?menu_id=9379",
+    "source_site": "Mizkan",
+    "title_ja": "電子レンジで！かぼちゃサラダ",
+    "description_ja": "",
+    "ingredients": [
+      {
+        "name_ja": "かぼちゃ",
+        "amount": "３００ｇ",
+        "name_translated": {
+          "en": "かぼちゃ",
+          "zh_tw": "かぼちゃ",
+          "zh_cn": "かぼちゃ",
+          "vi": "かぼちゃ",
+          "hi": "かぼちゃ",
+          "ru": "かぼちゃ",
+          "th": "かぼちゃ",
+          "id": "かぼちゃ",
+          "ms": "かぼちゃ",
+          "ko": "かぼちゃ"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%8B%E3%81%BC%E3%81%A1%E3%82%83&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%8B%E3%81%BC%E3%81%A1%E3%82%83/?tag="
+      },
+      {
+        "name_ja": "ミツカン　やさしいお酢",
+        "amount": "大さじ１",
+        "name_translated": {
+          "en": "ミツカン　やさしいお酢",
+          "zh_tw": "ミツカン　やさしいお酢",
+          "zh_cn": "ミツカン　やさしいお酢",
+          "vi": "ミツカン　やさしいお酢",
+          "hi": "ミツカン　やさしいお酢",
+          "ru": "ミツカン　やさしいお酢",
+          "th": "ミツカン　やさしいお酢",
+          "id": "ミツカン　やさしいお酢",
+          "ms": "ミツカン　やさしいお酢",
+          "ko": "ミツカン　やさしいお酢"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E3%82%84%E3%81%95%E3%81%97%E3%81%84%E3%81%8A%E9%85%A2&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E3%82%84%E3%81%95%E3%81%97%E3%81%84%E3%81%8A%E9%85%A2/?tag="
+      },
+      {
+        "name_ja": "または",
+        "amount": "適量",
+        "name_translated": {
+          "en": "または",
+          "zh_tw": "または",
+          "zh_cn": "または",
+          "vi": "または",
+          "hi": "または",
+          "ru": "または",
+          "th": "または",
+          "id": "または",
+          "ms": "または",
+          "ko": "または"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%BE%E3%81%9F%E3%81%AF&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%BE%E3%81%9F%E3%81%AF/?tag="
+      },
+      {
+        "name_ja": "ミツカン　カンタン酢",
+        "amount": "大さじ１",
+        "name_translated": {
+          "en": "ミツカン　カンタン酢",
+          "zh_tw": "ミツカン　カンタン酢",
+          "zh_cn": "ミツカン　カンタン酢",
+          "vi": "ミツカン　カンタン酢",
+          "hi": "ミツカン　カンタン酢",
+          "ru": "ミツカン　カンタン酢",
+          "th": "ミツカン　カンタン酢",
+          "id": "ミツカン　カンタン酢",
+          "ms": "ミツカン　カンタン酢",
+          "ko": "ミツカン　カンタン酢"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E3%82%AB%E3%83%B3%E3%82%BF%E3%83%B3%E9%85%A2&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E3%82%AB%E3%83%B3%E3%82%BF%E3%83%B3%E9%85%A2/?tag="
+      },
+      {
+        "name_ja": "マヨネーズ",
+        "amount": "大さじ１",
+        "name_translated": {
+          "en": "マヨネーズ",
+          "zh_tw": "マヨネーズ",
+          "zh_cn": "マヨネーズ",
+          "vi": "マヨネーズ",
+          "hi": "マヨネーズ",
+          "ru": "マヨネーズ",
+          "th": "マヨネーズ",
+          "id": "マヨネーズ",
+          "ms": "マヨネーズ",
+          "ko": "マヨネーズ"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9E%E3%83%A8%E3%83%8D%E3%83%BC%E3%82%BA&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9E%E3%83%A8%E3%83%8D%E3%83%BC%E3%82%BA/?tag="
+      },
+      {
+        "name_ja": "粗挽き黒こしょう",
+        "amount": "お好みで",
+        "name_translated": {
+          "en": "粗挽き黒こしょう",
+          "zh_tw": "粗挽き黒こしょう",
+          "zh_cn": "粗挽き黒こしょう",
+          "vi": "粗挽き黒こしょう",
+          "hi": "粗挽き黒こしょう",
+          "ru": "粗挽き黒こしょう",
+          "th": "粗挽き黒こしょう",
+          "id": "粗挽き黒こしょう",
+          "ms": "粗挽き黒こしょう",
+          "ko": "粗挽き黒こしょう"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E7%B2%97%E6%8C%BD%E3%81%8D%E9%BB%92%E3%81%93%E3%81%97%E3%82%87%E3%81%86&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E7%B2%97%E6%8C%BD%E3%81%8D%E9%BB%92%E3%81%93%E3%81%97%E3%82%87%E3%81%86/?tag="
+      },
+      {
+        "name_ja": "１",
+        "amount": "かぼちゃは一口大に切る（硬い場合にはラップで包み、電子レンジ（６００ｗ）で２分加熱する）。",
+        "name_translated": {
+          "en": "１",
+          "zh_tw": "１",
+          "zh_cn": "１",
+          "vi": "１",
+          "hi": "１",
+          "ru": "１",
+          "th": "１",
+          "id": "１",
+          "ms": "１",
+          "ko": "１"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%91&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%91/?tag="
+      },
+      {
+        "name_ja": "２",
+        "amount": "耐熱容器にかぼちゃを入れ、電子レンジ（６００Ｗ）で４～５分ほど、竹串がスッと通るくらいまで加熱する。熱いうちに軽くつぶし、粗熱がとれたら＜調味料＞を加え混ぜ合わせる。",
+        "name_translated": {
+          "en": "２",
+          "zh_tw": "２",
+          "zh_cn": "２",
+          "vi": "２",
+          "hi": "２",
+          "ru": "２",
+          "th": "２",
+          "id": "２",
+          "ms": "２",
+          "ko": "２"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%92&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%92/?tag="
+      },
+      {
+        "name_ja": "３",
+        "amount": "器に盛り、お好みで粗挽き黒こしょうをふる。",
+        "name_translated": {
+          "en": "３",
+          "zh_tw": "３",
+          "zh_cn": "３",
+          "vi": "３",
+          "hi": "３",
+          "ru": "３",
+          "th": "３",
+          "id": "３",
+          "ms": "３",
+          "ko": "３"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%93&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%93/?tag="
+      },
+      {
+        "name_ja": "基本のかぼちゃの煮物",
+        "amount": "適量",
+        "name_translated": {
+          "en": "基本のかぼちゃの煮物",
+          "zh_tw": "基本のかぼちゃの煮物",
+          "zh_cn": "基本のかぼちゃの煮物",
+          "vi": "基本のかぼちゃの煮物",
+          "hi": "基本のかぼちゃの煮物",
+          "ru": "基本のかぼちゃの煮物",
+          "th": "基本のかぼちゃの煮物",
+          "id": "基本のかぼちゃの煮物",
+          "ms": "基本のかぼちゃの煮物",
+          "ko": "基本のかぼちゃの煮物"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E5%9F%BA%E6%9C%AC%E3%81%AE%E3%81%8B%E3%81%BC%E3%81%A1%E3%82%83%E3%81%AE%E7%85%AE%E7%89%A9&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E5%9F%BA%E6%9C%AC%E3%81%AE%E3%81%8B%E3%81%BC%E3%81%A1%E3%82%83%E3%81%AE%E7%85%AE%E7%89%A9/?tag="
+      },
+      {
+        "name_ja": "かぼちゃときのこのパスタ",
+        "amount": "適量",
+        "name_translated": {
+          "en": "かぼちゃときのこのパスタ",
+          "zh_tw": "かぼちゃときのこのパスタ",
+          "zh_cn": "かぼちゃときのこのパスタ",
+          "vi": "かぼちゃときのこのパスタ",
+          "hi": "かぼちゃときのこのパスタ",
+          "ru": "かぼちゃときのこのパスタ",
+          "th": "かぼちゃときのこのパスタ",
+          "id": "かぼちゃときのこのパスタ",
+          "ms": "かぼちゃときのこのパスタ",
+          "ko": "かぼちゃときのこのパスタ"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%8B%E3%81%BC%E3%81%A1%E3%82%83%E3%81%A8%E3%81%8D%E3%81%AE%E3%81%93%E3%81%AE%E3%83%91%E3%82%B9%E3%82%BF&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%8B%E3%81%BC%E3%81%A1%E3%82%83%E3%81%A8%E3%81%8D%E3%81%AE%E3%81%93%E3%81%AE%E3%83%91%E3%82%B9%E3%82%BF/?tag="
+      },
+      {
+        "name_ja": "かぼちゃのマリネ",
+        "amount": "適量",
+        "name_translated": {
+          "en": "かぼちゃのマリネ",
+          "zh_tw": "かぼちゃのマリネ",
+          "zh_cn": "かぼちゃのマリネ",
+          "vi": "かぼちゃのマリネ",
+          "hi": "かぼちゃのマリネ",
+          "ru": "かぼちゃのマリネ",
+          "th": "かぼちゃのマリネ",
+          "id": "かぼちゃのマリネ",
+          "ms": "かぼちゃのマリネ",
+          "ko": "かぼちゃのマリネ"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%8B%E3%81%BC%E3%81%A1%E3%82%83%E3%81%AE%E3%83%9E%E3%83%AA%E3%83%8D&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%8B%E3%81%BC%E3%81%A1%E3%82%83%E3%81%AE%E3%83%9E%E3%83%AA%E3%83%8D/?tag="
+      }
+    ],
+    "steps_ja": [
+      "かぼちゃは一口大に切る（硬い場合にはラップで包み、電子レンジ（６００ｗ）で２分加熱する）。",
+      "耐熱容器にかぼちゃを入れ、電子レンジ（６００Ｗ）で４～５分ほど、竹串がスッと通るくらいまで加熱する。熱いうちに軽くつぶし、粗熱がとれたら＜調味料＞を加え混ぜ合わせる。",
+      "器に盛り、お好みで粗挽き黒こしょうをふる。",
+      "基本のかぼちゃの煮物",
+      "かぼちゃときのこのパスタ",
+      "かぼちゃのマリネ"
+    ],
+    "image_url": "",
+    "title": {
+      "en": "電子レンジで！かぼちゃサラダ",
+      "zh_tw": "電子レンジで！かぼちゃサラダ",
+      "zh_cn": "電子レンジで！かぼちゃサラダ",
+      "vi": "電子レンジで！かぼちゃサラダ",
+      "hi": "電子レンジで！かぼちゃサラダ",
+      "ru": "電子レンジで！かぼちゃサラダ",
+      "th": "電子レンジで！かぼちゃサラダ",
+      "id": "電子レンジで！かぼちゃサラダ",
+      "ms": "電子レンジで！かぼちゃサラダ",
+      "ko": "電子レンジで！かぼちゃサラダ"
+    },
+    "description": {
+      "en": "",
+      "zh_tw": "",
+      "zh_cn": "",
+      "vi": "",
+      "hi": "",
+      "ru": "",
+      "th": "",
+      "id": "",
+      "ms": "",
+      "ko": ""
+    },
+    "steps": {
+      "en": [
+        "かぼちゃは一口大に切る（硬い場合にはラップで包み、電子レンジ（６００ｗ）で２分加熱する）。",
+        "耐熱容器にかぼちゃを入れ、電子レンジ（６００Ｗ）で４～５分ほど、竹串がスッと通るくらいまで加熱する。熱いうちに軽くつぶし、粗熱がとれたら＜調味料＞を加え混ぜ合わせる。",
+        "器に盛り、お好みで粗挽き黒こしょうをふる。",
+        "基本のかぼちゃの煮物",
+        "かぼちゃときのこのパスタ",
+        "かぼちゃのマリネ"
+      ],
+      "zh_tw": [
+        "かぼちゃは一口大に切る（硬い場合にはラップで包み、電子レンジ（６００ｗ）で２分加熱する）。",
+        "耐熱容器にかぼちゃを入れ、電子レンジ（６００Ｗ）で４～５分ほど、竹串がスッと通るくらいまで加熱する。熱いうちに軽くつぶし、粗熱がとれたら＜調味料＞を加え混ぜ合わせる。",
+        "器に盛り、お好みで粗挽き黒こしょうをふる。",
+        "基本のかぼちゃの煮物",
+        "かぼちゃときのこのパスタ",
+        "かぼちゃのマリネ"
+      ],
+      "zh_cn": [
+        "かぼちゃは一口大に切る（硬い場合にはラップで包み、電子レンジ（６００ｗ）で２分加熱する）。",
+        "耐熱容器にかぼちゃを入れ、電子レンジ（６００Ｗ）で４～５分ほど、竹串がスッと通るくらいまで加熱する。熱いうちに軽くつぶし、粗熱がとれたら＜調味料＞を加え混ぜ合わせる。",
+        "器に盛り、お好みで粗挽き黒こしょうをふる。",
+        "基本のかぼちゃの煮物",
+        "かぼちゃときのこのパスタ",
+        "かぼちゃのマリネ"
+      ],
+      "vi": [
+        "かぼちゃは一口大に切る（硬い場合にはラップで包み、電子レンジ（６００ｗ）で２分加熱する）。",
+        "耐熱容器にかぼちゃを入れ、電子レンジ（６００Ｗ）で４～５分ほど、竹串がスッと通るくらいまで加熱する。熱いうちに軽くつぶし、粗熱がとれたら＜調味料＞を加え混ぜ合わせる。",
+        "器に盛り、お好みで粗挽き黒こしょうをふる。",
+        "基本のかぼちゃの煮物",
+        "かぼちゃときのこのパスタ",
+        "かぼちゃのマリネ"
+      ],
+      "hi": [
+        "かぼちゃは一口大に切る（硬い場合にはラップで包み、電子レンジ（６００ｗ）で２分加熱する）。",
+        "耐熱容器にかぼちゃを入れ、電子レンジ（６００Ｗ）で４～５分ほど、竹串がスッと通るくらいまで加熱する。熱いうちに軽くつぶし、粗熱がとれたら＜調味料＞を加え混ぜ合わせる。",
+        "器に盛り、お好みで粗挽き黒こしょうをふる。",
+        "基本のかぼちゃの煮物",
+        "かぼちゃときのこのパスタ",
+        "かぼちゃのマリネ"
+      ],
+      "ru": [
+        "かぼちゃは一口大に切る（硬い場合にはラップで包み、電子レンジ（６００ｗ）で２分加熱する）。",
+        "耐熱容器にかぼちゃを入れ、電子レンジ（６００Ｗ）で４～５分ほど、竹串がスッと通るくらいまで加熱する。熱いうちに軽くつぶし、粗熱がとれたら＜調味料＞を加え混ぜ合わせる。",
+        "器に盛り、お好みで粗挽き黒こしょうをふる。",
+        "基本のかぼちゃの煮物",
+        "かぼちゃときのこのパスタ",
+        "かぼちゃのマリネ"
+      ],
+      "th": [
+        "かぼちゃは一口大に切る（硬い場合にはラップで包み、電子レンジ（６００ｗ）で２分加熱する）。",
+        "耐熱容器にかぼちゃを入れ、電子レンジ（６００Ｗ）で４～５分ほど、竹串がスッと通るくらいまで加熱する。熱いうちに軽くつぶし、粗熱がとれたら＜調味料＞を加え混ぜ合わせる。",
+        "器に盛り、お好みで粗挽き黒こしょうをふる。",
+        "基本のかぼちゃの煮物",
+        "かぼちゃときのこのパスタ",
+        "かぼちゃのマリネ"
+      ],
+      "id": [
+        "かぼちゃは一口大に切る（硬い場合にはラップで包み、電子レンジ（６００ｗ）で２分加熱する）。",
+        "耐熱容器にかぼちゃを入れ、電子レンジ（６００Ｗ）で４～５分ほど、竹串がスッと通るくらいまで加熱する。熱いうちに軽くつぶし、粗熱がとれたら＜調味料＞を加え混ぜ合わせる。",
+        "器に盛り、お好みで粗挽き黒こしょうをふる。",
+        "基本のかぼちゃの煮物",
+        "かぼちゃときのこのパスタ",
+        "かぼちゃのマリネ"
+      ],
+      "ms": [
+        "かぼちゃは一口大に切る（硬い場合にはラップで包み、電子レンジ（６００ｗ）で２分加熱する）。",
+        "耐熱容器にかぼちゃを入れ、電子レンジ（６００Ｗ）で４～５分ほど、竹串がスッと通るくらいまで加熱する。熱いうちに軽くつぶし、粗熱がとれたら＜調味料＞を加え混ぜ合わせる。",
+        "器に盛り、お好みで粗挽き黒こしょうをふる。",
+        "基本のかぼちゃの煮物",
+        "かぼちゃときのこのパスタ",
+        "かぼちゃのマリネ"
+      ],
+      "ko": [
+        "かぼちゃは一口大に切る（硬い場合にはラップで包み、電子レンジ（６００ｗ）で２分加熱する）。",
+        "耐熱容器にかぼちゃを入れ、電子レンジ（６００Ｗ）で４～５分ほど、竹串がスッと通るくらいまで加熱する。熱いうちに軽くつぶし、粗熱がとれたら＜調味料＞を加え混ぜ合わせる。",
+        "器に盛り、お好みで粗挽き黒こしょうをふる。",
+        "基本のかぼちゃの煮物",
+        "かぼちゃときのこのパスタ",
+        "かぼちゃのマリネ"
+      ]
+    }
+  },
+  {
+    "id": "3558816f",
+    "source_url": "https://www.mizkan.co.jp/ouchirecipe/recipe/?menu_id=18361",
+    "source_site": "Mizkan",
+    "title_ja": "ささみのさっぱり煮(味ぽん)",
+    "description_ja": "",
+    "ingredients": [
+      {
+        "name_ja": "鶏ささみ",
+        "amount": "４本（２００ｇ）",
+        "name_translated": {
+          "en": "鶏ささみ",
+          "zh_tw": "鶏ささみ",
+          "zh_cn": "鶏ささみ",
+          "vi": "鶏ささみ",
+          "hi": "鶏ささみ",
+          "ru": "鶏ささみ",
+          "th": "鶏ささみ",
+          "id": "鶏ささみ",
+          "ms": "鶏ささみ",
+          "ko": "鶏ささみ"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E9%B6%8F%E3%81%95%E3%81%95%E3%81%BF&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E9%B6%8F%E3%81%95%E3%81%95%E3%81%BF/?tag="
+      },
+      {
+        "name_ja": "片栗粉",
+        "amount": "適量",
+        "name_translated": {
+          "en": "片栗粉",
+          "zh_tw": "片栗粉",
+          "zh_cn": "片栗粉",
+          "vi": "片栗粉",
+          "hi": "片栗粉",
+          "ru": "片栗粉",
+          "th": "片栗粉",
+          "id": "片栗粉",
+          "ms": "片栗粉",
+          "ko": "片栗粉"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E7%89%87%E6%A0%97%E7%B2%89&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E7%89%87%E6%A0%97%E7%B2%89/?tag="
+      },
+      {
+        "name_ja": "ミツカン　味ぽん",
+        "amount": "１００ｍｌ",
+        "name_translated": {
+          "en": "ミツカン　味ぽん",
+          "zh_tw": "ミツカン　味ぽん",
+          "zh_cn": "ミツカン　味ぽん",
+          "vi": "ミツカン　味ぽん",
+          "hi": "ミツカン　味ぽん",
+          "ru": "ミツカン　味ぽん",
+          "th": "ミツカン　味ぽん",
+          "id": "ミツカン　味ぽん",
+          "ms": "ミツカン　味ぽん",
+          "ko": "ミツカン　味ぽん"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E5%91%B3%E3%81%BD%E3%82%93&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E5%91%B3%E3%81%BD%E3%82%93/?tag="
+      },
+      {
+        "name_ja": "または",
+        "amount": "適量",
+        "name_translated": {
+          "en": "または",
+          "zh_tw": "または",
+          "zh_cn": "または",
+          "vi": "または",
+          "hi": "または",
+          "ru": "または",
+          "th": "または",
+          "id": "または",
+          "ms": "または",
+          "ko": "または"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%BE%E3%81%9F%E3%81%AF&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%BE%E3%81%9F%E3%81%AF/?tag="
+      },
+      {
+        "name_ja": "ミツカン　味ぽんＭＩＬＤ",
+        "amount": "１００ｍｌ",
+        "name_translated": {
+          "en": "ミツカン　味ぽんＭＩＬＤ",
+          "zh_tw": "ミツカン　味ぽんＭＩＬＤ",
+          "zh_cn": "ミツカン　味ぽんＭＩＬＤ",
+          "vi": "ミツカン　味ぽんＭＩＬＤ",
+          "hi": "ミツカン　味ぽんＭＩＬＤ",
+          "ru": "ミツカン　味ぽんＭＩＬＤ",
+          "th": "ミツカン　味ぽんＭＩＬＤ",
+          "id": "ミツカン　味ぽんＭＩＬＤ",
+          "ms": "ミツカン　味ぽんＭＩＬＤ",
+          "ko": "ミツカン　味ぽんＭＩＬＤ"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E5%91%B3%E3%81%BD%E3%82%93%EF%BC%AD%EF%BC%A9%EF%BC%AC%EF%BC%A4&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E5%91%B3%E3%81%BD%E3%82%93%EF%BC%AD%EF%BC%A9%EF%BC%AC%EF%BC%A4/?tag="
+      },
+      {
+        "name_ja": "水",
+        "amount": "１００ｍｌ",
+        "name_translated": {
+          "en": "水",
+          "zh_tw": "水",
+          "zh_cn": "水",
+          "vi": "水",
+          "hi": "水",
+          "ru": "水",
+          "th": "水",
+          "id": "水",
+          "ms": "水",
+          "ko": "水"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E6%B0%B4&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E6%B0%B4/?tag="
+      },
+      {
+        "name_ja": "温泉卵",
+        "amount": "１個",
+        "name_translated": {
+          "en": "温泉卵",
+          "zh_tw": "温泉卵",
+          "zh_cn": "温泉卵",
+          "vi": "温泉卵",
+          "hi": "温泉卵",
+          "ru": "温泉卵",
+          "th": "温泉卵",
+          "id": "温泉卵",
+          "ms": "温泉卵",
+          "ko": "温泉卵"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E6%B8%A9%E6%B3%89%E5%8D%B5&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E6%B8%A9%E6%B3%89%E5%8D%B5/?tag="
+      },
+      {
+        "name_ja": "小ねぎ　（小口切り）",
+        "amount": "大さじ１",
+        "name_translated": {
+          "en": "小ねぎ　（小口切り）",
+          "zh_tw": "小ねぎ　（小口切り）",
+          "zh_cn": "小ねぎ　（小口切り）",
+          "vi": "小ねぎ　（小口切り）",
+          "hi": "小ねぎ　（小口切り）",
+          "ru": "小ねぎ　（小口切り）",
+          "th": "小ねぎ　（小口切り）",
+          "id": "小ねぎ　（小口切り）",
+          "ms": "小ねぎ　（小口切り）",
+          "ko": "小ねぎ　（小口切り）"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E5%B0%8F%E3%81%AD%E3%81%8E%E3%80%80%EF%BC%88%E5%B0%8F%E5%8F%A3%E5%88%87%E3%82%8A%EF%BC%89&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E5%B0%8F%E3%81%AD%E3%81%8E%E3%80%80%EF%BC%88%E5%B0%8F%E5%8F%A3%E5%88%87%E3%82%8A%EF%BC%89/?tag="
+      },
+      {
+        "name_ja": "１",
+        "amount": "にし、ごく薄く片栗粉をはたく。",
+        "name_translated": {
+          "en": "１",
+          "zh_tw": "１",
+          "zh_cn": "１",
+          "vi": "１",
+          "hi": "１",
+          "ru": "１",
+          "th": "１",
+          "id": "１",
+          "ms": "１",
+          "ko": "１"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%91&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%91/?tag="
+      },
+      {
+        "name_ja": "２",
+        "amount": "鍋に＜調味料＞を入れ、強めの中火にかける。",
+        "name_translated": {
+          "en": "２",
+          "zh_tw": "２",
+          "zh_cn": "２",
+          "vi": "２",
+          "hi": "２",
+          "ru": "２",
+          "th": "２",
+          "id": "２",
+          "ms": "２",
+          "ko": "２"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%92&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%92/?tag="
+      },
+      {
+        "name_ja": "３",
+        "amount": "を入れて火を弱め、弱めの中火で３～４分火が通るまで煮る。",
+        "name_translated": {
+          "en": "３",
+          "zh_tw": "３",
+          "zh_cn": "３",
+          "vi": "３",
+          "hi": "３",
+          "ru": "３",
+          "th": "３",
+          "id": "３",
+          "ms": "３",
+          "ko": "３"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%93&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%93/?tag="
+      },
+      {
+        "name_ja": "４",
+        "amount": "を器に盛り、温泉卵をのせ、小ねぎを散らす。",
+        "name_translated": {
+          "en": "４",
+          "zh_tw": "４",
+          "zh_cn": "４",
+          "vi": "４",
+          "hi": "４",
+          "ru": "４",
+          "th": "４",
+          "id": "４",
+          "ms": "４",
+          "ko": "４"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%94&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%94/?tag="
+      }
+    ],
+    "steps_ja": [
+      "ささみはすじを取って３～４等分のそぎ切りにし、ごく薄く片栗粉をはたく。",
+      "鍋に＜調味料＞を入れ、強めの中火にかける。",
+      "煮立ったら１を入れて火を弱め、弱めの中火で３～４分火が通るまで煮る。",
+      "を器に盛り、温泉卵をのせ、小ねぎを散らす。"
+    ],
+    "image_url": "",
+    "title": {
+      "en": "ささみのさっぱり煮(味ぽん)",
+      "zh_tw": "ささみのさっぱり煮(味ぽん)",
+      "zh_cn": "ささみのさっぱり煮(味ぽん)",
+      "vi": "ささみのさっぱり煮(味ぽん)",
+      "hi": "ささみのさっぱり煮(味ぽん)",
+      "ru": "ささみのさっぱり煮(味ぽん)",
+      "th": "ささみのさっぱり煮(味ぽん)",
+      "id": "ささみのさっぱり煮(味ぽん)",
+      "ms": "ささみのさっぱり煮(味ぽん)",
+      "ko": "ささみのさっぱり煮(味ぽん)"
+    },
+    "description": {
+      "en": "",
+      "zh_tw": "",
+      "zh_cn": "",
+      "vi": "",
+      "hi": "",
+      "ru": "",
+      "th": "",
+      "id": "",
+      "ms": "",
+      "ko": ""
+    },
+    "steps": {
+      "en": [
+        "ささみはすじを取って３～４等分のそぎ切りにし、ごく薄く片栗粉をはたく。",
+        "鍋に＜調味料＞を入れ、強めの中火にかける。",
+        "煮立ったら１を入れて火を弱め、弱めの中火で３～４分火が通るまで煮る。",
+        "を器に盛り、温泉卵をのせ、小ねぎを散らす。"
+      ],
+      "zh_tw": [
+        "ささみはすじを取って３～４等分のそぎ切りにし、ごく薄く片栗粉をはたく。",
+        "鍋に＜調味料＞を入れ、強めの中火にかける。",
+        "煮立ったら１を入れて火を弱め、弱めの中火で３～４分火が通るまで煮る。",
+        "を器に盛り、温泉卵をのせ、小ねぎを散らす。"
+      ],
+      "zh_cn": [
+        "ささみはすじを取って３～４等分のそぎ切りにし、ごく薄く片栗粉をはたく。",
+        "鍋に＜調味料＞を入れ、強めの中火にかける。",
+        "煮立ったら１を入れて火を弱め、弱めの中火で３～４分火が通るまで煮る。",
+        "を器に盛り、温泉卵をのせ、小ねぎを散らす。"
+      ],
+      "vi": [
+        "ささみはすじを取って３～４等分のそぎ切りにし、ごく薄く片栗粉をはたく。",
+        "鍋に＜調味料＞を入れ、強めの中火にかける。",
+        "煮立ったら１を入れて火を弱め、弱めの中火で３～４分火が通るまで煮る。",
+        "を器に盛り、温泉卵をのせ、小ねぎを散らす。"
+      ],
+      "hi": [
+        "ささみはすじを取って３～４等分のそぎ切りにし、ごく薄く片栗粉をはたく。",
+        "鍋に＜調味料＞を入れ、強めの中火にかける。",
+        "煮立ったら１を入れて火を弱め、弱めの中火で３～４分火が通るまで煮る。",
+        "を器に盛り、温泉卵をのせ、小ねぎを散らす。"
+      ],
+      "ru": [
+        "ささみはすじを取って３～４等分のそぎ切りにし、ごく薄く片栗粉をはたく。",
+        "鍋に＜調味料＞を入れ、強めの中火にかける。",
+        "煮立ったら１を入れて火を弱め、弱めの中火で３～４分火が通るまで煮る。",
+        "を器に盛り、温泉卵をのせ、小ねぎを散らす。"
+      ],
+      "th": [
+        "ささみはすじを取って３～４等分のそぎ切りにし、ごく薄く片栗粉をはたく。",
+        "鍋に＜調味料＞を入れ、強めの中火にかける。",
+        "煮立ったら１を入れて火を弱め、弱めの中火で３～４分火が通るまで煮る。",
+        "を器に盛り、温泉卵をのせ、小ねぎを散らす。"
+      ],
+      "id": [
+        "ささみはすじを取って３～４等分のそぎ切りにし、ごく薄く片栗粉をはたく。",
+        "鍋に＜調味料＞を入れ、強めの中火にかける。",
+        "煮立ったら１を入れて火を弱め、弱めの中火で３～４分火が通るまで煮る。",
+        "を器に盛り、温泉卵をのせ、小ねぎを散らす。"
+      ],
+      "ms": [
+        "ささみはすじを取って３～４等分のそぎ切りにし、ごく薄く片栗粉をはたく。",
+        "鍋に＜調味料＞を入れ、強めの中火にかける。",
+        "煮立ったら１を入れて火を弱め、弱めの中火で３～４分火が通るまで煮る。",
+        "を器に盛り、温泉卵をのせ、小ねぎを散らす。"
+      ],
+      "ko": [
+        "ささみはすじを取って３～４等分のそぎ切りにし、ごく薄く片栗粉をはたく。",
+        "鍋に＜調味料＞を入れ、強めの中火にかける。",
+        "煮立ったら１を入れて火を弱め、弱めの中火で３～４分火が通るまで煮る。",
+        "を器に盛り、温泉卵をのせ、小ねぎを散らす。"
+      ]
+    }
+  },
+  {
+    "id": "d0f38528",
+    "source_url": "https://www.mizkan.co.jp/ouchirecipe/recipe/?menu_id=24272",
+    "source_site": "Mizkan",
+    "title_ja": "ソースが決め手！餃子の皮でハロウィンピザ",
+    "description_ja": "",
+    "ingredients": [
+      {
+        "name_ja": "ぎょうざの皮",
+        "amount": "６枚",
+        "name_translated": {
+          "en": "ぎょうざの皮",
+          "zh_tw": "ぎょうざの皮",
+          "zh_cn": "ぎょうざの皮",
+          "vi": "ぎょうざの皮",
+          "hi": "ぎょうざの皮",
+          "ru": "ぎょうざの皮",
+          "th": "ぎょうざの皮",
+          "id": "ぎょうざの皮",
+          "ms": "ぎょうざの皮",
+          "ko": "ぎょうざの皮"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%8E%E3%82%87%E3%81%86%E3%81%96%E3%81%AE%E7%9A%AE&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%8E%E3%82%87%E3%81%86%E3%81%96%E3%81%AE%E7%9A%AE/?tag="
+      },
+      {
+        "name_ja": "ウインナー",
+        "amount": "３本",
+        "name_translated": {
+          "en": "ウインナー",
+          "zh_tw": "ウインナー",
+          "zh_cn": "ウインナー",
+          "vi": "ウインナー",
+          "hi": "ウインナー",
+          "ru": "ウインナー",
+          "th": "ウインナー",
+          "id": "ウインナー",
+          "ms": "ウインナー",
+          "ko": "ウインナー"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%82%A6%E3%82%A4%E3%83%B3%E3%83%8A%E3%83%BC&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%82%A6%E3%82%A4%E3%83%B3%E3%83%8A%E3%83%BC/?tag="
+      },
+      {
+        "name_ja": "コーン缶　（ホール）",
+        "amount": "３０ｇ",
+        "name_translated": {
+          "en": "コーン缶　（ホール）",
+          "zh_tw": "コーン缶　（ホール）",
+          "zh_cn": "コーン缶　（ホール）",
+          "vi": "コーン缶　（ホール）",
+          "hi": "コーン缶　（ホール）",
+          "ru": "コーン缶　（ホール）",
+          "th": "コーン缶　（ホール）",
+          "id": "コーン缶　（ホール）",
+          "ms": "コーン缶　（ホール）",
+          "ko": "コーン缶　（ホール）"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%82%B3%E3%83%BC%E3%83%B3%E7%BC%B6%E3%80%80%EF%BC%88%E3%83%9B%E3%83%BC%E3%83%AB%EF%BC%89&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%82%B3%E3%83%BC%E3%83%B3%E7%BC%B6%E3%80%80%EF%BC%88%E3%83%9B%E3%83%BC%E3%83%AB%EF%BC%89/?tag="
+      },
+      {
+        "name_ja": "スライスチーズ",
+        "amount": "２枚",
+        "name_translated": {
+          "en": "スライスチーズ",
+          "zh_tw": "スライスチーズ",
+          "zh_cn": "スライスチーズ",
+          "vi": "スライスチーズ",
+          "hi": "スライスチーズ",
+          "ru": "スライスチーズ",
+          "th": "スライスチーズ",
+          "id": "スライスチーズ",
+          "ms": "スライスチーズ",
+          "ko": "スライスチーズ"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%82%B9%E3%83%A9%E3%82%A4%E3%82%B9%E3%83%81%E3%83%BC%E3%82%BA&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%82%B9%E3%83%A9%E3%82%A4%E3%82%B9%E3%83%81%E3%83%BC%E3%82%BA/?tag="
+      },
+      {
+        "name_ja": "サラダ油",
+        "amount": "小さじ１／２",
+        "name_translated": {
+          "en": "サラダ油",
+          "zh_tw": "サラダ油",
+          "zh_cn": "サラダ油",
+          "vi": "サラダ油",
+          "hi": "サラダ油",
+          "ru": "サラダ油",
+          "th": "サラダ油",
+          "id": "サラダ油",
+          "ms": "サラダ油",
+          "ko": "サラダ油"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%82%B5%E3%83%A9%E3%83%80%E6%B2%B9&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%82%B5%E3%83%A9%E3%83%80%E6%B2%B9/?tag="
+      },
+      {
+        "name_ja": "ミツカン　追いがつおつゆ２倍",
+        "amount": "小さじ２",
+        "name_translated": {
+          "en": "ミツカン　追いがつおつゆ２倍",
+          "zh_tw": "ミツカン　追いがつおつゆ２倍",
+          "zh_cn": "ミツカン　追いがつおつゆ２倍",
+          "vi": "ミツカン　追いがつおつゆ２倍",
+          "hi": "ミツカン　追いがつおつゆ２倍",
+          "ru": "ミツカン　追いがつおつゆ２倍",
+          "th": "ミツカン　追いがつおつゆ２倍",
+          "id": "ミツカン　追いがつおつゆ２倍",
+          "ms": "ミツカン　追いがつおつゆ２倍",
+          "ko": "ミツカン　追いがつおつゆ２倍"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E8%BF%BD%E3%81%84%E3%81%8C%E3%81%A4%E3%81%8A%E3%81%A4%E3%82%86%EF%BC%92%E5%80%8D&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E8%BF%BD%E3%81%84%E3%81%8C%E3%81%A4%E3%81%8A%E3%81%A4%E3%82%86%EF%BC%92%E5%80%8D/?tag="
+      },
+      {
+        "name_ja": "トマトケチャップ",
+        "amount": "大さじ２",
+        "name_translated": {
+          "en": "トマトケチャップ",
+          "zh_tw": "トマトケチャップ",
+          "zh_cn": "トマトケチャップ",
+          "vi": "トマトケチャップ",
+          "hi": "トマトケチャップ",
+          "ru": "トマトケチャップ",
+          "th": "トマトケチャップ",
+          "id": "トマトケチャップ",
+          "ms": "トマトケチャップ",
+          "ko": "トマトケチャップ"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%88%E3%83%9E%E3%83%88%E3%82%B1%E3%83%81%E3%83%A3%E3%83%83%E3%83%97&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%88%E3%83%9E%E3%83%88%E3%82%B1%E3%83%81%E3%83%A3%E3%83%83%E3%83%97/?tag="
+      },
+      {
+        "name_ja": "ドライパセリ",
+        "amount": "お好みで",
+        "name_translated": {
+          "en": "ドライパセリ",
+          "zh_tw": "ドライパセリ",
+          "zh_cn": "ドライパセリ",
+          "vi": "ドライパセリ",
+          "hi": "ドライパセリ",
+          "ru": "ドライパセリ",
+          "th": "ドライパセリ",
+          "id": "ドライパセリ",
+          "ms": "ドライパセリ",
+          "ko": "ドライパセリ"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%89%E3%83%A9%E3%82%A4%E3%83%91%E3%82%BB%E3%83%AA&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%89%E3%83%A9%E3%82%A4%E3%83%91%E3%82%BB%E3%83%AA/?tag="
+      },
+      {
+        "name_ja": "１",
+        "amount": "にする。＜A＞の調味料を混ぜ合わせる。",
+        "name_translated": {
+          "en": "１",
+          "zh_tw": "１",
+          "zh_cn": "１",
+          "vi": "１",
+          "hi": "１",
+          "ru": "１",
+          "th": "１",
+          "id": "１",
+          "ms": "１",
+          "ko": "１"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%91&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%91/?tag="
+      },
+      {
+        "name_ja": "２",
+        "amount": "フライパンにサラダ油を広げ、ぎょうざの皮を置く。＜A＞を皮全体にぬり、ウインナーとコーンを散らし、表面を平にならす。中火で皮がパリッとするまで焼く。",
+        "name_translated": {
+          "en": "２",
+          "zh_tw": "２",
+          "zh_cn": "２",
+          "vi": "２",
+          "hi": "２",
+          "ru": "２",
+          "th": "２",
+          "id": "２",
+          "ms": "２",
+          "ko": "２"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%92&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%92/?tag="
+      },
+      {
+        "name_ja": "３",
+        "amount": "好きな型で抜いたチーズをのせ、溶けるまで弱火で焼く。（余ったチーズは細かくちぎってのせると、活用できます）",
+        "name_translated": {
+          "en": "３",
+          "zh_tw": "３",
+          "zh_cn": "３",
+          "vi": "３",
+          "hi": "３",
+          "ru": "３",
+          "th": "３",
+          "id": "３",
+          "ms": "３",
+          "ko": "３"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%93&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%93/?tag="
+      },
+      {
+        "name_ja": "４",
+        "amount": "お好みでパセリを散らす。",
+        "name_translated": {
+          "en": "４",
+          "zh_tw": "４",
+          "zh_cn": "４",
+          "vi": "４",
+          "hi": "４",
+          "ru": "４",
+          "th": "４",
+          "id": "４",
+          "ms": "４",
+          "ko": "４"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%94&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%94/?tag="
+      }
+    ],
+    "steps_ja": [
+      "ウインナーは５ｍｍ幅の輪切りにする。＜A＞の調味料を混ぜ合わせる。",
+      "フライパンにサラダ油を広げ、ぎょうざの皮を置く。＜A＞を皮全体にぬり、ウインナーとコーンを散らし、表面を平にならす。中火で皮がパリッとするまで焼く。",
+      "好きな型で抜いたチーズをのせ、溶けるまで弱火で焼く。（余ったチーズは細かくちぎってのせると、活用できます）",
+      "お好みでパセリを散らす。"
+    ],
+    "image_url": "",
+    "title": {
+      "en": "ソースが決め手！餃子の皮でハロウィンピザ",
+      "zh_tw": "ソースが決め手！餃子の皮でハロウィンピザ",
+      "zh_cn": "ソースが決め手！餃子の皮でハロウィンピザ",
+      "vi": "ソースが決め手！餃子の皮でハロウィンピザ",
+      "hi": "ソースが決め手！餃子の皮でハロウィンピザ",
+      "ru": "ソースが決め手！餃子の皮でハロウィンピザ",
+      "th": "ソースが決め手！餃子の皮でハロウィンピザ",
+      "id": "ソースが決め手！餃子の皮でハロウィンピザ",
+      "ms": "ソースが決め手！餃子の皮でハロウィンピザ",
+      "ko": "ソースが決め手！餃子の皮でハロウィンピザ"
+    },
+    "description": {
+      "en": "",
+      "zh_tw": "",
+      "zh_cn": "",
+      "vi": "",
+      "hi": "",
+      "ru": "",
+      "th": "",
+      "id": "",
+      "ms": "",
+      "ko": ""
+    },
+    "steps": {
+      "en": [
+        "ウインナーは５ｍｍ幅の輪切りにする。＜A＞の調味料を混ぜ合わせる。",
+        "フライパンにサラダ油を広げ、ぎょうざの皮を置く。＜A＞を皮全体にぬり、ウインナーとコーンを散らし、表面を平にならす。中火で皮がパリッとするまで焼く。",
+        "好きな型で抜いたチーズをのせ、溶けるまで弱火で焼く。（余ったチーズは細かくちぎってのせると、活用できます）",
+        "お好みでパセリを散らす。"
+      ],
+      "zh_tw": [
+        "ウインナーは５ｍｍ幅の輪切りにする。＜A＞の調味料を混ぜ合わせる。",
+        "フライパンにサラダ油を広げ、ぎょうざの皮を置く。＜A＞を皮全体にぬり、ウインナーとコーンを散らし、表面を平にならす。中火で皮がパリッとするまで焼く。",
+        "好きな型で抜いたチーズをのせ、溶けるまで弱火で焼く。（余ったチーズは細かくちぎってのせると、活用できます）",
+        "お好みでパセリを散らす。"
+      ],
+      "zh_cn": [
+        "ウインナーは５ｍｍ幅の輪切りにする。＜A＞の調味料を混ぜ合わせる。",
+        "フライパンにサラダ油を広げ、ぎょうざの皮を置く。＜A＞を皮全体にぬり、ウインナーとコーンを散らし、表面を平にならす。中火で皮がパリッとするまで焼く。",
+        "好きな型で抜いたチーズをのせ、溶けるまで弱火で焼く。（余ったチーズは細かくちぎってのせると、活用できます）",
+        "お好みでパセリを散らす。"
+      ],
+      "vi": [
+        "ウインナーは５ｍｍ幅の輪切りにする。＜A＞の調味料を混ぜ合わせる。",
+        "フライパンにサラダ油を広げ、ぎょうざの皮を置く。＜A＞を皮全体にぬり、ウインナーとコーンを散らし、表面を平にならす。中火で皮がパリッとするまで焼く。",
+        "好きな型で抜いたチーズをのせ、溶けるまで弱火で焼く。（余ったチーズは細かくちぎってのせると、活用できます）",
+        "お好みでパセリを散らす。"
+      ],
+      "hi": [
+        "ウインナーは５ｍｍ幅の輪切りにする。＜A＞の調味料を混ぜ合わせる。",
+        "フライパンにサラダ油を広げ、ぎょうざの皮を置く。＜A＞を皮全体にぬり、ウインナーとコーンを散らし、表面を平にならす。中火で皮がパリッとするまで焼く。",
+        "好きな型で抜いたチーズをのせ、溶けるまで弱火で焼く。（余ったチーズは細かくちぎってのせると、活用できます）",
+        "お好みでパセリを散らす。"
+      ],
+      "ru": [
+        "ウインナーは５ｍｍ幅の輪切りにする。＜A＞の調味料を混ぜ合わせる。",
+        "フライパンにサラダ油を広げ、ぎょうざの皮を置く。＜A＞を皮全体にぬり、ウインナーとコーンを散らし、表面を平にならす。中火で皮がパリッとするまで焼く。",
+        "好きな型で抜いたチーズをのせ、溶けるまで弱火で焼く。（余ったチーズは細かくちぎってのせると、活用できます）",
+        "お好みでパセリを散らす。"
+      ],
+      "th": [
+        "ウインナーは５ｍｍ幅の輪切りにする。＜A＞の調味料を混ぜ合わせる。",
+        "フライパンにサラダ油を広げ、ぎょうざの皮を置く。＜A＞を皮全体にぬり、ウインナーとコーンを散らし、表面を平にならす。中火で皮がパリッとするまで焼く。",
+        "好きな型で抜いたチーズをのせ、溶けるまで弱火で焼く。（余ったチーズは細かくちぎってのせると、活用できます）",
+        "お好みでパセリを散らす。"
+      ],
+      "id": [
+        "ウインナーは５ｍｍ幅の輪切りにする。＜A＞の調味料を混ぜ合わせる。",
+        "フライパンにサラダ油を広げ、ぎょうざの皮を置く。＜A＞を皮全体にぬり、ウインナーとコーンを散らし、表面を平にならす。中火で皮がパリッとするまで焼く。",
+        "好きな型で抜いたチーズをのせ、溶けるまで弱火で焼く。（余ったチーズは細かくちぎってのせると、活用できます）",
+        "お好みでパセリを散らす。"
+      ],
+      "ms": [
+        "ウインナーは５ｍｍ幅の輪切りにする。＜A＞の調味料を混ぜ合わせる。",
+        "フライパンにサラダ油を広げ、ぎょうざの皮を置く。＜A＞を皮全体にぬり、ウインナーとコーンを散らし、表面を平にならす。中火で皮がパリッとするまで焼く。",
+        "好きな型で抜いたチーズをのせ、溶けるまで弱火で焼く。（余ったチーズは細かくちぎってのせると、活用できます）",
+        "お好みでパセリを散らす。"
+      ],
+      "ko": [
+        "ウインナーは５ｍｍ幅の輪切りにする。＜A＞の調味料を混ぜ合わせる。",
+        "フライパンにサラダ油を広げ、ぎょうざの皮を置く。＜A＞を皮全体にぬり、ウインナーとコーンを散らし、表面を平にならす。中火で皮がパリッとするまで焼く。",
+        "好きな型で抜いたチーズをのせ、溶けるまで弱火で焼く。（余ったチーズは細かくちぎってのせると、活用できます）",
+        "お好みでパセリを散らす。"
+      ]
+    }
+  },
+  {
+    "id": "9dac3377",
+    "source_url": "https://www.mizkan.co.jp/ouchirecipe/recipe/?menu_id=8269",
+    "source_site": "Mizkan",
+    "title_ja": "基本のかぼちゃの煮物",
+    "description_ja": "",
+    "ingredients": [
+      {
+        "name_ja": "かぼちゃ",
+        "amount": "１／６個（２００ｇ）",
+        "name_translated": {
+          "en": "かぼちゃ",
+          "zh_tw": "かぼちゃ",
+          "zh_cn": "かぼちゃ",
+          "vi": "かぼちゃ",
+          "hi": "かぼちゃ",
+          "ru": "かぼちゃ",
+          "th": "かぼちゃ",
+          "id": "かぼちゃ",
+          "ms": "かぼちゃ",
+          "ko": "かぼちゃ"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%8B%E3%81%BC%E3%81%A1%E3%82%83&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%8B%E3%81%BC%E3%81%A1%E3%82%83/?tag="
+      },
+      {
+        "name_ja": "ミツカン　追いがつおつゆ２倍",
+        "amount": "大さじ２",
+        "name_translated": {
+          "en": "ミツカン　追いがつおつゆ２倍",
+          "zh_tw": "ミツカン　追いがつおつゆ２倍",
+          "zh_cn": "ミツカン　追いがつおつゆ２倍",
+          "vi": "ミツカン　追いがつおつゆ２倍",
+          "hi": "ミツカン　追いがつおつゆ２倍",
+          "ru": "ミツカン　追いがつおつゆ２倍",
+          "th": "ミツカン　追いがつおつゆ２倍",
+          "id": "ミツカン　追いがつおつゆ２倍",
+          "ms": "ミツカン　追いがつおつゆ２倍",
+          "ko": "ミツカン　追いがつおつゆ２倍"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E8%BF%BD%E3%81%84%E3%81%8C%E3%81%A4%E3%81%8A%E3%81%A4%E3%82%86%EF%BC%92%E5%80%8D&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E8%BF%BD%E3%81%84%E3%81%8C%E3%81%A4%E3%81%8A%E3%81%A4%E3%82%86%EF%BC%92%E5%80%8D/?tag="
+      },
+      {
+        "name_ja": "みりん",
+        "amount": "大さじ１",
+        "name_translated": {
+          "en": "みりん",
+          "zh_tw": "みりん",
+          "zh_cn": "みりん",
+          "vi": "みりん",
+          "hi": "みりん",
+          "ru": "みりん",
+          "th": "みりん",
+          "id": "みりん",
+          "ms": "みりん",
+          "ko": "みりん"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%BF%E3%82%8A%E3%82%93&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%BF%E3%82%8A%E3%82%93/?tag="
+      },
+      {
+        "name_ja": "水",
+        "amount": "１００ｍｌ",
+        "name_translated": {
+          "en": "水",
+          "zh_tw": "水",
+          "zh_cn": "水",
+          "vi": "水",
+          "hi": "水",
+          "ru": "水",
+          "th": "水",
+          "id": "水",
+          "ms": "水",
+          "ko": "水"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E6%B0%B4&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E6%B0%B4/?tag="
+      },
+      {
+        "name_ja": "１",
+        "amount": "かぼちゃは種とワタをとり、一口大に切って所々皮をむく。",
+        "name_translated": {
+          "en": "１",
+          "zh_tw": "１",
+          "zh_cn": "１",
+          "vi": "１",
+          "hi": "１",
+          "ru": "１",
+          "th": "１",
+          "id": "１",
+          "ms": "１",
+          "ko": "１"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%91&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%91/?tag="
+      },
+      {
+        "name_ja": "２",
+        "amount": "のかぼちゃを入れて中火で落としぶたをして煮る。",
+        "name_translated": {
+          "en": "２",
+          "zh_tw": "２",
+          "zh_cn": "２",
+          "vi": "２",
+          "hi": "２",
+          "ru": "２",
+          "th": "２",
+          "id": "２",
+          "ms": "２",
+          "ko": "２"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%92&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%92/?tag="
+      },
+      {
+        "name_ja": "３",
+        "amount": "かぼちゃが柔かくなるまで焦げ付かないようにゆっくり煮含める。",
+        "name_translated": {
+          "en": "３",
+          "zh_tw": "３",
+          "zh_cn": "３",
+          "vi": "３",
+          "hi": "３",
+          "ru": "３",
+          "th": "３",
+          "id": "３",
+          "ms": "３",
+          "ko": "３"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%93&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%93/?tag="
+      },
+      {
+        "name_ja": "電子レンジで！かぼちゃサラダ",
+        "amount": "適量",
+        "name_translated": {
+          "en": "電子レンジで！かぼちゃサラダ",
+          "zh_tw": "電子レンジで！かぼちゃサラダ",
+          "zh_cn": "電子レンジで！かぼちゃサラダ",
+          "vi": "電子レンジで！かぼちゃサラダ",
+          "hi": "電子レンジで！かぼちゃサラダ",
+          "ru": "電子レンジで！かぼちゃサラダ",
+          "th": "電子レンジで！かぼちゃサラダ",
+          "id": "電子レンジで！かぼちゃサラダ",
+          "ms": "電子レンジで！かぼちゃサラダ",
+          "ko": "電子レンジで！かぼちゃサラダ"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E9%9B%BB%E5%AD%90%E3%83%AC%E3%83%B3%E3%82%B8%E3%81%A7%EF%BC%81%E3%81%8B%E3%81%BC%E3%81%A1%E3%82%83%E3%82%B5%E3%83%A9%E3%83%80&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E9%9B%BB%E5%AD%90%E3%83%AC%E3%83%B3%E3%82%B8%E3%81%A7%EF%BC%81%E3%81%8B%E3%81%BC%E3%81%A1%E3%82%83%E3%82%B5%E3%83%A9%E3%83%80/?tag="
+      },
+      {
+        "name_ja": "かぼちゃときのこのパスタ",
+        "amount": "適量",
+        "name_translated": {
+          "en": "かぼちゃときのこのパスタ",
+          "zh_tw": "かぼちゃときのこのパスタ",
+          "zh_cn": "かぼちゃときのこのパスタ",
+          "vi": "かぼちゃときのこのパスタ",
+          "hi": "かぼちゃときのこのパスタ",
+          "ru": "かぼちゃときのこのパスタ",
+          "th": "かぼちゃときのこのパスタ",
+          "id": "かぼちゃときのこのパスタ",
+          "ms": "かぼちゃときのこのパスタ",
+          "ko": "かぼちゃときのこのパスタ"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%8B%E3%81%BC%E3%81%A1%E3%82%83%E3%81%A8%E3%81%8D%E3%81%AE%E3%81%93%E3%81%AE%E3%83%91%E3%82%B9%E3%82%BF&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%8B%E3%81%BC%E3%81%A1%E3%82%83%E3%81%A8%E3%81%8D%E3%81%AE%E3%81%93%E3%81%AE%E3%83%91%E3%82%B9%E3%82%BF/?tag="
+      },
+      {
+        "name_ja": "かぼちゃのマリネ",
+        "amount": "適量",
+        "name_translated": {
+          "en": "かぼちゃのマリネ",
+          "zh_tw": "かぼちゃのマリネ",
+          "zh_cn": "かぼちゃのマリネ",
+          "vi": "かぼちゃのマリネ",
+          "hi": "かぼちゃのマリネ",
+          "ru": "かぼちゃのマリネ",
+          "th": "かぼちゃのマリネ",
+          "id": "かぼちゃのマリネ",
+          "ms": "かぼちゃのマリネ",
+          "ko": "かぼちゃのマリネ"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%8B%E3%81%BC%E3%81%A1%E3%82%83%E3%81%AE%E3%83%9E%E3%83%AA%E3%83%8D&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%8B%E3%81%BC%E3%81%A1%E3%82%83%E3%81%AE%E3%83%9E%E3%83%AA%E3%83%8D/?tag="
+      }
+    ],
+    "steps_ja": [
+      "かぼちゃは種とワタをとり、一口大に切って所々皮をむく。",
+      "鍋に＜調味料＞を煮立て、１のかぼちゃを入れて中火で落としぶたをして煮る。",
+      "かぼちゃが柔かくなるまで焦げ付かないようにゆっくり煮含める。",
+      "電子レンジで！かぼちゃサラダ",
+      "かぼちゃときのこのパスタ",
+      "かぼちゃのマリネ"
+    ],
+    "image_url": "",
+    "title": {
+      "en": "基本のかぼちゃの煮物",
+      "zh_tw": "基本のかぼちゃの煮物",
+      "zh_cn": "基本のかぼちゃの煮物",
+      "vi": "基本のかぼちゃの煮物",
+      "hi": "基本のかぼちゃの煮物",
+      "ru": "基本のかぼちゃの煮物",
+      "th": "基本のかぼちゃの煮物",
+      "id": "基本のかぼちゃの煮物",
+      "ms": "基本のかぼちゃの煮物",
+      "ko": "基本のかぼちゃの煮物"
+    },
+    "description": {
+      "en": "",
+      "zh_tw": "",
+      "zh_cn": "",
+      "vi": "",
+      "hi": "",
+      "ru": "",
+      "th": "",
+      "id": "",
+      "ms": "",
+      "ko": ""
+    },
+    "steps": {
+      "en": [
+        "かぼちゃは種とワタをとり、一口大に切って所々皮をむく。",
+        "鍋に＜調味料＞を煮立て、１のかぼちゃを入れて中火で落としぶたをして煮る。",
+        "かぼちゃが柔かくなるまで焦げ付かないようにゆっくり煮含める。",
+        "電子レンジで！かぼちゃサラダ",
+        "かぼちゃときのこのパスタ",
+        "かぼちゃのマリネ"
+      ],
+      "zh_tw": [
+        "かぼちゃは種とワタをとり、一口大に切って所々皮をむく。",
+        "鍋に＜調味料＞を煮立て、１のかぼちゃを入れて中火で落としぶたをして煮る。",
+        "かぼちゃが柔かくなるまで焦げ付かないようにゆっくり煮含める。",
+        "電子レンジで！かぼちゃサラダ",
+        "かぼちゃときのこのパスタ",
+        "かぼちゃのマリネ"
+      ],
+      "zh_cn": [
+        "かぼちゃは種とワタをとり、一口大に切って所々皮をむく。",
+        "鍋に＜調味料＞を煮立て、１のかぼちゃを入れて中火で落としぶたをして煮る。",
+        "かぼちゃが柔かくなるまで焦げ付かないようにゆっくり煮含める。",
+        "電子レンジで！かぼちゃサラダ",
+        "かぼちゃときのこのパスタ",
+        "かぼちゃのマリネ"
+      ],
+      "vi": [
+        "かぼちゃは種とワタをとり、一口大に切って所々皮をむく。",
+        "鍋に＜調味料＞を煮立て、１のかぼちゃを入れて中火で落としぶたをして煮る。",
+        "かぼちゃが柔かくなるまで焦げ付かないようにゆっくり煮含める。",
+        "電子レンジで！かぼちゃサラダ",
+        "かぼちゃときのこのパスタ",
+        "かぼちゃのマリネ"
+      ],
+      "hi": [
+        "かぼちゃは種とワタをとり、一口大に切って所々皮をむく。",
+        "鍋に＜調味料＞を煮立て、１のかぼちゃを入れて中火で落としぶたをして煮る。",
+        "かぼちゃが柔かくなるまで焦げ付かないようにゆっくり煮含める。",
+        "電子レンジで！かぼちゃサラダ",
+        "かぼちゃときのこのパスタ",
+        "かぼちゃのマリネ"
+      ],
+      "ru": [
+        "かぼちゃは種とワタをとり、一口大に切って所々皮をむく。",
+        "鍋に＜調味料＞を煮立て、１のかぼちゃを入れて中火で落としぶたをして煮る。",
+        "かぼちゃが柔かくなるまで焦げ付かないようにゆっくり煮含める。",
+        "電子レンジで！かぼちゃサラダ",
+        "かぼちゃときのこのパスタ",
+        "かぼちゃのマリネ"
+      ],
+      "th": [
+        "かぼちゃは種とワタをとり、一口大に切って所々皮をむく。",
+        "鍋に＜調味料＞を煮立て、１のかぼちゃを入れて中火で落としぶたをして煮る。",
+        "かぼちゃが柔かくなるまで焦げ付かないようにゆっくり煮含める。",
+        "電子レンジで！かぼちゃサラダ",
+        "かぼちゃときのこのパスタ",
+        "かぼちゃのマリネ"
+      ],
+      "id": [
+        "かぼちゃは種とワタをとり、一口大に切って所々皮をむく。",
+        "鍋に＜調味料＞を煮立て、１のかぼちゃを入れて中火で落としぶたをして煮る。",
+        "かぼちゃが柔かくなるまで焦げ付かないようにゆっくり煮含める。",
+        "電子レンジで！かぼちゃサラダ",
+        "かぼちゃときのこのパスタ",
+        "かぼちゃのマリネ"
+      ],
+      "ms": [
+        "かぼちゃは種とワタをとり、一口大に切って所々皮をむく。",
+        "鍋に＜調味料＞を煮立て、１のかぼちゃを入れて中火で落としぶたをして煮る。",
+        "かぼちゃが柔かくなるまで焦げ付かないようにゆっくり煮含める。",
+        "電子レンジで！かぼちゃサラダ",
+        "かぼちゃときのこのパスタ",
+        "かぼちゃのマリネ"
+      ],
+      "ko": [
+        "かぼちゃは種とワタをとり、一口大に切って所々皮をむく。",
+        "鍋に＜調味料＞を煮立て、１のかぼちゃを入れて中火で落としぶたをして煮る。",
+        "かぼちゃが柔かくなるまで焦げ付かないようにゆっくり煮含める。",
+        "電子レンジで！かぼちゃサラダ",
+        "かぼちゃときのこのパスタ",
+        "かぼちゃのマリネ"
+      ]
+    }
   }
 ]

@@ -351408,5 +351408,963 @@
         "거친 열을 취하고 식힌다."
       ]
     }
+  },
+  {
+    "id": "c6b303a9",
+    "source_url": "https://www.mizkan.co.jp/ouchirecipe/recipe/?menu_id=12677",
+    "source_site": "Mizkan",
+    "title_ja": "野菜の「味ぽん」ムース",
+    "description_ja": "",
+    "ingredients": [
+      {
+        "name_ja": "かぼちゃ",
+        "amount": "６０ｇ",
+        "name_translated": {
+          "en": "pumpkin",
+          "zh_tw": "南瓜",
+          "zh_cn": "南瓜",
+          "vi": "bí ngô",
+          "hi": "कद्दू",
+          "ru": "тыква",
+          "th": "ฟักทอง",
+          "id": "labu kuning",
+          "ms": "labu",
+          "ko": "호박"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%8B%E3%81%BC%E3%81%A1%E3%82%83&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%8B%E3%81%BC%E3%81%A1%E3%82%83/?tag="
+      },
+      {
+        "name_ja": "枝豆　（ゆで）",
+        "amount": "６０ｇ",
+        "name_translated": {
+          "en": "Edamame (boiled)",
+          "zh_tw": "毛豆（煮）",
+          "zh_cn": "毛豆（煮）",
+          "vi": "Edamame (luộc)",
+          "hi": "एडामे (उबला हुआ)",
+          "ru": "Эдамаме (вареный)",
+          "th": "ถั่วแระญี่ปุ่น (ต้ม)",
+          "id": "Edamame (direbus)",
+          "ms": "Edamame (direbus)",
+          "ko": "완두콩(삶은)"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E6%9E%9D%E8%B1%86%E3%80%80%EF%BC%88%E3%82%86%E3%81%A7%EF%BC%89&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E6%9E%9D%E8%B1%86%E3%80%80%EF%BC%88%E3%82%86%E3%81%A7%EF%BC%89/?tag="
+      },
+      {
+        "name_ja": "ミツカン　味ぽん",
+        "amount": "大さじ２",
+        "name_translated": {
+          "en": "Mizkan Ajipon",
+          "zh_tw": "味滋康味精",
+          "zh_cn": "味滋康味精",
+          "vi": "Mizkan Ajipon",
+          "hi": "मिज़कान अजिपोन",
+          "ru": "Мизкан Аджипон",
+          "th": "มิซกัน อาจิปอน",
+          "id": "Mizkan Ajipon",
+          "ms": "Mizkan Ajipon",
+          "ko": "미츠칸 미포"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E5%91%B3%E3%81%BD%E3%82%93&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E5%91%B3%E3%81%BD%E3%82%93/?tag="
+      },
+      {
+        "name_ja": "牛乳",
+        "amount": "大さじ６",
+        "name_translated": {
+          "en": "milk",
+          "zh_tw": "牛奶",
+          "zh_cn": "牛奶",
+          "vi": "sữa",
+          "hi": "दूध",
+          "ru": "молоко",
+          "th": "น้ำนม",
+          "id": "susu",
+          "ms": "susu",
+          "ko": "우유"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E7%89%9B%E4%B9%B3&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E7%89%9B%E4%B9%B3/?tag="
+      },
+      {
+        "name_ja": "粉ゼラチン",
+        "amount": "５ｇ",
+        "name_translated": {
+          "en": "powdered gelatin",
+          "zh_tw": "明膠粉",
+          "zh_cn": "明胶粉",
+          "vi": "gelatin dạng bột",
+          "hi": "पाउडर जिलेटिन",
+          "ru": "порошкообразный желатин",
+          "th": "เจลาตินผง",
+          "id": "agar-agar bubuk",
+          "ms": "serbuk gelatin",
+          "ko": "분말 젤라틴"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E7%B2%89%E3%82%BC%E3%83%A9%E3%83%81%E3%83%B3&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E7%B2%89%E3%82%BC%E3%83%A9%E3%83%81%E3%83%B3/?tag="
+      },
+      {
+        "name_ja": "水",
+        "amount": "大さじ２",
+        "name_translated": {
+          "en": "water",
+          "zh_tw": "水",
+          "zh_cn": "水",
+          "vi": "Nước",
+          "hi": "पानी",
+          "ru": "вода",
+          "th": "น้ำ",
+          "id": "air",
+          "ms": "air",
+          "ko": "물"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E6%B0%B4&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E6%B0%B4/?tag="
+      },
+      {
+        "name_ja": "生クリーム",
+        "amount": "８０ｍｌ",
+        "name_translated": {
+          "en": "fresh cream",
+          "zh_tw": "鮮奶油",
+          "zh_cn": "鲜奶油",
+          "vi": "kem tươi",
+          "hi": "ताज़ा मलाई",
+          "ru": "свежие сливки",
+          "th": "ครีมสด",
+          "id": "krim segar",
+          "ms": "krim segar",
+          "ko": "생크림"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E7%94%9F%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%A0&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E7%94%9F%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%A0/?tag="
+      },
+      {
+        "name_ja": "１",
+        "amount": "にして除いておき、残りを＜Ａ＞の半量と共に、フードプロセッサーなどで滑らかになるまでつぶす。",
+        "name_translated": {
+          "en": "1",
+          "zh_tw": "1",
+          "zh_cn": "1",
+          "vi": "1",
+          "hi": "1",
+          "ru": "1",
+          "th": "1",
+          "id": "1",
+          "ms": "1",
+          "ko": "1"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%91&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%91/?tag="
+      },
+      {
+        "name_ja": "２",
+        "amount": "枝豆は飾り用を除き、残りを＜Ａ＞の半量と共にフードプロセッサーなどで滑らかになるまで撹拌する。",
+        "name_translated": {
+          "en": "2",
+          "zh_tw": "2",
+          "zh_cn": "2",
+          "vi": "2",
+          "hi": "2",
+          "ru": "2",
+          "th": "2",
+          "id": "2",
+          "ms": "2",
+          "ko": "2"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%92&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%92/?tag="
+      },
+      {
+        "name_ja": "３",
+        "amount": "と合わせる。",
+        "name_translated": {
+          "en": "3",
+          "zh_tw": "3",
+          "zh_cn": "3",
+          "vi": "3",
+          "hi": "3",
+          "ru": "3",
+          "th": "3",
+          "id": "3",
+          "ms": "3",
+          "ko": "3"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%93&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%93/?tag="
+      },
+      {
+        "name_ja": "４",
+        "amount": "七分立てにした生クリームを半量ずつ加えてよく混ぜ、枝豆のムースから容器に入れて冷蔵庫で冷やし固め、かぼちゃのムースを入れてさらに冷蔵庫で冷やし固め、２層にする。",
+        "name_translated": {
+          "en": "4",
+          "zh_tw": "4",
+          "zh_cn": "4",
+          "vi": "4",
+          "hi": "4",
+          "ru": "4",
+          "th": "4",
+          "id": "4",
+          "ms": "4",
+          "ko": "4"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%94&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%94/?tag="
+      },
+      {
+        "name_ja": "５",
+        "amount": "飾り用のかぼちゃ、枝豆をのせて飾る。",
+        "name_translated": {
+          "en": "5",
+          "zh_tw": "5",
+          "zh_cn": "5",
+          "vi": "5",
+          "hi": "5",
+          "ru": "5",
+          "th": "5",
+          "id": "5",
+          "ms": "5",
+          "ko": "5"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%95&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%95/?tag="
+      }
+    ],
+    "steps_ja": [
+      "かぼちゃは適当な大きさに切り、耐熱容器に並べてラップをして電子レンジ（６００Ｗ）で２分加熱する。飾り用のかぼちゃを角切りにして除いておき、残りを＜Ａ＞の半量と共に、フードプロセッサーなどで滑らかになるまでつぶす。",
+      "枝豆は飾り用を除き、残りを＜Ａ＞の半量と共にフードプロセッサーなどで滑らかになるまで撹拌する。",
+      "ゼラチンは水に入れてふやかしておき、耐熱容器に入れて電子レンジ（６００Ｗ）で２０秒加熱して溶かす。粗熱が取れるまで冷まし、２等分にしてそれぞれ、１、２と合わせる。",
+      "七分立てにした生クリームを半量ずつ加えてよく混ぜ、枝豆のムースから容器に入れて冷蔵庫で冷やし固め、かぼちゃのムースを入れてさらに冷蔵庫で冷やし固め、２層にする。",
+      "飾り用のかぼちゃ、枝豆をのせて飾る。"
+    ],
+    "image_url": "",
+    "title": {
+      "en": "Vegetable “Ajipon” mousse",
+      "zh_tw": "蔬菜“Ajipon”慕斯",
+      "zh_cn": "蔬菜“Ajipon”慕斯",
+      "vi": "Mousse rau củ “Ajipon”",
+      "hi": "वनस्पति \"अजिपोन\" मूस",
+      "ru": "Овощной мусс «Аджипон»",
+      "th": "มูสผัก “อาจิปอน”",
+      "id": "Mousse sayur “Ajipon”.",
+      "ms": "Mousse \"Ajipon\" sayuran",
+      "ko": "야채의 「아이폰」무스"
+    },
+    "description": {
+      "en": "",
+      "zh_tw": "",
+      "zh_cn": "",
+      "vi": "",
+      "hi": "",
+      "ru": "",
+      "th": "",
+      "id": "",
+      "ms": "",
+      "ko": ""
+    },
+    "steps": {
+      "en": [
+        "Cut the pumpkin into appropriate sizes, place them in a heat-resistant container, cover with plastic wrap, and heat in the microwave (600W) for 2 minutes. Cut the pumpkin for decoration into cubes and set aside, then mash the rest with half of <A> in a food processor until smooth.",
+        "Remove the edamame for decoration and blend the rest with half of <A> in a food processor until smooth.",
+        "Soak the gelatin in water, then place it in a heat-resistant container and heat in the microwave (600W) for 20 seconds to dissolve. Cool until it has cooled down, then divide it into 2 equal parts and combine each with 1 and 2.",
+        "Add half of the whipped cream at a time and mix well. Pour the edamame mousse into a container and refrigerate to solidify. Add the pumpkin mousse and chill again in the refrigerator to form two layers.",
+        "Garnish with pumpkin and edamame."
+      ],
+      "zh_tw": [
+        "將南瓜切成適當大小，放入耐熱容器中，蓋上保鮮膜，放入微波爐（600W）加熱2分鐘。將裝飾用南瓜切成方塊並放在一邊，然後將其餘的與一半<A>一起放入食品加工機中搗碎至光滑。",
+        "取出裝飾用的毛豆，將剩餘的毛豆與一半的<A>放入食物處理機中攪拌至光滑。",
+        "將吉利丁片用水泡軟，然後放入耐熱容器中，用微波爐（600W）加熱20秒使其溶解。冷卻至冷卻，然後將其分成2等份，分別與1和2混合。",
+        "一次加入一半的鮮奶油，攪拌均勻。將毛豆慕斯倒入容器中，冷藏至凝固。加入南瓜慕斯，再次放入冰箱冷藏，形成兩層。",
+        "用南瓜和毛豆裝飾。"
+      ],
+      "zh_cn": [
+        "将南瓜切成适当大小，放入耐热容器中，盖上保鲜膜，放入微波炉（600W）加热2分钟。将装饰用南瓜切成方块并放在一边，然后将其余的与一半<A>一起放入食品加工机中捣碎至光滑。",
+        "取出装饰用的毛豆，将剩余的毛豆与一半的<A>放入食品加工机中搅拌至光滑。",
+        "将吉利丁片用水泡软，然后放入耐热容器中，用微波炉（600W）加热20秒使其溶解。冷却直至冷却，然后将其分成2等份，分别与1和2混合。",
+        "一次加入一半的鲜奶油，搅拌均匀。将毛豆慕斯倒入容器中，冷藏至凝固。加入南瓜慕斯，再次放入冰箱冷藏，形成两层。",
+        "用南瓜和毛豆装饰。"
+      ],
+      "vi": [
+        "Cắt bí thành từng miếng có kích thước phù hợp, cho vào hộp chịu nhiệt, dùng màng bọc thực phẩm bọc lại và hâm nóng trong lò vi sóng (600W) trong 2 phút. Cắt bí ngô để trang trí thành khối vuông và đặt sang một bên, sau đó nghiền phần còn lại với một nửa <A> trong máy xay thực phẩm cho đến khi mịn.",
+        "Lấy đậu edamame ra để trang trí và xay phần còn lại với một nửa <A> trong máy xay thực phẩm cho đến khi mịn.",
+        "Ngâm gelatin trong nước, sau đó cho vào hộp chịu nhiệt và đun nóng trong lò vi sóng (600W) trong 20 giây cho gelatin tan. Để nguội đến khi nguội thì chia thành 2 phần bằng nhau và gộp mỗi phần 1 và 2.",
+        "Thêm một nửa lượng kem đã đánh bông vào một lúc và trộn đều. Đổ mousse edamame vào hộp và để trong tủ lạnh để đông lại. Thêm mousse bí ngô và làm lạnh lại trong tủ lạnh để tạo thành hai lớp.",
+        "Trang trí với bí ngô và edamame."
+      ],
+      "hi": [
+        "कद्दू को उचित आकार में काटें, उन्हें गर्मी प्रतिरोधी कंटेनर में रखें, प्लास्टिक रैप से ढकें और माइक्रोवेव (600W) में 2 मिनट के लिए गर्म करें। सजावट के लिए कद्दू को क्यूब्स में काटें और एक तरफ रख दें, फिर बाकी को आधे <ए> के साथ फूड प्रोसेसर में चिकना होने तक मैश करें।",
+        "सजावट के लिए एडामे को हटा दें और बाकी को आधे <ए> के साथ फूड प्रोसेसर में चिकना होने तक मिलाएं।",
+        "जिलेटिन को पानी में भिगोएँ, फिर इसे गर्मी प्रतिरोधी कंटेनर में रखें और घुलने के लिए माइक्रोवेव (600W) में 20 सेकंड तक गर्म करें। इसे ठंडा होने तक ठंडा करें, फिर इसे 2 बराबर भागों में विभाजित करें और प्रत्येक को 1 और 2 के साथ मिलाएं।",
+        "एक बार में आधी व्हीप्ड क्रीम डालें और अच्छी तरह मिलाएँ। एडामे मूस को एक कंटेनर में डालें और जमने के लिए फ्रिज में रखें। कद्दू मूस डालें और दो परतें बनाने के लिए रेफ्रिजरेटर में फिर से ठंडा करें।",
+        "कद्दू और एडामेम से सजाएँ।"
+      ],
+      "ru": [
+        "Нарежьте тыкву нужными размерами, поместите ее в термостойкий контейнер, накройте полиэтиленовой пленкой и нагрейте в микроволновой печи (600 Вт) в течение 2 минут. Нарежьте тыкву для украшения кубиками и отложите в сторону, затем разомните остальную часть с половиной <А> в кухонном комбайне до получения однородной массы.",
+        "Удалите эдамаме для украшения и смешайте оставшуюся часть с половиной <А> в кухонном комбайне до получения однородной массы.",
+        "Замочите желатин в воде, затем поместите его в термостойкую емкость и нагрейте в микроволновой печи (600 Вт) в течение 20 секунд, чтобы он растворился. Остудить, пока не остынет, затем разделить на 2 равные части и соединить каждую с 1 и 2.",
+        "Добавляйте по половине взбитых сливок и хорошо перемешивайте. Перелейте мусс из эдамаме в контейнер и поставьте в холодильник, чтобы он застыл. Добавьте тыквенный мусс и снова охладите в холодильнике, чтобы сформировать два слоя.",
+        "Украсьте тыквой и эдамаме."
+      ],
+      "th": [
+        "หั่นฟักทองเป็นขนาดพอเหมาะ แล้วใส่ในภาชนะทนความร้อน ปิดด้วยพลาสติกแร็ป แล้วนำไปให้ความร้อนในไมโครเวฟ (600W) เป็นเวลา 2 นาที หั่นฟักทองสำหรับตกแต่งเป็นลูกเต๋าแล้วพักไว้ จากนั้นบดส่วนที่เหลือด้วย <A> ครึ่งหนึ่งในเครื่องเตรียมอาหารจนเนียน",
+        "นำถั่วแระญี่ปุ่นสำหรับตกแต่งออก และผสมส่วนที่เหลือด้วย <A> ครึ่งหนึ่งในเครื่องเตรียมอาหารจนเนียน",
+        "แช่เจลาตินในน้ำ แล้วใส่ในภาชนะทนความร้อน แล้วนำเข้าไมโครเวฟ (600W) เป็นเวลา 20 วินาทีให้ละลาย เย็นจนเย็น แล้วแบ่งเป็น 2 ส่วนเท่าๆ กัน แล้วรวม 1 และ 2 ส่วนเข้าด้วยกัน",
+        "เติมวิปปิ้งครีมครั้งละครึ่งหนึ่งแล้วผสมให้เข้ากัน เทมูสถั่วแระญี่ปุ่นลงในภาชนะ และแช่เย็นให้แข็งตัว เพิ่มมูสฟักทองและแช่เย็นอีกครั้งในตู้เย็นเพื่อสร้างสองชั้น",
+        "ประดับด้วยฟักทองและ Edamame"
+      ],
+      "id": [
+        "Potong labu kuning sesuai ukuran, masukkan ke dalam wadah tahan panas, tutup dengan plastik wrap, dan panaskan dalam microwave (600W) selama 2 menit. Potong labu kuning untuk hiasan menjadi kubus dan sisihkan, lalu haluskan sisanya dengan separuh <A> dalam food processor hingga halus.",
+        "Keluarkan edamame untuk hiasan dan haluskan sisanya dengan separuh <A> dalam food processor hingga halus.",
+        "Rendam agar-agar dalam air, lalu masukkan ke dalam wadah tahan panas dan panaskan dalam microwave (600W) selama 20 detik hingga larut. Dinginkan hingga dingin, lalu bagi menjadi 2 bagian sama besar dan gabungkan masing-masing dengan 1 dan 2.",
+        "Tambahkan setengah krim kocok sekaligus dan aduk rata. Tuang mousse edamame ke dalam wadah dan dinginkan hingga mengeras. Tambahkan mousse labu dan dinginkan kembali di lemari es hingga membentuk dua lapisan.",
+        "Hiasi dengan labu dan edamame."
+      ],
+      "ms": [
+        "Potong labu mengikut saiz yang sesuai, letakkannya dalam bekas tahan panas, tutup dengan bungkus plastik, dan panaskan dalam ketuhar gelombang mikro (600W) selama 2 minit. Potong labu untuk hiasan menjadi kiub dan ketepikan, kemudian tumbuk selebihnya dengan separuh daripada <A> dalam pemproses makanan sehingga halus.",
+        "Keluarkan edamame untuk hiasan dan campurkan selebihnya dengan separuh daripada <A> dalam pemproses makanan sehingga licin.",
+        "Rendam gelatin dalam air, kemudian letakkan dalam bekas tahan panas dan panaskan dalam ketuhar gelombang mikro (600W) selama 20 saat untuk larut. Sejukkan sehingga ia sejuk, kemudian bahagikan kepada 2 bahagian yang sama dan satukan setiap satu dengan 1 dan 2.",
+        "Masukkan separuh daripada krim putar pada satu masa dan gaul rata. Tuangkan mousse edamame ke dalam bekas dan sejukkan untuk pejal. Masukkan mousse labu dan sejukkan lagi di dalam peti sejuk untuk membentuk dua lapisan.",
+        "Hiaskan dengan labu dan edamame."
+      ],
+      "ko": [
+        "호박은 적당한 크기로 잘라 내열 용기에 나란히 랩을 하여 전자레인지(600W)로 2분 가열한다. 장식용 호박을 깎아 내고 제외하고 나머지를 <A>의 반량과 함께 푸드 프로세서 등으로 매끄러워질 때까지 부수는다.",
+        "완두콩은 장식용을 제외하고 나머지를 <A>의 절반과 함께 후드 프로세서 등으로 부드럽게 될 때까지 교반한다.",
+        "젤라틴은 물에 넣고 부드럽게 하고, 내열 용기에 넣고 전자레인지(600W)로 20초 가열하여 녹인다. 조열이 취해질 때까지 식히고, 2등분으로 하여 각각, 1, 2와 합한다.",
+        "7분 세운 생크림을 반량씩 넣고 잘 섞어, 완두콩의 무스에서 용기에 넣어 냉장고에서 식혀 굳히고, 호박의 무스를 넣고 한층 더 냉장고에서 식혀 굳혀 2층으로 한다.",
+        "장식용 호박, 완두콩을 얹어 장식한다."
+      ]
+    }
+  },
+  {
+    "id": "0680e399",
+    "source_url": "https://www.mizkan.co.jp/ouchirecipe/recipe/?menu_id=24327",
+    "source_site": "Mizkan",
+    "title_ja": "ふんわりジューシー月見つくね",
+    "description_ja": "",
+    "ingredients": [
+      {
+        "name_ja": "鶏ひき肉",
+        "amount": "（もも肉）３００ｇ",
+        "name_translated": {
+          "en": "minced chicken",
+          "zh_tw": "雞肉碎",
+          "zh_cn": "鸡肉碎",
+          "vi": "thịt gà băm",
+          "hi": "चिकन का कीमा",
+          "ru": "куриный фарш",
+          "th": "ไก่สับ",
+          "id": "ayam cincang",
+          "ms": "ayam cincang",
+          "ko": "닭고기 고기"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E9%B6%8F%E3%81%B2%E3%81%8D%E8%82%89&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E9%B6%8F%E3%81%B2%E3%81%8D%E8%82%89/?tag="
+      },
+      {
+        "name_ja": "塩",
+        "amount": "小さじ１／３",
+        "name_translated": {
+          "en": "salt",
+          "zh_tw": "鹽",
+          "zh_cn": "盐",
+          "vi": "muối",
+          "hi": "नमक",
+          "ru": "соль",
+          "th": "เกลือ",
+          "id": "garam",
+          "ms": "garam",
+          "ko": "소금"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E5%A1%A9&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E5%A1%A9/?tag="
+      },
+      {
+        "name_ja": "青じそ",
+        "amount": "２枚",
+        "name_translated": {
+          "en": "Blue perilla",
+          "zh_tw": "藍紫蘇",
+          "zh_cn": "蓝紫苏",
+          "vi": "Tía tô xanh",
+          "hi": "नीला पेरिला",
+          "ru": "Голубая перилла",
+          "th": "เพริลล่าสีน้ำเงิน",
+          "id": "Perila biru",
+          "ms": "Perilla biru",
+          "ko": "청지소"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E9%9D%92%E3%81%98%E3%81%9D&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E9%9D%92%E3%81%98%E3%81%9D/?tag="
+      },
+      {
+        "name_ja": "しいたけ",
+        "amount": "２個",
+        "name_translated": {
+          "en": "Shiitake mushroom",
+          "zh_tw": "香菇",
+          "zh_cn": "香菇",
+          "vi": "nấm hương",
+          "hi": "शीटाके मशरूम",
+          "ru": "гриб шиитаке",
+          "th": "เห็ดหอม",
+          "id": "jamur shiitake",
+          "ms": "Cendawan Shiitake",
+          "ko": "표고버섯"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%97%E3%81%84%E3%81%9F%E3%81%91&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%97%E3%81%84%E3%81%9F%E3%81%91/?tag="
+      },
+      {
+        "name_ja": "卵黄",
+        "amount": "２個分",
+        "name_translated": {
+          "en": "egg yolk",
+          "zh_tw": "蛋黃",
+          "zh_cn": "蛋黄",
+          "vi": "lòng đỏ trứng",
+          "hi": "अंडे की जर्दी",
+          "ru": "яичный желток",
+          "th": "ไข่แดง",
+          "id": "kuning telur",
+          "ms": "kuning telur",
+          "ko": "달걀 노른자"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E5%8D%B5%E9%BB%84&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E5%8D%B5%E9%BB%84/?tag="
+      },
+      {
+        "name_ja": "ミツカン　追いがつおつゆ２倍",
+        "amount": "大さじ２",
+        "name_translated": {
+          "en": "Mizkan Oigatsu Otsuyu x2",
+          "zh_tw": "味滋館大月大津 x2",
+          "zh_cn": "味滋馆大月大津 x2",
+          "vi": "Mizkan Oigatsu Otsuyu x2",
+          "hi": "मिज़कान ओइगात्सु ओत्सुयु x2",
+          "ru": "Мизкан Ойгацу Оцую x2",
+          "th": "มิซคัง โออิงัตสึ โอทสึยุ x2",
+          "id": "Mizkan Oigatsu Otsuyu x2",
+          "ms": "Mizkan Oigatsu Otsuyu x2",
+          "ko": "미츠칸 쫓는 츠츠유 2 배"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E8%BF%BD%E3%81%84%E3%81%8C%E3%81%A4%E3%81%8A%E3%81%A4%E3%82%86%EF%BC%92%E5%80%8D&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E8%BF%BD%E3%81%84%E3%81%8C%E3%81%A4%E3%81%8A%E3%81%A4%E3%82%86%EF%BC%92%E5%80%8D/?tag="
+      },
+      {
+        "name_ja": "１",
+        "amount": "鶏ひき肉はパックのまま、塩を入れてスプーンなどでよくまぜる。しいたけは軸を切り落とす。",
+        "name_translated": {
+          "en": "1",
+          "zh_tw": "1",
+          "zh_cn": "1",
+          "vi": "1",
+          "hi": "1",
+          "ru": "1",
+          "th": "1",
+          "id": "1",
+          "ms": "1",
+          "ko": "1"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%91&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%91/?tag="
+      },
+      {
+        "name_ja": "２",
+        "amount": "オーブン用シートを大きめに広げ、鶏ひき肉の半量をおく。ラップを巻いたグラス（直径５ｃｍ程度）を鶏ひき肉の中央に押し付け、くぼみを作り、器のような形にする（直径８ｃｍ・高さ３ｃｍ程度）。同様に２個作る。",
+        "name_translated": {
+          "en": "2",
+          "zh_tw": "2",
+          "zh_cn": "2",
+          "vi": "2",
+          "hi": "2",
+          "ru": "2",
+          "th": "2",
+          "id": "2",
+          "ms": "2",
+          "ko": "2"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%92&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%92/?tag="
+      },
+      {
+        "name_ja": "３",
+        "amount": "のくぼみに青じそを入れ、逆さにしたしいたけをおく。具材を包むようにオーブン用シートの両端をねじる。",
+        "name_translated": {
+          "en": "3",
+          "zh_tw": "3",
+          "zh_cn": "3",
+          "vi": "3",
+          "hi": "3",
+          "ru": "3",
+          "th": "3",
+          "id": "3",
+          "ms": "3",
+          "ko": "3"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%93&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%93/?tag="
+      },
+      {
+        "name_ja": "４",
+        "amount": "を並べ、水２００ｍｌ（分量外）を注ぎ、ふたをして１０分蒸す。",
+        "name_translated": {
+          "en": "4",
+          "zh_tw": "4",
+          "zh_cn": "4",
+          "vi": "4",
+          "hi": "4",
+          "ru": "4",
+          "th": "4",
+          "id": "4",
+          "ms": "4",
+          "ko": "4"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%94&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%94/?tag="
+      },
+      {
+        "name_ja": "５",
+        "amount": "火が通ったら、皿に移し、卵黄をのせて、「追いがつお　つゆ２倍」をそれぞれ大さじ１ずつかける。",
+        "name_translated": {
+          "en": "5",
+          "zh_tw": "5",
+          "zh_cn": "5",
+          "vi": "5",
+          "hi": "5",
+          "ru": "5",
+          "th": "5",
+          "id": "5",
+          "ms": "5",
+          "ko": "5"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%95&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%95/?tag="
+      }
+    ],
+    "steps_ja": [
+      "鶏ひき肉はパックのまま、塩を入れてスプーンなどでよくまぜる。しいたけは軸を切り落とす。",
+      "オーブン用シートを大きめに広げ、鶏ひき肉の半量をおく。ラップを巻いたグラス（直径５ｃｍ程度）を鶏ひき肉の中央に押し付け、くぼみを作り、器のような形にする（直径８ｃｍ・高さ３ｃｍ程度）。同様に２個作る。",
+      "のくぼみに青じそを入れ、逆さにしたしいたけをおく。具材を包むようにオーブン用シートの両端をねじる。",
+      "フライパンに３を並べ、水２００ｍｌ（分量外）を注ぎ、ふたをして１０分蒸す。",
+      "火が通ったら、皿に移し、卵黄をのせて、「追いがつお　つゆ２倍」をそれぞれ大さじ１ずつかける。"
+    ],
+    "image_url": "",
+    "title": {
+      "en": "Soft and juicy Tsukimi Tsukune",
+      "zh_tw": "柔軟多汁的月見月根",
+      "zh_cn": "柔软多汁的月见月根",
+      "vi": "Tsukimi Tsukune mềm và ngon ngọt",
+      "hi": "नरम और रसदार त्सुकिमी त्सुकुने",
+      "ru": "Мягкий и сочный Цукими Цукуне.",
+      "th": "Tsukimi Tsukune เนื้อนุ่มชุ่มฉ่ำ",
+      "id": "Tsukimi Tsukune yang lembut dan juicy",
+      "ms": "Tsukimi Tsukune yang lembut dan berair",
+      "ko": "부드러운 육즙 달을 보자."
+    },
+    "description": {
+      "en": "",
+      "zh_tw": "",
+      "zh_cn": "",
+      "vi": "",
+      "hi": "",
+      "ru": "",
+      "th": "",
+      "id": "",
+      "ms": "",
+      "ko": ""
+    },
+    "steps": {
+      "en": [
+        "Leave the minced chicken in the package, add salt and mix well with a spoon. Cut off the stems of the shiitake mushrooms.",
+        "Spread out a large baking sheet and place half of the ground chicken on it. Press a glass wrapped in plastic wrap (about 5 cm in diameter) into the center of the ground chicken to make a well and make a bowl-like shape (about 8 cm in diameter and 3 cm in height). Make 2 pieces in the same way.",
+        "Put the green perilla in the well and place the shiitake mushrooms upside down. Twist both ends of the baking sheet to wrap around the ingredients.",
+        "Arrange Step 3 in a frying pan, pour 200ml of water (not listed), cover and steam for 10 minutes.",
+        "Once cooked, transfer to a plate, top with egg yolk, and pour 1 tablespoon of ``Oigatsuo Tsuyu 2x'' on each."
+      ],
+      "zh_tw": [
+        "將雞肉末留在包裝中，加鹽，用湯匙攪拌均勻。切掉香菇的莖。",
+        "鋪上一張大烤盤，將一半的雞肉末放在上面。將一個裹著保鮮膜的玻璃杯（直徑約5公分）壓入雞肉末中心，打出一個坑，做成碗狀（直徑約8厘米，高3公分）。用同樣的方法製作2塊。",
+        "將青紫蘇放入井中，將香菇倒置。扭轉烤盤的兩端以包裹成分。",
+        "將步驟3放入煎鍋中，倒入200毫升水（未列出），蓋上鍋蓋蒸10分鐘。",
+        "煮熟後，轉移到盤子上，上面放上蛋黃，然後在每個上倒入 1 湯匙“Oigatsuo Tsuyu 2x”。"
+      ],
+      "zh_cn": [
+        "将鸡肉末留在包装中，加盐，用勺子搅拌均匀。切掉香菇的茎。",
+        "铺上一张大烤盘，将一半的鸡肉末放在上面。将一个裹着保鲜膜的玻璃杯（直径约5厘米）压入鸡肉末中心，打出一个坑，做成碗状（直径约8厘米，高3厘米）。用同样的方法制作2块。",
+        "将青紫苏放入井中，将香菇倒置。扭转烤盘的两端以包裹成分。",
+        "将步骤3放入煎锅中，倒入200毫升水（未列出），盖上锅盖蒸10分钟。",
+        "煮熟后，转移到盘子上，上面放上蛋黄，然后在每个上倒入 1 汤匙“Oigatsuo Tsuyu 2x”。"
+      ],
+      "vi": [
+        "Cho thịt gà băm vào gói, thêm muối rồi dùng thìa trộn đều. Cắt bỏ thân nấm shiitake.",
+        "Trải một khay nướng lớn và đặt một nửa số thịt gà xay lên đó. Ấn một chiếc cốc bọc màng bọc thực phẩm (đường kính khoảng 5 cm) vào giữa miếng gà xay để tạo thành hình giếng và tạo thành hình bát (đường kính khoảng 8 cm, cao 3 cm). Làm 2 miếng theo cách tương tự.",
+        "Cho tía tô xanh vào giếng rồi úp ngược nấm hương vào. Xoay cả hai đầu của tấm nướng để bọc các nguyên liệu.",
+        "Xếp Bước 3 vào chảo rán, đổ 200ml nước (không được liệt kê), đậy nắp và hấp trong 10 phút.",
+        "Sau khi chín, chuyển ra đĩa, phủ lòng đỏ trứng lên trên và đổ 1 thìa ``Oigatsuo Tsuyu 2x'' lên mỗi đĩa."
+      ],
+      "hi": [
+        "कीमा बनाया हुआ चिकन पैकेज में छोड़ दें, नमक डालें और चम्मच से अच्छी तरह मिलाएँ। शीटाके मशरूम के डंठल काट लें।",
+        "एक बड़ी बेकिंग शीट बिछाएं और उस पर आधा पिसा हुआ चिकन रखें। एक कुआं बनाने के लिए प्लास्टिक रैप में लिपटे एक गिलास (लगभग 5 सेमी व्यास) को पिसे हुए चिकन के बीच में दबाएं और एक कटोरे जैसा आकार (लगभग 8 सेमी व्यास और 3 सेमी ऊंचाई) बनाएं। इसी तरह 2 टुकड़े कर लीजिये.",
+        "हरे पेरिला को कुएं में डालें और शिटाके मशरूम को उल्टा रखें। सामग्री के चारों ओर लपेटने के लिए बेकिंग शीट के दोनों सिरों को मोड़ें।",
+        "चरण 3 को एक फ्राइंग पैन में व्यवस्थित करें, 200 मिलीलीटर पानी डालें (सूचीबद्ध नहीं), ढक दें और 10 मिनट तक भाप में पकाएँ।",
+        "पकने के बाद, एक प्लेट में निकाल लें, ऊपर से अंडे की जर्दी डालें और प्रत्येक पर 1 बड़ा चम्मच ``ओइगात्सुओ त्सुयू 2x'' डालें।"
+      ],
+      "ru": [
+        "Куриный фарш оставить в пакете, посолить и хорошо перемешать ложкой. Отрежьте ножки грибов шиитаке.",
+        "Расстелите большой противень и положите на него половину куриного фарша. Прижмите обернутый полиэтиленовой пленкой стакан (около 5 см в диаметре) к центру куриного фарша, чтобы образовалось углубление и получилась чашеобразная форма (около 8 см в диаметре и 3 см в высоту). Таким же образом сделайте 2 детали.",
+        "Положите зеленую периллу в углубление и переверните грибы шиитаке. Скрутите оба конца противня, чтобы обернуть ингредиенты.",
+        "Разложите Шаг 3 на сковороде, налейте 200 мл воды (не указана), накройте крышкой и готовьте на пару 10 минут.",
+        "После приготовления переложите на тарелку, покройте сверху яичным желтком и полейте каждую по 1 столовой ложке «Оигацуо Цую 2x»."
+      ],
+      "th": [
+        "ทิ้งไก่สับไว้ในแพ็คเกจเติมเกลือแล้วผสมให้เข้ากันด้วยช้อน ตัดก้านเห็ดหอมออก",
+        "กางถาดอบขนาดใหญ่และวางไก่บดครึ่งหนึ่งลงไป กดแก้วที่ห่อด้วยแรปพลาสติก (เส้นผ่านศูนย์กลางประมาณ 5 ซม.) ลงไปตรงกลางไก่บดเพื่อทำเป็นบ่อ และทำรูปทรงคล้ายชาม (เส้นผ่านศูนย์กลางประมาณ 8 ซม. และสูง 3 ซม.) ทำ 2 ชิ้นในลักษณะเดียวกัน",
+        "ใส่ใบเพริลลาสีเขียวลงในบ่อ แล้ววางเห็ดหอมคว่ำลง บิดปลายทั้งสองด้านของถาดอบเพื่อพันรอบส่วนผสม",
+        "จัดเรียงขั้นตอนที่ 3 ลงในกระทะ เทน้ำ 200 มล. (ไม่อยู่ในรายการ) ปิดฝาและนึ่งเป็นเวลา 10 นาที",
+        "เมื่อสุกแล้ว ตักใส่จาน โรยหน้าด้วยไข่แดง และเท ``Oigatsuo Tsuyu 2x'' 1 ช้อนโต๊ะในแต่ละมื้อ"
+      ],
+      "id": [
+        "Biarkan ayam cincang di dalam kemasan, tambahkan garam dan aduk rata dengan sendok. Potong batang jamur shiitake.",
+        "Sebarkan loyang besar dan letakkan separuh ayam giling di atasnya. Tekan gelas yang dibungkus plastik wrap (diameter sekitar 5 cm) ke tengah ayam giling hingga membuat lubang dan bentuk seperti mangkok (diameter sekitar 8 cm dan tinggi 3 cm). Buat 2 buah dengan cara yang sama.",
+        "Masukkan perilla hijau ke dalam lubang dan letakkan jamur shiitake secara terbalik. Putar kedua ujung loyang untuk membungkus bahan.",
+        "Susun Langkah 3 dalam penggorengan, tuang 200ml air (tidak dicantumkan), tutup dan kukus 10 menit.",
+        "Setelah matang, pindahkan ke piring, taburi dengan kuning telur, dan tuangkan 1 sendok makan ``Oigatsuo Tsuyu 2x'' di setiap piring."
+      ],
+      "ms": [
+        "Biarkan ayam cincang dalam bungkusan, tambah garam dan gaul rata dengan sudu. Potong batang cendawan shiitake.",
+        "Bentangkan loyang besar dan letakkan separuh daripada ayam yang dikisar di atasnya. Tekan gelas yang dibalut dengan bungkus plastik (kira-kira 5 cm diameter) ke tengah-tengah ayam yang dikisar untuk membuat perigi dan membuat bentuk seperti mangkuk (kira-kira 8 cm diameter dan 3 cm tinggi). Buat 2 keping dengan cara yang sama.",
+        "Masukkan perilla hijau ke dalam perigi dan letakkan cendawan shiitake terbalik. Putar kedua-dua hujung loyang untuk membungkus bahan.",
+        "Susun Langkah 3 dalam kuali, tuang 200ml air (tidak disenaraikan), tutup dan kukus selama 10 minit.",
+        "Setelah masak, pindahkan ke dalam pinggan, tutup dengan kuning telur, dan tuangkan 1 sudu besar ``Oigatsuo Tsuyu 2x'' pada setiap satu."
+      ],
+      "ko": [
+        "닭고기 고기는 팩 그대로 소금을 넣고 숟가락 등으로 잘 섞는다. 표고버섯은 축을 잘라낸다.",
+        "오븐용 시트를 크게 펼쳐 닭고기 고기의 반량을 둔다. 랩을 감은 유리(직경 5cm 정도)를 닭고기의 중앙에 밀어넣어, 움푹 들어간 곳을 만들어, 그릇과 같은 형태로 한다(직경 8cm·높이 3cm 정도). 마찬가지로 2개 만든다.",
+        "움푹 들어간 곳에 청지소를 넣고 거꾸로 한 표고버섯을 둔다. 재료를 감싸도록 오븐 시트의 양쪽 끝을 비틀십시오.",
+        "프라이팬에 3을 늘어놓고 물 200ml(분량외)를 붓고 뚜껑을 덮고 10분 찐다.",
+        "불이 지나면 접시로 옮겨 달걀 노른자를 얹어 '쫓아가오오 츠유 2배'를 각각 큰 스푼 1씩 뿌린다."
+      ]
+    }
+  },
+  {
+    "id": "1b9ae50b",
+    "source_url": "https://www.mizkan.co.jp/ouchirecipe/recipe/?menu_id=24213",
+    "source_site": "Mizkan",
+    "title_ja": "チーズとろ～り！悪魔のきのこ飯",
+    "description_ja": "",
+    "ingredients": [
+      {
+        "name_ja": "米",
+        "amount": "１合",
+        "name_translated": {
+          "en": "rice",
+          "zh_tw": "米",
+          "zh_cn": "米",
+          "vi": "cơm",
+          "hi": "चावल",
+          "ru": "рис",
+          "th": "ข้าว",
+          "id": "beras",
+          "ms": "nasi",
+          "ko": "쌀"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E7%B1%B3&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E7%B1%B3/?tag="
+      },
+      {
+        "name_ja": "まいたけ",
+        "amount": "１／２パック（５０ｇ）",
+        "name_translated": {
+          "en": "Maitake",
+          "zh_tw": "舞茸",
+          "zh_cn": "舞茸",
+          "vi": "maitake",
+          "hi": "मैताके",
+          "ru": "Майтаке",
+          "th": "ไมตาเกะ",
+          "id": "Maitake",
+          "ms": "Maitake",
+          "ko": "마이타케"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%BE%E3%81%84%E3%81%9F%E3%81%91&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%BE%E3%81%84%E3%81%9F%E3%81%91/?tag="
+      },
+      {
+        "name_ja": "しめじ",
+        "amount": "１／２パック（５０ｇ）",
+        "name_translated": {
+          "en": "Shimeji mushrooms",
+          "zh_tw": "姬菇",
+          "zh_cn": "姬菇",
+          "vi": "nấm Shimeji",
+          "hi": "शिमेजी मशरूम",
+          "ru": "Грибы симеджи",
+          "th": "เห็ดชิเมจิ",
+          "id": "jamur Shimeji",
+          "ms": "Cendawan Shimeji",
+          "ko": "시메지"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%97%E3%82%81%E3%81%98&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%97%E3%82%81%E3%81%98/?tag="
+      },
+      {
+        "name_ja": "ミツカン　追いがつおつゆ２倍",
+        "amount": "６０ｍｌ",
+        "name_translated": {
+          "en": "Mizkan Oigatsu Otsuyu x2",
+          "zh_tw": "味滋館大月大津 x2",
+          "zh_cn": "味滋馆大月大津 x2",
+          "vi": "Mizkan Oigatsu Otsuyu x2",
+          "hi": "मिज़कान ओइगात्सु ओत्सुयु x2",
+          "ru": "Мизкан Ойгацу Оцую x2",
+          "th": "มิซคัง โออิงัตสึ โอทสึยุ x2",
+          "id": "Mizkan Oigatsu Otsuyu x2",
+          "ms": "Mizkan Oigatsu Otsuyu x2",
+          "ko": "미츠칸 쫓는 츠츠유 2 배"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E8%BF%BD%E3%81%84%E3%81%8C%E3%81%A4%E3%81%8A%E3%81%A4%E3%82%86%EF%BC%92%E5%80%8D&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E8%BF%BD%E3%81%84%E3%81%8C%E3%81%A4%E3%81%8A%E3%81%A4%E3%82%86%EF%BC%92%E5%80%8D/?tag="
+      },
+      {
+        "name_ja": "おろしにんにく",
+        "amount": "小さじ１",
+        "name_translated": {
+          "en": "grated garlic",
+          "zh_tw": "磨碎的大蒜",
+          "zh_cn": "磨碎的大蒜",
+          "vi": "tỏi nghiền",
+          "hi": "कसा हुआ लहसुन",
+          "ru": "тертый чеснок",
+          "th": "กระเทียมขูด",
+          "id": "bawang putih parut",
+          "ms": "bawang putih parut",
+          "ko": "마늘 마늘"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%8A%E3%82%8D%E3%81%97%E3%81%AB%E3%82%93%E3%81%AB%E3%81%8F&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%8A%E3%82%8D%E3%81%97%E3%81%AB%E3%82%93%E3%81%AB%E3%81%8F/?tag="
+      },
+      {
+        "name_ja": "ピザ用チーズ",
+        "amount": "（加熱不要タイプ）適量",
+        "name_translated": {
+          "en": "cheese for pizza",
+          "zh_tw": "披薩用起司",
+          "zh_cn": "披萨用奶酪",
+          "vi": "phô mai cho pizza",
+          "hi": "पिज्जा के लिए पनीर",
+          "ru": "сыр для пиццы",
+          "th": "ชีสสำหรับพิซซ่า",
+          "id": "keju untuk pizza",
+          "ms": "keju untuk pizza",
+          "ko": "피자 치즈"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%94%E3%82%B6%E7%94%A8%E3%83%81%E3%83%BC%E3%82%BA&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%94%E3%82%B6%E7%94%A8%E3%83%81%E3%83%BC%E3%82%BA/?tag="
+      },
+      {
+        "name_ja": "小ねぎ　（小口切り）",
+        "amount": "お好みで",
+        "name_translated": {
+          "en": "Onion (cut into small pieces)",
+          "zh_tw": "洋蔥（切小塊）",
+          "zh_cn": "洋葱（切小块）",
+          "vi": "Hành tây (cắt thành miếng nhỏ)",
+          "hi": "प्याज (छोटे टुकड़ों में कटा हुआ)",
+          "ru": "Лук (нарезать небольшими кусочками)",
+          "th": "หัวหอม (หั่นเป็นชิ้นเล็กๆ)",
+          "id": "Bawang bombay (potong kecil-kecil)",
+          "ms": "Bawang besar (potong kecil)",
+          "ko": "작은 양파 (작은 컷)"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E5%B0%8F%E3%81%AD%E3%81%8E%E3%80%80%EF%BC%88%E5%B0%8F%E5%8F%A3%E5%88%87%E3%82%8A%EF%BC%89&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E5%B0%8F%E3%81%AD%E3%81%8E%E3%80%80%EF%BC%88%E5%B0%8F%E5%8F%A3%E5%88%87%E3%82%8A%EF%BC%89/?tag="
+      },
+      {
+        "name_ja": "粗挽き黒こしょう",
+        "amount": "お好みで",
+        "name_translated": {
+          "en": "粗挽き黒こしょう",
+          "zh_tw": "粗磨黑胡椒",
+          "zh_cn": "粗磨黑胡椒",
+          "vi": "hạt tiêu đen xay thô",
+          "hi": "दरदरी पिसी हुई काली मिर्च",
+          "ru": "черный перец грубого помола",
+          "th": "พริกไทยดำบดหยาบ",
+          "id": "lada hitam yang digiling kasar",
+          "ms": "lada hitam yang dikisar kasar",
+          "ko": "거친 까만 후추"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E7%B2%97%E6%8C%BD%E3%81%8D%E9%BB%92%E3%81%93%E3%81%97%E3%82%87%E3%81%86&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E7%B2%97%E6%8C%BD%E3%81%8D%E9%BB%92%E3%81%93%E3%81%97%E3%82%87%E3%81%86/?tag="
+      },
+      {
+        "name_ja": "１",
+        "amount": "まいたけは小房に分ける。しめじはキッチンバサミで石づきを取り、小房に分ける。",
+        "name_translated": {
+          "en": "1",
+          "zh_tw": "1",
+          "zh_cn": "1",
+          "vi": "1",
+          "hi": "1",
+          "ru": "1",
+          "th": "1",
+          "id": "1",
+          "ms": "1",
+          "ko": "1"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%91&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%91/?tag="
+      },
+      {
+        "name_ja": "２",
+        "amount": "を加え、きのこが調味料に浸るように手でならし、炊飯する。",
+        "name_translated": {
+          "en": "2",
+          "zh_tw": "2",
+          "zh_cn": "2",
+          "vi": "2",
+          "hi": "2",
+          "ru": "2",
+          "th": "2",
+          "id": "2",
+          "ms": "2",
+          "ko": "2"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%92&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%92/?tag="
+      },
+      {
+        "name_ja": "３",
+        "amount": "炊き上がったらチーズを散らし、チーズが溶けるまで保温で５分ほどおく",
+        "name_translated": {
+          "en": "3",
+          "zh_tw": "3",
+          "zh_cn": "3",
+          "vi": "3",
+          "hi": "3",
+          "ru": "3",
+          "th": "3",
+          "id": "3",
+          "ms": "3",
+          "ko": "3"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%93&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%93/?tag="
+      },
+      {
+        "name_ja": "４",
+        "amount": "全体を混ぜ、器によそい、お好みで小ねぎと粗挽き黒こしょうを散らす。",
+        "name_translated": {
+          "en": "4",
+          "zh_tw": "4",
+          "zh_cn": "4",
+          "vi": "4",
+          "hi": "4",
+          "ru": "4",
+          "th": "4",
+          "id": "4",
+          "ms": "4",
+          "ko": "4"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%94&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%94/?tag="
+      }
+    ],
+    "steps_ja": [
+      "まいたけは小房に分ける。しめじはキッチンバサミで石づきを取り、小房に分ける。",
+      "炊飯器に洗った米と「追いがつおつゆ２倍」、おろしにんにくを入れ、混ぜる。１合の目盛りまで水（分量外）を注ぐ。１を加え、きのこが調味料に浸るように手でならし、炊飯する。",
+      "炊き上がったらチーズを散らし、チーズが溶けるまで保温で５分ほどおく",
+      "全体を混ぜ、器によそい、お好みで小ねぎと粗挽き黒こしょうを散らす。"
+    ],
+    "image_url": "",
+    "title": {
+      "en": "Cheese melty! devil's mushroom rice",
+      "zh_tw": "起司融化了！魔鬼蘑菇飯",
+      "zh_cn": "奶酪融化了！魔鬼蘑菇饭",
+      "vi": "Phô mai tan chảy! cơm nấm quỷ",
+      "hi": "पनीर पिघला हुआ! शैतान का मशरूम चावल",
+      "ru": "Сыр плавится! рис с дьявольскими грибами",
+      "th": "ชีสละลาย! ข้าวเห็ดปีศาจ",
+      "id": "Keju meleleh! nasi jamur setan",
+      "ms": "Keju cair! nasi cendawan syaitan",
+      "ko": "치즈 토로~리! 악마 버섯밥"
+    },
+    "description": {
+      "en": "",
+      "zh_tw": "",
+      "zh_cn": "",
+      "vi": "",
+      "hi": "",
+      "ru": "",
+      "th": "",
+      "id": "",
+      "ms": "",
+      "ko": ""
+    },
+    "steps": {
+      "en": [
+        "Divide the maitake mushrooms into small bunches. Remove the stones from the shimeji mushrooms with kitchen shears and separate them into small bunches.",
+        "Add the washed rice, 2x Oigatsu Otsuyu, and grated garlic to the rice cooker and mix. Pour water (not listed) up to the 1 cup mark. Add 1, mix with your hands so that the mushrooms are soaked in the seasoning, and cook.",
+        "Once cooked, sprinkle with cheese and keep warm for about 5 minutes until the cheese melts.",
+        "Mix everything together, transfer to a bowl, and sprinkle with small onions and coarsely ground black pepper, if desired."
+      ],
+      "zh_tw": [
+        "將舞茸分成小束。用廚房剪刀去除姬菇上的石頭，並將它們分成小束。",
+        "将洗净的米、2x Oigatsu Otsuyu 和磨碎的大蒜放入电饭锅中并混合。將水（未列出）倒入 1 杯標記處。加入1，用手搅拌，使蘑菇浸入调味料中，煮。",
+        "炊き上がったらチーズを散らし、チーズが溶けるまで保温で５分ほどおく",
+        "全体を混ぜ、器によそい、お好みで小ねぎと粗挽き黒こしょうを散らす。"
+      ],
+      "zh_cn": [
+        "将舞茸分成小束。用厨房剪刀去除姬菇上的石头，并将它们分成小束。",
+        "将洗净的米、2x Oigatsu Otsuyu 和磨碎的大蒜放入电饭锅中并混合。将水（未列出）倒入 1 杯标记处。加入1，用手搅拌，使蘑菇浸入调味料中，煮。",
+        "煮熟后，撒上奶酪，保温约5分钟，直至奶酪融化。",
+        "全体を混ぜ、器によそい、お好みで小ねぎと粗挽き黒こしょうを散らす。"
+      ],
+      "vi": [
+        "Chia nấm maitake thành từng chùm nhỏ. Dùng kéo cắt bỏ những viên đá khỏi nấm shimeji và tách chúng thành từng chùm nhỏ.",
+        "Cho gạo đã vo sạch, 2x Oigatsu Otsuyu và tỏi băm vào nồi cơm điện rồi trộn đều. Đổ nước (không được liệt kê) đến vạch 1 cốc. Thêm 1, dùng tay trộn đều cho nấm thấm gia vị rồi nấu chín.",
+        "Sau khi nấu chín, rắc phô mai và giữ ấm trong khoảng 5 phút cho đến khi phô mai tan chảy.",
+        "Trộn tất cả mọi thứ lại với nhau, chuyển vào tô và rắc hành tây nhỏ và hạt tiêu đen xay thô nếu muốn."
+      ],
+      "hi": [
+        "मैटेक मशरूम को छोटे-छोटे गुच्छों में बांट लें। रसोई की कैंची से शिमेजी मशरूम के बीज निकाल दें और उन्हें छोटे-छोटे गुच्छों में अलग कर लें।",
+        "चावल कुकर में धुले हुए चावल, 2x ओइगात्सु ओत्सुयू और कसा हुआ लहसुन डालें और मिलाएँ। 1 कप के निशान तक पानी (सूचीबद्ध नहीं) डालें। 1 डालें, अपने हाथों से मिलाएँ ताकि मशरूम मसाले में भीग जाएँ, और पकाएँ।",
+        "पकने के बाद, पनीर छिड़कें और पनीर के पिघलने तक लगभग 5 मिनट तक गर्म रखें।",
+        "सब कुछ एक साथ मिलाएं, एक कटोरे में डालें, और यदि चाहें तो छोटे प्याज और दरदरी कुटी हुई काली मिर्च छिड़कें।"
+      ],
+      "ru": [
+        "Разделите грибы майтаке на небольшие пучки. Удалите косточки из грибов симэдзи кухонными ножницами и разделите их на небольшие пучки.",
+        "Добавьте в рисоварку промытый рис, 2 порции Ойгацу Оцую и тертый чеснок и перемешайте. Налейте воду (не указана) до отметки 1 стакан. Добавьте 1, перемешайте руками, чтобы грибы пропитались приправой, и готовьте.",
+        "После приготовления посыпьте сыром и держите в тепле около 5 минут, пока сыр не расплавится.",
+        "Все перемешать, переложить в миску, посыпать небольшим луком и по желанию черным молотым перцем."
+      ],
+      "th": [
+        "แบ่งเห็ดไมตาเกะออกเป็นพวงเล็กๆ นำก้อนหินออกจากเห็ดชิเมจิด้วยกรรไกรในครัว แล้วแยกออกเป็นช่อเล็กๆ",
+        "ใส่ข้าวที่ล้างแล้ว Oigatsu Otsuyu 2 เท่า และกระเทียมขูดลงในหม้อหุงข้าวแล้วผสม เทน้ำ (ไม่อยู่ในรายการ) จนถึงเครื่องหมาย 1 ถ้วย เพิ่ม 1 ส่วนผสมด้วยมือของคุณเพื่อให้เห็ดแช่ในเครื่องปรุงรสแล้วปรุง",
+        "เมื่อสุกแล้ว ให้โรยด้วยชีสและพักไว้ประมาณ 5 นาทีจนชีสละลาย",
+        "ผสมทุกอย่างเข้าด้วยกัน ตักใส่ชาม โรยด้วยหัวหอมเล็กและพริกไทยดำป่นหยาบ หากต้องการ"
+      ],
+      "id": [
+        "Bagilah jamur maitake menjadi tandan kecil. Keluarkan batu dari jamur shimeji dengan gunting dapur dan pisahkan menjadi tandan kecil.",
+        "Tambahkan beras yang sudah dicuci, 2x Oigatsu Otsuyu, dan bawang putih parut ke dalam rice cooker lalu aduk. Tuangkan air (tidak tercantum) hingga tanda 1 gelas. Tambahkan 1, aduk dengan tangan hingga jamur terendam bumbu, lalu masak.",
+        "Setelah matang, taburi keju dan diamkan hangat selama kurang lebih 5 menit hingga keju meleleh.",
+        "Campur semuanya, pindahkan ke dalam mangkuk, dan taburi dengan bawang bombay kecil dan lada hitam yang digiling kasar, jika diinginkan."
+      ],
+      "ms": [
+        "Bahagikan cendawan maitake kepada tandan kecil. Keluarkan batu dari cendawan shimeji dengan gunting dapur dan pisahkan kepada tandan kecil.",
+        "Masukkan beras yang telah dibasuh, 2x Oigatsu Otsuyu, dan bawang putih parut ke dalam periuk nasi dan gaul. Tuangkan air (tidak disenaraikan) sehingga tanda 1 cawan. Tambah 1, gaul dengan tangan supaya cendawan direndam dalam perasa, dan masak.",
+        "Setelah masak, taburkan keju dan panaskan selama lebih kurang 5 minit sehingga keju cair.",
+        "Campurkan semuanya, pindahkan ke dalam mangkuk, dan taburkan dengan bawang kecil dan lada hitam yang dikisar kasar, jika dikehendaki."
+      ],
+      "ko": [
+        "마이타케는 소방으로 나눈다. 시메지는 주방 바사미로 돌을 잡고 소방으로 나눈다.",
+        "밥솥에 씻은 쌀과 '쫓는 가루 2배', 내린 마늘을 넣고 섞는다. 1합의 눈금까지 물(분량외)을 붓는다. 1을 넣고 버섯이 조미료에 담그도록 손으로 넣고 밥솥한다.",
+        "끓으면 치즈를 뿌리고 치즈가 녹을 때까지 보온으로 5 분 정도 둔다.",
+        "전체를 섞어 그릇에 어울리고, 취향에 따라 양파와 거칠게 검은 후추를 흩뿌린다."
+      ]
+    }
   }
 ]

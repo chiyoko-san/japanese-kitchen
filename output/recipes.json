@@ -352366,5 +352366,294 @@
         "전체를 섞어 그릇에 어울리고, 취향에 따라 양파와 거칠게 검은 후추를 흩뿌린다."
       ]
     }
+  },
+  {
+    "id": "feab280d",
+    "source_url": "https://www.mizkan.co.jp/ouchirecipe/recipe/?menu_id=20270",
+    "source_site": "Mizkan",
+    "title_ja": "鶏とにんじんの甘辛おかずきんぴら",
+    "description_ja": "",
+    "ingredients": [
+      {
+        "name_ja": "鶏もも肉",
+        "amount": "２８０ｇ",
+        "name_translated": {
+          "en": "chicken thigh",
+          "zh_tw": "雞大腿",
+          "zh_cn": "鸡大腿",
+          "vi": "đùi gà",
+          "hi": "चिकन थाई",
+          "ru": "куриное бедро",
+          "th": "ต้นขาไก่",
+          "id": "paha ayam",
+          "ms": "paha ayam",
+          "ko": "닭 허벅지 고기"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E9%B6%8F%E3%82%82%E3%82%82%E8%82%89&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E9%B6%8F%E3%82%82%E3%82%82%E8%82%89/?tag="
+      },
+      {
+        "name_ja": "にんじん",
+        "amount": "１本",
+        "name_translated": {
+          "en": "carrot",
+          "zh_tw": "紅蘿蔔",
+          "zh_cn": "胡萝卜",
+          "vi": "cà rốt",
+          "hi": "गाजर",
+          "ru": "морковь",
+          "th": "แครอท",
+          "id": "wortel",
+          "ms": "lobak merah",
+          "ko": "당근"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%AB%E3%82%93%E3%81%98%E3%82%93&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%AB%E3%82%93%E3%81%98%E3%82%93/?tag="
+      },
+      {
+        "name_ja": "しめじ",
+        "amount": "１パック（１００ｇ）",
+        "name_translated": {
+          "en": "Shimeji mushrooms",
+          "zh_tw": "姬菇",
+          "zh_cn": "姬菇",
+          "vi": "nấm Shimeji",
+          "hi": "शिमेजी मशरूम",
+          "ru": "Грибы симеджи",
+          "th": "เห็ดชิเมจิ",
+          "id": "jamur Shimeji",
+          "ms": "Cendawan Shimeji",
+          "ko": "시메지"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%97%E3%82%81%E3%81%98&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%97%E3%82%81%E3%81%98/?tag="
+      },
+      {
+        "name_ja": "ごま油",
+        "amount": "大さじ１",
+        "name_translated": {
+          "en": "sesame oil",
+          "zh_tw": "香油",
+          "zh_cn": "香油",
+          "vi": "dầu mè",
+          "hi": "तिल का तेल",
+          "ru": "кунжутное масло",
+          "th": "น้ำมันงา",
+          "id": "minyak wijen",
+          "ms": "minyak bijan",
+          "ko": "참기름"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%94%E3%81%BE%E6%B2%B9&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%94%E3%81%BE%E6%B2%B9/?tag="
+      },
+      {
+        "name_ja": "赤とうがらし　（小口切り）",
+        "amount": "適量",
+        "name_translated": {
+          "en": "Red chili pepper (cut into small pieces)",
+          "zh_tw": "紅辣椒（切小塊）",
+          "zh_cn": "红辣椒（切小块）",
+          "vi": "Ớt đỏ (cắt thành miếng nhỏ)",
+          "hi": "लाल मिर्च (छोटे टुकड़ों में कटी हुई)",
+          "ru": "Красный перец чили (нарезать небольшими кусочками)",
+          "th": "พริกแดง (หั่นเป็นชิ้นเล็กๆ)",
+          "id": "Cabai merah (potong kecil-kecil)",
+          "ms": "Cili merah (potong kecil)",
+          "ko": "붉은 토가라시 (작은 컷)"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E8%B5%A4%E3%81%A8%E3%81%86%E3%81%8C%E3%82%89%E3%81%97%E3%80%80%EF%BC%88%E5%B0%8F%E5%8F%A3%E5%88%87%E3%82%8A%EF%BC%89&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E8%B5%A4%E3%81%A8%E3%81%86%E3%81%8C%E3%82%89%E3%81%97%E3%80%80%EF%BC%88%E5%B0%8F%E5%8F%A3%E5%88%87%E3%82%8A%EF%BC%89/?tag="
+      },
+      {
+        "name_ja": "ミツカン　カンタン酢",
+        "amount": "大さじ３",
+        "name_translated": {
+          "en": "Mizkan Kantan Vinegar",
+          "zh_tw": "味滋康甘丹醋",
+          "zh_cn": "味滋康甘丹醋",
+          "vi": "Giấm Mizkan Kantan",
+          "hi": "मिज़कान कंटन सिरका",
+          "ru": "Мизкан Кантанский уксус",
+          "th": "น้ำส้มสายชูมิซกัน กันตัน",
+          "id": "Cuka Mizkan Kantan",
+          "ms": "Cuka Mizkan Kantan",
+          "ko": "미츠칸 칸탄초"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E3%82%AB%E3%83%B3%E3%82%BF%E3%83%B3%E9%85%A2&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E3%82%AB%E3%83%B3%E3%82%BF%E3%83%B3%E9%85%A2/?tag="
+      },
+      {
+        "name_ja": "しょうゆ",
+        "amount": "大さじ１",
+        "name_translated": {
+          "en": "soy sauce",
+          "zh_tw": "醬油",
+          "zh_cn": "酱油",
+          "vi": "nước tương",
+          "hi": "सोया सॉस",
+          "ru": "соевый соус",
+          "th": "ซอสถั่วเหลือง",
+          "id": "kecap",
+          "ms": "kicap",
+          "ko": "간장"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%97%E3%82%87%E3%81%86%E3%82%86&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%97%E3%82%87%E3%81%86%E3%82%86/?tag="
+      },
+      {
+        "name_ja": "いりごま　（白）",
+        "amount": "大さじ１／２",
+        "name_translated": {
+          "en": "Roasted sesame seeds (white)",
+          "zh_tw": "烤芝麻（白）",
+          "zh_cn": "烤芝麻（白）",
+          "vi": "Hạt vừng rang (trắng)",
+          "hi": "भुने हुए तिल (सफेद)",
+          "ru": "Семена кунжута жареные (белые)",
+          "th": "งาคั่ว (สีขาว)",
+          "id": "Biji wijen sangrai (putih)",
+          "ms": "Bijan panggang (putih)",
+          "ko": "이리 고마 (흰색)"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%84%E3%82%8A%E3%81%94%E3%81%BE%E3%80%80%EF%BC%88%E7%99%BD%EF%BC%89&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%84%E3%82%8A%E3%81%94%E3%81%BE%E3%80%80%EF%BC%88%E7%99%BD%EF%BC%89/?tag="
+      },
+      {
+        "name_ja": "１",
+        "amount": "にする。しめじは石づきを取り小房に分ける。",
+        "name_translated": {
+          "en": "1",
+          "zh_tw": "1",
+          "zh_cn": "1",
+          "vi": "1",
+          "hi": "1",
+          "ru": "1",
+          "th": "1",
+          "id": "1",
+          "ms": "1",
+          "ko": "1"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%91&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%91/?tag="
+      },
+      {
+        "name_ja": "２",
+        "amount": "フライパンにごま油を中火で熱し、鶏もも肉を入れ、焼き目がつくまで火を通す。赤とうがらし、にんじんを加え、油が回ったら、しめじを加え炒める。強火にし、＜Ａ＞を加え、汁けがなくなるまで炒め合わせる。",
+        "name_translated": {
+          "en": "2",
+          "zh_tw": "2",
+          "zh_cn": "2",
+          "vi": "2",
+          "hi": "2",
+          "ru": "2",
+          "th": "2",
+          "id": "2",
+          "ms": "2",
+          "ko": "2"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%92&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%92/?tag="
+      },
+      {
+        "name_ja": "３",
+        "amount": "器に盛り、いりごまをかける。",
+        "name_translated": {
+          "en": "3",
+          "zh_tw": "3",
+          "zh_cn": "3",
+          "vi": "3",
+          "hi": "3",
+          "ru": "3",
+          "th": "3",
+          "id": "3",
+          "ms": "3",
+          "ko": "3"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%93&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%93/?tag="
+      }
+    ],
+    "steps_ja": [
+      "鶏もも肉は小さめの一口大に切る。にんじんは斜め薄切りしてから細切りにする。しめじは石づきを取り小房に分ける。",
+      "フライパンにごま油を中火で熱し、鶏もも肉を入れ、焼き目がつくまで火を通す。赤とうがらし、にんじんを加え、油が回ったら、しめじを加え炒める。強火にし、＜Ａ＞を加え、汁けがなくなるまで炒め合わせる。",
+      "器に盛り、いりごまをかける。"
+    ],
+    "image_url": "",
+    "title": {
+      "en": "Sweet and spicy chicken and carrot side dish kinpira",
+      "zh_tw": "甜辣雞肉和胡蘿蔔配菜 kinpira",
+      "zh_cn": "甜辣鸡肉和胡萝卜配菜 kinpira",
+      "vi": "Món ăn kèm gà và cà rốt cay ngọt kinpira",
+      "hi": "मीठा और मसालेदार चिकन और गाजर का साइड डिश किन्पिरा",
+      "ru": "Сладкий и острый гарнир из курицы и моркови кинпира",
+      "th": "คินปิรากับไก่รสหวานและเผ็ดและแครอท",
+      "id": "Kinpira lauk ayam dan wortel yang manis dan pedas",
+      "ms": "Lauk kinpira ayam manis dan berempah dan lobak merah",
+      "ko": "닭과 당근의 달콤한 반찬 반찬"
+    },
+    "description": {
+      "en": "",
+      "zh_tw": "",
+      "zh_cn": "",
+      "vi": "",
+      "hi": "",
+      "ru": "",
+      "th": "",
+      "id": "",
+      "ms": "",
+      "ko": ""
+    },
+    "steps": {
+      "en": [
+        "Cut the chicken thighs into small bite-sized pieces. Slice the carrots diagonally and then into thin strips. Remove the stones from the shimeji mushrooms and divide them into small bunches.",
+        "Heat sesame oil in a frying pan over medium heat, add chicken thighs and cook until browned. Add red chili peppers and carrots, and once the oil has heated up, add shimeji mushrooms and stir-fry. Increase the heat to high, add <A>, and stir-fry until the liquid evaporates.",
+        "Place in a bowl and sprinkle with toasted sesame seeds."
+      ],
+      "zh_tw": [
+        "將雞腿切成一口大小的小塊。將胡蘿蔔斜切成薄片，然後切成細條。姬菇去掉石頭，分成小串。",
+        "在煎锅中用中火加热芝麻油，加入鸡腿，煮至焦黄。加入红辣椒和胡萝卜，油热后，加入姬菇翻炒。把火調高，加入<A>，炒至液體蒸發。",
+        "放入碗中，撒上烤芝麻。"
+      ],
+      "zh_cn": [
+        "将鸡腿切成一口大小的小块。将胡萝卜斜切成薄片，然后切成细条。姬菇去掉石头，分成小串。",
+        "在煎锅中用中火加热芝麻油，加入鸡腿，煮至焦黄。加入红辣椒和胡萝卜，油热后，加入姬菇翻炒。把火调高，加入<A>，炒至液体蒸发。",
+        "放入碗中，撒上烤芝麻。"
+      ],
+      "vi": [
+        "Cắt đùi gà thành từng miếng nhỏ vừa ăn. Cắt cà rốt theo đường chéo rồi thành dải mỏng. Loại bỏ những viên đá khỏi nấm shimeji và chia chúng thành từng chùm nhỏ.",
+        "Đun nóng dầu mè trong chảo trên lửa vừa, cho đùi gà vào xào cho đến khi chín vàng. Cho ớt đỏ và cà rốt vào, khi dầu nóng lên thì cho nấm shimeji vào xào. Tăng nhiệt lên cao, thêm <A> và xào cho đến khi chất lỏng bay hơi.",
+        "Cho vào tô và rắc mè rang."
+      ],
+      "hi": [
+        "चिकन जांघों को छोटे-छोटे टुकड़ों में काट लें। गाजर को तिरछे और फिर पतली स्ट्रिप्स में काटें। शिमेजी मशरूम से गुठलियां हटा दें और उन्हें छोटे-छोटे गुच्छों में बांट लें।",
+        "मध्यम आंच पर एक फ्राइंग पैन में तिल का तेल गरम करें, उसमें चिकन जांघें डालें और भूरा होने तक पकाएं। लाल मिर्च और गाजर डालें, और जब तेल गर्म हो जाए, तो शिमजी मशरूम डालें और हिलाएँ। आंच को तेज़ कर दें, <A> डालें और तब तक हिलाते रहें जब तक कि तरल वाष्पित न हो जाए।",
+        "एक कटोरे में रखें और भुने हुए तिल छिड़कें।"
+      ],
+      "ru": [
+        "Куриные бедра нарезаем небольшими кусочками. Нарежьте морковь по диагонали, а затем тонкими полосками. Удалите косточки из грибов симэдзи и разделите их на небольшие пучки.",
+        "Нагрейте кунжутное масло в сковороде на среднем огне, добавьте куриные бедра и жарьте до румяного цвета. Добавьте красный перец чили и морковь, а когда масло нагреется, добавьте грибы шимеджи и обжарьте, помешивая. Увеличьте огонь до сильного, добавьте <A> и жарьте, помешивая, пока жидкость не выпарится.",
+        "Выложите в миску и посыпьте жареным кунжутом."
+      ],
+      "th": [
+        "หั่นต้นขาไก่เป็นชิ้นเล็กๆ หั่นแครอทตามแนวทแยงมุมแล้วให้เป็นเส้นบางๆ นำก้อนหินออกจากเห็ดชิเมจิ แล้วแบ่งเป็นช่อเล็กๆ",
+        "ตั้งน้ำมันงาในกระทะบนไฟร้อนปานกลาง ใส่ต้นขาไก่ และปรุงจนเป็นสีน้ำตาล ใส่พริกแดงและแครอทลงไป และเมื่อน้ำมันร้อนแล้ว ให้ใส่เห็ดชิเมจิลงไปผัด เพิ่มไฟให้สูง ใส่ <A> แล้วผัดจนของเหลวระเหย",
+        "วางในชามแล้วโรยด้วยงาคั่ว"
+      ],
+      "id": [
+        "Potong paha ayam menjadi potongan kecil-kecil. Iris wortel secara diagonal lalu menjadi irisan tipis. Keluarkan batu dari jamur shimeji dan bagi menjadi tandan kecil.",
+        "Panaskan minyak wijen dalam wajan dengan api sedang, masukkan paha ayam dan masak hingga kecoklatan. Tambahkan cabai merah dan wortel, dan setelah minyak memanas, tambahkan jamur shimeji dan tumis. Besarkan api menjadi tinggi, tambahkan <A>, dan tumis hingga cairannya menguap.",
+        "Tempatkan dalam mangkuk dan taburi dengan biji wijen panggang."
+      ],
+      "ms": [
+        "Potong paha ayam menjadi kepingan kecil bersaiz gigitan. Potong lobak merah secara menyerong dan kemudian menjadi jalur nipis. Keluarkan batu dari cendawan shimeji dan bahagikan kepada tandan kecil.",
+        "Panaskan minyak bijan dalam kuali dengan api sederhana, masukkan peha ayam dan masak hingga keperangan. Masukkan cili merah dan lobak merah, dan apabila minyak telah panas, masukkan cendawan shimeji dan tumis. Besarkan api kepada tinggi, tambah <A>, dan tumis sehingga cecair sejat.",
+        "Letakkan dalam mangkuk dan taburkan dengan bijan panggang."
+      ],
+      "ko": [
+        "닭 허벅지 고기는 작은 한입 크기로 자른다. 당근은 비스듬히 얇게 썬 다음 얇게 썬다. 시메지는 돌을 잡고 소방으로 나눈다.",
+        "프라이팬에 참기름을 중불로 가열하고, 닭 허벅지 고기를 넣고 구운 때까지 불을 통과시킨다. 붉은 갈매기, 당근을 넣고 기름이 돌면 시메지를 넣고 볶습니다. 불을 켜고 <A>를 넣고 국물이 없어 질 때까지 볶습니다.",
+        "그릇에 담아, 참깨를 뿌린다."
+      ]
+    }
   }
 ]

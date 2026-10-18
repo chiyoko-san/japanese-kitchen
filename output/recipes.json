@@ -353732,5 +353732,341 @@
         "랩을 제거하고 그릇에 담고 < 소스>를 뿌린다."
       ]
     }
+  },
+  {
+    "id": "72dd10bc",
+    "source_url": "https://www.mizkan.co.jp/ouchirecipe/recipe/?menu_id=10231",
+    "source_site": "Mizkan",
+    "title_ja": "にんじんと牛肉のきんぴらマリネ",
+    "description_ja": "",
+    "ingredients": [
+      {
+        "name_ja": "牛肉　薄切り",
+        "amount": "２００ｇ",
+        "name_translated": {
+          "en": "Thinly sliced ​​beef",
+          "zh_tw": "牛肉切成薄片",
+          "zh_cn": "牛肉切成薄片",
+          "vi": "Thịt bò thái mỏng",
+          "hi": "पतला कटा हुआ गोमांस",
+          "ru": "Тонко нарезанная говядина",
+          "th": "เนื้อสไลซ์บางๆ",
+          "id": "Daging sapi diiris tipis",
+          "ms": "Daging lembu dihiris nipis",
+          "ko": "쇠고기 얇게 썬다"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E7%89%9B%E8%82%89%E3%80%80%E8%96%84%E5%88%87%E3%82%8A&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E7%89%9B%E8%82%89%E3%80%80%E8%96%84%E5%88%87%E3%82%8A/?tag="
+      },
+      {
+        "name_ja": "にんじん",
+        "amount": "２本",
+        "name_translated": {
+          "en": "carrot",
+          "zh_tw": "紅蘿蔔",
+          "zh_cn": "胡萝卜",
+          "vi": "cà rốt",
+          "hi": "गाजर",
+          "ru": "морковь",
+          "th": "แครอท",
+          "id": "wortel",
+          "ms": "lobak merah",
+          "ko": "당근"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%AB%E3%82%93%E3%81%98%E3%82%93&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%AB%E3%82%93%E3%81%98%E3%82%93/?tag="
+      },
+      {
+        "name_ja": "いりごま　（白）",
+        "amount": "大さじ１",
+        "name_translated": {
+          "en": "Roasted sesame seeds (white)",
+          "zh_tw": "烤芝麻（白）",
+          "zh_cn": "烤芝麻（白）",
+          "vi": "Hạt mè rang (trắng)",
+          "hi": "भुने हुए तिल (सफेद)",
+          "ru": "Семена кунжута жареные (белые)",
+          "th": "งาคั่ว (สีขาว)",
+          "id": "Biji wijen sangrai (putih)",
+          "ms": "Bijan panggang (putih)",
+          "ko": "이리 고마 (흰색)"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%84%E3%82%8A%E3%81%94%E3%81%BE%E3%80%80%EF%BC%88%E7%99%BD%EF%BC%89&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%84%E3%82%8A%E3%81%94%E3%81%BE%E3%80%80%EF%BC%88%E7%99%BD%EF%BC%89/?tag="
+      },
+      {
+        "name_ja": "塩",
+        "amount": "少々",
+        "name_translated": {
+          "en": "salt",
+          "zh_tw": "鹽",
+          "zh_cn": "盐",
+          "vi": "muối",
+          "hi": "नमक",
+          "ru": "соль",
+          "th": "เกลือ",
+          "id": "garam",
+          "ms": "garam",
+          "ko": "소금"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E5%A1%A9&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E5%A1%A9/?tag="
+      },
+      {
+        "name_ja": "酒",
+        "amount": "大さじ１",
+        "name_translated": {
+          "en": "Alcohol",
+          "zh_tw": "酒精",
+          "zh_cn": "酒精",
+          "vi": "Rượu bia",
+          "hi": "शराब",
+          "ru": "Алкоголь",
+          "th": "แอลกอฮอล์",
+          "id": "Alkohol",
+          "ms": "Alkohol",
+          "ko": "술"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E9%85%92&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E9%85%92/?tag="
+      },
+      {
+        "name_ja": "しょうゆ",
+        "amount": "大さじ１",
+        "name_translated": {
+          "en": "soy sauce",
+          "zh_tw": "醬油",
+          "zh_cn": "酱油",
+          "vi": "nước tương",
+          "hi": "सोया सॉस",
+          "ru": "соевый соус",
+          "th": "ซอสถั่วเหลือง",
+          "id": "kecap",
+          "ms": "kicap",
+          "ko": "간장"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%97%E3%82%87%E3%81%86%E3%82%86&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%97%E3%82%87%E3%81%86%E3%82%86/?tag="
+      },
+      {
+        "name_ja": "赤とうがらし",
+        "amount": "１本",
+        "name_translated": {
+          "en": "red pepper",
+          "zh_tw": "辣椒",
+          "zh_cn": "辣椒",
+          "vi": "ớt đỏ",
+          "hi": "लाल मिर्च",
+          "ru": "красный перец",
+          "th": "พริกแดง",
+          "id": "paprika merah",
+          "ms": "lada merah",
+          "ko": "붉은 가시"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E8%B5%A4%E3%81%A8%E3%81%86%E3%81%8C%E3%82%89%E3%81%97&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E8%B5%A4%E3%81%A8%E3%81%86%E3%81%8C%E3%82%89%E3%81%97/?tag="
+      },
+      {
+        "name_ja": "ミツカン　カンタン酢",
+        "amount": "１００ｍｌ",
+        "name_translated": {
+          "en": "Mizkan Kantan Vinegar",
+          "zh_tw": "味滋康甘丹醋",
+          "zh_cn": "味滋康甘丹醋",
+          "vi": "Giấm Mizkan Kantan",
+          "hi": "मिज़कान कंटन सिरका",
+          "ru": "Мизкан Кантанский уксус",
+          "th": "น้ำส้มสายชูมิซกัน กันตัน",
+          "id": "Cuka Mizkan Kantan",
+          "ms": "Cuka Mizkan Kantan",
+          "ko": "미츠칸 칸탄초"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E3%82%AB%E3%83%B3%E3%82%BF%E3%83%B3%E9%85%A2&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E3%82%AB%E3%83%B3%E3%82%BF%E3%83%B3%E9%85%A2/?tag="
+      },
+      {
+        "name_ja": "ごま油",
+        "amount": "大さじ２",
+        "name_translated": {
+          "en": "sesame oil",
+          "zh_tw": "香油",
+          "zh_cn": "香油",
+          "vi": "dầu mè",
+          "hi": "तिल का तेल",
+          "ru": "кунжутное масло",
+          "th": "น้ำมันงา",
+          "id": "minyak wijen",
+          "ms": "minyak bijan",
+          "ko": "참기름"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%94%E3%81%BE%E6%B2%B9&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%94%E3%81%BE%E6%B2%B9/?tag="
+      },
+      {
+        "name_ja": "１",
+        "amount": "にする。",
+        "name_translated": {
+          "en": "1",
+          "zh_tw": "1",
+          "zh_cn": "1",
+          "vi": "1",
+          "hi": "1",
+          "ru": "1",
+          "th": "1",
+          "id": "1",
+          "ms": "1",
+          "ko": "1"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%91&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%91/?tag="
+      },
+      {
+        "name_ja": "２",
+        "amount": "フライパンにごま油大さじ１を熱し、牛肉を加えて塩をし、軽く炒めて取り出す。",
+        "name_translated": {
+          "en": "2",
+          "zh_tw": "2",
+          "zh_cn": "2",
+          "vi": "2",
+          "hi": "2",
+          "ru": "2",
+          "th": "2",
+          "id": "2",
+          "ms": "2",
+          "ko": "2"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%92&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%92/?tag="
+      },
+      {
+        "name_ja": "３",
+        "amount": "残りのごま油を足し、赤とうがらし（たねをぬいたもの）をサッと炒め、にんじんを炒める。牛肉を戻してひと混ぜし、酒、醤油を加えて炒め合わせる。",
+        "name_translated": {
+          "en": "3",
+          "zh_tw": "3",
+          "zh_cn": "3",
+          "vi": "3",
+          "hi": "3",
+          "ru": "3",
+          "th": "3",
+          "id": "3",
+          "ms": "3",
+          "ko": "3"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%93&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%93/?tag="
+      },
+      {
+        "name_ja": "４",
+        "amount": "バットなどの容器にうつし、「カンタン酢」を注ぐ。いりごまを散らす。",
+        "name_translated": {
+          "en": "4",
+          "zh_tw": "4",
+          "zh_cn": "4",
+          "vi": "4",
+          "hi": "4",
+          "ru": "4",
+          "th": "4",
+          "id": "4",
+          "ms": "4",
+          "ko": "4"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%94&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%94/?tag="
+      }
+    ],
+    "steps_ja": [
+      "牛肉は食べやすく切る。にんじんは細切りにする。",
+      "フライパンにごま油大さじ１を熱し、牛肉を加えて塩をし、軽く炒めて取り出す。",
+      "残りのごま油を足し、赤とうがらし（たねをぬいたもの）をサッと炒め、にんじんを炒める。牛肉を戻してひと混ぜし、酒、醤油を加えて炒め合わせる。",
+      "バットなどの容器にうつし、「カンタン酢」を注ぐ。いりごまを散らす。"
+    ],
+    "image_url": "",
+    "title": {
+      "en": "Kinpira marinated carrot and beef",
+      "zh_tw": "Kinpira 醃製胡蘿蔔和牛肉",
+      "zh_cn": "Kinpira 腌制胡萝卜和牛肉",
+      "vi": "Kinpira ướp cà rốt và thịt bò",
+      "hi": "किन्पिरा ने गाजर और बीफ को मैरीनेट किया",
+      "ru": "Кинпира, маринованная морковь и говядина",
+      "th": "Kinpira หมักแครอทและเนื้อวัว",
+      "id": "Kinpira mengasinkan wortel dan daging sapi",
+      "ms": "lobak merah dan daging lembu yang diperap Kinpira",
+      "ko": "당근과 쇠고기 킨피라 마리네"
+    },
+    "description": {
+      "en": "",
+      "zh_tw": "",
+      "zh_cn": "",
+      "vi": "",
+      "hi": "",
+      "ru": "",
+      "th": "",
+      "id": "",
+      "ms": "",
+      "ko": ""
+    },
+    "steps": {
+      "en": [
+        "Cut the beef into easy-to-eat pieces. Cut the carrots into thin pieces.",
+        "Heat 1 tablespoon of sesame oil in a frying pan, add the beef, season with salt, fry lightly, and remove.",
+        "Add the remaining sesame oil, quickly stir-fry the red pepper (seeds removed), and stir-fry the carrots. Add the beef back in and mix, then add the sake and soy sauce and stir-fry.",
+        "Transfer it to a container such as a vat and pour in ``simple vinegar''. Sprinkle with roasted sesame seeds."
+      ],
+      "zh_tw": [
+        "將牛肉切成易於食用的塊狀。將胡蘿蔔切成薄片。",
+        "煎鍋中燒熱1大匙麻油，放入牛肉，加鹽調味，輕炒，撈出。",
+        "加入剩餘的香油，快速炒紅辣椒（去籽），炒紅蘿蔔。將牛肉重新加入並混合，然後加入清酒和醬油並翻炒。",
+        "將其轉移到容器（例如大桶）中並倒入“簡單的醋”。撒上烤芝麻。"
+      ],
+      "zh_cn": [
+        "将牛肉切成易于食用的块。将胡萝卜切成薄片。",
+        "煎锅中烧热1汤匙麻油，放入牛肉，加盐调味，轻炒，捞出。",
+        "加入剩余的香油，快速炒红辣椒（去籽），炒胡萝卜。将牛肉重新加入并混合，然后加入清酒和酱油并翻炒。",
+        "将其转移到容器（例如大桶）中并倒入“简单的醋”。撒上烤芝麻。"
+      ],
+      "vi": [
+        "Cắt thịt bò thành miếng vừa ăn. Cắt cà rốt thành miếng mỏng.",
+        "Đun nóng 1 thìa dầu mè trong chảo, cho thịt bò vào, nêm muối, xào sơ rồi vớt ra.",
+        "Thêm dầu mè còn lại vào, xào nhanh ớt đỏ (bỏ hạt) và xào cà rốt. Thêm thịt bò vào và trộn đều, sau đó thêm rượu sake và nước tương vào xào.",
+        "Chuyển nó vào một vật chứa chẳng hạn như thùng và đổ vào ''giấm đơn giản''. Rắc hạt mè rang."
+      ],
+      "hi": [
+        "गोमांस को खाने में आसान टुकड़ों में काटें। गाजर को पतले टुकड़ों में काट लीजिये.",
+        "एक फ्राइंग पैन में 1 बड़ा चम्मच तिल का तेल गर्म करें, उसमें बीफ़ डालें, नमक डालें, हल्का भूनें और हटा दें।",
+        "बचा हुआ तिल का तेल डालें, लाल मिर्च (बीज निकाले हुए) को जल्दी से भूनें, और गाजर को हिलाकर भूनें। बीफ़ को वापस डालें और मिलाएँ, फिर सेक और सोया सॉस डालें और हिलाएँ।",
+        "इसे एक बर्तन जैसे कंटेनर में डालें और ``साधारण सिरका'' डालें। भुने हुए तिल छिड़कें।"
+      ],
+      "ru": [
+        "Нарезаем говядину удобными для еды кусочками. Морковь нарезаем тонкими кусочками.",
+        "На сковороде разогрейте 1 столовую ложку кунжутного масла, добавьте говядину, посолите, слегка обжарьте и вытащите.",
+        "Добавьте оставшееся кунжутное масло, быстро обжарьте красный перец (без семян) и морковь. Снова добавьте говядину и перемешайте, затем добавьте саке и соевый соус и обжарьте.",
+        "Переложите его в емкость, например чан, и влейте «простой уксус». Посыпаем жареными семенами кунжута."
+      ],
+      "th": [
+        "หั่นเนื้อวัวเป็นชิ้นกินง่าย ตัดแครอทเป็นชิ้นบาง ๆ",
+        "ตั้งน้ำมันงา 1 ช้อนโต๊ะในกระทะ ใส่เนื้อวัว ปรุงรสด้วยเกลือ ทอดเบาๆ แล้วนำออก",
+        "ใส่น้ำมันงาที่เหลือ ผัดพริกแดง (เอาเมล็ดออก) อย่างรวดเร็ว แล้วผัดแครอท ใส่เนื้อวัวกลับเข้าไปคลุกเคล้าให้เข้ากัน จากนั้นเติมสาเกและซีอิ๊วขาวลงไปผัด",
+        "โอนไปยังภาชนะ เช่น ถัง และเท ``น้ำส้มสายชูธรรมดา'' ลงไป โรยหน้าด้วยงาคั่ว"
+      ],
+      "id": [
+        "Potong daging sapi menjadi potongan-potongan yang mudah dimakan. Potong wortel menjadi potongan tipis.",
+        "Panaskan 1 sendok makan minyak wijen dalam wajan, masukkan daging sapi, bumbui dengan garam, goreng sebentar, lalu angkat.",
+        "Tambahkan sisa minyak wijen, tumis cepat cabai merah (buang bijinya), dan tumis wortel. Tambahkan kembali daging sapi dan aduk, lalu tambahkan sake dan kecap, lalu tumis.",
+        "Pindahkan ke wadah seperti tong dan tuangkan ``cuka sederhana''. Taburi dengan biji wijen panggang."
+      ],
+      "ms": [
+        "Potong daging lembu kepada kepingan yang mudah untuk dimakan. Potong lobak merah menjadi kepingan nipis.",
+        "Panaskan 1 sudu besar minyak bijan dalam kuali, masukkan daging lembu, perasakan dengan garam, goreng sedikit, dan angkat.",
+        "Masukkan baki minyak bijan, cepat-cepat tumis lada merah (dibuang biji), dan tumis lobak merah. Masukkan semula daging lembu dan gaul, kemudian masukkan sake dan kicap dan tumis.",
+        "Pindahkan ke dalam bekas seperti tong dan tuangkan ``cuka ringkas''. Taburkan dengan bijan panggang."
+      ],
+      "ko": [
+        "쇠고기는 먹기 쉽게 자른다. 당근은 잘게 썬다.",
+        "프라이팬에 참기름 1큰술을 가열하고 쇠고기를 넣고 소금을 넣고 가볍게 볶아 꺼낸다.",
+        "남은 참기름을 더해, 붉은 갈매기(튀김을 볶은 것)를 살짝 볶아, 당근을 볶는다. 쇠고기를 되돌려 섞어 술, 간장을 넣고 볶는다.",
+        "박쥐 등의 용기에 우울하고 \"간단 식초\"를 붓는다. 이리 참깨를 흩어진다."
+      ]
+    }
   }
 ]

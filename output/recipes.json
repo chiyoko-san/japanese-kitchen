@@ -357622,5 +357622,818 @@
         "에 그릇에 담고, 기호로 양파를 뿌린다."
       ]
     }
+  },
+  {
+    "id": "a08521be",
+    "source_url": "https://www.mizkan.co.jp/ouchirecipe/recipe/?menu_id=22336",
+    "source_site": "Mizkan",
+    "title_ja": "鶏胸肉のしっとりおろし煮",
+    "description_ja": "",
+    "ingredients": [
+      {
+        "name_ja": "鶏むね肉",
+        "amount": "１枚（３００ｇ）",
+        "name_translated": {
+          "en": "chicken breast",
+          "zh_tw": "雞胸肉",
+          "zh_cn": "鸡胸肉",
+          "vi": "ức gà",
+          "hi": "चिकन ब्रेस्ट",
+          "ru": "куриная грудка",
+          "th": "อกไก่",
+          "id": "dada ayam",
+          "ms": "dada ayam",
+          "ko": "닭고기 고기"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E9%B6%8F%E3%82%80%E3%81%AD%E8%82%89&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E9%B6%8F%E3%82%80%E3%81%AD%E8%82%89/?tag="
+      },
+      {
+        "name_ja": "片栗粉",
+        "amount": "大さじ１",
+        "name_translated": {
+          "en": "potato starch",
+          "zh_tw": "馬鈴薯澱粉",
+          "zh_cn": "马铃薯淀粉",
+          "vi": "tinh bột khoai tây",
+          "hi": "आलू स्टार्च",
+          "ru": "картофельный крахмал",
+          "th": "แป้งมันฝรั่ง",
+          "id": "tepung kentang",
+          "ms": "kanji kentang",
+          "ko": "가문 가루"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E7%89%87%E6%A0%97%E7%B2%89&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E7%89%87%E6%A0%97%E7%B2%89/?tag="
+      },
+      {
+        "name_ja": "サラダ油",
+        "amount": "大さじ１",
+        "name_translated": {
+          "en": "salad oil",
+          "zh_tw": "沙拉油",
+          "zh_cn": "色拉油",
+          "vi": "dầu trộn salad",
+          "hi": "वनस्पति - तेल",
+          "ru": "салатное масло",
+          "th": "น้ำมันสลัด",
+          "id": "minyak salad",
+          "ms": "minyak salad",
+          "ko": "샐러드 오일"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%82%B5%E3%83%A9%E3%83%80%E6%B2%B9&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%82%B5%E3%83%A9%E3%83%80%E6%B2%B9/?tag="
+      },
+      {
+        "name_ja": "大根",
+        "amount": "８ｃｍ分（約３００ｇ）",
+        "name_translated": {
+          "en": "Japanese white radish",
+          "zh_tw": "日本白蘿蔔",
+          "zh_cn": "日本白萝卜",
+          "vi": "Củ cải trắng Nhật Bản",
+          "hi": "जापानी सफेद मूली",
+          "ru": "Японская белая редька",
+          "th": "หัวไชเท้าขาวญี่ปุ่น",
+          "id": "lobak putih jepang",
+          "ms": "lobak putih jepun",
+          "ko": "무"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E5%A4%A7%E6%A0%B9&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E5%A4%A7%E6%A0%B9/?tag="
+      },
+      {
+        "name_ja": "ミツカン　追いがつおつゆ２倍",
+        "amount": "大さじ４",
+        "name_translated": {
+          "en": "Mizkan Oigatsu Otsuyu x2",
+          "zh_tw": "味滋館大月大津 x2",
+          "zh_cn": "味滋馆大月大津 x2",
+          "vi": "Mizkan Oigatsu Otsuyu x2",
+          "hi": "मिज़कान ओइगात्सु ओत्सुयु x2",
+          "ru": "Мизкан Ойгацу Оцую x2",
+          "th": "มิซคัง โออิงัตสึ โอทสึยุ x2",
+          "id": "Mizkan Oigatsu Otsuyu x2",
+          "ms": "Mizkan Oigatsu Otsuyu x2",
+          "ko": "미쓰칸 쫓는 츠츠유 2배"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E8%BF%BD%E3%81%84%E3%81%8C%E3%81%A4%E3%81%8A%E3%81%A4%E3%82%86%EF%BC%92%E5%80%8D&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E8%BF%BD%E3%81%84%E3%81%8C%E3%81%A4%E3%81%8A%E3%81%A4%E3%82%86%EF%BC%92%E5%80%8D/?tag="
+      },
+      {
+        "name_ja": "小ねぎ　（小口切り）",
+        "amount": "適量",
+        "name_translated": {
+          "en": "Onion (cut into small pieces)",
+          "zh_tw": "洋蔥（切小塊）",
+          "zh_cn": "洋葱（切小块）",
+          "vi": "Hành tây (cắt thành miếng nhỏ)",
+          "hi": "प्याज (छोटे टुकड़ों में कटा हुआ)",
+          "ru": "Лук (нарезать небольшими кусочками)",
+          "th": "หัวหอม (หั่นเป็นชิ้นเล็กๆ)",
+          "id": "Bawang bombay (potong kecil-kecil)",
+          "ms": "Bawang besar (potong kecil)",
+          "ko": "작은 양파 (작은 컷)"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E5%B0%8F%E3%81%AD%E3%81%8E%E3%80%80%EF%BC%88%E5%B0%8F%E5%8F%A3%E5%88%87%E3%82%8A%EF%BC%89&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E5%B0%8F%E3%81%AD%E3%81%8E%E3%80%80%EF%BC%88%E5%B0%8F%E5%8F%A3%E5%88%87%E3%82%8A%EF%BC%89/?tag="
+      },
+      {
+        "name_ja": "１",
+        "amount": "にし、ポリ袋に入れて片栗粉をまぶす。大根はおろす。",
+        "name_translated": {
+          "en": "1",
+          "zh_tw": "1",
+          "zh_cn": "1",
+          "vi": "1",
+          "hi": "1",
+          "ru": "1",
+          "th": "1",
+          "id": "1",
+          "ms": "1",
+          "ko": "1"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%91&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%91/?tag="
+      },
+      {
+        "name_ja": "２",
+        "amount": "フライパンにサラダ油を入れて中火で熱する。鶏肉を両面きつね色になるまで焼く。",
+        "name_translated": {
+          "en": "2",
+          "zh_tw": "2",
+          "zh_cn": "2",
+          "vi": "2",
+          "hi": "2",
+          "ru": "2",
+          "th": "2",
+          "id": "2",
+          "ms": "2",
+          "ko": "2"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%92&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%92/?tag="
+      },
+      {
+        "name_ja": "３",
+        "amount": "「追いがつおつゆ２倍」と大根おろしを汁ごと加え、５分ほど、鶏肉に火が通るまで煮る。器に盛り、小ねぎをのせる。",
+        "name_translated": {
+          "en": "3",
+          "zh_tw": "3",
+          "zh_cn": "3",
+          "vi": "3",
+          "hi": "3",
+          "ru": "3",
+          "th": "3",
+          "id": "3",
+          "ms": "3",
+          "ko": "3"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%93&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%93/?tag="
+      }
+    ],
+    "steps_ja": [
+      "鶏肉は一口大のそぎ切りにし、ポリ袋に入れて片栗粉をまぶす。大根はおろす。",
+      "フライパンにサラダ油を入れて中火で熱する。鶏肉を両面きつね色になるまで焼く。",
+      "「追いがつおつゆ２倍」と大根おろしを汁ごと加え、５分ほど、鶏肉に火が通るまで煮る。器に盛り、小ねぎをのせる。"
+    ],
+    "image_url": "",
+    "title": {
+      "en": "Moist grated chicken breast",
+      "zh_tw": "鶏胸肉のしっとりおろし煮",
+      "zh_cn": "潮湿的磨碎的鸡胸肉",
+      "vi": "Ức gà xay ẩm",
+      "hi": "गीला कसा हुआ चिकन ब्रेस्ट",
+      "ru": "Влажная тертая куриная грудка",
+      "th": "อกไก่ขูดชุ่มๆ",
+      "id": "Dada ayam parut basah",
+      "ms": "Dada ayam parut lembab",
+      "ko": "닭 가슴살의 촉촉한 삶은 삶은"
+    },
+    "description": {
+      "en": "",
+      "zh_tw": "",
+      "zh_cn": "",
+      "vi": "",
+      "hi": "",
+      "ru": "",
+      "th": "",
+      "id": "",
+      "ms": "",
+      "ko": ""
+    },
+    "steps": {
+      "en": [
+        "Cut the chicken into bite-sized pieces, place in a plastic bag, and sprinkle with potato starch. Grate the radish.",
+        "Add salad oil to a frying pan and heat over medium heat. Fry the chicken until golden brown on both sides.",
+        "Add ``Oigatsuotsuyu doubled'' and grated daikon radish together with their juices, and simmer for about 5 minutes until the chicken is cooked through. Place in a bowl and top with green onions."
+      ],
+      "zh_tw": [
+        "將雞肉切成一口大小的塊，放入塑膠袋中，撒上馬鈴薯澱粉。将萝卜擦丝。",
+        "將沙拉油加入煎鍋中，以中火加熱。將雞肉煎至兩面金黃。",
+        "加入「Oigatsuotsuyu doubled」和磨碎的蘿蔔及其汁液，煮約5分鐘，直至雞肉煮熟。放入碗中，上面撒上蔥花。"
+      ],
+      "zh_cn": [
+        "将鸡肉切成一口大小的块，放入塑料袋中，撒上马铃薯淀粉。将萝卜擦丝。",
+        "将色拉油加入煎锅中，用中火加热。将鸡肉煎至两面金黄。",
+        "加入“Oigatsuotsuyu doubled”和磨碎的萝卜及其汁液，煮约5分钟，直至鸡肉煮熟。放入碗中，上面撒上葱。"
+      ],
+      "vi": [
+        "Cắt gà thành miếng vừa ăn, cho vào túi nhựa và rắc tinh bột khoai tây. Nướng củ cải.",
+        "Thêm dầu salad vào chảo rán và đun nóng trên lửa vừa. Chiên gà cho đến khi vàng đều hai mặt.",
+        "Thêm ``Oigatsuotsuyu double'' và củ cải daikon bào cùng với nước ép của chúng, đun nhỏ lửa trong khoảng 5 phút cho đến khi gà chín. Đặt vào một cái bát và đặt hành lá lên trên."
+      ],
+      "hi": [
+        "चिकन को छोटे टुकड़ों में काटें, प्लास्टिक बैग में रखें और आलू स्टार्च छिड़कें। मूली को कद्दूकस कर लीजिये.",
+        "एक फ्राइंग पैन में सलाद तेल डालें और मध्यम आंच पर गर्म करें। चिकन को दोनों तरफ से सुनहरा भूरा होने तक तलें.",
+        "``Oigatsuotsuyu दोगुना'' और कसा हुआ डेकोन मूली को उनके रस के साथ मिलाएं, और लगभग 5 मिनट तक धीमी आंच पर पकाएं जब तक कि चिकन पक न जाए। एक कटोरे में रखें और ऊपर हरा प्याज डालें।"
+      ],
+      "ru": [
+        "Нарежьте курицу небольшими кусочками, положите в полиэтиленовый пакет и посыпьте картофельным крахмалом. Натереть редис.",
+        "Добавьте салатное масло в сковороду и нагрейте на среднем огне. Обжарьте курицу до золотистого цвета с обеих сторон.",
+        "Добавьте «Оигацуотсую вдвое» и тертый редис дайкон вместе с их соком и варите около 5 минут, пока курица не будет полностью готова. Выложите в миску и сверху посыпьте зеленым луком."
+      ],
+      "th": [
+        "หั่นไก่เป็นชิ้นขนาดพอดีคำ ใส่ในถุงพลาสติก แล้วโรยด้วยแป้งมันฝรั่ง ตะแกรงหัวไชเท้า",
+        "ใส่น้ำมันสลัดลงในกระทะแล้วตั้งไฟบนไฟร้อนปานกลาง ทอดไก่จนเป็นสีเหลืองทองทั้งสองด้าน",
+        "ใส่ ``Oigatsuotsuyu สองเท่า'' และหัวไชเท้าขูดขูดพร้อมกับน้ำผลไม้ แล้วเคี่ยวประมาณ 5 นาทีจนไก่สุก วางในชามและโรยหน้าด้วยหัวหอมสีเขียว"
+      ],
+      "id": [
+        "Potong ayam seukuran sekali gigit, masukkan ke dalam kantong plastik, dan taburi tepung kentang. Parut lobak.",
+        "Tambahkan minyak salad ke dalam wajan dan panaskan dengan api sedang. Goreng ayam hingga kedua sisinya berwarna cokelat keemasan.",
+        "Tambahkan ``Oigatsuotsuyu dua kali lipat'' dan parutan lobak daikon bersama dengan sarinya, dan biarkan mendidih selama sekitar 5 menit hingga ayam matang. Tempatkan dalam mangkuk dan taburi dengan daun bawang."
+      ],
+      "ms": [
+        "Potong ayam menjadi kepingan bersaiz gigitan, masukkan ke dalam beg plastik, dan taburkan dengan kanji kentang. Parut lobak.",
+        "Masukkan minyak salad ke dalam kuali dan panaskan dengan api sederhana. Goreng ayam sehingga perang keemasan di kedua-dua belah.",
+        "Masukkan ``Oigatsuotsuyu dua kali ganda'' dan lobak daikon parut bersama jusnya, dan reneh selama kira-kira 5 minit sehingga ayam masak. Letakkan dalam mangkuk dan atas dengan bawang hijau."
+      ],
+      "ko": [
+        "닭고기는 한입 큰 썰매로 만들고 비닐 봉투에 넣고 가문 가루를 뿌린다. 무는 떨어뜨린다.",
+        "프라이팬에 샐러드유를 넣고 중불로 가열한다. 닭고기를 양면 여우가 될 때까지 굽는다.",
+        "'쫓는 츠유 2배'와 무강을 국물마다 넣고 5분 정도 닭고기로 불이 다닐 때까지 끓인다. 그릇에 담아, 양파를 얹는다."
+      ]
+    }
+  },
+  {
+    "id": "c4a8063d",
+    "source_url": "https://www.mizkan.co.jp/ouchirecipe/recipe/?menu_id=24161",
+    "source_site": "Mizkan",
+    "title_ja": "ピーラーで簡単！ひらひらゆず大根",
+    "description_ja": "",
+    "ingredients": [
+      {
+        "name_ja": "大根",
+        "amount": "１５０ｇ",
+        "name_translated": {
+          "en": "Japanese white radish",
+          "zh_tw": "日本白蘿蔔",
+          "zh_cn": "日本白萝卜",
+          "vi": "Củ cải trắng Nhật Bản",
+          "hi": "जापानी सफेद मूली",
+          "ru": "Японская белая редька",
+          "th": "หัวไชเท้าขาวญี่ปุ่น",
+          "id": "lobak putih jepang",
+          "ms": "lobak putih jepun",
+          "ko": "무"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E5%A4%A7%E6%A0%B9&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E5%A4%A7%E6%A0%B9/?tag="
+      },
+      {
+        "name_ja": "柚子（果皮）",
+        "amount": "適量（１ｇ）",
+        "name_translated": {
+          "en": "Yuzu (peel)",
+          "zh_tw": "柚子（去皮）",
+          "zh_cn": "柚子（去皮）",
+          "vi": "Yuzu (bóc vỏ)",
+          "hi": "युज़ु (छील)",
+          "ru": "Юзу (кожура)",
+          "th": "ยูซุ (ปอกเปลือก)",
+          "id": "Yuzu (kupas)",
+          "ms": "Yuzu (kupas)",
+          "ko": "유자(과피)"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E6%9F%9A%E5%AD%90%EF%BC%88%E6%9E%9C%E7%9A%AE%EF%BC%89&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E6%9F%9A%E5%AD%90%EF%BC%88%E6%9E%9C%E7%9A%AE%EF%BC%89/?tag="
+      },
+      {
+        "name_ja": "ミツカン　カンタン酢",
+        "amount": "１００ｍｌ",
+        "name_translated": {
+          "en": "Mizkan Kantan Vinegar",
+          "zh_tw": "味滋康甘丹醋",
+          "zh_cn": "味滋康甘丹醋",
+          "vi": "Giấm Mizkan Kantan",
+          "hi": "मिज़कान कंटन सिरका",
+          "ru": "Мизкан Кантанский уксус",
+          "th": "น้ำส้มสายชูมิซกัน กันตัน",
+          "id": "Cuka Mizkan Kantan",
+          "ms": "Cuka Mizkan Kantan",
+          "ko": "미츠칸 칸탄초"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E3%82%AB%E3%83%B3%E3%82%BF%E3%83%B3%E9%85%A2&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E3%82%AB%E3%83%B3%E3%82%BF%E3%83%B3%E9%85%A2/?tag="
+      },
+      {
+        "name_ja": "または",
+        "amount": "適量",
+        "name_translated": {
+          "en": "or",
+          "zh_tw": "或者",
+          "zh_cn": "或者",
+          "vi": "hoặc",
+          "hi": "या",
+          "ru": "или",
+          "th": "หรือ",
+          "id": "atau",
+          "ms": "atau",
+          "ko": "또는"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%BE%E3%81%9F%E3%81%AF&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%BE%E3%81%9F%E3%81%AF/?tag="
+      },
+      {
+        "name_ja": "ミツカン　カンタン純米酢",
+        "amount": "１００ｍｌ",
+        "name_translated": {
+          "en": "Mizkan Easy Junmai Vinegar",
+          "zh_tw": "滋康簡易純米醋",
+          "zh_cn": "味滋康简易纯米醋",
+          "vi": "Giấm Mizkan Easy Junmai",
+          "hi": "मिज़कान आसान जुनमई सिरका",
+          "ru": "Мизкан Легкий уксус Джунмай",
+          "th": "มิซกัน อีซี่ จุนไม น้ำส้มสายชู",
+          "id": "Cuka Mizkan Easy Junmai",
+          "ms": "Mizkan Cuka Junmai Mudah",
+          "ko": "미츠칸 간단 순미 식초"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E3%82%AB%E3%83%B3%E3%82%BF%E3%83%B3%E7%B4%94%E7%B1%B3%E9%85%A2&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E3%82%AB%E3%83%B3%E3%82%BF%E3%83%B3%E7%B4%94%E7%B1%B3%E9%85%A2/?tag="
+      },
+      {
+        "name_ja": "１",
+        "amount": "にし、小さくちぎる。",
+        "name_translated": {
+          "en": "1",
+          "zh_tw": "1",
+          "zh_cn": "1",
+          "vi": "1",
+          "hi": "1",
+          "ru": "1",
+          "th": "1",
+          "id": "1",
+          "ms": "1",
+          "ko": "1"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%91&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%91/?tag="
+      },
+      {
+        "name_ja": "２",
+        "amount": "と「カンタン酢」または「カンタン純米酢」を入れ、軽くもみこむ。空気を抜いてジッパーをしめ、冷蔵庫で３０分ほど漬け、味をなじませる。",
+        "name_translated": {
+          "en": "2",
+          "zh_tw": "2",
+          "zh_cn": "2",
+          "vi": "2",
+          "hi": "2",
+          "ru": "2",
+          "th": "2",
+          "id": "2",
+          "ms": "2",
+          "ko": "2"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%92&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%92/?tag="
+      }
+    ],
+    "steps_ja": [
+      "大根はピーラーで薄切りにする。柚子（果皮）はピーラーで薄切りにし、小さくちぎる。",
+      "ジッパー付き保存袋に１と「カンタン酢」または「カンタン純米酢」を入れ、軽くもみこむ。空気を抜いてジッパーをしめ、冷蔵庫で３０分ほど漬け、味をなじませる。"
+    ],
+    "image_url": "",
+    "title": {
+      "en": "Easy with a peeler! Hirahirayuzu radish",
+      "zh_tw": "用削皮器就可以輕鬆搞定！平平柚子蘿蔔",
+      "zh_cn": "用削皮器就可以轻松搞定！平平柚子萝卜",
+      "vi": "Dễ dàng với một cái gọt vỏ! Củ cải Hirahirayuzu",
+      "hi": "एक छिलके के साथ आसान! हिराहिरायुज़ु मूली",
+      "ru": "Легко с помощью овощечистки! Редис Хирахираюзу",
+      "th": "ง่ายด้วยเครื่องปอก! หัวไชเท้าฮิระฮิระซุซุ",
+      "id": "Mudah dengan pengupas! Lobak Hirahirayuzu",
+      "ms": "Mudah dengan pengupas! lobak Hirahirayuzu",
+      "ko": "필러로 간단! 히라히라 유자 무"
+    },
+    "description": {
+      "en": "",
+      "zh_tw": "",
+      "zh_cn": "",
+      "vi": "",
+      "hi": "",
+      "ru": "",
+      "th": "",
+      "id": "",
+      "ms": "",
+      "ko": ""
+    },
+    "steps": {
+      "en": [
+        "Slice the radish thinly using a peeler. Slice the yuzu (peel) thinly with a peeler and tear into small pieces.",
+        "Put 1 and ``Kantan Vinegar'' or ``Kantan Junmai Vinegar'' into a zippered storage bag, and mix them in lightly. Remove the air, close the zipper, and marinate in the refrigerator for about 30 minutes to allow the flavors to meld."
+      ],
+      "zh_tw": [
+        "用削皮器將蘿蔔切成薄片。用削皮器將柚子皮切成薄片，然後撕成小塊。",
+        "將1和「寒丹醋」或「寒丹純米醋」放入有拉鍊的收納袋中，輕輕混合。排除空氣，拉上拉鍊，然後在冰箱中醃製約 30 分鐘，讓味道融合。"
+      ],
+      "zh_cn": [
+        "用削皮器将萝卜切成薄片。用削皮器将柚子皮切成薄片，然后撕成小块。",
+        "将1和“寒丹醋”或“寒丹纯米醋”放入带拉链的储物袋中，轻轻混合。排除空气，拉上拉链，然后在冰箱中腌制约 30 分钟，让味道融合。"
+      ],
+      "vi": [
+        "Cắt mỏng củ cải bằng dụng cụ gọt vỏ. Dùng dao gọt vỏ cắt mỏng yuzu và xé thành từng miếng nhỏ.",
+        "Cho 1 và ``Giấm Kantan'' hoặc ``Giấm Kantan Junmai'' vào túi bảo quản có khóa kéo và trộn nhẹ. Loại bỏ không khí, đóng dây kéo và ướp trong tủ lạnh khoảng 30 phút để hương vị hòa quyện."
+      ],
+      "hi": [
+        "मूली को छिलके की सहायता से पतला-पतला काट लें। युज़ु (छील) को छिलके वाली मशीन से पतला-पतला काटें और छोटे-छोटे टुकड़ों में तोड़ लें।",
+        "1 और ``कांतन सिरका'' या ``कांतन जुनमई सिरका'' को एक ज़िप वाले स्टोरेज बैग में डालें, और उन्हें हल्के से मिलाएं। हवा हटा दें, ज़िपर बंद कर दें और लगभग 30 मिनट के लिए रेफ्रिजरेटर में मैरीनेट करें ताकि स्वाद घुल जाए।"
+      ],
+      "ru": [
+        "Тонко нарежьте редис с помощью овощечистки. Тонко нарежьте юзу (кожуру) овощечисткой и порвите на небольшие кусочки.",
+        "Положите 1 штуку и «Уксус Кантан» или «Уксус Кантан Джунмай» в сумку для хранения на молнии и слегка перемешайте. Удалите воздух, закройте молнию и поставьте мариноваться в холодильник примерно на 30 минут, чтобы ароматы смешались."
+      ],
+      "th": [
+        "หั่นหัวไชเท้าเป็นชิ้นบาง ๆ โดยใช้เครื่องปอก หั่นส้มยูสุ (ปอกเปลือก) เป็นชิ้นบางๆ ด้วยที่ปอกแล้วฉีกเป็นชิ้นเล็กๆ",
+        "ใส่ 1 และ ``น้ำส้มสายชูกันตัน'' หรือ ``น้ำส้มสายชูกันตัน จุนไม'' ลงในถุงซิปล็อค แล้วผสมให้เข้ากันเล็กน้อย ไล่อากาศออก ปิดซิป แล้วหมักในตู้เย็นประมาณ 30 นาทีเพื่อให้รสชาติเข้ากัน"
+      ],
+      "id": [
+        "Iris tipis lobak menggunakan alat pengupas. Iris tipis yuzu (kupas) dengan alat pengupas dan sobek kecil-kecil.",
+        "Masukkan 1 dan ``Cuka Kantan'' atau ``Cuka Kantan Junmai'' ke dalam kantong penyimpanan berritsleting, lalu aduk rata. Keluarkan udaranya, tutup ritsletingnya, dan rendam di lemari es selama kurang lebih 30 menit agar bumbunya meleleh."
+      ],
+      "ms": [
+        "Hiris lobak nipis menggunakan alat pengupas. Hiris yuzu (kupas) nipis dengan pengupas dan koyak menjadi kepingan kecil.",
+        "Masukkan 1 dan ``Cuka Kantan'' atau ``Cuka Kantan Junmai'' ke dalam beg penyimpanan berzip, dan gaulkannya sedikit. Keluarkan udara, tutup ritsleting dan perap di dalam peti sejuk selama kira-kira 30 minit untuk membolehkan rasa bercampur."
+      ],
+      "ko": [
+        "무는 필러로 얇게 썬다. 유자(과피)는 필러로 얇게 썬다.",
+        "지퍼가 달린 보존봉투에 1과 '간단식초' 또는 '간단순미식초'를 넣고 가볍게 섞는다. 공기를 빼고 지퍼를 넣고 냉장고로 30분 정도 담그고 맛을 발라준다."
+      ]
+    }
+  },
+  {
+    "id": "e9c2aa25",
+    "source_url": "https://www.mizkan.co.jp/ouchirecipe/recipe/?menu_id=1153",
+    "source_site": "Mizkan",
+    "title_ja": "名古屋風味噌おでん",
+    "description_ja": "",
+    "ingredients": [
+      {
+        "name_ja": "牛すじ肉",
+        "amount": "１００ｇ",
+        "name_translated": {
+          "en": "Beef tendon meat",
+          "zh_tw": "牛筋肉",
+          "zh_cn": "牛筋肉",
+          "vi": "Thịt gân bò",
+          "hi": "गोमांस कण्डरा मांस",
+          "ru": "Мясо из говяжьих сухожилий",
+          "th": "เนื้อเอ็นเนื้อ",
+          "id": "Daging urat daging sapi",
+          "ms": "Daging tendon daging lembu",
+          "ko": "쇠고기 줄기 고기"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E7%89%9B%E3%81%99%E3%81%98%E8%82%89&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E7%89%9B%E3%81%99%E3%81%98%E8%82%89/?tag="
+      },
+      {
+        "name_ja": "大根",
+        "amount": "長さ１０ｃｍくらい",
+        "name_translated": {
+          "en": "Japanese white radish",
+          "zh_tw": "日本白蘿蔔",
+          "zh_cn": "日本白萝卜",
+          "vi": "Củ cải trắng Nhật Bản",
+          "hi": "जापानी सफेद मूली",
+          "ru": "Японская белая редька",
+          "th": "หัวไชเท้าขาวญี่ปุ่น",
+          "id": "lobak putih jepang",
+          "ms": "lobak putih jepun",
+          "ko": "무"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E5%A4%A7%E6%A0%B9&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E5%A4%A7%E6%A0%B9/?tag="
+      },
+      {
+        "name_ja": "ゆで卵",
+        "amount": "４個",
+        "name_translated": {
+          "en": "boiled egg",
+          "zh_tw": "煮雞蛋",
+          "zh_cn": "煮鸡蛋",
+          "vi": "trứng luộc",
+          "hi": "उबले हुए अंडे",
+          "ru": "вареное яйцо",
+          "th": "ไข่ต้ม",
+          "id": "telur rebus",
+          "ms": "telur rebus",
+          "ko": "삶은 달걀"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%82%86%E3%81%A7%E5%8D%B5&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%82%86%E3%81%A7%E5%8D%B5/?tag="
+      },
+      {
+        "name_ja": "板こんにゃく",
+        "amount": "１枚",
+        "name_translated": {
+          "en": "Konnyaku plate",
+          "zh_tw": "蒟蒻盤",
+          "zh_cn": "魔芋盘",
+          "vi": "Đĩa Konnyaku",
+          "hi": "कोन्याकु प्लेट",
+          "ru": "тарелка Конняку",
+          "th": "จานคอนยัคคุ",
+          "id": "Piring Konnyaku",
+          "ms": "Pinggan Konnyaku",
+          "ko": "판 곤약"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E6%9D%BF%E3%81%93%E3%82%93%E3%81%AB%E3%82%83%E3%81%8F&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E6%9D%BF%E3%81%93%E3%82%93%E3%81%AB%E3%82%83%E3%81%8F/?tag="
+      },
+      {
+        "name_ja": "木綿豆腐",
+        "amount": "１丁（３５０ｇ）",
+        "name_translated": {
+          "en": "firm tofu",
+          "zh_tw": "老豆腐",
+          "zh_cn": "老豆腐",
+          "vi": "đậu phụ cứng",
+          "hi": "फर्म टोफू",
+          "ru": "твердый тофу",
+          "th": "เต้าหู้แข็ง",
+          "id": "tahu yang keras",
+          "ms": "tauhu pejal",
+          "ko": "목화 두부"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E6%9C%A8%E7%B6%BF%E8%B1%86%E8%85%90&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E6%9C%A8%E7%B6%BF%E8%B1%86%E8%85%90/?tag="
+      },
+      {
+        "name_ja": "ちくわ",
+        "amount": "４本",
+        "name_translated": {
+          "en": "Chikuwa",
+          "zh_tw": "竹輪",
+          "zh_cn": "竹轮",
+          "vi": "Chikuwa",
+          "hi": "चिकुवा",
+          "ru": "Чикува",
+          "th": "ชิกุวะ",
+          "id": "Chikuwa",
+          "ms": "Chikuwa",
+          "ko": "치쿠와"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%A1%E3%81%8F%E3%82%8F&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%A1%E3%81%8F%E3%82%8F/?tag="
+      },
+      {
+        "name_ja": "ミツカン　プロが使う味　白だし",
+        "amount": "大さじ５",
+        "name_translated": {
+          "en": "Mizkan - Flavor used by professionals - White dashi",
+          "zh_tw": "口味滋康 - 專業人士使用的風味 - 白高湯",
+          "zh_cn": "味滋康 - 专业人士使用的风味 - 白高汤",
+          "vi": "Mizkan - Hương vị được giới chuyên môn sử dụng - Dashi trắng",
+          "hi": "मिज़कान - पेशेवरों द्वारा उपयोग किया जाने वाला स्वाद - सफेद दशी",
+          "ru": "Мизкан - Аромат, используемый профессионалами - Белый даси",
+          "th": "มิซคาน - รสชาติที่มืออาชีพใช้ - ดาชิสีขาว",
+          "id": "Mizkan - Rasa yang digunakan oleh para profesional - Dashi putih",
+          "ms": "Mizkan - Perisa yang digunakan oleh profesional - Dashi putih",
+          "ko": "미츠칸 프로가 사용하는 맛 흰색입니다."
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E3%83%97%E3%83%AD%E3%81%8C%E4%BD%BF%E3%81%86%E5%91%B3%E3%80%80%E7%99%BD%E3%81%A0%E3%81%97&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E3%83%97%E3%83%AD%E3%81%8C%E4%BD%BF%E3%81%86%E5%91%B3%E3%80%80%E7%99%BD%E3%81%A0%E3%81%97/?tag="
+      },
+      {
+        "name_ja": "八丁みそ",
+        "amount": "１８０ｇ",
+        "name_translated": {
+          "en": "Hatcho miso",
+          "zh_tw": "八丁味噌",
+          "zh_cn": "八丁味噌",
+          "vi": "Miso Hatcho",
+          "hi": "हैचो मिसो",
+          "ru": "Хатчо мисо",
+          "th": "ฮัทโชมิโซะ",
+          "id": "Hatcho miso",
+          "ms": "Hatcho miso",
+          "ko": "하치쵸 미소"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E5%85%AB%E4%B8%81%E3%81%BF%E3%81%9D&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E5%85%AB%E4%B8%81%E3%81%BF%E3%81%9D/?tag="
+      },
+      {
+        "name_ja": "砂糖",
+        "amount": "１２０ｇ",
+        "name_translated": {
+          "en": "sugar",
+          "zh_tw": "糖",
+          "zh_cn": "糖",
+          "vi": "đường",
+          "hi": "चीनी",
+          "ru": "сахар",
+          "th": "น้ำตาล",
+          "id": "gula",
+          "ms": "gula",
+          "ko": "설탕"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E7%A0%82%E7%B3%96&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E7%A0%82%E7%B3%96/?tag="
+      },
+      {
+        "name_ja": "水",
+        "amount": "１２００ｍｌ",
+        "name_translated": {
+          "en": "water",
+          "zh_tw": "水",
+          "zh_cn": "水",
+          "vi": "Nước",
+          "hi": "पानी",
+          "ru": "вода",
+          "th": "น้ำ",
+          "id": "air",
+          "ms": "air",
+          "ko": "물"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E6%B0%B4&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E6%B0%B4/?tag="
+      },
+      {
+        "name_ja": "１",
+        "amount": "牛すじ肉の下処理をする。鍋に牛すじ肉を入れ、肉がかぶる程度に水を入れて火にかけ、沸騰してアクが出てきたら丁寧にすくい取る。アクを取ったらざるにあげ、水できれいに洗い水けをふきとり、お好みの大きさに切り分ける。",
+        "name_translated": {
+          "en": "1",
+          "zh_tw": "1",
+          "zh_cn": "1",
+          "vi": "1",
+          "hi": "1",
+          "ru": "1",
+          "th": "1",
+          "id": "1",
+          "ms": "1",
+          "ko": "1"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%91&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%91/?tag="
+      },
+      {
+        "name_ja": "２",
+        "amount": "にし、厚めに皮をむき、面取りして下ゆでする。板こんにゃくは１ｃｍ幅に切り、片面に隠し包丁を入れてゆでる。木綿豆腐は１．５ｃｍ幅に切る。ちくわは斜めに半分に切る。",
+        "name_translated": {
+          "en": "2",
+          "zh_tw": "2",
+          "zh_cn": "2",
+          "vi": "2",
+          "hi": "2",
+          "ru": "2",
+          "th": "2",
+          "id": "2",
+          "ms": "2",
+          "ko": "2"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%92&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%92/?tag="
+      },
+      {
+        "name_ja": "３",
+        "amount": "鍋に＜調味料＞を入れて混ぜ合わせ、火にかける。",
+        "name_translated": {
+          "en": "3",
+          "zh_tw": "3",
+          "zh_cn": "3",
+          "vi": "3",
+          "hi": "3",
+          "ru": "3",
+          "th": "3",
+          "id": "3",
+          "ms": "3",
+          "ko": "3"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%93&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%93/?tag="
+      },
+      {
+        "name_ja": "４",
+        "amount": "、[２］、ゆで卵を入れてやわらかくなるまで煮込む。",
+        "name_translated": {
+          "en": "4",
+          "zh_tw": "4",
+          "zh_cn": "4",
+          "vi": "4",
+          "hi": "4",
+          "ru": "4",
+          "th": "4",
+          "id": "4",
+          "ms": "4",
+          "ko": "4"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%94&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%94/?tag="
+      }
+    ],
+    "steps_ja": [
+      "牛すじ肉の下処理をする。鍋に牛すじ肉を入れ、肉がかぶる程度に水を入れて火にかけ、沸騰してアクが出てきたら丁寧にすくい取る。アクを取ったらざるにあげ、水できれいに洗い水けをふきとり、お好みの大きさに切り分ける。",
+      "大根は２～３ｃｍの輪切りにし、厚めに皮をむき、面取りして下ゆでする。板こんにゃくは１ｃｍ幅に切り、片面に隠し包丁を入れてゆでる。木綿豆腐は１．５ｃｍ幅に切る。ちくわは斜めに半分に切る。",
+      "鍋に＜調味料＞を入れて混ぜ合わせ、火にかける。",
+      "沸騰直前に１、[２］、ゆで卵を入れてやわらかくなるまで煮込む。"
+    ],
+    "image_url": "",
+    "title": {
+      "en": "Nagoya flavored soy oden",
+      "zh_tw": "名古屋風味大豆關東煮",
+      "zh_cn": "名古屋风味大豆关东煮",
+      "vi": "Oden đậu nành hương vị Nagoya",
+      "hi": "नागोया स्वादयुक्त सोया ओडेन",
+      "ru": "Соевый одэн со вкусом Нагоя",
+      "th": "โอเด้งรสนาโกย่า",
+      "id": "Oden kedelai rasa Nagoya",
+      "ms": "Oden soya berperisa Nagoya",
+      "ko": "나고야 맛 된장 오뎅"
+    },
+    "description": {
+      "en": "",
+      "zh_tw": "",
+      "zh_cn": "",
+      "vi": "",
+      "hi": "",
+      "ru": "",
+      "th": "",
+      "id": "",
+      "ms": "",
+      "ko": ""
+    },
+    "steps": {
+      "en": [
+        "Prepare the beef tendon. Place the beef tendon in a pot, add enough water to cover the meat, and turn on the heat. When it boils and the scum comes out, carefully skim it off. After removing the scum, drain in a colander, wash thoroughly with water, wipe dry, and cut into desired sizes.",
+        "Cut the daikon radish into 2-3cm rounds, peel the skin thickly, chamfer it, and parboil it. Cut the konjac into 1cm pieces and boil with a knife inserted into one side. Cut the firm tofu into 1.5cm wide pieces. Cut the chikuwa diagonally in half.",
+        "Add the seasonings to the pot, mix, and heat.",
+        "Just before it boils, add boiled eggs and simmer until soft."
+      ],
+      "zh_tw": [
+        "準備牛筋。將牛筋放入鍋中，加足量水淹過肉，開火。當它沸騰並且浮沫出來時，小心地將其撇去。除去浮渣後，用漏杓瀝乾，用水徹底清洗，擦乾，切成所需大小。",
+        "白蘿蔔切成2-3公分的圓片，厚皮去皮，去角，煮半熟。將蒟蒻切成1公分見方的塊，用刀子插入一側煮沸。将老豆腐切成1.5厘米宽的块。将竹轮沿对角线切成两半。",
+        "將調味料加入鍋中，混合，加熱。",
+        "快要沸騰前，加入煮蛋，煮至變軟。"
+      ],
+      "zh_cn": [
+        "准备牛筋。将牛筋放入锅中，加足量水没过肉，开火。当它沸腾并且浮沫出来时，小心地将其撇去。除去浮渣后，用漏勺沥干，用水彻底清洗，擦干，切成所需大小。",
+        "白萝卜切成2-3厘米的圆片，厚皮去皮，去角，煮半熟。将魔芋切成1厘米见方的块，用刀插入一侧煮沸。将老豆腐切成1.5厘米宽的块。将竹轮沿对角线切成两半。",
+        "将调味料加入锅中，混合，加热。",
+        "快要沸腾之前，加入煮鸡蛋，煮至变软。"
+      ],
+      "vi": [
+        "Chuẩn bị gân bò. Cho gân bò vào nồi, thêm nước vừa đủ ngập mặt thịt rồi bật lửa. Khi nước sôi và bọt nổi lên, hãy cẩn thận hớt bỏ. Sau khi loại bỏ cặn, vớt ra rổ, rửa kỹ bằng nước, lau khô và cắt thành từng miếng có kích thước mong muốn.",
+        "Cắt củ cải daikon thành từng khoanh tròn 2-3cm, gọt vỏ dày, vát cạnh rồi luộc chín. Cắt konjac thành từng miếng 1cm và đun sôi bằng dao cắm vào một bên. Cắt đậu phụ cứng thành miếng rộng 1,5cm. Cắt chikuwa theo đường chéo làm đôi.",
+        "Cho gia vị vào nồi, trộn đều rồi đun nóng.",
+        "Ngay trước khi sôi, cho trứng luộc vào và đun nhỏ lửa cho đến khi mềm."
+      ],
+      "hi": [
+        "गोमांस कण्डरा तैयार करें. बीफ़ टेंडन को एक बर्तन में रखें, मांस को ढकने के लिए पर्याप्त पानी डालें और आँच चालू कर दें। जब यह उबल जाए और मैल बाहर आ जाए तो इसे सावधानी से हटा दें। मैल हटाने के बाद, एक कोलंडर में निकाल लें, पानी से अच्छी तरह धो लें, पोंछकर सुखा लें और मनचाहे आकार में काट लें।",
+        "डेकोन मूली को 2-3 सेमी गोल टुकड़ों में काटें, छिलका मोटा छीलें, चैंख करें और हल्का उबाल लें। कोनजैक को 1 सेमी टुकड़ों में काटें और एक तरफ चाकू डालकर उबालें। सख्त टोफू को 1.5 सेमी चौड़े टुकड़ों में काट लें। चिकुवा को तिरछा आधा काट लीजिये.",
+        "मसाले को बर्तन में डालें, मिलाएँ और गर्म करें।",
+        "उबाल आने से ठीक पहले इसमें उबले अंडे डालें और नरम होने तक पकाएं।"
+      ],
+      "ru": [
+        "Подготовьте говяжье сухожилие. Поместите говяжье сухожилие в кастрюлю, добавьте достаточно воды, чтобы покрыть мясо, и включите огонь. Когда закипит и выйдет накипь, аккуратно снимите ее. После удаления накипи откиньте на дуршлаг, тщательно промойте водой, вытрите насухо и нарежьте нужными размерами.",
+        "Редис дайкон нарежьте кружочками толщиной 2–3 см, снимите с него кожицу, снимите фаску и пропарьте. Нарежьте конжак на кусочки толщиной 1 см и отварите, вставив нож с одной стороны. Твердый тофу нарежьте кусочками шириной 1,5 см. Разрежьте тикуву по диагонали пополам.",
+        "Добавьте приправы в кастрюлю, перемешайте и нагрейте.",
+        "Непосредственно перед закипанием добавьте вареные яйца и варите до мягкости."
+      ],
+      "th": [
+        "เตรียมเอ็นเนื้อ. วางเอ็นเนื้อลงในหม้อ เติมน้ำให้พอท่วมเนื้อ แล้วเปิดไฟ เมื่อมันเดือดและมีคราบออกมา ให้ค่อยๆ ลอกออก หลังจากขจัดคราบออกแล้ว ให้สะเด็ดน้ำในกระชอน ล้างน้ำให้สะอาด เช็ดให้แห้ง และหั่นเป็นขนาดที่ต้องการ",
+        "หั่นหัวไชเท้าเป็นเส้นกลมขนาด 2-3 ซม. ปอกเปลือกให้หนา ลบมุม แล้วนึ่ง ตัดบุกเป็นชิ้นขนาด 1 ซม. แล้วต้มด้วยมีดแทงด้านหนึ่ง หั่นเต้าหู้แข็งเป็นชิ้นกว้าง 1.5 ซม. ตัดชิกุวะครึ่งแนวทแยงมุม",
+        "เพิ่มเครื่องปรุงรสลงในหม้อ ผสมและตั้งไฟ",
+        "ก่อนที่จะเดือด ให้ใส่ไข่ต้มและเคี่ยวจนนิ่ม"
+      ],
+      "id": [
+        "Siapkan urat daging sapi. Masukkan urat daging sapi ke dalam panci, tambahkan air secukupnya hingga menutupi daging, lalu nyalakan api. Jika sudah mendidih dan ampasnya keluar, buang perlahan. Setelah ampasnya dibuang, tiriskan dalam saringan, cuci bersih dengan air, lap kering, dan potong sesuai ukuran yang diinginkan.",
+        "Potong lobak daikon menjadi bulatan berukuran 2-3 cm, kupas kulitnya hingga tebal, belah, lalu rebus setengah matang. Potong konjak menjadi potongan berukuran 1 cm dan rebus dengan pisau ditusukkan di salah satu sisinya. Potong tahu yang keras menjadi potongan selebar 1,5 cm. Potong chikuwa secara diagonal menjadi dua.",
+        "Tambahkan bumbu ke dalam panci, aduk, dan panaskan.",
+        "Sesaat sebelum mendidih, masukkan telur rebus dan masak hingga empuk."
+      ],
+      "ms": [
+        "Sediakan urat daging lembu. Letakkan tendon daging lembu dalam periuk, tambah air secukupnya untuk menutup daging, dan hidupkan api. Apabila ia mendidih dan buih keluar, keluarkan dengan berhati-hati. Selepas mengeluarkan buih, toskan dalam colander, basuh dengan teliti dengan air, lap kering, dan potong mengikut saiz yang dikehendaki.",
+        "Potong lobak daikon menjadi bulatan 2-3cm, kupas kulitnya tebal-tebal, kupas dan rebus. Potong konjac kepada kepingan 1cm dan rebus dengan pisau dimasukkan ke dalam satu bahagian. Potong tauhu pejal menjadi kepingan selebar 1.5cm. Potong chikuwa secara menyerong separuh.",
+        "Masukkan bahan perasa ke dalam periuk, gaul dan panaskan.",
+        "Sejurus sebelum mendidih, masukkan telur rebus dan reneh hingga lembut."
+      ],
+      "ko": [
+        "쇠고기 줄기 고기의 아래 처리를한다. 냄비에 쇠고기 고기를 넣고 고기가 씌울 정도로 물을 넣고 불에 넣고 끓여 아크가 나오면 정중하게 헹구는다. 아크를 잡아야 한다면 물로 깨끗이 씻어 물기를 닦아 원하는 크기로 자른다.",
+        "무는 2~3cm의 둥근 자르기로 하고, 두껍게 껍질을 벗기고, 모따기하여 아래 삶은다. 판 곤약은 1cm 폭으로 잘라 한쪽에 숨겨진 부엌칼을 넣어 끓인다. 목화 두부는 1.5cm 폭으로 자른다. 치쿠와는 대각선으로 반으로 자른다.",
+        "냄비에 <조미료>를 넣고 섞어 불에 넣는다.",
+        "끓기 직전에 1, [2], 삶은 달걀을 넣고 부드러워질 때까지 끓인다."
+      ]
+    }
   }
 ]

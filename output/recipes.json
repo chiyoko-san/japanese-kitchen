@@ -358435,5 +358435,1645 @@
         "끓기 직전에 1, [2], 삶은 달걀을 넣고 부드러워질 때까지 끓인다."
       ]
     }
+  },
+  {
+    "id": "e6483f77",
+    "source_url": "https://www.mizkan.co.jp/ouchirecipe/recipe/?menu_id=11328",
+    "source_site": "Mizkan",
+    "title_ja": "大根とひき肉でとろ～り煮物",
+    "description_ja": "",
+    "ingredients": [
+      {
+        "name_ja": "大根",
+        "amount": "１５ｃｍ長さ（約４５０ｇ）",
+        "name_translated": {
+          "en": "大根",
+          "zh_tw": "大根",
+          "zh_cn": "大根",
+          "vi": "大根",
+          "hi": "大根",
+          "ru": "大根",
+          "th": "大根",
+          "id": "大根",
+          "ms": "大根",
+          "ko": "大根"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E5%A4%A7%E6%A0%B9&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E5%A4%A7%E6%A0%B9/?tag="
+      },
+      {
+        "name_ja": "豚ひき肉",
+        "amount": "１５０ｇ",
+        "name_translated": {
+          "en": "豚ひき肉",
+          "zh_tw": "豚ひき肉",
+          "zh_cn": "豚ひき肉",
+          "vi": "豚ひき肉",
+          "hi": "豚ひき肉",
+          "ru": "豚ひき肉",
+          "th": "豚ひき肉",
+          "id": "豚ひき肉",
+          "ms": "豚ひき肉",
+          "ko": "豚ひき肉"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E8%B1%9A%E3%81%B2%E3%81%8D%E8%82%89&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E8%B1%9A%E3%81%B2%E3%81%8D%E8%82%89/?tag="
+      },
+      {
+        "name_ja": "おろししょうが",
+        "amount": "１片分",
+        "name_translated": {
+          "en": "おろししょうが",
+          "zh_tw": "おろししょうが",
+          "zh_cn": "おろししょうが",
+          "vi": "おろししょうが",
+          "hi": "おろししょうが",
+          "ru": "おろししょうが",
+          "th": "おろししょうが",
+          "id": "おろししょうが",
+          "ms": "おろししょうが",
+          "ko": "おろししょうが"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%8A%E3%82%8D%E3%81%97%E3%81%97%E3%82%87%E3%81%86%E3%81%8C&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%8A%E3%82%8D%E3%81%97%E3%81%97%E3%82%87%E3%81%86%E3%81%8C/?tag="
+      },
+      {
+        "name_ja": "みつば",
+        "amount": "適量",
+        "name_translated": {
+          "en": "みつば",
+          "zh_tw": "みつば",
+          "zh_cn": "みつば",
+          "vi": "みつば",
+          "hi": "みつば",
+          "ru": "みつば",
+          "th": "みつば",
+          "id": "みつば",
+          "ms": "みつば",
+          "ko": "みつば"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%BF%E3%81%A4%E3%81%B0&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%BF%E3%81%A4%E3%81%B0/?tag="
+      },
+      {
+        "name_ja": "ミツカン　追いがつおつゆ２倍",
+        "amount": "大さじ５",
+        "name_translated": {
+          "en": "ミツカン　追いがつおつゆ２倍",
+          "zh_tw": "ミツカン　追いがつおつゆ２倍",
+          "zh_cn": "ミツカン　追いがつおつゆ２倍",
+          "vi": "ミツカン　追いがつおつゆ２倍",
+          "hi": "ミツカン　追いがつおつゆ２倍",
+          "ru": "ミツカン　追いがつおつゆ２倍",
+          "th": "ミツカン　追いがつおつゆ２倍",
+          "id": "ミツカン　追いがつおつゆ２倍",
+          "ms": "ミツカン　追いがつおつゆ２倍",
+          "ko": "ミツカン　追いがつおつゆ２倍"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E8%BF%BD%E3%81%84%E3%81%8C%E3%81%A4%E3%81%8A%E3%81%A4%E3%82%86%EF%BC%92%E5%80%8D&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E8%BF%BD%E3%81%84%E3%81%8C%E3%81%A4%E3%81%8A%E3%81%A4%E3%82%86%EF%BC%92%E5%80%8D/?tag="
+      },
+      {
+        "name_ja": "みりん",
+        "amount": "大さじ３",
+        "name_translated": {
+          "en": "みりん",
+          "zh_tw": "みりん",
+          "zh_cn": "みりん",
+          "vi": "みりん",
+          "hi": "みりん",
+          "ru": "みりん",
+          "th": "みりん",
+          "id": "みりん",
+          "ms": "みりん",
+          "ko": "みりん"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%BF%E3%82%8A%E3%82%93&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%BF%E3%82%8A%E3%82%93/?tag="
+      },
+      {
+        "name_ja": "水",
+        "amount": "２００ｍｌ",
+        "name_translated": {
+          "en": "水",
+          "zh_tw": "水",
+          "zh_cn": "水",
+          "vi": "水",
+          "hi": "水",
+          "ru": "水",
+          "th": "水",
+          "id": "水",
+          "ms": "水",
+          "ko": "水"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E6%B0%B4&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E6%B0%B4/?tag="
+      },
+      {
+        "name_ja": "片栗粉",
+        "amount": "大さじ１",
+        "name_translated": {
+          "en": "片栗粉",
+          "zh_tw": "片栗粉",
+          "zh_cn": "片栗粉",
+          "vi": "片栗粉",
+          "hi": "片栗粉",
+          "ru": "片栗粉",
+          "th": "片栗粉",
+          "id": "片栗粉",
+          "ms": "片栗粉",
+          "ko": "片栗粉"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E7%89%87%E6%A0%97%E7%B2%89&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E7%89%87%E6%A0%97%E7%B2%89/?tag="
+      },
+      {
+        "name_ja": "水",
+        "amount": "大さじ１",
+        "name_translated": {
+          "en": "水",
+          "zh_tw": "水",
+          "zh_cn": "水",
+          "vi": "水",
+          "hi": "水",
+          "ru": "水",
+          "th": "水",
+          "id": "水",
+          "ms": "水",
+          "ko": "水"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E6%B0%B4&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E6%B0%B4/?tag="
+      },
+      {
+        "name_ja": "１",
+        "amount": "にする。",
+        "name_translated": {
+          "en": "１",
+          "zh_tw": "１",
+          "zh_cn": "１",
+          "vi": "１",
+          "hi": "１",
+          "ru": "１",
+          "th": "１",
+          "id": "１",
+          "ms": "１",
+          "ko": "１"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%91&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%91/?tag="
+      },
+      {
+        "name_ja": "２",
+        "amount": "鍋に＜Ａ＞と大根と豚ひき肉、しょうがを入れる。ひと混ぜしたら落としぶたをして中火で煮込み、途中でアクを取る。",
+        "name_translated": {
+          "en": "２",
+          "zh_tw": "２",
+          "zh_cn": "２",
+          "vi": "２",
+          "hi": "２",
+          "ru": "２",
+          "th": "２",
+          "id": "２",
+          "ms": "２",
+          "ko": "２"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%92&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%92/?tag="
+      },
+      {
+        "name_ja": "３",
+        "amount": "強めの弱火で２０分ほど煮込んで煮汁が減ったら、水溶き片栗粉を入れとろみをつける。火を止めてしばらく置いて煮含ませる。",
+        "name_translated": {
+          "en": "３",
+          "zh_tw": "３",
+          "zh_cn": "３",
+          "vi": "３",
+          "hi": "３",
+          "ru": "３",
+          "th": "３",
+          "id": "３",
+          "ms": "３",
+          "ko": "３"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%93&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%93/?tag="
+      },
+      {
+        "name_ja": "４",
+        "amount": "器に盛り、みつばを添える。",
+        "name_translated": {
+          "en": "４",
+          "zh_tw": "４",
+          "zh_cn": "４",
+          "vi": "４",
+          "hi": "４",
+          "ru": "４",
+          "th": "４",
+          "id": "４",
+          "ms": "４",
+          "ko": "４"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%94&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%94/?tag="
+      },
+      {
+        "name_ja": "鶏大根",
+        "amount": "適量",
+        "name_translated": {
+          "en": "鶏大根",
+          "zh_tw": "鶏大根",
+          "zh_cn": "鶏大根",
+          "vi": "鶏大根",
+          "hi": "鶏大根",
+          "ru": "鶏大根",
+          "th": "鶏大根",
+          "id": "鶏大根",
+          "ms": "鶏大根",
+          "ko": "鶏大根"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E9%B6%8F%E5%A4%A7%E6%A0%B9&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E9%B6%8F%E5%A4%A7%E6%A0%B9/?tag="
+      },
+      {
+        "name_ja": "簡単！豚バラ大根",
+        "amount": "適量",
+        "name_translated": {
+          "en": "簡単！豚バラ大根",
+          "zh_tw": "簡単！豚バラ大根",
+          "zh_cn": "簡単！豚バラ大根",
+          "vi": "簡単！豚バラ大根",
+          "hi": "簡単！豚バラ大根",
+          "ru": "簡単！豚バラ大根",
+          "th": "簡単！豚バラ大根",
+          "id": "簡単！豚バラ大根",
+          "ms": "簡単！豚バラ大根",
+          "ko": "簡単！豚バラ大根"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E7%B0%A1%E5%8D%98%EF%BC%81%E8%B1%9A%E3%83%90%E3%83%A9%E5%A4%A7%E6%A0%B9&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E7%B0%A1%E5%8D%98%EF%BC%81%E8%B1%9A%E3%83%90%E3%83%A9%E5%A4%A7%E6%A0%B9/?tag="
+      },
+      {
+        "name_ja": "ぶり大根",
+        "amount": "適量",
+        "name_translated": {
+          "en": "ぶり大根",
+          "zh_tw": "ぶり大根",
+          "zh_cn": "ぶり大根",
+          "vi": "ぶり大根",
+          "hi": "ぶり大根",
+          "ru": "ぶり大根",
+          "th": "ぶり大根",
+          "id": "ぶり大根",
+          "ms": "ぶり大根",
+          "ko": "ぶり大根"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%B6%E3%82%8A%E5%A4%A7%E6%A0%B9&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%B6%E3%82%8A%E5%A4%A7%E6%A0%B9/?tag="
+      }
+    ],
+    "steps_ja": [
+      "大根は一口大の乱切りにする。",
+      "鍋に＜Ａ＞と大根と豚ひき肉、しょうがを入れる。ひと混ぜしたら落としぶたをして中火で煮込み、途中でアクを取る。",
+      "強めの弱火で２０分ほど煮込んで煮汁が減ったら、水溶き片栗粉を入れとろみをつける。火を止めてしばらく置いて煮含ませる。",
+      "器に盛り、みつばを添える。",
+      "簡単！豚バラ大根",
+      "ぶり大根"
+    ],
+    "image_url": "",
+    "title": {
+      "en": "大根とひき肉でとろ～り煮物",
+      "zh_tw": "大根とひき肉でとろ～り煮物",
+      "zh_cn": "大根とひき肉でとろ～り煮物",
+      "vi": "大根とひき肉でとろ～り煮物",
+      "hi": "大根とひき肉でとろ～り煮物",
+      "ru": "大根とひき肉でとろ～り煮物",
+      "th": "大根とひき肉でとろ～り煮物",
+      "id": "大根とひき肉でとろ～り煮物",
+      "ms": "大根とひき肉でとろ～り煮物",
+      "ko": "大根とひき肉でとろ～り煮物"
+    },
+    "description": {
+      "en": "",
+      "zh_tw": "",
+      "zh_cn": "",
+      "vi": "",
+      "hi": "",
+      "ru": "",
+      "th": "",
+      "id": "",
+      "ms": "",
+      "ko": ""
+    },
+    "steps": {
+      "en": [
+        "大根は一口大の乱切りにする。",
+        "鍋に＜Ａ＞と大根と豚ひき肉、しょうがを入れる。ひと混ぜしたら落としぶたをして中火で煮込み、途中でアクを取る。",
+        "強めの弱火で２０分ほど煮込んで煮汁が減ったら、水溶き片栗粉を入れとろみをつける。火を止めてしばらく置いて煮含ませる。",
+        "器に盛り、みつばを添える。",
+        "簡単！豚バラ大根",
+        "ぶり大根"
+      ],
+      "zh_tw": [
+        "大根は一口大の乱切りにする。",
+        "鍋に＜Ａ＞と大根と豚ひき肉、しょうがを入れる。ひと混ぜしたら落としぶたをして中火で煮込み、途中でアクを取る。",
+        "強めの弱火で２０分ほど煮込んで煮汁が減ったら、水溶き片栗粉を入れとろみをつける。火を止めてしばらく置いて煮含ませる。",
+        "器に盛り、みつばを添える。",
+        "簡単！豚バラ大根",
+        "ぶり大根"
+      ],
+      "zh_cn": [
+        "大根は一口大の乱切りにする。",
+        "鍋に＜Ａ＞と大根と豚ひき肉、しょうがを入れる。ひと混ぜしたら落としぶたをして中火で煮込み、途中でアクを取る。",
+        "強めの弱火で２０分ほど煮込んで煮汁が減ったら、水溶き片栗粉を入れとろみをつける。火を止めてしばらく置いて煮含ませる。",
+        "器に盛り、みつばを添える。",
+        "簡単！豚バラ大根",
+        "ぶり大根"
+      ],
+      "vi": [
+        "大根は一口大の乱切りにする。",
+        "鍋に＜Ａ＞と大根と豚ひき肉、しょうがを入れる。ひと混ぜしたら落としぶたをして中火で煮込み、途中でアクを取る。",
+        "強めの弱火で２０分ほど煮込んで煮汁が減ったら、水溶き片栗粉を入れとろみをつける。火を止めてしばらく置いて煮含ませる。",
+        "器に盛り、みつばを添える。",
+        "簡単！豚バラ大根",
+        "ぶり大根"
+      ],
+      "hi": [
+        "大根は一口大の乱切りにする。",
+        "鍋に＜Ａ＞と大根と豚ひき肉、しょうがを入れる。ひと混ぜしたら落としぶたをして中火で煮込み、途中でアクを取る。",
+        "強めの弱火で２０分ほど煮込んで煮汁が減ったら、水溶き片栗粉を入れとろみをつける。火を止めてしばらく置いて煮含ませる。",
+        "器に盛り、みつばを添える。",
+        "簡単！豚バラ大根",
+        "ぶり大根"
+      ],
+      "ru": [
+        "大根は一口大の乱切りにする。",
+        "鍋に＜Ａ＞と大根と豚ひき肉、しょうがを入れる。ひと混ぜしたら落としぶたをして中火で煮込み、途中でアクを取る。",
+        "強めの弱火で２０分ほど煮込んで煮汁が減ったら、水溶き片栗粉を入れとろみをつける。火を止めてしばらく置いて煮含ませる。",
+        "器に盛り、みつばを添える。",
+        "簡単！豚バラ大根",
+        "ぶり大根"
+      ],
+      "th": [
+        "大根は一口大の乱切りにする。",
+        "鍋に＜Ａ＞と大根と豚ひき肉、しょうがを入れる。ひと混ぜしたら落としぶたをして中火で煮込み、途中でアクを取る。",
+        "強めの弱火で２０分ほど煮込んで煮汁が減ったら、水溶き片栗粉を入れとろみをつける。火を止めてしばらく置いて煮含ませる。",
+        "器に盛り、みつばを添える。",
+        "簡単！豚バラ大根",
+        "ぶり大根"
+      ],
+      "id": [
+        "大根は一口大の乱切りにする。",
+        "鍋に＜Ａ＞と大根と豚ひき肉、しょうがを入れる。ひと混ぜしたら落としぶたをして中火で煮込み、途中でアクを取る。",
+        "強めの弱火で２０分ほど煮込んで煮汁が減ったら、水溶き片栗粉を入れとろみをつける。火を止めてしばらく置いて煮含ませる。",
+        "器に盛り、みつばを添える。",
+        "簡単！豚バラ大根",
+        "ぶり大根"
+      ],
+      "ms": [
+        "大根は一口大の乱切りにする。",
+        "鍋に＜Ａ＞と大根と豚ひき肉、しょうがを入れる。ひと混ぜしたら落としぶたをして中火で煮込み、途中でアクを取る。",
+        "強めの弱火で２０分ほど煮込んで煮汁が減ったら、水溶き片栗粉を入れとろみをつける。火を止めてしばらく置いて煮含ませる。",
+        "器に盛り、みつばを添える。",
+        "簡単！豚バラ大根",
+        "ぶり大根"
+      ],
+      "ko": [
+        "大根は一口大の乱切りにする。",
+        "鍋に＜Ａ＞と大根と豚ひき肉、しょうがを入れる。ひと混ぜしたら落としぶたをして中火で煮込み、途中でアクを取る。",
+        "強めの弱火で２０分ほど煮込んで煮汁が減ったら、水溶き片栗粉を入れとろみをつける。火を止めてしばらく置いて煮含ませる。",
+        "器に盛り、みつばを添える。",
+        "簡単！豚バラ大根",
+        "ぶり大根"
+      ]
+    }
+  },
+  {
+    "id": "f8eb89d5",
+    "source_url": "https://www.mizkan.co.jp/ouchirecipe/recipe/?menu_id=13459",
+    "source_site": "Mizkan",
+    "title_ja": "トマトと水菜のおでん",
+    "description_ja": "",
+    "ingredients": [
+      {
+        "name_ja": "トマト",
+        "amount": "２個",
+        "name_translated": {
+          "en": "トマト",
+          "zh_tw": "トマト",
+          "zh_cn": "トマト",
+          "vi": "トマト",
+          "hi": "トマト",
+          "ru": "トマト",
+          "th": "トマト",
+          "id": "トマト",
+          "ms": "トマト",
+          "ko": "トマト"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%88%E3%83%9E%E3%83%88&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%88%E3%83%9E%E3%83%88/?tag="
+      },
+      {
+        "name_ja": "水菜",
+        "amount": "２株",
+        "name_translated": {
+          "en": "水菜",
+          "zh_tw": "水菜",
+          "zh_cn": "水菜",
+          "vi": "水菜",
+          "hi": "水菜",
+          "ru": "水菜",
+          "th": "水菜",
+          "id": "水菜",
+          "ms": "水菜",
+          "ko": "水菜"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E6%B0%B4%E8%8F%9C&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E6%B0%B4%E8%8F%9C/?tag="
+      },
+      {
+        "name_ja": "大根",
+        "amount": "１／３本",
+        "name_translated": {
+          "en": "大根",
+          "zh_tw": "大根",
+          "zh_cn": "大根",
+          "vi": "大根",
+          "hi": "大根",
+          "ru": "大根",
+          "th": "大根",
+          "id": "大根",
+          "ms": "大根",
+          "ko": "大根"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E5%A4%A7%E6%A0%B9&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E5%A4%A7%E6%A0%B9/?tag="
+      },
+      {
+        "name_ja": "ロールキャベツ",
+        "amount": "４個",
+        "name_translated": {
+          "en": "ロールキャベツ",
+          "zh_tw": "ロールキャベツ",
+          "zh_cn": "ロールキャベツ",
+          "vi": "ロールキャベツ",
+          "hi": "ロールキャベツ",
+          "ru": "ロールキャベツ",
+          "th": "ロールキャベツ",
+          "id": "ロールキャベツ",
+          "ms": "ロールキャベツ",
+          "ko": "ロールキャベツ"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%AD%E3%83%BC%E3%83%AB%E3%82%AD%E3%83%A3%E3%83%99%E3%83%84&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%AD%E3%83%BC%E3%83%AB%E3%82%AD%E3%83%A3%E3%83%99%E3%83%84/?tag="
+      },
+      {
+        "name_ja": "ゆで卵",
+        "amount": "４個",
+        "name_translated": {
+          "en": "ゆで卵",
+          "zh_tw": "ゆで卵",
+          "zh_cn": "ゆで卵",
+          "vi": "ゆで卵",
+          "hi": "ゆで卵",
+          "ru": "ゆで卵",
+          "th": "ゆで卵",
+          "id": "ゆで卵",
+          "ms": "ゆで卵",
+          "ko": "ゆで卵"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%82%86%E3%81%A7%E5%8D%B5&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%82%86%E3%81%A7%E5%8D%B5/?tag="
+      },
+      {
+        "name_ja": "ちくわ",
+        "amount": "２本",
+        "name_translated": {
+          "en": "ちくわ",
+          "zh_tw": "ちくわ",
+          "zh_cn": "ちくわ",
+          "vi": "ちくわ",
+          "hi": "ちくわ",
+          "ru": "ちくわ",
+          "th": "ちくわ",
+          "id": "ちくわ",
+          "ms": "ちくわ",
+          "ko": "ちくわ"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%A1%E3%81%8F%E3%82%8F&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%A1%E3%81%8F%E3%82%8F/?tag="
+      },
+      {
+        "name_ja": "さつま揚げ",
+        "amount": "４枚",
+        "name_translated": {
+          "en": "さつま揚げ",
+          "zh_tw": "さつま揚げ",
+          "zh_cn": "さつま揚げ",
+          "vi": "さつま揚げ",
+          "hi": "さつま揚げ",
+          "ru": "さつま揚げ",
+          "th": "さつま揚げ",
+          "id": "さつま揚げ",
+          "ms": "さつま揚げ",
+          "ko": "さつま揚げ"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%95%E3%81%A4%E3%81%BE%E6%8F%9A%E3%81%92&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%95%E3%81%A4%E3%81%BE%E6%8F%9A%E3%81%92/?tag="
+      },
+      {
+        "name_ja": "結びしらたき",
+        "amount": "８個",
+        "name_translated": {
+          "en": "結びしらたき",
+          "zh_tw": "結びしらたき",
+          "zh_cn": "結びしらたき",
+          "vi": "結びしらたき",
+          "hi": "結びしらたき",
+          "ru": "結びしらたき",
+          "th": "結びしらたき",
+          "id": "結びしらたき",
+          "ms": "結びしらたき",
+          "ko": "結びしらたき"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E7%B5%90%E3%81%B3%E3%81%97%E3%82%89%E3%81%9F%E3%81%8D&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E7%B5%90%E3%81%B3%E3%81%97%E3%82%89%E3%81%9F%E3%81%8D/?tag="
+      },
+      {
+        "name_ja": "ミツカン　プロが使う味　白だし",
+        "amount": "大さじ６",
+        "name_translated": {
+          "en": "ミツカン　プロが使う味　白だし",
+          "zh_tw": "ミツカン　プロが使う味　白だし",
+          "zh_cn": "ミツカン　プロが使う味　白だし",
+          "vi": "ミツカン　プロが使う味　白だし",
+          "hi": "ミツカン　プロが使う味　白だし",
+          "ru": "ミツカン　プロが使う味　白だし",
+          "th": "ミツカン　プロが使う味　白だし",
+          "id": "ミツカン　プロが使う味　白だし",
+          "ms": "ミツカン　プロが使う味　白だし",
+          "ko": "ミツカン　プロが使う味　白だし"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E3%83%97%E3%83%AD%E3%81%8C%E4%BD%BF%E3%81%86%E5%91%B3%E3%80%80%E7%99%BD%E3%81%A0%E3%81%97&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E3%83%97%E3%83%AD%E3%81%8C%E4%BD%BF%E3%81%86%E5%91%B3%E3%80%80%E7%99%BD%E3%81%A0%E3%81%97/?tag="
+      },
+      {
+        "name_ja": "水",
+        "amount": "１Ｌ",
+        "name_translated": {
+          "en": "水",
+          "zh_tw": "水",
+          "zh_cn": "水",
+          "vi": "水",
+          "hi": "水",
+          "ru": "水",
+          "th": "水",
+          "id": "水",
+          "ms": "水",
+          "ko": "水"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E6%B0%B4&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E6%B0%B4/?tag="
+      },
+      {
+        "name_ja": "練りがらし",
+        "amount": "適宜",
+        "name_translated": {
+          "en": "練りがらし",
+          "zh_tw": "練りがらし",
+          "zh_cn": "練りがらし",
+          "vi": "練りがらし",
+          "hi": "練りがらし",
+          "ru": "練りがらし",
+          "th": "練りがらし",
+          "id": "練りがらし",
+          "ms": "練りがらし",
+          "ko": "練りがらし"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E7%B7%B4%E3%82%8A%E3%81%8C%E3%82%89%E3%81%97&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E7%B7%B4%E3%82%8A%E3%81%8C%E3%82%89%E3%81%97/?tag="
+      },
+      {
+        "name_ja": "１",
+        "amount": "にして下ゆでする。ちくわは斜め半分に切る。さつま揚げは油抜きをする。",
+        "name_translated": {
+          "en": "１",
+          "zh_tw": "１",
+          "zh_cn": "１",
+          "vi": "１",
+          "hi": "１",
+          "ru": "１",
+          "th": "１",
+          "id": "１",
+          "ms": "１",
+          "ko": "１"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%91&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%91/?tag="
+      },
+      {
+        "name_ja": "２",
+        "amount": "、ゆで卵を加えて火にかける。沸騰したら、ふたをして弱火で３０～４０分ほど加熱する。",
+        "name_translated": {
+          "en": "２",
+          "zh_tw": "２",
+          "zh_cn": "２",
+          "vi": "２",
+          "hi": "２",
+          "ru": "２",
+          "th": "２",
+          "id": "２",
+          "ms": "２",
+          "ko": "２"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%92&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%92/?tag="
+      },
+      {
+        "name_ja": "３",
+        "amount": "に加えてサッと火を通す。お好みで、練りがらしを添えていただく。",
+        "name_translated": {
+          "en": "３",
+          "zh_tw": "３",
+          "zh_cn": "３",
+          "vi": "３",
+          "hi": "３",
+          "ru": "３",
+          "th": "３",
+          "id": "３",
+          "ms": "３",
+          "ko": "３"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%93&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%93/?tag="
+      }
+    ],
+    "steps_ja": [
+      "トマトは湯むきする。大根は２～３ｃｍ厚さの輪切りにして下ゆでする。ちくわは斜め半分に切る。さつま揚げは油抜きをする。",
+      "鍋に＜つゆ＞、１、ゆで卵を加えて火にかける。沸騰したら、ふたをして弱火で３０～４０分ほど加熱する。",
+      "水菜を５ｃｍ長さに切り、２に加えてサッと火を通す。お好みで、練りがらしを添えていただく。"
+    ],
+    "image_url": "",
+    "title": {
+      "en": "トマトと水菜のおでん",
+      "zh_tw": "トマトと水菜のおでん",
+      "zh_cn": "トマトと水菜のおでん",
+      "vi": "トマトと水菜のおでん",
+      "hi": "トマトと水菜のおでん",
+      "ru": "トマトと水菜のおでん",
+      "th": "トマトと水菜のおでん",
+      "id": "トマトと水菜のおでん",
+      "ms": "トマトと水菜のおでん",
+      "ko": "トマトと水菜のおでん"
+    },
+    "description": {
+      "en": "",
+      "zh_tw": "",
+      "zh_cn": "",
+      "vi": "",
+      "hi": "",
+      "ru": "",
+      "th": "",
+      "id": "",
+      "ms": "",
+      "ko": ""
+    },
+    "steps": {
+      "en": [
+        "トマトは湯むきする。大根は２～３ｃｍ厚さの輪切りにして下ゆでする。ちくわは斜め半分に切る。さつま揚げは油抜きをする。",
+        "鍋に＜つゆ＞、１、ゆで卵を加えて火にかける。沸騰したら、ふたをして弱火で３０～４０分ほど加熱する。",
+        "水菜を５ｃｍ長さに切り、２に加えてサッと火を通す。お好みで、練りがらしを添えていただく。"
+      ],
+      "zh_tw": [
+        "トマトは湯むきする。大根は２～３ｃｍ厚さの輪切りにして下ゆでする。ちくわは斜め半分に切る。さつま揚げは油抜きをする。",
+        "鍋に＜つゆ＞、１、ゆで卵を加えて火にかける。沸騰したら、ふたをして弱火で３０～４０分ほど加熱する。",
+        "水菜を５ｃｍ長さに切り、２に加えてサッと火を通す。お好みで、練りがらしを添えていただく。"
+      ],
+      "zh_cn": [
+        "トマトは湯むきする。大根は２～３ｃｍ厚さの輪切りにして下ゆでする。ちくわは斜め半分に切る。さつま揚げは油抜きをする。",
+        "鍋に＜つゆ＞、１、ゆで卵を加えて火にかける。沸騰したら、ふたをして弱火で３０～４０分ほど加熱する。",
+        "水菜を５ｃｍ長さに切り、２に加えてサッと火を通す。お好みで、練りがらしを添えていただく。"
+      ],
+      "vi": [
+        "トマトは湯むきする。大根は２～３ｃｍ厚さの輪切りにして下ゆでする。ちくわは斜め半分に切る。さつま揚げは油抜きをする。",
+        "鍋に＜つゆ＞、１、ゆで卵を加えて火にかける。沸騰したら、ふたをして弱火で３０～４０分ほど加熱する。",
+        "水菜を５ｃｍ長さに切り、２に加えてサッと火を通す。お好みで、練りがらしを添えていただく。"
+      ],
+      "hi": [
+        "トマトは湯むきする。大根は２～３ｃｍ厚さの輪切りにして下ゆでする。ちくわは斜め半分に切る。さつま揚げは油抜きをする。",
+        "鍋に＜つゆ＞、１、ゆで卵を加えて火にかける。沸騰したら、ふたをして弱火で３０～４０分ほど加熱する。",
+        "水菜を５ｃｍ長さに切り、２に加えてサッと火を通す。お好みで、練りがらしを添えていただく。"
+      ],
+      "ru": [
+        "トマトは湯むきする。大根は２～３ｃｍ厚さの輪切りにして下ゆでする。ちくわは斜め半分に切る。さつま揚げは油抜きをする。",
+        "鍋に＜つゆ＞、１、ゆで卵を加えて火にかける。沸騰したら、ふたをして弱火で３０～４０分ほど加熱する。",
+        "水菜を５ｃｍ長さに切り、２に加えてサッと火を通す。お好みで、練りがらしを添えていただく。"
+      ],
+      "th": [
+        "トマトは湯むきする。大根は２～３ｃｍ厚さの輪切りにして下ゆでする。ちくわは斜め半分に切る。さつま揚げは油抜きをする。",
+        "鍋に＜つゆ＞、１、ゆで卵を加えて火にかける。沸騰したら、ふたをして弱火で３０～４０分ほど加熱する。",
+        "水菜を５ｃｍ長さに切り、２に加えてサッと火を通す。お好みで、練りがらしを添えていただく。"
+      ],
+      "id": [
+        "トマトは湯むきする。大根は２～３ｃｍ厚さの輪切りにして下ゆでする。ちくわは斜め半分に切る。さつま揚げは油抜きをする。",
+        "鍋に＜つゆ＞、１、ゆで卵を加えて火にかける。沸騰したら、ふたをして弱火で３０～４０分ほど加熱する。",
+        "水菜を５ｃｍ長さに切り、２に加えてサッと火を通す。お好みで、練りがらしを添えていただく。"
+      ],
+      "ms": [
+        "トマトは湯むきする。大根は２～３ｃｍ厚さの輪切りにして下ゆでする。ちくわは斜め半分に切る。さつま揚げは油抜きをする。",
+        "鍋に＜つゆ＞、１、ゆで卵を加えて火にかける。沸騰したら、ふたをして弱火で３０～４０分ほど加熱する。",
+        "水菜を５ｃｍ長さに切り、２に加えてサッと火を通す。お好みで、練りがらしを添えていただく。"
+      ],
+      "ko": [
+        "トマトは湯むきする。大根は２～３ｃｍ厚さの輪切りにして下ゆでする。ちくわは斜め半分に切る。さつま揚げは油抜きをする。",
+        "鍋に＜つゆ＞、１、ゆで卵を加えて火にかける。沸騰したら、ふたをして弱火で３０～４０分ほど加熱する。",
+        "水菜を５ｃｍ長さに切り、２に加えてサッと火を通す。お好みで、練りがらしを添えていただく。"
+      ]
+    }
+  },
+  {
+    "id": "6368b2e6",
+    "source_url": "https://www.mizkan.co.jp/ouchirecipe/recipe/?menu_id=701912",
+    "source_site": "Mizkan",
+    "title_ja": "「八方だし」で串おでん",
+    "description_ja": "",
+    "ingredients": [
+      {
+        "name_ja": "鶏ひき肉",
+        "amount": "１００ｇ",
+        "name_translated": {
+          "en": "鶏ひき肉",
+          "zh_tw": "鶏ひき肉",
+          "zh_cn": "鶏ひき肉",
+          "vi": "鶏ひき肉",
+          "hi": "鶏ひき肉",
+          "ru": "鶏ひき肉",
+          "th": "鶏ひき肉",
+          "id": "鶏ひき肉",
+          "ms": "鶏ひき肉",
+          "ko": "鶏ひき肉"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E9%B6%8F%E3%81%B2%E3%81%8D%E8%82%89&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E9%B6%8F%E3%81%B2%E3%81%8D%E8%82%89/?tag="
+      },
+      {
+        "name_ja": "長ねぎ　（みじん切り）",
+        "amount": "大さじ１",
+        "name_translated": {
+          "en": "長ねぎ　（みじん切り）",
+          "zh_tw": "長ねぎ　（みじん切り）",
+          "zh_cn": "長ねぎ　（みじん切り）",
+          "vi": "長ねぎ　（みじん切り）",
+          "hi": "長ねぎ　（みじん切り）",
+          "ru": "長ねぎ　（みじん切り）",
+          "th": "長ねぎ　（みじん切り）",
+          "id": "長ねぎ　（みじん切り）",
+          "ms": "長ねぎ　（みじん切り）",
+          "ko": "長ねぎ　（みじん切り）"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E9%95%B7%E3%81%AD%E3%81%8E%E3%80%80%EF%BC%88%E3%81%BF%E3%81%98%E3%82%93%E5%88%87%E3%82%8A%EF%BC%89&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E9%95%B7%E3%81%AD%E3%81%8E%E3%80%80%EF%BC%88%E3%81%BF%E3%81%98%E3%82%93%E5%88%87%E3%82%8A%EF%BC%89/?tag="
+      },
+      {
+        "name_ja": "卵",
+        "amount": "１／２個",
+        "name_translated": {
+          "en": "卵",
+          "zh_tw": "卵",
+          "zh_cn": "卵",
+          "vi": "卵",
+          "hi": "卵",
+          "ru": "卵",
+          "th": "卵",
+          "id": "卵",
+          "ms": "卵",
+          "ko": "卵"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E5%8D%B5&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E5%8D%B5/?tag="
+      },
+      {
+        "name_ja": "片栗粉",
+        "amount": "大さじ１／２",
+        "name_translated": {
+          "en": "片栗粉",
+          "zh_tw": "片栗粉",
+          "zh_cn": "片栗粉",
+          "vi": "片栗粉",
+          "hi": "片栗粉",
+          "ru": "片栗粉",
+          "th": "片栗粉",
+          "id": "片栗粉",
+          "ms": "片栗粉",
+          "ko": "片栗粉"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E7%89%87%E6%A0%97%E7%B2%89&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E7%89%87%E6%A0%97%E7%B2%89/?tag="
+      },
+      {
+        "name_ja": "塩",
+        "amount": "少々",
+        "name_translated": {
+          "en": "塩",
+          "zh_tw": "塩",
+          "zh_cn": "塩",
+          "vi": "塩",
+          "hi": "塩",
+          "ru": "塩",
+          "th": "塩",
+          "id": "塩",
+          "ms": "塩",
+          "ko": "塩"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E5%A1%A9&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E5%A1%A9/?tag="
+      },
+      {
+        "name_ja": "大根",
+        "amount": "１／３本",
+        "name_translated": {
+          "en": "大根",
+          "zh_tw": "大根",
+          "zh_cn": "大根",
+          "vi": "大根",
+          "hi": "大根",
+          "ru": "大根",
+          "th": "大根",
+          "id": "大根",
+          "ms": "大根",
+          "ko": "大根"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E5%A4%A7%E6%A0%B9&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E5%A4%A7%E6%A0%B9/?tag="
+      },
+      {
+        "name_ja": "さつま揚げ",
+        "amount": "４枚",
+        "name_translated": {
+          "en": "さつま揚げ",
+          "zh_tw": "さつま揚げ",
+          "zh_cn": "さつま揚げ",
+          "vi": "さつま揚げ",
+          "hi": "さつま揚げ",
+          "ru": "さつま揚げ",
+          "th": "さつま揚げ",
+          "id": "さつま揚げ",
+          "ms": "さつま揚げ",
+          "ko": "さつま揚げ"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%95%E3%81%A4%E3%81%BE%E6%8F%9A%E3%81%92&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%95%E3%81%A4%E3%81%BE%E6%8F%9A%E3%81%92/?tag="
+      },
+      {
+        "name_ja": "じゃがいも",
+        "amount": "１個",
+        "name_translated": {
+          "en": "じゃがいも",
+          "zh_tw": "じゃがいも",
+          "zh_cn": "じゃがいも",
+          "vi": "じゃがいも",
+          "hi": "じゃがいも",
+          "ru": "じゃがいも",
+          "th": "じゃがいも",
+          "id": "じゃがいも",
+          "ms": "じゃがいも",
+          "ko": "じゃがいも"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%98%E3%82%83%E3%81%8C%E3%81%84%E3%82%82&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%98%E3%82%83%E3%81%8C%E3%81%84%E3%82%82/?tag="
+      },
+      {
+        "name_ja": "板こんにゃく",
+        "amount": "１／２枚",
+        "name_translated": {
+          "en": "板こんにゃく",
+          "zh_tw": "板こんにゃく",
+          "zh_cn": "板こんにゃく",
+          "vi": "板こんにゃく",
+          "hi": "板こんにゃく",
+          "ru": "板こんにゃく",
+          "th": "板こんにゃく",
+          "id": "板こんにゃく",
+          "ms": "板こんにゃく",
+          "ko": "板こんにゃく"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E6%9D%BF%E3%81%93%E3%82%93%E3%81%AB%E3%82%83%E3%81%8F&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E6%9D%BF%E3%81%93%E3%82%93%E3%81%AB%E3%82%83%E3%81%8F/?tag="
+      },
+      {
+        "name_ja": "もち",
+        "amount": "２切れ",
+        "name_translated": {
+          "en": "もち",
+          "zh_tw": "もち",
+          "zh_cn": "もち",
+          "vi": "もち",
+          "hi": "もち",
+          "ru": "もち",
+          "th": "もち",
+          "id": "もち",
+          "ms": "もち",
+          "ko": "もち"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%82%82%E3%81%A1&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%82%82%E3%81%A1/?tag="
+      },
+      {
+        "name_ja": "ベーコン",
+        "amount": "４枚",
+        "name_translated": {
+          "en": "ベーコン",
+          "zh_tw": "ベーコン",
+          "zh_cn": "ベーコン",
+          "vi": "ベーコン",
+          "hi": "ベーコン",
+          "ru": "ベーコン",
+          "th": "ベーコン",
+          "id": "ベーコン",
+          "ms": "ベーコン",
+          "ko": "ベーコン"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%99%E3%83%BC%E3%82%B3%E3%83%B3&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%99%E3%83%BC%E3%82%B3%E3%83%B3/?tag="
+      },
+      {
+        "name_ja": "うずら卵　（水煮）",
+        "amount": "４個",
+        "name_translated": {
+          "en": "うずら卵　（水煮）",
+          "zh_tw": "うずら卵　（水煮）",
+          "zh_cn": "うずら卵　（水煮）",
+          "vi": "うずら卵　（水煮）",
+          "hi": "うずら卵　（水煮）",
+          "ru": "うずら卵　（水煮）",
+          "th": "うずら卵　（水煮）",
+          "id": "うずら卵　（水煮）",
+          "ms": "うずら卵　（水煮）",
+          "ko": "うずら卵　（水煮）"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%86%E3%81%9A%E3%82%89%E5%8D%B5%E3%80%80%EF%BC%88%E6%B0%B4%E7%85%AE%EF%BC%89&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%86%E3%81%9A%E3%82%89%E5%8D%B5%E3%80%80%EF%BC%88%E6%B0%B4%E7%85%AE%EF%BC%89/?tag="
+      },
+      {
+        "name_ja": "油揚げ",
+        "amount": "２枚",
+        "name_translated": {
+          "en": "油揚げ",
+          "zh_tw": "油揚げ",
+          "zh_cn": "油揚げ",
+          "vi": "油揚げ",
+          "hi": "油揚げ",
+          "ru": "油揚げ",
+          "th": "油揚げ",
+          "id": "油揚げ",
+          "ms": "油揚げ",
+          "ko": "油揚げ"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E6%B2%B9%E6%8F%9A%E3%81%92&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E6%B2%B9%E6%8F%9A%E3%81%92/?tag="
+      },
+      {
+        "name_ja": "プロセスチーズ",
+        "amount": "２個",
+        "name_translated": {
+          "en": "プロセスチーズ",
+          "zh_tw": "プロセスチーズ",
+          "zh_cn": "プロセスチーズ",
+          "vi": "プロセスチーズ",
+          "hi": "プロセスチーズ",
+          "ru": "プロセスチーズ",
+          "th": "プロセスチーズ",
+          "id": "プロセスチーズ",
+          "ms": "プロセスチーズ",
+          "ko": "プロセスチーズ"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E3%83%81%E3%83%BC%E3%82%BA&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E3%83%81%E3%83%BC%E3%82%BA/?tag="
+      },
+      {
+        "name_ja": "にんじん",
+        "amount": "５ｃｍ長さ",
+        "name_translated": {
+          "en": "にんじん",
+          "zh_tw": "にんじん",
+          "zh_cn": "にんじん",
+          "vi": "にんじん",
+          "hi": "にんじん",
+          "ru": "にんじん",
+          "th": "にんじん",
+          "id": "にんじん",
+          "ms": "にんじん",
+          "ko": "にんじん"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%AB%E3%82%93%E3%81%98%E3%82%93&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%AB%E3%82%93%E3%81%98%E3%82%93/?tag="
+      },
+      {
+        "name_ja": "結び昆布",
+        "amount": "４個",
+        "name_translated": {
+          "en": "結び昆布",
+          "zh_tw": "結び昆布",
+          "zh_cn": "結び昆布",
+          "vi": "結び昆布",
+          "hi": "結び昆布",
+          "ru": "結び昆布",
+          "th": "結び昆布",
+          "id": "結び昆布",
+          "ms": "結び昆布",
+          "ko": "結び昆布"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E7%B5%90%E3%81%B3%E6%98%86%E5%B8%83&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E7%B5%90%E3%81%B3%E6%98%86%E5%B8%83/?tag="
+      },
+      {
+        "name_ja": "ミツカン　八方だし",
+        "amount": "１５０ｍｌ",
+        "name_translated": {
+          "en": "ミツカン　八方だし",
+          "zh_tw": "ミツカン　八方だし",
+          "zh_cn": "ミツカン　八方だし",
+          "vi": "ミツカン　八方だし",
+          "hi": "ミツカン　八方だし",
+          "ru": "ミツカン　八方だし",
+          "th": "ミツカン　八方だし",
+          "id": "ミツカン　八方だし",
+          "ms": "ミツカン　八方だし",
+          "ko": "ミツカン　八方だし"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E5%85%AB%E6%96%B9%E3%81%A0%E3%81%97&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E5%85%AB%E6%96%B9%E3%81%A0%E3%81%97/?tag="
+      },
+      {
+        "name_ja": "水",
+        "amount": "１０５０ｍｌ",
+        "name_translated": {
+          "en": "水",
+          "zh_tw": "水",
+          "zh_cn": "水",
+          "vi": "水",
+          "hi": "水",
+          "ru": "水",
+          "th": "水",
+          "id": "水",
+          "ms": "水",
+          "ko": "水"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E6%B0%B4&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E6%B0%B4/?tag="
+      },
+      {
+        "name_ja": "練りがらし",
+        "amount": "適宜",
+        "name_translated": {
+          "en": "練りがらし",
+          "zh_tw": "練りがらし",
+          "zh_cn": "練りがらし",
+          "vi": "練りがらし",
+          "hi": "練りがらし",
+          "ru": "練りがらし",
+          "th": "練りがらし",
+          "id": "練りがらし",
+          "ms": "練りがらし",
+          "ko": "練りがらし"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E7%B7%B4%E3%82%8A%E3%81%8C%E3%82%89%E3%81%97&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E7%B7%B4%E3%82%8A%E3%81%8C%E3%82%89%E3%81%97/?tag="
+      },
+      {
+        "name_ja": "１",
+        "amount": "＜鶏だんごの材料＞を混ぜ合わせ、よく練る。「八方だし」と水を合わせて煮立てたところに丸く落とし、中まで火が通ったら取り出して、うずら卵（水煮）、さつま揚げといっしょに串に刺す。",
+        "name_translated": {
+          "en": "１",
+          "zh_tw": "１",
+          "zh_cn": "１",
+          "vi": "１",
+          "hi": "１",
+          "ru": "１",
+          "th": "１",
+          "id": "１",
+          "ms": "１",
+          "ko": "１"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%91&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%91/?tag="
+      },
+      {
+        "name_ja": "２",
+        "amount": "、下ゆでする。じゃがいも、にんじんは１ｃｍ幅の棒状に切り、４～５本まとめてベーコンで巻く。",
+        "name_translated": {
+          "en": "２",
+          "zh_tw": "２",
+          "zh_cn": "２",
+          "vi": "２",
+          "hi": "２",
+          "ru": "２",
+          "th": "２",
+          "id": "２",
+          "ms": "２",
+          "ko": "２"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%92&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%92/?tag="
+      },
+      {
+        "name_ja": "３",
+        "amount": "油揚げは半分に切り、袋状に開いて半分に切ったもちとプロセスチーズを入れて爪楊枝で口を閉じる。",
+        "name_translated": {
+          "en": "３",
+          "zh_tw": "３",
+          "zh_cn": "３",
+          "vi": "３",
+          "hi": "３",
+          "ru": "３",
+          "th": "３",
+          "id": "３",
+          "ms": "３",
+          "ko": "３"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%93&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%93/?tag="
+      },
+      {
+        "name_ja": "４",
+        "amount": "の油揚げ、さつま揚げなどを入れて１５分ほど煮込む。",
+        "name_translated": {
+          "en": "４",
+          "zh_tw": "４",
+          "zh_cn": "４",
+          "vi": "４",
+          "hi": "４",
+          "ru": "４",
+          "th": "４",
+          "id": "４",
+          "ms": "４",
+          "ko": "４"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%94&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%94/?tag="
+      },
+      {
+        "name_ja": "５",
+        "amount": "練りがらしを添えてお召し上がりください。",
+        "name_translated": {
+          "en": "５",
+          "zh_tw": "５",
+          "zh_cn": "５",
+          "vi": "５",
+          "hi": "５",
+          "ru": "５",
+          "th": "５",
+          "id": "５",
+          "ms": "５",
+          "ko": "５"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%95&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%95/?tag="
+      }
+    ],
+    "steps_ja": [
+      "＜鶏だんごの材料＞を混ぜ合わせ、よく練る。「八方だし」と水を合わせて煮立てたところに丸く落とし、中まで火が通ったら取り出して、うずら卵（水煮）、さつま揚げといっしょに串に刺す。",
+      "大根は３ｃｍ厚の半月に切り、下ゆでする。じゃがいも、にんじんは１ｃｍ幅の棒状に切り、４～５本まとめてベーコンで巻く。",
+      "油揚げは半分に切り、袋状に開いて半分に切ったもちとプロセスチーズを入れて爪楊枝で口を閉じる。",
+      "の煮汁に大根、三角に切った板こんにゃく、結び昆布を入れて３０分煮込む。続いて、１の串に刺しただんご、２のベーコン巻き、３の油揚げ、さつま揚げなどを入れて１５分ほど煮込む。",
+      "練りがらしを添えてお召し上がりください。"
+    ],
+    "image_url": "",
+    "title": {
+      "en": "「八方だし」で串おでん",
+      "zh_tw": "「八方だし」で串おでん",
+      "zh_cn": "「八方だし」で串おでん",
+      "vi": "「八方だし」で串おでん",
+      "hi": "「八方だし」で串おでん",
+      "ru": "「八方だし」で串おでん",
+      "th": "「八方だし」で串おでん",
+      "id": "「八方だし」で串おでん",
+      "ms": "「八方だし」で串おでん",
+      "ko": "「八方だし」で串おでん"
+    },
+    "description": {
+      "en": "",
+      "zh_tw": "",
+      "zh_cn": "",
+      "vi": "",
+      "hi": "",
+      "ru": "",
+      "th": "",
+      "id": "",
+      "ms": "",
+      "ko": ""
+    },
+    "steps": {
+      "en": [
+        "＜鶏だんごの材料＞を混ぜ合わせ、よく練る。「八方だし」と水を合わせて煮立てたところに丸く落とし、中まで火が通ったら取り出して、うずら卵（水煮）、さつま揚げといっしょに串に刺す。",
+        "大根は３ｃｍ厚の半月に切り、下ゆでする。じゃがいも、にんじんは１ｃｍ幅の棒状に切り、４～５本まとめてベーコンで巻く。",
+        "油揚げは半分に切り、袋状に開いて半分に切ったもちとプロセスチーズを入れて爪楊枝で口を閉じる。",
+        "の煮汁に大根、三角に切った板こんにゃく、結び昆布を入れて３０分煮込む。続いて、１の串に刺しただんご、２のベーコン巻き、３の油揚げ、さつま揚げなどを入れて１５分ほど煮込む。",
+        "練りがらしを添えてお召し上がりください。"
+      ],
+      "zh_tw": [
+        "＜鶏だんごの材料＞を混ぜ合わせ、よく練る。「八方だし」と水を合わせて煮立てたところに丸く落とし、中まで火が通ったら取り出して、うずら卵（水煮）、さつま揚げといっしょに串に刺す。",
+        "大根は３ｃｍ厚の半月に切り、下ゆでする。じゃがいも、にんじんは１ｃｍ幅の棒状に切り、４～５本まとめてベーコンで巻く。",
+        "油揚げは半分に切り、袋状に開いて半分に切ったもちとプロセスチーズを入れて爪楊枝で口を閉じる。",
+        "の煮汁に大根、三角に切った板こんにゃく、結び昆布を入れて３０分煮込む。続いて、１の串に刺しただんご、２のベーコン巻き、３の油揚げ、さつま揚げなどを入れて１５分ほど煮込む。",
+        "練りがらしを添えてお召し上がりください。"
+      ],
+      "zh_cn": [
+        "＜鶏だんごの材料＞を混ぜ合わせ、よく練る。「八方だし」と水を合わせて煮立てたところに丸く落とし、中まで火が通ったら取り出して、うずら卵（水煮）、さつま揚げといっしょに串に刺す。",
+        "大根は３ｃｍ厚の半月に切り、下ゆでする。じゃがいも、にんじんは１ｃｍ幅の棒状に切り、４～５本まとめてベーコンで巻く。",
+        "油揚げは半分に切り、袋状に開いて半分に切ったもちとプロセスチーズを入れて爪楊枝で口を閉じる。",
+        "の煮汁に大根、三角に切った板こんにゃく、結び昆布を入れて３０分煮込む。続いて、１の串に刺しただんご、２のベーコン巻き、３の油揚げ、さつま揚げなどを入れて１５分ほど煮込む。",
+        "練りがらしを添えてお召し上がりください。"
+      ],
+      "vi": [
+        "＜鶏だんごの材料＞を混ぜ合わせ、よく練る。「八方だし」と水を合わせて煮立てたところに丸く落とし、中まで火が通ったら取り出して、うずら卵（水煮）、さつま揚げといっしょに串に刺す。",
+        "大根は３ｃｍ厚の半月に切り、下ゆでする。じゃがいも、にんじんは１ｃｍ幅の棒状に切り、４～５本まとめてベーコンで巻く。",
+        "油揚げは半分に切り、袋状に開いて半分に切ったもちとプロセスチーズを入れて爪楊枝で口を閉じる。",
+        "の煮汁に大根、三角に切った板こんにゃく、結び昆布を入れて３０分煮込む。続いて、１の串に刺しただんご、２のベーコン巻き、３の油揚げ、さつま揚げなどを入れて１５分ほど煮込む。",
+        "練りがらしを添えてお召し上がりください。"
+      ],
+      "hi": [
+        "＜鶏だんごの材料＞を混ぜ合わせ、よく練る。「八方だし」と水を合わせて煮立てたところに丸く落とし、中まで火が通ったら取り出して、うずら卵（水煮）、さつま揚げといっしょに串に刺す。",
+        "大根は３ｃｍ厚の半月に切り、下ゆでする。じゃがいも、にんじんは１ｃｍ幅の棒状に切り、４～５本まとめてベーコンで巻く。",
+        "油揚げは半分に切り、袋状に開いて半分に切ったもちとプロセスチーズを入れて爪楊枝で口を閉じる。",
+        "の煮汁に大根、三角に切った板こんにゃく、結び昆布を入れて３０分煮込む。続いて、１の串に刺しただんご、２のベーコン巻き、３の油揚げ、さつま揚げなどを入れて１５分ほど煮込む。",
+        "練りがらしを添えてお召し上がりください。"
+      ],
+      "ru": [
+        "＜鶏だんごの材料＞を混ぜ合わせ、よく練る。「八方だし」と水を合わせて煮立てたところに丸く落とし、中まで火が通ったら取り出して、うずら卵（水煮）、さつま揚げといっしょに串に刺す。",
+        "大根は３ｃｍ厚の半月に切り、下ゆでする。じゃがいも、にんじんは１ｃｍ幅の棒状に切り、４～５本まとめてベーコンで巻く。",
+        "油揚げは半分に切り、袋状に開いて半分に切ったもちとプロセスチーズを入れて爪楊枝で口を閉じる。",
+        "の煮汁に大根、三角に切った板こんにゃく、結び昆布を入れて３０分煮込む。続いて、１の串に刺しただんご、２のベーコン巻き、３の油揚げ、さつま揚げなどを入れて１５分ほど煮込む。",
+        "練りがらしを添えてお召し上がりください。"
+      ],
+      "th": [
+        "＜鶏だんごの材料＞を混ぜ合わせ、よく練る。「八方だし」と水を合わせて煮立てたところに丸く落とし、中まで火が通ったら取り出して、うずら卵（水煮）、さつま揚げといっしょに串に刺す。",
+        "大根は３ｃｍ厚の半月に切り、下ゆでする。じゃがいも、にんじんは１ｃｍ幅の棒状に切り、４～５本まとめてベーコンで巻く。",
+        "油揚げは半分に切り、袋状に開いて半分に切ったもちとプロセスチーズを入れて爪楊枝で口を閉じる。",
+        "の煮汁に大根、三角に切った板こんにゃく、結び昆布を入れて３０分煮込む。続いて、１の串に刺しただんご、２のベーコン巻き、３の油揚げ、さつま揚げなどを入れて１５分ほど煮込む。",
+        "練りがらしを添えてお召し上がりください。"
+      ],
+      "id": [
+        "＜鶏だんごの材料＞を混ぜ合わせ、よく練る。「八方だし」と水を合わせて煮立てたところに丸く落とし、中まで火が通ったら取り出して、うずら卵（水煮）、さつま揚げといっしょに串に刺す。",
+        "大根は３ｃｍ厚の半月に切り、下ゆでする。じゃがいも、にんじんは１ｃｍ幅の棒状に切り、４～５本まとめてベーコンで巻く。",
+        "油揚げは半分に切り、袋状に開いて半分に切ったもちとプロセスチーズを入れて爪楊枝で口を閉じる。",
+        "の煮汁に大根、三角に切った板こんにゃく、結び昆布を入れて３０分煮込む。続いて、１の串に刺しただんご、２のベーコン巻き、３の油揚げ、さつま揚げなどを入れて１５分ほど煮込む。",
+        "練りがらしを添えてお召し上がりください。"
+      ],
+      "ms": [
+        "＜鶏だんごの材料＞を混ぜ合わせ、よく練る。「八方だし」と水を合わせて煮立てたところに丸く落とし、中まで火が通ったら取り出して、うずら卵（水煮）、さつま揚げといっしょに串に刺す。",
+        "大根は３ｃｍ厚の半月に切り、下ゆでする。じゃがいも、にんじんは１ｃｍ幅の棒状に切り、４～５本まとめてベーコンで巻く。",
+        "油揚げは半分に切り、袋状に開いて半分に切ったもちとプロセスチーズを入れて爪楊枝で口を閉じる。",
+        "の煮汁に大根、三角に切った板こんにゃく、結び昆布を入れて３０分煮込む。続いて、１の串に刺しただんご、２のベーコン巻き、３の油揚げ、さつま揚げなどを入れて１５分ほど煮込む。",
+        "練りがらしを添えてお召し上がりください。"
+      ],
+      "ko": [
+        "＜鶏だんごの材料＞を混ぜ合わせ、よく練る。「八方だし」と水を合わせて煮立てたところに丸く落とし、中まで火が通ったら取り出して、うずら卵（水煮）、さつま揚げといっしょに串に刺す。",
+        "大根は３ｃｍ厚の半月に切り、下ゆでする。じゃがいも、にんじんは１ｃｍ幅の棒状に切り、４～５本まとめてベーコンで巻く。",
+        "油揚げは半分に切り、袋状に開いて半分に切ったもちとプロセスチーズを入れて爪楊枝で口を閉じる。",
+        "の煮汁に大根、三角に切った板こんにゃく、結び昆布を入れて３０分煮込む。続いて、１の串に刺しただんご、２のベーコン巻き、３の油揚げ、さつま揚げなどを入れて１５分ほど煮込む。",
+        "練りがらしを添えてお召し上がりください。"
+      ]
+    }
+  },
+  {
+    "id": "f4b1e7e9",
+    "source_url": "https://www.mizkan.co.jp/ouchirecipe/recipe/?menu_id=11326",
+    "source_site": "Mizkan",
+    "title_ja": "豚バラ大根",
+    "description_ja": "",
+    "ingredients": [
+      {
+        "name_ja": "大根",
+        "amount": "１／３本",
+        "name_translated": {
+          "en": "大根",
+          "zh_tw": "大根",
+          "zh_cn": "大根",
+          "vi": "大根",
+          "hi": "大根",
+          "ru": "大根",
+          "th": "大根",
+          "id": "大根",
+          "ms": "大根",
+          "ko": "大根"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E5%A4%A7%E6%A0%B9&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E5%A4%A7%E6%A0%B9/?tag="
+      },
+      {
+        "name_ja": "豚バラ肉　薄切り",
+        "amount": "１００ｇ",
+        "name_translated": {
+          "en": "豚バラ肉　薄切り",
+          "zh_tw": "豚バラ肉　薄切り",
+          "zh_cn": "豚バラ肉　薄切り",
+          "vi": "豚バラ肉　薄切り",
+          "hi": "豚バラ肉　薄切り",
+          "ru": "豚バラ肉　薄切り",
+          "th": "豚バラ肉　薄切り",
+          "id": "豚バラ肉　薄切り",
+          "ms": "豚バラ肉　薄切り",
+          "ko": "豚バラ肉　薄切り"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E8%B1%9A%E3%83%90%E3%83%A9%E8%82%89%E3%80%80%E8%96%84%E5%88%87%E3%82%8A&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E8%B1%9A%E3%83%90%E3%83%A9%E8%82%89%E3%80%80%E8%96%84%E5%88%87%E3%82%8A/?tag="
+      },
+      {
+        "name_ja": "ごま油",
+        "amount": "大さじ１",
+        "name_translated": {
+          "en": "ごま油",
+          "zh_tw": "ごま油",
+          "zh_cn": "ごま油",
+          "vi": "ごま油",
+          "hi": "ごま油",
+          "ru": "ごま油",
+          "th": "ごま油",
+          "id": "ごま油",
+          "ms": "ごま油",
+          "ko": "ごま油"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%94%E3%81%BE%E6%B2%B9&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%94%E3%81%BE%E6%B2%B9/?tag="
+      },
+      {
+        "name_ja": "小ねぎ　（小口切り）",
+        "amount": "適量",
+        "name_translated": {
+          "en": "小ねぎ　（小口切り）",
+          "zh_tw": "小ねぎ　（小口切り）",
+          "zh_cn": "小ねぎ　（小口切り）",
+          "vi": "小ねぎ　（小口切り）",
+          "hi": "小ねぎ　（小口切り）",
+          "ru": "小ねぎ　（小口切り）",
+          "th": "小ねぎ　（小口切り）",
+          "id": "小ねぎ　（小口切り）",
+          "ms": "小ねぎ　（小口切り）",
+          "ko": "小ねぎ　（小口切り）"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E5%B0%8F%E3%81%AD%E3%81%8E%E3%80%80%EF%BC%88%E5%B0%8F%E5%8F%A3%E5%88%87%E3%82%8A%EF%BC%89&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E5%B0%8F%E3%81%AD%E3%81%8E%E3%80%80%EF%BC%88%E5%B0%8F%E5%8F%A3%E5%88%87%E3%82%8A%EF%BC%89/?tag="
+      },
+      {
+        "name_ja": "ミツカン　追いがつおつゆ２倍",
+        "amount": "大さじ５（７５ｍｌ）",
+        "name_translated": {
+          "en": "ミツカン　追いがつおつゆ２倍",
+          "zh_tw": "ミツカン　追いがつおつゆ２倍",
+          "zh_cn": "ミツカン　追いがつおつゆ２倍",
+          "vi": "ミツカン　追いがつおつゆ２倍",
+          "hi": "ミツカン　追いがつおつゆ２倍",
+          "ru": "ミツカン　追いがつおつゆ２倍",
+          "th": "ミツカン　追いがつおつゆ２倍",
+          "id": "ミツカン　追いがつおつゆ２倍",
+          "ms": "ミツカン　追いがつおつゆ２倍",
+          "ko": "ミツカン　追いがつおつゆ２倍"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E8%BF%BD%E3%81%84%E3%81%8C%E3%81%A4%E3%81%8A%E3%81%A4%E3%82%86%EF%BC%92%E5%80%8D&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E8%BF%BD%E3%81%84%E3%81%8C%E3%81%A4%E3%81%8A%E3%81%A4%E3%82%86%EF%BC%92%E5%80%8D/?tag="
+      },
+      {
+        "name_ja": "水",
+        "amount": "１２５ｍｌ",
+        "name_translated": {
+          "en": "水",
+          "zh_tw": "水",
+          "zh_cn": "水",
+          "vi": "水",
+          "hi": "水",
+          "ru": "水",
+          "th": "水",
+          "id": "水",
+          "ms": "水",
+          "ko": "水"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E6%B0%B4&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E6%B0%B4/?tag="
+      },
+      {
+        "name_ja": "１",
+        "amount": "にする。",
+        "name_translated": {
+          "en": "１",
+          "zh_tw": "１",
+          "zh_cn": "１",
+          "vi": "１",
+          "hi": "１",
+          "ru": "１",
+          "th": "１",
+          "id": "１",
+          "ms": "１",
+          "ko": "１"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%91&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%91/?tag="
+      },
+      {
+        "name_ja": "２",
+        "amount": "豚バラ肉は３ｃｍ長さに切る。",
+        "name_translated": {
+          "en": "２",
+          "zh_tw": "２",
+          "zh_cn": "２",
+          "vi": "２",
+          "hi": "２",
+          "ru": "２",
+          "th": "２",
+          "id": "２",
+          "ms": "２",
+          "ko": "２"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%92&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%92/?tag="
+      },
+      {
+        "name_ja": "３",
+        "amount": "を入れて少し焼き色がつくまで炒める。",
+        "name_translated": {
+          "en": "３",
+          "zh_tw": "３",
+          "zh_cn": "３",
+          "vi": "３",
+          "hi": "３",
+          "ru": "３",
+          "th": "３",
+          "id": "３",
+          "ms": "３",
+          "ko": "３"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%93&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%93/?tag="
+      },
+      {
+        "name_ja": "４",
+        "amount": "に＜Ａ＞を入れ沸騰したら中弱火にしてアクを取り、ふたをして大根に火が通るまで煮る。",
+        "name_translated": {
+          "en": "４",
+          "zh_tw": "４",
+          "zh_cn": "４",
+          "vi": "４",
+          "hi": "４",
+          "ru": "４",
+          "th": "４",
+          "id": "４",
+          "ms": "４",
+          "ko": "４"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%94&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%94/?tag="
+      },
+      {
+        "name_ja": "５",
+        "amount": "大根に火が通ったらふたを開け、ときどき鍋を回しながら煮汁がなくなるまで煮込む。",
+        "name_translated": {
+          "en": "５",
+          "zh_tw": "５",
+          "zh_cn": "５",
+          "vi": "５",
+          "hi": "５",
+          "ru": "５",
+          "th": "５",
+          "id": "５",
+          "ms": "５",
+          "ko": "５"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%95&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%95/?tag="
+      },
+      {
+        "name_ja": "６",
+        "amount": "器に盛り、小ねぎを添える。",
+        "name_translated": {
+          "en": "６",
+          "zh_tw": "６",
+          "zh_cn": "６",
+          "vi": "６",
+          "hi": "６",
+          "ru": "６",
+          "th": "６",
+          "id": "６",
+          "ms": "６",
+          "ko": "６"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%96&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%96/?tag="
+      }
+    ],
+    "steps_ja": [
+      "大根は２ｃｍ幅のいちょう切りにする。",
+      "豚バラ肉は３ｃｍ長さに切る。",
+      "鍋にごま油を熱し、２を加えて炒め、肉の色が変わったら１を入れて少し焼き色がつくまで炒める。",
+      "に＜Ａ＞を入れ沸騰したら中弱火にしてアクを取り、ふたをして大根に火が通るまで煮る。",
+      "大根に火が通ったらふたを開け、ときどき鍋を回しながら煮汁がなくなるまで煮込む。",
+      "器に盛り、小ねぎを添える。"
+    ],
+    "image_url": "",
+    "title": {
+      "en": "豚バラ大根",
+      "zh_tw": "豚バラ大根",
+      "zh_cn": "豚バラ大根",
+      "vi": "豚バラ大根",
+      "hi": "豚バラ大根",
+      "ru": "豚バラ大根",
+      "th": "豚バラ大根",
+      "id": "豚バラ大根",
+      "ms": "豚バラ大根",
+      "ko": "豚バラ大根"
+    },
+    "description": {
+      "en": "",
+      "zh_tw": "",
+      "zh_cn": "",
+      "vi": "",
+      "hi": "",
+      "ru": "",
+      "th": "",
+      "id": "",
+      "ms": "",
+      "ko": ""
+    },
+    "steps": {
+      "en": [
+        "大根は２ｃｍ幅のいちょう切りにする。",
+        "豚バラ肉は３ｃｍ長さに切る。",
+        "鍋にごま油を熱し、２を加えて炒め、肉の色が変わったら１を入れて少し焼き色がつくまで炒める。",
+        "に＜Ａ＞を入れ沸騰したら中弱火にしてアクを取り、ふたをして大根に火が通るまで煮る。",
+        "大根に火が通ったらふたを開け、ときどき鍋を回しながら煮汁がなくなるまで煮込む。",
+        "器に盛り、小ねぎを添える。"
+      ],
+      "zh_tw": [
+        "大根は２ｃｍ幅のいちょう切りにする。",
+        "豚バラ肉は３ｃｍ長さに切る。",
+        "鍋にごま油を熱し、２を加えて炒め、肉の色が変わったら１を入れて少し焼き色がつくまで炒める。",
+        "に＜Ａ＞を入れ沸騰したら中弱火にしてアクを取り、ふたをして大根に火が通るまで煮る。",
+        "大根に火が通ったらふたを開け、ときどき鍋を回しながら煮汁がなくなるまで煮込む。",
+        "器に盛り、小ねぎを添える。"
+      ],
+      "zh_cn": [
+        "大根は２ｃｍ幅のいちょう切りにする。",
+        "豚バラ肉は３ｃｍ長さに切る。",
+        "鍋にごま油を熱し、２を加えて炒め、肉の色が変わったら１を入れて少し焼き色がつくまで炒める。",
+        "に＜Ａ＞を入れ沸騰したら中弱火にしてアクを取り、ふたをして大根に火が通るまで煮る。",
+        "大根に火が通ったらふたを開け、ときどき鍋を回しながら煮汁がなくなるまで煮込む。",
+        "器に盛り、小ねぎを添える。"
+      ],
+      "vi": [
+        "大根は２ｃｍ幅のいちょう切りにする。",
+        "豚バラ肉は３ｃｍ長さに切る。",
+        "鍋にごま油を熱し、２を加えて炒め、肉の色が変わったら１を入れて少し焼き色がつくまで炒める。",
+        "に＜Ａ＞を入れ沸騰したら中弱火にしてアクを取り、ふたをして大根に火が通るまで煮る。",
+        "大根に火が通ったらふたを開け、ときどき鍋を回しながら煮汁がなくなるまで煮込む。",
+        "器に盛り、小ねぎを添える。"
+      ],
+      "hi": [
+        "大根は２ｃｍ幅のいちょう切りにする。",
+        "豚バラ肉は３ｃｍ長さに切る。",
+        "鍋にごま油を熱し、２を加えて炒め、肉の色が変わったら１を入れて少し焼き色がつくまで炒める。",
+        "に＜Ａ＞を入れ沸騰したら中弱火にしてアクを取り、ふたをして大根に火が通るまで煮る。",
+        "大根に火が通ったらふたを開け、ときどき鍋を回しながら煮汁がなくなるまで煮込む。",
+        "器に盛り、小ねぎを添える。"
+      ],
+      "ru": [
+        "大根は２ｃｍ幅のいちょう切りにする。",
+        "豚バラ肉は３ｃｍ長さに切る。",
+        "鍋にごま油を熱し、２を加えて炒め、肉の色が変わったら１を入れて少し焼き色がつくまで炒める。",
+        "に＜Ａ＞を入れ沸騰したら中弱火にしてアクを取り、ふたをして大根に火が通るまで煮る。",
+        "大根に火が通ったらふたを開け、ときどき鍋を回しながら煮汁がなくなるまで煮込む。",
+        "器に盛り、小ねぎを添える。"
+      ],
+      "th": [
+        "大根は２ｃｍ幅のいちょう切りにする。",
+        "豚バラ肉は３ｃｍ長さに切る。",
+        "鍋にごま油を熱し、２を加えて炒め、肉の色が変わったら１を入れて少し焼き色がつくまで炒める。",
+        "に＜Ａ＞を入れ沸騰したら中弱火にしてアクを取り、ふたをして大根に火が通るまで煮る。",
+        "大根に火が通ったらふたを開け、ときどき鍋を回しながら煮汁がなくなるまで煮込む。",
+        "器に盛り、小ねぎを添える。"
+      ],
+      "id": [
+        "大根は２ｃｍ幅のいちょう切りにする。",
+        "豚バラ肉は３ｃｍ長さに切る。",
+        "鍋にごま油を熱し、２を加えて炒め、肉の色が変わったら１を入れて少し焼き色がつくまで炒める。",
+        "に＜Ａ＞を入れ沸騰したら中弱火にしてアクを取り、ふたをして大根に火が通るまで煮る。",
+        "大根に火が通ったらふたを開け、ときどき鍋を回しながら煮汁がなくなるまで煮込む。",
+        "器に盛り、小ねぎを添える。"
+      ],
+      "ms": [
+        "大根は２ｃｍ幅のいちょう切りにする。",
+        "豚バラ肉は３ｃｍ長さに切る。",
+        "鍋にごま油を熱し、２を加えて炒め、肉の色が変わったら１を入れて少し焼き色がつくまで炒める。",
+        "に＜Ａ＞を入れ沸騰したら中弱火にしてアクを取り、ふたをして大根に火が通るまで煮る。",
+        "大根に火が通ったらふたを開け、ときどき鍋を回しながら煮汁がなくなるまで煮込む。",
+        "器に盛り、小ねぎを添える。"
+      ],
+      "ko": [
+        "大根は２ｃｍ幅のいちょう切りにする。",
+        "豚バラ肉は３ｃｍ長さに切る。",
+        "鍋にごま油を熱し、２を加えて炒め、肉の色が変わったら１を入れて少し焼き色がつくまで炒める。",
+        "に＜Ａ＞を入れ沸騰したら中弱火にしてアクを取り、ふたをして大根に火が通るまで煮る。",
+        "大根に火が通ったらふたを開け、ときどき鍋を回しながら煮汁がなくなるまで煮込む。",
+        "器に盛り、小ねぎを添える。"
+      ]
+    }
   }
 ]

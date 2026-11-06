@@ -360075,5 +360075,258 @@
         "器に盛り、小ねぎを添える。"
       ]
     }
+  },
+  {
+    "id": "edfb797f",
+    "source_url": "https://www.mizkan.co.jp/ouchirecipe/recipe/?menu_id=20522",
+    "source_site": "Mizkan",
+    "title_ja": "大根の皮とにんじんの皮のきんぴら",
+    "description_ja": "",
+    "ingredients": [
+      {
+        "name_ja": "大根",
+        "amount": "皮１／２本分",
+        "name_translated": {
+          "en": "Japanese white radish",
+          "zh_tw": "日本白蘿蔔",
+          "zh_cn": "日本白萝卜",
+          "vi": "Củ cải trắng Nhật Bản",
+          "hi": "जापानी सफेद मूली",
+          "ru": "Японская белая редька",
+          "th": "หัวไชเท้าขาวญี่ปุ่น",
+          "id": "lobak putih jepang",
+          "ms": "lobak putih jepun",
+          "ko": "무"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E5%A4%A7%E6%A0%B9&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E5%A4%A7%E6%A0%B9/?tag="
+      },
+      {
+        "name_ja": "にんじん",
+        "amount": "皮１本分",
+        "name_translated": {
+          "en": "carrot",
+          "zh_tw": "紅蘿蔔",
+          "zh_cn": "胡萝卜",
+          "vi": "cà rốt",
+          "hi": "गाजर",
+          "ru": "морковь",
+          "th": "แครอท",
+          "id": "wortel",
+          "ms": "lobak merah",
+          "ko": "당근"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%AB%E3%82%93%E3%81%98%E3%82%93&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%AB%E3%82%93%E3%81%98%E3%82%93/?tag="
+      },
+      {
+        "name_ja": "ごま油",
+        "amount": "小さじ２",
+        "name_translated": {
+          "en": "sesame oil",
+          "zh_tw": "香油",
+          "zh_cn": "香油",
+          "vi": "dầu mè",
+          "hi": "तिल का तेल",
+          "ru": "кунжутное масло",
+          "th": "น้ำมันงา",
+          "id": "minyak wijen",
+          "ms": "minyak bijan",
+          "ko": "참기름"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%94%E3%81%BE%E6%B2%B9&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%94%E3%81%BE%E6%B2%B9/?tag="
+      },
+      {
+        "name_ja": "ミツカン　カンタン酢",
+        "amount": "大さじ２",
+        "name_translated": {
+          "en": "Mizkan Kantan Vinegar",
+          "zh_tw": "味滋康甘丹醋",
+          "zh_cn": "味滋康甘丹醋",
+          "vi": "Giấm Mizkan Kantan",
+          "hi": "मिज़कान कंटन सिरका",
+          "ru": "Мизкан Кантанский уксус",
+          "th": "น้ำส้มสายชูมิซกัน กันตัน",
+          "id": "Cuka Mizkan Kantan",
+          "ms": "Cuka Mizkan Kantan",
+          "ko": "미츠칸 칸탄초"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E3%82%AB%E3%83%B3%E3%82%BF%E3%83%B3%E9%85%A2&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E3%82%AB%E3%83%B3%E3%82%BF%E3%83%B3%E9%85%A2/?tag="
+      },
+      {
+        "name_ja": "しょうゆ",
+        "amount": "小さじ１",
+        "name_translated": {
+          "en": "soy sauce",
+          "zh_tw": "醬油",
+          "zh_cn": "酱油",
+          "vi": "nước tương",
+          "hi": "सोया सॉस",
+          "ru": "соевый соус",
+          "th": "ซอสถั่วเหลือง",
+          "id": "kecap",
+          "ms": "kicap",
+          "ko": "간장"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%97%E3%82%87%E3%81%86%E3%82%86&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%97%E3%82%87%E3%81%86%E3%82%86/?tag="
+      },
+      {
+        "name_ja": "いりごま　（白）",
+        "amount": "大さじ１／２",
+        "name_translated": {
+          "en": "Roasted sesame seeds (white)",
+          "zh_tw": "烤芝麻（白）",
+          "zh_cn": "烤芝麻（白）",
+          "vi": "Hạt vừng rang (trắng)",
+          "hi": "भुने हुए तिल (सफेद)",
+          "ru": "Семена кунжута жареные (белые)",
+          "th": "งาคั่ว (สีขาว)",
+          "id": "Biji wijen sangrai (putih)",
+          "ms": "Bijan panggang (putih)",
+          "ko": "이리 고마 (흰색)"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%84%E3%82%8A%E3%81%94%E3%81%BE%E3%80%80%EF%BC%88%E7%99%BD%EF%BC%89&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%84%E3%82%8A%E3%81%94%E3%81%BE%E3%80%80%EF%BC%88%E7%99%BD%EF%BC%89/?tag="
+      },
+      {
+        "name_ja": "１",
+        "amount": "にする。",
+        "name_translated": {
+          "en": "1",
+          "zh_tw": "1",
+          "zh_cn": "1",
+          "vi": "1",
+          "hi": "1",
+          "ru": "1",
+          "th": "1",
+          "id": "1",
+          "ms": "1",
+          "ko": "1"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%91&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%91/?tag="
+      },
+      {
+        "name_ja": "２",
+        "amount": "を加えて炒める。油が回り大根の皮が透き通ってきたら、＜Ａ＞を加え、汁けがなくなり、表面に照りが出るまで炒め合わせる。",
+        "name_translated": {
+          "en": "2",
+          "zh_tw": "2",
+          "zh_cn": "2",
+          "vi": "2",
+          "hi": "2",
+          "ru": "2",
+          "th": "2",
+          "id": "2",
+          "ms": "2",
+          "ko": "2"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%92&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%92/?tag="
+      },
+      {
+        "name_ja": "３",
+        "amount": "器に盛り、いりごまをかける。",
+        "name_translated": {
+          "en": "3",
+          "zh_tw": "3",
+          "zh_cn": "3",
+          "vi": "3",
+          "hi": "3",
+          "ru": "3",
+          "th": "3",
+          "id": "3",
+          "ms": "3",
+          "ko": "3"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%93&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%93/?tag="
+      }
+    ],
+    "steps_ja": [
+      "大根、にんじんの皮は細切りにする。",
+      "フライパンにごま油を中火で熱し、１を加えて炒める。油が回り大根の皮が透き通ってきたら、＜Ａ＞を加え、汁けがなくなり、表面に照りが出るまで炒め合わせる。",
+      "器に盛り、いりごまをかける。"
+    ],
+    "image_url": "",
+    "title": {
+      "en": "Kinpira with radish skin and carrot skin",
+      "zh_tw": "金皮拉蘿蔔皮和胡蘿蔔皮",
+      "zh_cn": "金皮拉萝卜皮和胡萝卜皮",
+      "vi": "Kinpira với vỏ củ cải và vỏ cà rốt",
+      "hi": "मूली के छिलके और गाजर के छिलके वाला किन्पीरा",
+      "ru": "Кинпира с кожей редиса и моркови",
+      "th": "คินพิระกับหนังหัวไชเท้าและหนังแครอท",
+      "id": "Kinpira dengan kulit lobak dan kulit wortel",
+      "ms": "Kinpira dengan kulit lobak dan kulit lobak merah",
+      "ko": "무의 껍질과 당근 껍질의 킨 피라"
+    },
+    "description": {
+      "en": "",
+      "zh_tw": "",
+      "zh_cn": "",
+      "vi": "",
+      "hi": "",
+      "ru": "",
+      "th": "",
+      "id": "",
+      "ms": "",
+      "ko": ""
+    },
+    "steps": {
+      "en": [
+        "Finely chop the radish and carrot skin.",
+        "Heat sesame oil in a frying pan over medium heat, add 1 and stir. When the oil heats up and the skin of the radish becomes transparent, add <A> and stir-fry until the liquid evaporates and the surface becomes shiny.",
+        "Place in a bowl and sprinkle with toasted sesame seeds."
+      ],
+      "zh_tw": [
+        "將蘿蔔和胡蘿蔔皮切碎。",
+        "在煎鍋中以中火加熱芝麻油，加入1並攪拌。待油熱，蘿蔔皮變透明時，加入<A>，炒至液體蒸發，表面發亮。",
+        "放入碗中，撒上烤芝麻。"
+      ],
+      "zh_cn": [
+        "将萝卜和胡萝卜皮切碎。",
+        "在煎锅中用中火加热芝麻油，加入1并搅拌。待油热，萝卜皮变透明时，加入<A>，炒至液体蒸发，表面发亮。",
+        "放入碗中，撒上烤芝麻。"
+      ],
+      "vi": [
+        "Cắt nhỏ vỏ củ cải và cà rốt.",
+        "Đun nóng dầu mè trong chảo trên lửa vừa, thêm 1 vào và khuấy đều. Khi dầu nóng lên và vỏ củ cải trở nên trong suốt, thêm <A> vào xào cho đến khi chất lỏng bay hơi hết và bề mặt trở nên sáng bóng.",
+        "Cho vào tô và rắc mè rang."
+      ],
+      "hi": [
+        "मूली और गाजर के छिलके को बारीक काट लें।",
+        "मध्यम आंच पर एक फ्राइंग पैन में तिल का तेल गरम करें, 1 डालें और हिलाएं। जब तेल गर्म हो जाए और मूली का छिलका पारदर्शी हो जाए, तो <ए> डालें और हिलाते रहें जब तक कि तरल वाष्पित न हो जाए और सतह चमकदार न हो जाए।",
+        "एक कटोरे में रखें और भुने हुए तिल छिड़कें।"
+      ],
+      "ru": [
+        "Мелко нарезаем кожуру редиса и моркови.",
+        "Нагрейте кунжутное масло в сковороде на среднем огне, добавьте 1 и перемешайте. Когда масло нагреется и кожица редиса станет прозрачной, добавьте <А> и жарьте, помешивая, пока жидкость не выпарится, а поверхность не станет блестящей.",
+        "Выложите в миску и посыпьте жареным кунжутом."
+      ],
+      "th": [
+        "สับหัวไชเท้าและผิวแครอทอย่างประณีต",
+        "ตั้งน้ำมันงาในกระทะบนไฟร้อนปานกลาง ใส่ 1 และคนให้เข้ากัน เมื่อน้ำมันร้อนขึ้นและผิวของหัวไชเท้าโปร่งใส ให้เติม <A> และผัดจนของเหลวระเหยและพื้นผิวมันวาว",
+        "วางในชามแล้วโรยด้วยงาคั่ว"
+      ],
+      "id": [
+        "Cincang halus kulit lobak dan wortel.",
+        "Panaskan minyak wijen dalam wajan dengan api sedang, tambahkan 1 dan aduk. Jika minyak sudah panas dan kulit lobak menjadi transparan, masukkan <A> dan tumis hingga cairannya menguap dan permukaannya mengkilat.",
+        "Tempatkan dalam mangkuk dan taburi dengan biji wijen panggang."
+      ],
+      "ms": [
+        "Cincang halus kulit lobak merah dan lobak merah.",
+        "Panaskan minyak bijan dalam kuali dengan api sederhana, masukkan 1 dan kacau. Apabila minyak panas dan kulit lobak menjadi lutsinar, masukkan <A> dan tumis sehingga cecair sejat dan permukaannya menjadi berkilat.",
+        "Letakkan dalam mangkuk dan taburkan dengan bijan panggang."
+      ],
+      "ko": [
+        "무, 당근 피부는 잘게 썬다.",
+        "프라이팬에 참기름을 중불로 가열하고 1을 넣고 볶는다. 기름이 돌고 무의 껍질이 맑아지면, <A>를 넣고 국물이 없어져 표면에 빛이 나올 때까지 볶는다.",
+        "그릇에 담아 참깨를 뿌린다."
+      ]
+    }
   }
 ]

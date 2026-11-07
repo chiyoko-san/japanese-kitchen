@@ -360328,5 +360328,937 @@
         "그릇에 담아 참깨를 뿌린다."
       ]
     }
+  },
+  {
+    "id": "89fd810e",
+    "source_url": "https://www.mizkan.co.jp/ouchirecipe/recipe/?menu_id=22409",
+    "source_site": "Mizkan",
+    "title_ja": "ぶりの炙り　ゆずみぞれ添え",
+    "description_ja": "",
+    "ingredients": [
+      {
+        "name_ja": "ぶり　（刺身用）",
+        "amount": "３００～３５０ｇ",
+        "name_translated": {
+          "en": "Yellowtail (for sashimi)",
+          "zh_tw": "鰤魚（生魚片用）",
+          "zh_cn": "鰤鱼（生鱼片用）",
+          "vi": "Cá đuôi vàng (cho sashimi)",
+          "hi": "पीली पूंछ (सशिमी के लिए)",
+          "ru": "Желтохвост (для сашими)",
+          "th": "ปลาหางเหลือง (สำหรับซาชิมิ)",
+          "id": "Ekor Kuning (untuk sashimi)",
+          "ms": "Yellowtail (untuk sashimi)",
+          "ko": "브리　(회용)"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%B6%E3%82%8A%E3%80%80%EF%BC%88%E5%88%BA%E8%BA%AB%E7%94%A8%EF%BC%89&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%B6%E3%82%8A%E3%80%80%EF%BC%88%E5%88%BA%E8%BA%AB%E7%94%A8%EF%BC%89/?tag="
+      },
+      {
+        "name_ja": "大根おろし",
+        "amount": "５ｃｍ分",
+        "name_translated": {
+          "en": "Grated radish",
+          "zh_tw": "蘿蔔絲",
+          "zh_cn": "萝卜丝",
+          "vi": "củ cải bào",
+          "hi": "कसा हुआ मूली",
+          "ru": "Тертая редька",
+          "th": "หัวไชเท้าขูด",
+          "id": "lobak parut",
+          "ms": "Lobak parut",
+          "ko": "무강"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E5%A4%A7%E6%A0%B9%E3%81%8A%E3%82%8D%E3%81%97&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E5%A4%A7%E6%A0%B9%E3%81%8A%E3%82%8D%E3%81%97/?tag="
+      },
+      {
+        "name_ja": "小ねぎ　（小口切り）",
+        "amount": "適量",
+        "name_translated": {
+          "en": "Onion (cut into small pieces)",
+          "zh_tw": "洋蔥（切小塊）",
+          "zh_cn": "洋葱（切小块）",
+          "vi": "Hành tây (cắt thành miếng nhỏ)",
+          "hi": "प्याज (छोटे टुकड़ों में कटा हुआ)",
+          "ru": "Лук (нарезать небольшими кусочками)",
+          "th": "หัวหอม (หั่นเป็นชิ้นเล็กๆ)",
+          "id": "Bawang bombay (potong kecil-kecil)",
+          "ms": "Bawang besar (potong kecil)",
+          "ko": "작은 양파 (작은 컷)"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E5%B0%8F%E3%81%AD%E3%81%8E%E3%80%80%EF%BC%88%E5%B0%8F%E5%8F%A3%E5%88%87%E3%82%8A%EF%BC%89&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E5%B0%8F%E3%81%AD%E3%81%8E%E3%80%80%EF%BC%88%E5%B0%8F%E5%8F%A3%E5%88%87%E3%82%8A%EF%BC%89/?tag="
+      },
+      {
+        "name_ja": "スプラウト",
+        "amount": "適量",
+        "name_translated": {
+          "en": "sprout",
+          "zh_tw": "發芽",
+          "zh_cn": "发芽",
+          "vi": "nảy mầm",
+          "hi": "अंकुर",
+          "ru": "росток",
+          "th": "งอก",
+          "id": "tumbuh",
+          "ms": "bercambah",
+          "ko": "스프라우트"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%82%B9%E3%83%97%E3%83%A9%E3%82%A6%E3%83%88&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%82%B9%E3%83%97%E3%83%A9%E3%82%A6%E3%83%88/?tag="
+      },
+      {
+        "name_ja": "ミツカン　かおりの蔵　丸搾りゆず",
+        "amount": "適量",
+        "name_translated": {
+          "en": "Mizkan Kaori no Kura whole squeezed yuzu",
+          "zh_tw": "味滋館香織之藏整顆榨柚子",
+          "zh_cn": "味滋馆香织之藏整粒榨柚子",
+          "vi": "Mizkan Kaori no Kura ép toàn bộ yuzu",
+          "hi": "मिज़कान काओरी नो कुरा पूरा निचोड़ा हुआ युज़ू",
+          "ru": "Мизкан Каори но Кура целиком выжатый юзу",
+          "th": "Mizkan Kaori no Kura บีบยูสุทั้งตัว",
+          "id": "Mizkan Kaori no Kura meremas yuzu utuh",
+          "ms": "Mizkan Kaori no Kura seluruh perah yuzu",
+          "ko": "미츠칸 카오리의 창고 마루 짜기 유자"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E3%81%8B%E3%81%8A%E3%82%8A%E3%81%AE%E8%94%B5%E3%80%80%E4%B8%B8%E6%90%BE%E3%82%8A%E3%82%86%E3%81%9A&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E3%81%8B%E3%81%8A%E3%82%8A%E3%81%AE%E8%94%B5%E3%80%80%E4%B8%B8%E6%90%BE%E3%82%8A%E3%82%86%E3%81%9A/?tag="
+      },
+      {
+        "name_ja": "１",
+        "amount": "にし器に盛り付ける。大根おろしは、水けをしっかりきる。",
+        "name_translated": {
+          "en": "1",
+          "zh_tw": "1",
+          "zh_cn": "1",
+          "vi": "1",
+          "hi": "1",
+          "ru": "1",
+          "th": "1",
+          "id": "1",
+          "ms": "1",
+          "ko": "1"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%91&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%91/?tag="
+      },
+      {
+        "name_ja": "２",
+        "amount": "大根おろし、小ねぎ、スプラウトを添え、「かおりの蔵　丸絞りゆず」をかける。",
+        "name_translated": {
+          "en": "2",
+          "zh_tw": "2",
+          "zh_cn": "2",
+          "vi": "2",
+          "hi": "2",
+          "ru": "2",
+          "th": "2",
+          "id": "2",
+          "ms": "2",
+          "ko": "2"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%92&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%92/?tag="
+      }
+    ],
+    "steps_ja": [
+      "フライパンを熱く熱し、ぶりの皮目に焼き目がつくまで焼く。氷水に浸して冷やす。キッチンペーパーなどでしっかりと水けをふき取り、そぎ切りにし器に盛り付ける。大根おろしは、水けをしっかりきる。",
+      "大根おろし、小ねぎ、スプラウトを添え、「かおりの蔵　丸絞りゆず」をかける。"
+    ],
+    "image_url": "",
+    "title": {
+      "en": "Grilled yellowtail with yuzu sleet",
+      "zh_tw": "柚子雨夾雪烤鰤魚",
+      "zh_cn": "柚子雨夹雪烤鰤鱼",
+      "vi": "Cá đuôi vàng nướng sốt yuzu",
+      "hi": "युज़ू स्लीट के साथ ग्रिल्ड येलोटेल",
+      "ru": "Желтохвост на гриле с юдзу мокрым снегом",
+      "th": "ปลาหางเหลืองย่างกับลูกเห็บยูสุ",
+      "id": "Ekor kuning panggang dengan hujan es yuzu",
+      "ms": "Ekor kuning panggang dengan hujan es yuzu",
+      "ko": "부리의 똥 유자 미소레 첨자"
+    },
+    "description": {
+      "en": "",
+      "zh_tw": "",
+      "zh_cn": "",
+      "vi": "",
+      "hi": "",
+      "ru": "",
+      "th": "",
+      "id": "",
+      "ms": "",
+      "ko": ""
+    },
+    "steps": {
+      "en": [
+        "Heat a frying pan and fry the yellowtail until the skin is browned. Cool by soaking in ice water. Wipe off the water thoroughly with kitchen paper, cut into pieces, and serve in a bowl. Drain the grated radish thoroughly.",
+        "Garnish with grated radish, green onions, and sprouts, and sprinkle with Kaori no Kura Maru Squeezed Yuzu."
+      ],
+      "zh_tw": [
+        "フライパンを熱く熱し、ぶりの皮目に焼き目がつくまで焼く。氷水に浸して冷やす。キッチンペーパーなどでしっかりと水けをふき取り、そぎ切りにし器に盛り付ける。大根おろしは、水けをしっかりきる。",
+        "用磨碎的蘿蔔、蔥和豆芽裝飾，撒上 Kaori no Kura Maru 榨柚子。"
+      ],
+      "zh_cn": [
+        "加热煎锅，将鰤鱼煎至皮呈棕色。浸泡在冰水中冷却。用厨房用纸彻底擦去水份，切成块，盛入碗中。将磨碎的萝卜彻底沥干。",
+        "用磨碎的萝卜、葱和豆芽装饰，撒上 Kaori no Kura Maru 榨柚子。"
+      ],
+      "vi": [
+        "Làm nóng chảo rán và chiên cá đuôi vàng cho đến khi da có màu nâu. Làm nguội bằng cách ngâm trong nước đá. Dùng giấy ăn lau sạch nước, cắt thành miếng vừa ăn rồi cho vào tô. Xả kỹ củ cải bào.",
+        "Trang trí với củ cải bào, hành lá, rau mầm và rắc Kaori no Kura Maru Squeezed Yuzu."
+      ],
+      "hi": [
+        "एक फ्राइंग पैन गरम करें और पीली पूंछ को तब तक भूनें जब तक कि उसका छिलका भूरा न हो जाए। बर्फ के पानी में भिगोकर ठंडा करें। किचन पेपर से अच्छी तरह पानी पोंछ लें, टुकड़ों में काट लें और एक बाउल में परोसें। कद्दूकस की हुई मूली को अच्छी तरह से छान लीजिए.",
+        "कद्दूकस की हुई मूली, हरी प्याज और अंकुरित अनाज से गार्निश करें और काओरी नो कुरा मारू स्क्वीज़्ड युज़ू छिड़कें।"
+      ],
+      "ru": [
+        "Нагрейте сковороду и обжарьте желтохвост, пока кожица не подрумянится. Остудить, замочив в ледяной воде. Тщательно вытрите воду кухонной бумагой, нарежьте на кусочки и подавайте в миске. Тщательно слейте воду с тертой редиски.",
+        "Украсьте тертым редисом, зеленым луком и ростками и посыпьте выжатым юдзу Каори но Кура Мару."
+      ],
+      "th": [
+        "ตั้งกระทะให้ร้อนแล้วทอดปลาหางเหลืองจนผิวเป็นสีน้ำตาล เย็นด้วยการแช่น้ำเย็นจัด ใช้กระดาษในครัวเช็ดน้ำออกให้สะอาด หั่นเป็นชิ้นแล้วเสิร์ฟในชาม ระบายหัวไชเท้าขูดให้ละเอียด",
+        "โรยหน้าด้วยหัวไชเท้าขูด ต้นหอม และถั่วงอก แล้วโรยด้วย Kaori no Kura Maru Squeezed Yuzu"
+      ],
+      "id": [
+        "Panaskan wajan lalu goreng ikan ekor kuning hingga kulitnya kecoklatan. Dinginkan dengan merendamnya dalam air es. Bersihkan air secara menyeluruh dengan kertas dapur, potong-potong, dan sajikan dalam mangkuk. Tiriskan lobak parut hingga bersih.",
+        "Hiasi dengan lobak parut, daun bawang, dan tauge, lalu taburi dengan Kaori no Kura Maru Squeezed Yuzu."
+      ],
+      "ms": [
+        "Panaskan kuali dan goreng ekor kuning sehingga kulit keperangan. Sejukkan dengan rendam dalam air batu. Lap air dengan teliti dengan kertas dapur, potong-potong, dan hidangkan dalam mangkuk. Toskan lobak parut dengan teliti.",
+        "Hiaskan dengan lobak parut, bawang hijau, dan pucuk, dan taburkan dengan Kaori no Kura Maru Squeezed Yuzu."
+      ],
+      "ko": [
+        "프라이팬을 뜨겁게 뜨겁게 하고, 껍질이 벗겨질 때까지 굽는다. 얼음물에 담그고 식힌다. 주방 종이 등으로 제대로 물기를 닦아내고 썰어 그릇에 담는다. 무강은 물을 확고히 한다.",
+        "무강, 양파, 스프라우트를 곁들여 「카오리의 창고 마루 조리기 유자」를 뿌린다."
+      ]
+    }
+  },
+  {
+    "id": "e0717d4e",
+    "source_url": "https://www.mizkan.co.jp/ouchirecipe/recipe/?menu_id=22892",
+    "source_site": "Mizkan",
+    "title_ja": "大根のクリーミーだしグラタン",
+    "description_ja": "",
+    "ingredients": [
+      {
+        "name_ja": "大根",
+        "amount": "１００ｇ",
+        "name_translated": {
+          "en": "Japanese white radish",
+          "zh_tw": "日本白蘿蔔",
+          "zh_cn": "日本白萝卜",
+          "vi": "Củ cải trắng Nhật Bản",
+          "hi": "जापानी सफेद मूली",
+          "ru": "Японская белая редька",
+          "th": "หัวไชเท้าขาวญี่ปุ่น",
+          "id": "lobak putih jepang",
+          "ms": "lobak putih jepun",
+          "ko": "무"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E5%A4%A7%E6%A0%B9&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E5%A4%A7%E6%A0%B9/?tag="
+      },
+      {
+        "name_ja": "ベーコン",
+        "amount": "1枚",
+        "name_translated": {
+          "en": "bacon",
+          "zh_tw": "培根",
+          "zh_cn": "熏肉",
+          "vi": "thịt xông khói",
+          "hi": "बेकन",
+          "ru": "бекон",
+          "th": "เบคอน",
+          "id": "daging babi asap",
+          "ms": "bacon",
+          "ko": "베이컨"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%99%E3%83%BC%E3%82%B3%E3%83%B3&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%99%E3%83%BC%E3%82%B3%E3%83%B3/?tag="
+      },
+      {
+        "name_ja": "オリーブオイル",
+        "amount": "大さじ１",
+        "name_translated": {
+          "en": "olive oil",
+          "zh_tw": "橄欖油",
+          "zh_cn": "橄榄油",
+          "vi": "dầu ô liu",
+          "hi": "जैतून का तेल",
+          "ru": "оливковое масло",
+          "th": "น้ำมันมะกอก",
+          "id": "minyak zaitun",
+          "ms": "minyak zaitun",
+          "ko": "올리브 오일"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%82%AA%E3%83%AA%E3%83%BC%E3%83%96%E3%82%AA%E3%82%A4%E3%83%AB&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%82%AA%E3%83%AA%E3%83%BC%E3%83%96%E3%82%AA%E3%82%A4%E3%83%AB/?tag="
+      },
+      {
+        "name_ja": "小麦粉",
+        "amount": "大さじ２",
+        "name_translated": {
+          "en": "flour",
+          "zh_tw": "麵粉",
+          "zh_cn": "面粉",
+          "vi": "bột mì",
+          "hi": "आटा",
+          "ru": "мука",
+          "th": "แป้ง",
+          "id": "tepung",
+          "ms": "tepung",
+          "ko": "밀가루"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E5%B0%8F%E9%BA%A6%E7%B2%89&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E5%B0%8F%E9%BA%A6%E7%B2%89/?tag="
+      },
+      {
+        "name_ja": "バター",
+        "amount": "１５ｇ",
+        "name_translated": {
+          "en": "butter",
+          "zh_tw": "奶油",
+          "zh_cn": "黄油",
+          "vi": "bơ",
+          "hi": "मक्खन",
+          "ru": "масло",
+          "th": "เนย",
+          "id": "mentega",
+          "ms": "mentega",
+          "ko": "버터"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%90%E3%82%BF%E3%83%BC&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%90%E3%82%BF%E3%83%BC/?tag="
+      },
+      {
+        "name_ja": "牛乳",
+        "amount": "２００ｍｌ",
+        "name_translated": {
+          "en": "milk",
+          "zh_tw": "牛奶",
+          "zh_cn": "牛奶",
+          "vi": "sữa",
+          "hi": "दूध",
+          "ru": "молоко",
+          "th": "น้ำนม",
+          "id": "susu",
+          "ms": "susu",
+          "ko": "우유"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E7%89%9B%E4%B9%B3&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E7%89%9B%E4%B9%B3/?tag="
+      },
+      {
+        "name_ja": "ミツカン　プロが使う味　白だし",
+        "amount": "大さじ１",
+        "name_translated": {
+          "en": "Mizkan - Flavor used by professionals - White dashi",
+          "zh_tw": "口味滋康 - 專業人士使用的風味 - 白高湯",
+          "zh_cn": "味滋康 - 专业人士使用的风味 - 白高汤",
+          "vi": "Mizkan - Hương vị được giới chuyên môn sử dụng - Dashi trắng",
+          "hi": "मिज़कान - पेशेवरों द्वारा उपयोग किया जाने वाला स्वाद - सफेद दशी",
+          "ru": "Мизкан - Аромат, используемый профессионалами - Белый даси",
+          "th": "มิซคาน - รสชาติที่มืออาชีพใช้ - ดาชิสีขาว",
+          "id": "Mizkan - Rasa yang digunakan oleh para profesional - Dashi putih",
+          "ms": "Mizkan - Perisa yang digunakan oleh profesional - Dashi putih",
+          "ko": "미츠칸 프로가 사용하는 맛 흰색입니다."
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E3%83%97%E3%83%AD%E3%81%8C%E4%BD%BF%E3%81%86%E5%91%B3%E3%80%80%E7%99%BD%E3%81%A0%E3%81%97&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E3%83%97%E3%83%AD%E3%81%8C%E4%BD%BF%E3%81%86%E5%91%B3%E3%80%80%E7%99%BD%E3%81%A0%E3%81%97/?tag="
+      },
+      {
+        "name_ja": "白こしょう",
+        "amount": "少々",
+        "name_translated": {
+          "en": "white pepper",
+          "zh_tw": "白胡椒",
+          "zh_cn": "白胡椒",
+          "vi": "hạt tiêu trắng",
+          "hi": "सफ़ेद मिर्च",
+          "ru": "белый перец",
+          "th": "พริกไทยขาว",
+          "id": "lada putih",
+          "ms": "lada putih",
+          "ko": "하얀 후추"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E7%99%BD%E3%81%93%E3%81%97%E3%82%87%E3%81%86&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E7%99%BD%E3%81%93%E3%81%97%E3%82%87%E3%81%86/?tag="
+      },
+      {
+        "name_ja": "ピザ用チーズ",
+        "amount": "３０ｇ",
+        "name_translated": {
+          "en": "cheese for pizza",
+          "zh_tw": "ピザ用チーズ",
+          "zh_cn": "披萨用奶酪",
+          "vi": "phô mai cho pizza",
+          "hi": "पिज्जा के लिए पनीर",
+          "ru": "сыр для пиццы",
+          "th": "ชีสสำหรับพิซซ่า",
+          "id": "keju untuk pizza",
+          "ms": "keju untuk pizza",
+          "ko": "피자용 치즈"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%94%E3%82%B6%E7%94%A8%E3%83%81%E3%83%BC%E3%82%BA&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%94%E3%82%B6%E7%94%A8%E3%83%81%E3%83%BC%E3%82%BA/?tag="
+      },
+      {
+        "name_ja": "１",
+        "amount": "にする。ベーコンは粗みじんに切る。",
+        "name_translated": {
+          "en": "1",
+          "zh_tw": "1",
+          "zh_cn": "1",
+          "vi": "1",
+          "hi": "1",
+          "ru": "1",
+          "th": "1",
+          "id": "1",
+          "ms": "1",
+          "ko": "1"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%91&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%91/?tag="
+      },
+      {
+        "name_ja": "２",
+        "amount": "を入れて中火で炒める。",
+        "name_translated": {
+          "en": "2",
+          "zh_tw": "2",
+          "zh_cn": "2",
+          "vi": "2",
+          "hi": "2",
+          "ru": "2",
+          "th": "2",
+          "id": "2",
+          "ms": "2",
+          "ko": "2"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%92&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%92/?tag="
+      },
+      {
+        "name_ja": "３",
+        "amount": "に小麦粉とバターを入れて、引き続き炒める。",
+        "name_translated": {
+          "en": "3",
+          "zh_tw": "3",
+          "zh_cn": "3",
+          "vi": "3",
+          "hi": "3",
+          "ru": "3",
+          "th": "3",
+          "id": "3",
+          "ms": "3",
+          "ko": "3"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%93&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%93/?tag="
+      },
+      {
+        "name_ja": "４",
+        "amount": "に牛乳、「プロが使う味　白だし」を加え、とろみが出るまで加熱し、白こしょうを加える。",
+        "name_translated": {
+          "en": "4",
+          "zh_tw": "4",
+          "zh_cn": "4",
+          "vi": "4",
+          "hi": "4",
+          "ru": "4",
+          "th": "4",
+          "id": "4",
+          "ms": "4",
+          "ko": "4"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%94&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%94/?tag="
+      },
+      {
+        "name_ja": "５",
+        "amount": "を耐熱容器にうつし上にピザ用チーズをふりかけ、トースターなどで焦げ目がつくまで、4～５分ほど加熱する。",
+        "name_translated": {
+          "en": "5",
+          "zh_tw": "5",
+          "zh_cn": "5",
+          "vi": "5",
+          "hi": "5",
+          "ru": "5",
+          "th": "5",
+          "id": "5",
+          "ms": "5",
+          "ko": "5"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%95&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%95/?tag="
+      }
+    ],
+    "steps_ja": [
+      "大根は皮をむき、３ｍｍ厚さのいちょう切りにする。ベーコンは粗みじんに切る。",
+      "フライパンにオリーブオイルをしいて、１を入れて中火で炒める。",
+      "に小麦粉とバターを入れて、引き続き炒める。",
+      "に牛乳、「プロが使う味　白だし」を加え、とろみが出るまで加熱し、白こしょうを加える。",
+      "を耐熱容器にうつし上にピザ用チーズをふりかけ、トースターなどで焦げ目がつくまで、4～５分ほど加熱する。"
+    ],
+    "image_url": "",
+    "title": {
+      "en": "Creamy radish gratin",
+      "zh_tw": "奶油蘿蔔焗烤",
+      "zh_cn": "奶油萝卜焗烤",
+      "vi": "Gratin kem củ cải",
+      "hi": "मलाईदार मूली gratin",
+      "ru": "Сливочный гратен из редиса",
+      "th": "กราแตงหัวไชเท้าครีม",
+      "id": "Gratin lobak krim",
+      "ms": "Gratin lobak berkrim",
+      "ko": "무의 크림색이고 그라탕"
+    },
+    "description": {
+      "en": "",
+      "zh_tw": "",
+      "zh_cn": "",
+      "vi": "",
+      "hi": "",
+      "ru": "",
+      "th": "",
+      "id": "",
+      "ms": "",
+      "ko": ""
+    },
+    "steps": {
+      "en": [
+        "Peel the radish and cut into 3mm thick slices. Cut the bacon into coarse pieces.",
+        "Heat olive oil in a frying pan, add 1 and fry over medium heat.",
+        "Add flour and butter and continue frying.",
+        "Add milk and ``white dashi, the flavor used by professionals,'' and heat until it thickens, then add white pepper.",
+        "Transfer to a heat-resistant container, sprinkle pizza cheese on top, and heat in a toaster until browned, about 4 to 5 minutes."
+      ],
+      "zh_tw": [
+        "蘿蔔去皮，切成3毫米厚的片。將培根切成粗塊。",
+        "在煎鍋中加熱橄欖油，加入1，以中火煎炸。",
+        "に小麦粉とバターを入れて、引き続き炒める。",
+        "に牛乳、「プロが使う味　白だし」を加え、とろみが出るまで加熱し、白こしょうを加える。",
+        "を耐熱容器にうつし上にピザ用チーズをふりかけ、トースターなどで焦げ目がつくまで、4～５分ほど加熱する。"
+      ],
+      "zh_cn": [
+        "萝卜去皮，切成3毫米厚的片。将培根切成粗块。",
+        "在煎锅中加热橄榄油，加入1，中火煎炸。",
+        "加入面粉和黄油，继续煎炸。",
+        "加入牛奶和“白高汤，专业人士使用的味道”，加热直至变稠，然后加入白胡椒。",
+        "转移到耐热容器中，在上面撒上披萨奶酪，然后在烤面包机中加热至棕色，大约需要 4 到 5 分钟。"
+      ],
+      "vi": [
+        "Gọt vỏ củ cải và cắt thành lát dày 3mm. Cắt thịt xông khói thành miếng thô.",
+        "Đun nóng dầu ô liu trong chảo rán, thêm 1 và chiên trên lửa vừa.",
+        "Thêm bột mì và bơ và tiếp tục chiên.",
+        "Thêm sữa và ''dashi trắng, hương vị được các chuyên gia sử dụng'' và đun nóng cho đến khi đặc lại, sau đó thêm hạt tiêu trắng.",
+        "Chuyển sang hộp chịu nhiệt, rắc phô mai pizza lên trên và đun nóng trong máy nướng bánh mì cho đến khi chín vàng, khoảng 4 đến 5 phút."
+      ],
+      "hi": [
+        "मूली को छीलकर 3 मिमी मोटे टुकड़ों में काट लें। बेकन को मोटे टुकड़ों में काट लें.",
+        "एक फ्राइंग पैन में जैतून का तेल गरम करें, 1 डालें और मध्यम आंच पर भूनें।",
+        "आटा और मक्खन डालें और भूनना जारी रखें।",
+        "दूध और ``सफेद दशी, पेशेवरों द्वारा इस्तेमाल किया जाने वाला स्वाद'' मिलाएं और गाढ़ा होने तक गर्म करें, फिर सफेद मिर्च डालें।",
+        "एक गर्मी प्रतिरोधी कंटेनर में डालें, ऊपर पिज़्ज़ा चीज़ छिड़कें, और एक टोस्टर में भूरा होने तक, लगभग 4 से 5 मिनट तक गर्म करें।"
+      ],
+      "ru": [
+        "Редис очистите и нарежьте ломтиками толщиной 3 мм. Бекон нарежьте грубыми кусочками.",
+        "Нагрейте оливковое масло в сковороде, добавьте 1 и жарьте на среднем огне.",
+        "Добавьте муку и масло и продолжайте жарить.",
+        "Добавьте молоко и «белый даси, ароматизатор, используемый профессионалами», и нагревайте, пока он не загустеет, затем добавьте белый перец.",
+        "Переложите в жаропрочный контейнер, посыпьте сверху сыром для пиццы и нагрейте в тостере, пока он не подрумянится, примерно 4–5 минут."
+      ],
+      "th": [
+        "ปอกหัวไชเท้าแล้วหั่นเป็นชิ้นหนา 3 มม. ตัดเบคอนเป็นชิ้นหยาบ",
+        "ตั้งน้ำมันมะกอกในกระทะ เพิ่ม 1 และทอดบนไฟร้อนปานกลาง",
+        "เพิ่มแป้งและเนยแล้วทอดต่อ",
+        "เติมนมและ ``ดาชิสีขาว ซึ่งเป็นรสชาติที่มืออาชีพใช้'' และตั้งไฟจนข้น จากนั้นจึงเติมพริกไทยขาว",
+        "ถ่ายโอนไปยังภาชนะที่ทนความร้อน โรยพิซซ่าชีสด้านบน และนำไปอุ่นในเครื่องปิ้งขนมปังจนเป็นสีน้ำตาล ประมาณ 4 ถึง 5 นาที"
+      ],
+      "id": [
+        "Kupas lobak dan potong menjadi irisan setebal 3 mm. Potong bacon menjadi potongan kasar.",
+        "Panaskan minyak zaitun dalam wajan, tambahkan 1 dan goreng dengan api sedang.",
+        "Tambahkan tepung dan mentega dan lanjutkan menggoreng.",
+        "Tambahkan susu dan ``dashi putih, rasa yang digunakan oleh para profesional,'' dan panaskan hingga mengental, lalu tambahkan lada putih.",
+        "Pindahkan ke wadah tahan panas, taburkan keju pizza di atasnya, dan panaskan dalam pemanggang roti hingga kecoklatan, sekitar 4 hingga 5 menit."
+      ],
+      "ms": [
+        "Kupas lobak dan potong menjadi kepingan setebal 3mm. Potong bacon menjadi kepingan kasar.",
+        "Panaskan minyak zaitun dalam kuali, masukkan 1 dan goreng dengan api sederhana.",
+        "Masukkan tepung dan mentega dan teruskan menggoreng.",
+        "Masukkan susu dan ``dashi putih, perisa yang digunakan oleh profesional,'' dan panaskan sehingga ia pekat, kemudian masukkan lada putih.",
+        "Pindahkan ke bekas tahan panas, taburkan keju pizza di atasnya, dan panaskan dalam pembakar roti sehingga perang, kira-kira 4 hingga 5 minit."
+      ],
+      "ko": [
+        "무는 껍질을 벗기고 3mm 두께의 박살낸다. 베이컨은 거칠게 자른다.",
+        "프라이팬에 올리브 오일을 넣고 1을 넣고 중불로 볶는다.",
+        "에 밀가루와 버터를 넣고 계속 볶는다.",
+        "에 우유, 「프로가 사용하는 맛 백색」을 더해, 녹이 나올 때까지 가열해, 흰 후추를 더한다.",
+        "을 내열 용기에 우울증 위에 피자용 치즈를 뿌려 토스터 등으로 탄이 날 때까지 4~5분 정도 가열한다."
+      ]
+    }
+  },
+  {
+    "id": "ec320875",
+    "source_url": "https://www.mizkan.co.jp/ouchirecipe/recipe/?menu_id=451",
+    "source_site": "Mizkan",
+    "title_ja": "白だしおでん",
+    "description_ja": "",
+    "ingredients": [
+      {
+        "name_ja": "大根",
+        "amount": "１／２本",
+        "name_translated": {
+          "en": "Japanese white radish",
+          "zh_tw": "日本白蘿蔔",
+          "zh_cn": "日本白萝卜",
+          "vi": "Củ cải trắng Nhật Bản",
+          "hi": "जापानी सफेद मूली",
+          "ru": "Японская белая редька",
+          "th": "หัวไชเท้าขาวญี่ปุ่น",
+          "id": "lobak putih jepang",
+          "ms": "lobak putih jepun",
+          "ko": "무"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E5%A4%A7%E6%A0%B9&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E5%A4%A7%E6%A0%B9/?tag="
+      },
+      {
+        "name_ja": "じゃがいも",
+        "amount": "４個",
+        "name_translated": {
+          "en": "potato",
+          "zh_tw": "馬鈴薯",
+          "zh_cn": "土豆",
+          "vi": "khoai tây",
+          "hi": "आलू",
+          "ru": "картофель",
+          "th": "มันฝรั่ง",
+          "id": "kentang",
+          "ms": "kentang",
+          "ko": "감자"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%98%E3%82%83%E3%81%8C%E3%81%84%E3%82%82&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%98%E3%82%83%E3%81%8C%E3%81%84%E3%82%82/?tag="
+      },
+      {
+        "name_ja": "ロールキャベツ",
+        "amount": "４個",
+        "name_translated": {
+          "en": "cabbage rolls",
+          "zh_tw": "高麗菜捲",
+          "zh_cn": "卷心菜卷",
+          "vi": "cuộn bắp cải",
+          "hi": "पत्ता गोभी के अंदर आलू और हरे मटर भरकर बनाया गया रोल्स",
+          "ru": "голубцы",
+          "th": "ม้วนกะหล่ำปลี",
+          "id": "gulungan kubis",
+          "ms": "gulung kubis",
+          "ko": "롤 양배추"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%AD%E3%83%BC%E3%83%AB%E3%82%AD%E3%83%A3%E3%83%99%E3%83%84&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%AD%E3%83%BC%E3%83%AB%E3%82%AD%E3%83%A3%E3%83%99%E3%83%84/?tag="
+      },
+      {
+        "name_ja": "厚揚げ",
+        "amount": "２枚",
+        "name_translated": {
+          "en": "Fried tofu",
+          "zh_tw": "炸豆腐",
+          "zh_cn": "炸豆腐",
+          "vi": "Đậu hủ chiên",
+          "hi": "तला हुआ टोफू",
+          "ru": "Жареный тофу",
+          "th": "เต้าหู้ทอด",
+          "id": "Tahu goreng",
+          "ms": "Tauhu goreng",
+          "ko": "두꺼운 튀김"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E5%8E%9A%E6%8F%9A%E3%81%92&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E5%8E%9A%E6%8F%9A%E3%81%92/?tag="
+      },
+      {
+        "name_ja": "ちくわ",
+        "amount": "２本",
+        "name_translated": {
+          "en": "Chikuwa",
+          "zh_tw": "竹輪",
+          "zh_cn": "竹轮",
+          "vi": "Chikuwa",
+          "hi": "चिकुवा",
+          "ru": "Чикува",
+          "th": "ชิกุวะ",
+          "id": "Chikuwa",
+          "ms": "Chikuwa",
+          "ko": "치쿠와"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%A1%E3%81%8F%E3%82%8F&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%A1%E3%81%8F%E3%82%8F/?tag="
+      },
+      {
+        "name_ja": "さつま揚げ",
+        "amount": "４枚",
+        "name_translated": {
+          "en": "fish cake",
+          "zh_tw": "魚餅",
+          "zh_cn": "鱼饼",
+          "vi": "bánh cá",
+          "hi": "मछली का केक",
+          "ru": "рыбный пирог",
+          "th": "เค้กปลา",
+          "id": "kue ikan",
+          "ms": "kek ikan",
+          "ko": "사츠마 튀김"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%95%E3%81%A4%E3%81%BE%E6%8F%9A%E3%81%92&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%95%E3%81%A4%E3%81%BE%E6%8F%9A%E3%81%92/?tag="
+      },
+      {
+        "name_ja": "もち入りきんちゃく",
+        "amount": "４個",
+        "name_translated": {
+          "en": "Kinchaku with mochi",
+          "zh_tw": "金籤麻糬",
+          "zh_cn": "金签麻糬",
+          "vi": "Kinchaku với mochi",
+          "hi": "मोची के साथ किंचकू",
+          "ru": "Кинчаку с моти",
+          "th": "คินชาคุกับโมจิ",
+          "id": "Kinchaku dengan mochi",
+          "ms": "Kinchaku dengan mochi",
+          "ko": "떡이 들어간"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%82%82%E3%81%A1%E5%85%A5%E3%82%8A%E3%81%8D%E3%82%93%E3%81%A1%E3%82%83%E3%81%8F&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%82%82%E3%81%A1%E5%85%A5%E3%82%8A%E3%81%8D%E3%82%93%E3%81%A1%E3%82%83%E3%81%8F/?tag="
+      },
+      {
+        "name_ja": "がんもどき",
+        "amount": "４個",
+        "name_translated": {
+          "en": "Ganmodoki",
+          "zh_tw": "甘莫多基",
+          "zh_cn": "甘莫多基",
+          "vi": "ganmodoki",
+          "hi": "गणमोडोकी",
+          "ru": "Ганмодоки",
+          "th": "กันโมโดกิ",
+          "id": "Ganmodoki",
+          "ms": "Ganmodoki",
+          "ko": "암모도키"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%8C%E3%82%93%E3%82%82%E3%81%A9%E3%81%8D&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%8C%E3%82%93%E3%82%82%E3%81%A9%E3%81%8D/?tag="
+      },
+      {
+        "name_ja": "卵",
+        "amount": "４個",
+        "name_translated": {
+          "en": "egg",
+          "zh_tw": "蛋",
+          "zh_cn": "蛋",
+          "vi": "trứng",
+          "hi": "अंडा",
+          "ru": "яйцо",
+          "th": "ไข่",
+          "id": "telur",
+          "ms": "telur",
+          "ko": "계란"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E5%8D%B5&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E5%8D%B5/?tag="
+      },
+      {
+        "name_ja": "ミツカン　プロが使う味　白だし",
+        "amount": "大さじ５",
+        "name_translated": {
+          "en": "Mizkan - Flavor used by professionals - White dashi",
+          "zh_tw": "口味滋康 - 專業人士使用的風味 - 白高湯",
+          "zh_cn": "味滋康 - 专业人士使用的风味 - 白高汤",
+          "vi": "Mizkan - Hương vị được giới chuyên môn sử dụng - Dashi trắng",
+          "hi": "मिज़कान - पेशेवरों द्वारा उपयोग किया जाने वाला स्वाद - सफेद दशी",
+          "ru": "Мизкан - Аромат, используемый профессионалами - Белый даси",
+          "th": "มิซคาน - รสชาติที่มืออาชีพใช้ - ดาชิสีขาว",
+          "id": "Mizkan - Rasa yang digunakan oleh para profesional - Dashi putih",
+          "ms": "Mizkan - Perisa yang digunakan oleh profesional - Dashi putih",
+          "ko": "미츠칸 프로가 사용하는 맛 흰색입니다."
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E3%83%97%E3%83%AD%E3%81%8C%E4%BD%BF%E3%81%86%E5%91%B3%E3%80%80%E7%99%BD%E3%81%A0%E3%81%97&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E3%83%97%E3%83%AD%E3%81%8C%E4%BD%BF%E3%81%86%E5%91%B3%E3%80%80%E7%99%BD%E3%81%A0%E3%81%97/?tag="
+      },
+      {
+        "name_ja": "水",
+        "amount": "９００ｍｌ",
+        "name_translated": {
+          "en": "water",
+          "zh_tw": "水",
+          "zh_cn": "水",
+          "vi": "Nước",
+          "hi": "पानी",
+          "ru": "вода",
+          "th": "น้ำ",
+          "id": "air",
+          "ms": "air",
+          "ko": "물"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E6%B0%B4&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E6%B0%B4/?tag="
+      },
+      {
+        "name_ja": "練りがらし",
+        "amount": "適宜",
+        "name_translated": {
+          "en": "kneaded rice cake",
+          "zh_tw": "揉好的年糕",
+          "zh_cn": "揉好的年糕",
+          "vi": "bánh gạo nhào",
+          "hi": "गूंथे हुए चावल का केक",
+          "ru": "замешанный рисовый пирог",
+          "th": "เค้กข้าวนวด",
+          "id": "kue beras yang diuleni",
+          "ms": "kek beras diuli",
+          "ko": "반죽"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E7%B7%B4%E3%82%8A%E3%81%8C%E3%82%89%E3%81%97&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E7%B7%B4%E3%82%8A%E3%81%8C%E3%82%89%E3%81%97/?tag="
+      },
+      {
+        "name_ja": "１",
+        "amount": "大根は３ｃｍ厚さに切り、じゃがいもは皮をむいて下ゆでする。厚揚げは三角、ちくわは斜め半分に切り、さつま揚げ、がんもどきと一緒に油抜きをする。卵はゆで卵にして殻をむく。",
+        "name_translated": {
+          "en": "1",
+          "zh_tw": "1",
+          "zh_cn": "1",
+          "vi": "1",
+          "hi": "1",
+          "ru": "1",
+          "th": "1",
+          "id": "1",
+          "ms": "1",
+          "ko": "1"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%91&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%91/?tag="
+      },
+      {
+        "name_ja": "２",
+        "amount": "とその他具材を加えて火にかける。沸騰したら、ふたをして弱火で３０～４０分ほど加熱する。",
+        "name_translated": {
+          "en": "2",
+          "zh_tw": "2",
+          "zh_cn": "2",
+          "vi": "2",
+          "hi": "2",
+          "ru": "2",
+          "th": "2",
+          "id": "2",
+          "ms": "2",
+          "ko": "2"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%92&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%92/?tag="
+      },
+      {
+        "name_ja": "３",
+        "amount": "お好みで、練りがらしをつけていただく。",
+        "name_translated": {
+          "en": "3",
+          "zh_tw": "3",
+          "zh_cn": "3",
+          "vi": "3",
+          "hi": "3",
+          "ru": "3",
+          "th": "3",
+          "id": "3",
+          "ms": "3",
+          "ko": "3"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%93&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%93/?tag="
+      }
+    ],
+    "steps_ja": [
+      "大根は３ｃｍ厚さに切り、じゃがいもは皮をむいて下ゆでする。厚揚げは三角、ちくわは斜め半分に切り、さつま揚げ、がんもどきと一緒に油抜きをする。卵はゆで卵にして殻をむく。",
+      "鍋に「プロが使う味　白だし」と水、１とその他具材を加えて火にかける。沸騰したら、ふたをして弱火で３０～４０分ほど加熱する。",
+      "お好みで、練りがらしをつけていただく。"
+    ],
+    "image_url": "",
+    "title": {
+      "en": "White oden",
+      "zh_tw": "白關東煮",
+      "zh_cn": "白关东煮",
+      "vi": "Oden trắng",
+      "hi": "सफेद ओडेन",
+      "ru": "Белый одэн",
+      "th": "โอเด้งสีขาว",
+      "id": "Oden putih",
+      "ms": "Oden putih",
+      "ko": "흰색과 오뎅"
+    },
+    "description": {
+      "en": "",
+      "zh_tw": "",
+      "zh_cn": "",
+      "vi": "",
+      "hi": "",
+      "ru": "",
+      "th": "",
+      "id": "",
+      "ms": "",
+      "ko": ""
+    },
+    "steps": {
+      "en": [
+        "Cut the radish into 3cm thick pieces, peel and parboil the potatoes. Cut the tofu into triangles, cut the chikuwa in half diagonally, and drain the oil along with the satsuma-age and ganmodoki. Boil the eggs and peel them.",
+        "Add ``White dashi, the flavor used by professionals'', water, and other ingredients to a pot and heat. Once it boils, cover with a lid and heat on low heat for about 30 to 40 minutes.",
+        "If you like, add kneaded rice paste."
+      ],
+      "zh_tw": [
+        "萝卜切成3厘米厚的片，土豆去皮，煮半熟。将豆腐切成三角形，将竹轮斜切成两半，与蜜饯和甘草一起沥干油。將雞蛋煮熟並剝皮。",
+        "將「專業人士使用的味道白高湯」、水和其他材料放入鍋中加熱。沸騰後，蓋上蓋子，小火加熱約30至40分鐘。",
+        "如果你願意，可以加入揉好的米糊。"
+      ],
+      "zh_cn": [
+        "萝卜切成3厘米厚的片，土豆去皮，煮半熟。将豆腐切成三角形，将竹轮斜切成两半，与蜜饯和甘草一起沥干油。将鸡蛋煮熟并剥皮。",
+        "将“专业人士使用的味道白高汤”、水和其他材料放入锅中加热。沸腾后，盖上盖子，小火加热约30至40分钟。",
+        "如果你愿意，可以加入揉好的米糊。"
+      ],
+      "vi": [
+        "Cắt củ cải thành miếng dày 3cm, gọt vỏ và luộc chín khoai tây. Cắt đậu phụ thành hình tam giác, cắt chikuwa làm đôi theo đường chéo và để ráo dầu cùng với satsuma-age và ganmodoki. Luộc trứng và bóc vỏ.",
+        "Thêm ''Dashi trắng, hương vị được các chuyên gia sử dụng'', nước và các nguyên liệu khác vào nồi và đun nóng. Sau khi sôi, đậy nắp lại và đun ở lửa nhỏ trong khoảng 30 đến 40 phút.",
+        "Nếu thích có thể thêm bột gạo đã nhào vào."
+      ],
+      "hi": [
+        "मूली को 3 सेमी मोटे टुकड़ों में काट लें, आलू को छीलकर हल्का उबाल लें। टोफू को त्रिकोण में काटें, चिकुवा को आधा तिरछे काटें, और सत्सुमा-एज और गनमोडोकी के साथ तेल निकाल दें। अण्डों को उबालकर छील लें।",
+        "एक बर्तन में ``व्हाइट दशी, पेशेवरों द्वारा उपयोग किया जाने वाला स्वाद'', पानी और अन्य सामग्री डालें और गर्म करें। एक बार जब यह उबल जाए तो ढक्कन से ढक दें और धीमी आंच पर लगभग 30 से 40 मिनट तक गर्म करें।",
+        "अगर आप चाहें तो गूंथे हुए चावल का पेस्ट डालें."
+      ],
+      "ru": [
+        "Редис нарежьте кусочками толщиной 3 см, картофель очистите и отварите. Разрежьте тофу на треугольники, тикуву разрежьте пополам по диагонали и слейте масло вместе с сацума-агэ и ганмодоки. Яйца отварите и очистите.",
+        "Добавьте в кастрюлю «Белый даси, ароматизатор, используемый профессионалами», воду и другие ингредиенты и нагрейте. Как только закипит, накройте крышкой и варите на слабом огне примерно 30–40 минут.",
+        "Если хотите, добавьте замешанную рисовую пасту."
+      ],
+      "th": [
+        "หั่นหัวไชเท้าเป็นชิ้นหนา 3 ซม. ปอกเปลือกและต้มมันฝรั่ง หั่นเต้าหู้เป็นรูปสามเหลี่ยม หั่นชิกุวะครึ่งแนวทแยง แล้วสะเด็ดน้ำมันพร้อมกับซัตสึมะอาเกะและกันโมโดกิ ต้มไข่แล้วปอกเปลือก",
+        "ใส่ ``ดาชิสีขาว ซึ่งเป็นรสชาติที่มืออาชีพใช้'' น้ำ และส่วนผสมอื่นๆ ลงในหม้อ ตั้งไฟ เมื่อเดือดแล้วให้ปิดฝาแล้วตั้งไฟอ่อนประมาณ 30 ถึง 40 นาที",
+        "หากต้องการให้ใส่ข้าวเหนียวนวดลงไป"
+      ],
+      "id": [
+        "Potong lobak menjadi potongan setebal 3 cm, kupas dan rebus kentang. Potong tahu menjadi segitiga, potong chikuwa menjadi dua secara diagonal, dan tiriskan minyak bersama satsuma-age dan ganmodoki. Rebus telur dan kupas.",
+        "Tambahkan ``Dashi putih, rasa yang digunakan oleh para profesional'', air, dan bahan lainnya ke dalam panci dan panaskan. Setelah mendidih, tutup dengan penutup dan panaskan dengan api kecil selama sekitar 30 hingga 40 menit.",
+        "Jika suka, tambahkan pasta nasi yang sudah diuleni."
+      ],
+      "ms": [
+        "Potong lobak setebal 3cm, kupas dan rebus kentang. Potong tauhu menjadi segi tiga, potong chikuwa separuh menyerong, dan toskan minyak bersama satsuma-age dan ganmodoki. Rebus telur dan kupas.",
+        "Tambah ``Dashi putih, rasa yang digunakan oleh profesional'', air dan bahan-bahan lain ke dalam periuk dan panaskan. Setelah mendidih, tutup dengan tudung dan panaskan dengan api perlahan selama kira-kira 30 hingga 40 minit.",
+        "Jika suka, masukkan pes beras yang diuli."
+      ],
+      "ko": [
+        "무는 3cm 두께로 자르고 감자는 껍질을 벗기고 아래 삶는다. 두꺼운 튀김은 삼각, 치쿠와는 비스듬히 반으로 자르고, 고구마 튀김, 암모도키와 함께 기름 빼기를 한다. 달걀은 삶은 계란으로 껍질을 벗긴다.",
+        "냄비에 \"프로가 사용하는 맛 화이트\"와 물, 1과 기타 재료를 더해 불에 걸린다. 끓으면 뚜껑을 하고 약불로 30~40분 정도 가열한다.",
+        "취향에 반죽을 붙여 주시기 바랍니다."
+      ]
+    }
   }
 ]

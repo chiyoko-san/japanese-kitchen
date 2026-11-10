@@ -362496,5 +362496,301 @@
         "器に盛り、ゆでた大根の葉を散らす。"
       ]
     }
+  },
+  {
+    "id": "bcf7c3c3",
+    "source_url": "https://www.mizkan.co.jp/ouchirecipe/recipe/?menu_id=4754",
+    "source_site": "Mizkan",
+    "title_ja": "「追いがつおつゆ」でおでん",
+    "description_ja": "",
+    "ingredients": [
+      {
+        "name_ja": "大根",
+        "amount": "１／６本",
+        "name_translated": {
+          "en": "Japanese white radish",
+          "zh_tw": "日本白蘿蔔",
+          "zh_cn": "日本白萝卜",
+          "vi": "Củ cải trắng Nhật Bản",
+          "hi": "जापानी सफेद मूली",
+          "ru": "Японская белая редька",
+          "th": "หัวไชเท้าขาวญี่ปุ่น",
+          "id": "lobak putih jepang",
+          "ms": "lobak putih jepun",
+          "ko": "무"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E5%A4%A7%E6%A0%B9&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E5%A4%A7%E6%A0%B9/?tag="
+      },
+      {
+        "name_ja": "板こんにゃく",
+        "amount": "１／２枚",
+        "name_translated": {
+          "en": "Konnyaku plate",
+          "zh_tw": "蒟蒻盤",
+          "zh_cn": "魔芋盘",
+          "vi": "Đĩa Konnyaku",
+          "hi": "कोन्याकु प्लेट",
+          "ru": "тарелка Конняку",
+          "th": "จานคอนยัคคุ",
+          "id": "Piring Konnyaku",
+          "ms": "Pinggan Konnyaku",
+          "ko": "판 곤약"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E6%9D%BF%E3%81%93%E3%82%93%E3%81%AB%E3%82%83%E3%81%8F&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E6%9D%BF%E3%81%93%E3%82%93%E3%81%AB%E3%82%83%E3%81%8F/?tag="
+      },
+      {
+        "name_ja": "ちくわ",
+        "amount": "１本",
+        "name_translated": {
+          "en": "Chikuwa",
+          "zh_tw": "竹輪",
+          "zh_cn": "竹轮",
+          "vi": "Chikuwa",
+          "hi": "चिकुवा",
+          "ru": "Чикува",
+          "th": "ชิกุวะ",
+          "id": "Chikuwa",
+          "ms": "Chikuwa",
+          "ko": "치쿠와"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%A1%E3%81%8F%E3%82%8F&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%A1%E3%81%8F%E3%82%8F/?tag="
+      },
+      {
+        "name_ja": "結び昆布",
+        "amount": "２個",
+        "name_translated": {
+          "en": "knotted kelp",
+          "zh_tw": "結海帶",
+          "zh_cn": "结海带",
+          "vi": "tảo bẹ thắt nút",
+          "hi": "गांठदार समुद्री घास",
+          "ru": "завязанная водоросль",
+          "th": "สาหร่ายทะเลที่ผูกปม",
+          "id": "rumput laut yang diikat",
+          "ms": "kelp bersimpul",
+          "ko": "매듭 다시마"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E7%B5%90%E3%81%B3%E6%98%86%E5%B8%83&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E7%B5%90%E3%81%B3%E6%98%86%E5%B8%83/?tag="
+      },
+      {
+        "name_ja": "ゆで卵",
+        "amount": "２個",
+        "name_translated": {
+          "en": "boiled egg",
+          "zh_tw": "煮雞蛋",
+          "zh_cn": "煮鸡蛋",
+          "vi": "trứng luộc",
+          "hi": "उबले हुए अंडे",
+          "ru": "вареное яйцо",
+          "th": "ไข่ต้ม",
+          "id": "telur rebus",
+          "ms": "telur rebus",
+          "ko": "삶은 달걀"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%82%86%E3%81%A7%E5%8D%B5&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%82%86%E3%81%A7%E5%8D%B5/?tag="
+      },
+      {
+        "name_ja": "がんもどき",
+        "amount": "２個",
+        "name_translated": {
+          "en": "Ganmodoki",
+          "zh_tw": "甘莫多基",
+          "zh_cn": "甘莫多基",
+          "vi": "ganmodoki",
+          "hi": "गणमोडोकी",
+          "ru": "Ганмодоки",
+          "th": "กันโมโดกิ",
+          "id": "Ganmodoki",
+          "ms": "Ganmodoki",
+          "ko": "암모도키"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%8C%E3%82%93%E3%82%82%E3%81%A9%E3%81%8D&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%8C%E3%82%93%E3%82%82%E3%81%A9%E3%81%8D/?tag="
+      },
+      {
+        "name_ja": "もち入りきんちゃく",
+        "amount": "２個",
+        "name_translated": {
+          "en": "Kinchaku with mochi",
+          "zh_tw": "金籤麻糬",
+          "zh_cn": "金签麻糬",
+          "vi": "Kinchaku với mochi",
+          "hi": "मोची के साथ किंचकू",
+          "ru": "Кинчаку с моти",
+          "th": "คินชาคุกับโมจิ",
+          "id": "Kinchaku dengan mochi",
+          "ms": "Kinchaku dengan mochi",
+          "ko": "떡이 들어간"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%82%82%E3%81%A1%E5%85%A5%E3%82%8A%E3%81%8D%E3%82%93%E3%81%A1%E3%82%83%E3%81%8F&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%82%82%E3%81%A1%E5%85%A5%E3%82%8A%E3%81%8D%E3%82%93%E3%81%A1%E3%82%83%E3%81%8F/?tag="
+      },
+      {
+        "name_ja": "ミツカン　追いがつおつゆ２倍",
+        "amount": "１００ｍｌ",
+        "name_translated": {
+          "en": "Mizkan Oigatsu Otsuyu x2",
+          "zh_tw": "味滋館大月大津 x2",
+          "zh_cn": "味滋馆大月大津 x2",
+          "vi": "Mizkan Oigatsu Otsuyu x2",
+          "hi": "मिज़कान ओइगात्सु ओत्सुयु x2",
+          "ru": "Мизкан Ойгацу Оцую x2",
+          "th": "มิซคัง โออิงัตสึ โอทสึยุ x2",
+          "id": "Mizkan Oigatsu Otsuyu x2",
+          "ms": "Mizkan Oigatsu Otsuyu x2",
+          "ko": "미츠칸 쫓는 츠츠유 2 배"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E8%BF%BD%E3%81%84%E3%81%8C%E3%81%A4%E3%81%8A%E3%81%A4%E3%82%86%EF%BC%92%E5%80%8D&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E8%BF%BD%E3%81%84%E3%81%8C%E3%81%A4%E3%81%8A%E3%81%A4%E3%82%86%EF%BC%92%E5%80%8D/?tag="
+      },
+      {
+        "name_ja": "水",
+        "amount": "５００ｍｌ",
+        "name_translated": {
+          "en": "water",
+          "zh_tw": "水",
+          "zh_cn": "水",
+          "vi": "Nước",
+          "hi": "पानी",
+          "ru": "вода",
+          "th": "น้ำ",
+          "id": "air",
+          "ms": "air",
+          "ko": "물"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E6%B0%B4&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E6%B0%B4/?tag="
+      },
+      {
+        "name_ja": "練りがらし",
+        "amount": "適宜",
+        "name_translated": {
+          "en": "kneaded rice cake",
+          "zh_tw": "揉好的年糕",
+          "zh_cn": "揉好的年糕",
+          "vi": "bánh gạo nhào",
+          "hi": "गूंथे हुए चावल का केक",
+          "ru": "замешанный рисовый пирог",
+          "th": "เค้กข้าวนวด",
+          "id": "kue beras yang diuleni",
+          "ms": "kek beras diuli",
+          "ko": "반죽"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E7%B7%B4%E3%82%8A%E3%81%8C%E3%82%89%E3%81%97&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E7%B7%B4%E3%82%8A%E3%81%8C%E3%82%89%E3%81%97/?tag="
+      },
+      {
+        "name_ja": "１",
+        "amount": "にし下ゆでする。板こんにゃくは、切り込みを入れ三角に２等分に切る。ちくわは斜め半分に切る。",
+        "name_translated": {
+          "en": "1",
+          "zh_tw": "1",
+          "zh_cn": "1",
+          "vi": "1",
+          "hi": "1",
+          "ru": "1",
+          "th": "1",
+          "id": "1",
+          "ms": "1",
+          "ko": "1"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%91&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%91/?tag="
+      },
+      {
+        "name_ja": "２",
+        "amount": "鍋に、「追いがつおつゆ２倍」、水、具材を加えて３０分煮る。お好みで練りがらしを添える。",
+        "name_translated": {
+          "en": "2",
+          "zh_tw": "2",
+          "zh_cn": "2",
+          "vi": "2",
+          "hi": "2",
+          "ru": "2",
+          "th": "2",
+          "id": "2",
+          "ms": "2",
+          "ko": "2"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%92&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%92/?tag="
+      }
+    ],
+    "steps_ja": [
+      "大根は２ｃｍ厚さの輪切りにし下ゆでする。板こんにゃくは、切り込みを入れ三角に２等分に切る。ちくわは斜め半分に切る。",
+      "鍋に、「追いがつおつゆ２倍」、水、具材を加えて３０分煮る。お好みで練りがらしを添える。"
+    ],
+    "image_url": "",
+    "title": {
+      "en": "Oden with “Oigatsu Otsuyu”",
+      "zh_tw": "關東煮“Oigatsu Otsuyu”",
+      "zh_cn": "关东煮“Oigatsu Otsuyu”",
+      "vi": "Oden với “Oigatsu Otsuyu”",
+      "hi": "ओडेन \"ओइगात्सु ओत्सुयू\" के साथ",
+      "ru": "Одэн с «Ойгацу Оцую»",
+      "th": "โอเด้งกับ “โออิงัตสึ โอสึยุ”",
+      "id": "Oden dengan “Oigatsu Otsuyu”",
+      "ms": "Oden dengan \"Oigatsu Otsuyu\"",
+      "ko": "\"쫓는 츠츠유\"로 오뎅"
+    },
+    "description": {
+      "en": "",
+      "zh_tw": "",
+      "zh_cn": "",
+      "vi": "",
+      "hi": "",
+      "ru": "",
+      "th": "",
+      "id": "",
+      "ms": "",
+      "ko": ""
+    },
+    "steps": {
+      "en": [
+        "Slice the radish into 2cm thick rounds and parboil. Make a slit on the konnyaku plate and cut it into two triangular pieces. Cut the chikuwa in half diagonally.",
+        "Add ``Oigatsu Otsuyu 2x'', water, and ingredients to a pot and simmer for 30 minutes. Add kneaded rice flour if you like."
+      ],
+      "zh_tw": [
+        "將蘿蔔切成2公分厚的圓片，煮半熟。在蒟蒻盤上劃一條縫，切成兩塊三角形。将竹轮沿对角线切成两半。",
+        "將「Oigatsu Otsuyu 2x」、水和原料放入鍋中，煮30分鐘。如果你喜歡的話，可以加入揉好的米粉。"
+      ],
+      "zh_cn": [
+        "将萝卜切成2厘米厚的圆片，煮半熟。在魔芋盘上划一条缝，切成两块三角形。将竹轮沿对角线切成两半。",
+        "将“Oigatsu Otsuyu 2x”、水和原料放入锅中，煮30分钟。如果你喜欢的话，可以加入揉好的米粉。"
+      ],
+      "vi": [
+        "Cắt củ cải thành từng khoanh dày 2cm rồi luộc chín. Tạo một đường rạch trên đĩa konnyaku và cắt nó thành hai miếng hình tam giác. Cắt chikuwa làm đôi theo đường chéo.",
+        "Cho ``Oigatsu Otsuyu 2x'', nước và các nguyên liệu vào nồi rồi đun nhỏ lửa trong 30 phút. Thêm bột gạo đã nhào nếu thích."
+      ],
+      "hi": [
+        "मूली को 2 सेमी मोटे गोल टुकड़ों में काट लें और हल्का उबाल लें। कोन्याकू प्लेट पर एक चीरा लगाएं और इसे दो त्रिकोणीय टुकड़ों में काट लें। चिकुवा को तिरछा आधा काट लीजिये.",
+        "एक बर्तन में ``ओइगात्सु ओत्सुयु 2x'', पानी और सामग्री डालें और 30 मिनट तक उबालें। अगर आप चाहें तो गूंथा हुआ चावल का आटा मिला लें।"
+      ],
+      "ru": [
+        "Нарежьте редис кружочками толщиной 2 см и отварите. Сделайте надрез на тарелке конняку и разрежьте ее на две треугольные части. Разрежьте тикуву пополам по диагонали.",
+        "Добавьте «Oigatsu Otsuyu 2x», воду и ингредиенты в кастрюлю и варите 30 минут. Если хотите, добавьте замешанную рисовую муку."
+      ],
+      "th": [
+        "หั่นหัวไชเท้าเป็นวงหนา 2 ซม. แล้วนำไปนึ่ง กรีดบนจานบุกแล้วตัดเป็นชิ้นสามเหลี่ยมสองชิ้น ตัดชิกุวะครึ่งแนวทแยง",
+        "เพิ่ม ``Oigatsu Otsuyu 2x'' น้ำ และส่วนผสมลงในหม้อและเคี่ยวเป็นเวลา 30 นาที เพิ่มแป้งข้าวเจ้าถ้าต้องการ"
+      ],
+      "id": [
+        "Iris lobak menjadi bulatan setebal 2 cm dan rebus setengah matang. Buatlah irisan pada piring konnyaku dan potong menjadi dua bagian berbentuk segitiga. Potong chikuwa menjadi dua secara diagonal.",
+        "Tambahkan ``Oigatsu Otsuyu 2x'', air, dan bahan-bahan ke dalam panci dan biarkan mendidih selama 30 menit. Tambahkan tepung beras yang sudah diuleni jika suka."
+      ],
+      "ms": [
+        "Hiris lobak bulat setebal 2cm dan rebus. Buat celah pada pinggan konnyaku dan potong kepada dua bahagian segi tiga. Potong chikuwa separuh menyerong.",
+        "Masukkan ``Oigatsu Otsuyu 2x'', air, dan bahan-bahan ke dalam periuk dan reneh selama 30 minit. Masukkan tepung beras yang diuli jika suka."
+      ],
+      "ko": [
+        "무는 2cm 두께의 윤절로 하강 삶는다. 판곤약은 노치를 넣고 삼각으로 2등분으로 자른다. 치쿠와는 대각선 절반으로 자른다.",
+        "냄비에 '쫓는 가루 2배', 물, 재료를 넣고 30분간 끓인다. 취향에 반죽을 더한다."
+      ]
+    }
   }
 ]

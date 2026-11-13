@@ -364066,5 +364066,1028 @@
         "＜タレ＞の材料を合わせる。"
       ]
     }
+  },
+  {
+    "id": "af9fbec7",
+    "source_url": "https://www.mizkan.co.jp/ouchirecipe/recipe/?menu_id=16797",
+    "source_site": "Mizkan",
+    "title_ja": "ミネストローネ",
+    "description_ja": "",
+    "ingredients": [
+      {
+        "name_ja": "ベーコン",
+        "amount": "５０ｇ（厚切り）",
+        "name_translated": {
+          "en": "bacon",
+          "zh_tw": "培根",
+          "zh_cn": "熏肉",
+          "vi": "thịt xông khói",
+          "hi": "बेकन",
+          "ru": "бекон",
+          "th": "เบคอน",
+          "id": "daging babi asap",
+          "ms": "bacon",
+          "ko": "베이컨"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%99%E3%83%BC%E3%82%B3%E3%83%B3&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%99%E3%83%BC%E3%82%B3%E3%83%B3/?tag="
+      },
+      {
+        "name_ja": "たまねぎ",
+        "amount": "１／２個",
+        "name_translated": {
+          "en": "onion",
+          "zh_tw": "洋蔥",
+          "zh_cn": "洋葱",
+          "vi": "củ hành",
+          "hi": "प्याज",
+          "ru": "лук",
+          "th": "หัวหอม",
+          "id": "bawang bombai",
+          "ms": "bawang besar",
+          "ko": "양파"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%9F%E3%81%BE%E3%81%AD%E3%81%8E&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%9F%E3%81%BE%E3%81%AD%E3%81%8E/?tag="
+      },
+      {
+        "name_ja": "にんじん",
+        "amount": "１／２本",
+        "name_translated": {
+          "en": "carrot",
+          "zh_tw": "紅蘿蔔",
+          "zh_cn": "胡萝卜",
+          "vi": "cà rốt",
+          "hi": "गाजर",
+          "ru": "морковь",
+          "th": "แครอท",
+          "id": "wortel",
+          "ms": "lobak merah",
+          "ko": "당근"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%AB%E3%82%93%E3%81%98%E3%82%93&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%AB%E3%82%93%E3%81%98%E3%82%93/?tag="
+      },
+      {
+        "name_ja": "しめじ",
+        "amount": "１／２パック",
+        "name_translated": {
+          "en": "Shimeji mushrooms",
+          "zh_tw": "姬菇",
+          "zh_cn": "姬菇",
+          "vi": "nấm Shimeji",
+          "hi": "शिमेजी मशरूम",
+          "ru": "Грибы симеджи",
+          "th": "เห็ดชิเมจิ",
+          "id": "jamur Shimeji",
+          "ms": "Cendawan Shimeji",
+          "ko": "시메지"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%97%E3%82%81%E3%81%98&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%97%E3%82%81%E3%81%98/?tag="
+      },
+      {
+        "name_ja": "サラダ油",
+        "amount": "大さじ１",
+        "name_translated": {
+          "en": "salad oil",
+          "zh_tw": "沙拉油",
+          "zh_cn": "色拉油",
+          "vi": "dầu trộn salad",
+          "hi": "वनस्पति - तेल",
+          "ru": "салатное масло",
+          "th": "น้ำมันสลัด",
+          "id": "minyak salad",
+          "ms": "minyak salad",
+          "ko": "샐러드 오일"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%82%B5%E3%83%A9%E3%83%80%E6%B2%B9&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%82%B5%E3%83%A9%E3%83%80%E6%B2%B9/?tag="
+      },
+      {
+        "name_ja": "ミツカン　追いがつおつゆ２倍",
+        "amount": "１００ｍｌ",
+        "name_translated": {
+          "en": "Mizkan Oigatsu Otsuyu x2",
+          "zh_tw": "味滋館大月大津 x2",
+          "zh_cn": "味滋馆大月大津 x2",
+          "vi": "Mizkan Oigatsu Otsuyu x2",
+          "hi": "मिज़कान ओइगात्सु ओत्सुयु x2",
+          "ru": "Мизкан Ойгацу Оцую x2",
+          "th": "มิซคัง โออิงัตสึ โอทสึยุ x2",
+          "id": "Mizkan Oigatsu Otsuyu x2",
+          "ms": "Mizkan Oigatsu Otsuyu x2",
+          "ko": "미쓰칸 쫓는 츠츠유 2배"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E8%BF%BD%E3%81%84%E3%81%8C%E3%81%A4%E3%81%8A%E3%81%A4%E3%82%86%EF%BC%92%E5%80%8D&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E8%BF%BD%E3%81%84%E3%81%8C%E3%81%A4%E3%81%8A%E3%81%A4%E3%82%86%EF%BC%92%E5%80%8D/?tag="
+      },
+      {
+        "name_ja": "トマトジュース（食塩無添加）",
+        "amount": "３００ｍｌ",
+        "name_translated": {
+          "en": "Tomato juice (no salt added)",
+          "zh_tw": "番茄汁（不加鹽）",
+          "zh_cn": "番茄汁（不加盐）",
+          "vi": "Nước ép cà chua (không thêm muối)",
+          "hi": "टमाटर का रस (नमक नहीं मिलाया गया)",
+          "ru": "Томатный сок (без добавления соли)",
+          "th": "น้ำมะเขือเทศ (ไม่ใส่เกลือ)",
+          "id": "Jus tomat (tanpa tambahan garam)",
+          "ms": "Jus tomato (tiada garam)",
+          "ko": "토마토 주스(식염 무첨가)"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%88%E3%83%9E%E3%83%88%E3%82%B8%E3%83%A5%E3%83%BC%E3%82%B9%EF%BC%88%E9%A3%9F%E5%A1%A9%E7%84%A1%E6%B7%BB%E5%8A%A0%EF%BC%89&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%88%E3%83%9E%E3%83%88%E3%82%B8%E3%83%A5%E3%83%BC%E3%82%B9%EF%BC%88%E9%A3%9F%E5%A1%A9%E7%84%A1%E6%B7%BB%E5%8A%A0%EF%BC%89/?tag="
+      },
+      {
+        "name_ja": "水",
+        "amount": "３００ｍｌ",
+        "name_translated": {
+          "en": "water",
+          "zh_tw": "水",
+          "zh_cn": "水",
+          "vi": "Nước",
+          "hi": "पानी",
+          "ru": "вода",
+          "th": "น้ำ",
+          "id": "air",
+          "ms": "air",
+          "ko": "물"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E6%B0%B4&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E6%B0%B4/?tag="
+      },
+      {
+        "name_ja": "黒こしょう",
+        "amount": "適宜",
+        "name_translated": {
+          "en": "black pepper",
+          "zh_tw": "黑胡椒",
+          "zh_cn": "黑胡椒",
+          "vi": "hạt tiêu đen",
+          "hi": "काली मिर्च",
+          "ru": "черный перец",
+          "th": "พริกไทยดำ",
+          "id": "lada hitam",
+          "ms": "lada hitam",
+          "ko": "블랙 코쇼"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E9%BB%92%E3%81%93%E3%81%97%E3%82%87%E3%81%86&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E9%BB%92%E3%81%93%E3%81%97%E3%82%87%E3%81%86/?tag="
+      },
+      {
+        "name_ja": "ドライパセリ",
+        "amount": "適宜",
+        "name_translated": {
+          "en": "dried parsley",
+          "zh_tw": "乾歐芹",
+          "zh_cn": "干欧芹",
+          "vi": "mùi tây khô",
+          "hi": "सूखे अजमोद",
+          "ru": "сушеная петрушка",
+          "th": "ผักชีฝรั่งแห้ง",
+          "id": "peterseli kering",
+          "ms": "pasli kering",
+          "ko": "드라이 파슬리"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%89%E3%83%A9%E3%82%A4%E3%83%91%E3%82%BB%E3%83%AA&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%89%E3%83%A9%E3%82%A4%E3%83%91%E3%82%BB%E3%83%AA/?tag="
+      },
+      {
+        "name_ja": "１",
+        "amount": "にする。しめじは石づきを落としてほぐす。",
+        "name_translated": {
+          "en": "1",
+          "zh_tw": "1",
+          "zh_cn": "1",
+          "vi": "1",
+          "hi": "1",
+          "ru": "1",
+          "th": "1",
+          "id": "1",
+          "ms": "1",
+          "ko": "1"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%91&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%91/?tag="
+      },
+      {
+        "name_ja": "２",
+        "amount": "を焼き色がついてしんなりとするまで炒める。",
+        "name_translated": {
+          "en": "2",
+          "zh_tw": "2",
+          "zh_cn": "2",
+          "vi": "2",
+          "hi": "2",
+          "ru": "2",
+          "th": "2",
+          "id": "2",
+          "ms": "2",
+          "ko": "2"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%92&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%92/?tag="
+      },
+      {
+        "name_ja": "３",
+        "amount": "に水を入れて強火にかける。沸騰してアクが出たらきれいに取り除き、弱火にして１０分ほど煮る。",
+        "name_translated": {
+          "en": "3",
+          "zh_tw": "3",
+          "zh_cn": "3",
+          "vi": "3",
+          "hi": "3",
+          "ru": "3",
+          "th": "3",
+          "id": "3",
+          "ms": "3",
+          "ko": "3"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%93&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%93/?tag="
+      },
+      {
+        "name_ja": "４",
+        "amount": "「追いがつおつゆ２倍」とトマトジュースを入れて混ぜ、強火にかける。再び沸騰してアクが出たらきれいに取り除き、弱火にして、さらに１０分ほど煮る。",
+        "name_translated": {
+          "en": "4",
+          "zh_tw": "4",
+          "zh_cn": "4",
+          "vi": "4",
+          "hi": "4",
+          "ru": "4",
+          "th": "4",
+          "id": "4",
+          "ms": "4",
+          "ko": "4"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%94&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%94/?tag="
+      },
+      {
+        "name_ja": "５",
+        "amount": "器に盛り、お好みで黒こしょうとドライパセリをふる。",
+        "name_translated": {
+          "en": "5",
+          "zh_tw": "5",
+          "zh_cn": "5",
+          "vi": "5",
+          "hi": "5",
+          "ru": "5",
+          "th": "5",
+          "id": "5",
+          "ms": "5",
+          "ko": "5"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%95&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%95/?tag="
+      }
+    ],
+    "steps_ja": [
+      "ベーコン、にんじん、たまねぎは小さめの角切りにする。しめじは石づきを落としてほぐす。",
+      "鍋にサラダ油をひいて中火で熱し、１を焼き色がついてしんなりとするまで炒める。",
+      "に水を入れて強火にかける。沸騰してアクが出たらきれいに取り除き、弱火にして１０分ほど煮る。",
+      "「追いがつおつゆ２倍」とトマトジュースを入れて混ぜ、強火にかける。再び沸騰してアクが出たらきれいに取り除き、弱火にして、さらに１０分ほど煮る。",
+      "器に盛り、お好みで黒こしょうとドライパセリをふる。"
+    ],
+    "image_url": "",
+    "title": {
+      "en": "minestrone",
+      "zh_tw": "蔬菜通心粉湯",
+      "zh_cn": "蔬菜通心粉汤",
+      "vi": "thợ mỏ",
+      "hi": "मिनस्ट्रोन",
+      "ru": "минестроне",
+      "th": "มิเนสโตรน",
+      "id": "penambang",
+      "ms": "minestrone",
+      "ko": "미네스트로네"
+    },
+    "description": {
+      "en": "",
+      "zh_tw": "",
+      "zh_cn": "",
+      "vi": "",
+      "hi": "",
+      "ru": "",
+      "th": "",
+      "id": "",
+      "ms": "",
+      "ko": ""
+    },
+    "steps": {
+      "en": [
+        "Cut the bacon, carrots, and onions into small cubes. Remove any stones from the shimeji mushrooms and loosen them.",
+        "Heat salad oil in a pot over medium heat and fry 1 until golden brown and tender.",
+        "Add water and heat over high heat. Once it boils, remove any scum and reduce the heat to low and simmer for about 10 minutes.",
+        "Add ``Oigatsuotsuyu doubled'' and tomato juice, mix, and heat over high heat. When it boils again, remove any scum, reduce the heat to low, and simmer for another 10 minutes.",
+        "Place in a bowl and sprinkle with black pepper and dried parsley, if desired."
+      ],
+      "zh_tw": [
+        "將培根、胡蘿蔔和洋蔥切成小方塊。去除姬菇上的石頭並鬆開它們。",
+        "在鍋中以中火加熱沙拉油，將1煎至金黃色變軟。",
+        "加水並用大火加熱。沸騰後，除去浮渣，將火調至小火，煮約 10 分鐘。",
+        "加入“Oigatsuotsuyu doubled”和番茄汁，混合，然後用大火加熱。當它再次沸騰時，除去浮渣，將火調小，再煮10分鐘。",
+        "如果需要的話，放入碗中，撒上黑胡椒和乾歐芹。"
+      ],
+      "zh_cn": [
+        "将培根、胡萝卜和洋葱切成小方块。去除姬菇上的石头并松开它们。",
+        "在锅中用中火加热色拉油，将1煎至金黄色变软。",
+        "加水并用大火加热。沸腾后，除去浮渣，将火调至小火，煮约 10 分钟。",
+        "添加“Oigatsuotsuyu doubled”和番茄汁，混合，然后用大火加热。当它再次沸腾时，除去浮渣，将火调小，再煮10分钟。",
+        "如果需要的话，放入碗中，撒上黑胡椒和干欧芹。"
+      ],
+      "vi": [
+        "Cắt thịt xông khói, cà rốt và hành tây thành khối nhỏ. Loại bỏ đá khỏi nấm shimeji và nới lỏng chúng.",
+        "Đun nóng dầu salad trong nồi trên lửa vừa và chiên 1 miếng cho đến khi có màu vàng nâu và mềm.",
+        "Thêm nước và đun nóng trên lửa cao. Sau khi sôi, loại bỏ cặn và giảm nhiệt xuống thấp và đun nhỏ lửa trong khoảng 10 phút.",
+        "Thêm ``Oigatsuotsuyu double'' và nước ép cà chua vào, trộn đều và đun trên lửa cao. Khi sôi trở lại, vớt hết cặn, giảm lửa nhỏ và đun thêm 10 phút nữa.",
+        "Cho vào tô và rắc hạt tiêu đen và mùi tây khô nếu muốn."
+      ],
+      "hi": [
+        "बेकन, गाजर और प्याज को छोटे क्यूब्स में काट लें। शिमेजी मशरूम से कोई भी पत्थर हटा दें और उन्हें ढीला कर दें।",
+        "मध्यम आंच पर एक बर्तन में सलाद तेल गरम करें और 1 को सुनहरा भूरा और नरम होने तक तलें।",
+        "पानी डालें और तेज़ आंच पर गर्म करें। एक बार जब यह उबल जाए, तो किसी भी मैल को हटा दें और आंच को कम कर दें और लगभग 10 मिनट तक धीमी आंच पर पकाएं।",
+        "``Oigatsuotsuyu दोगुना'' और टमाटर का रस डालें, मिलाएँ और तेज़ आँच पर गरम करें। जब यह फिर से उबल जाए, तो किसी भी मैल को हटा दें, आंच धीमी कर दें और 10 मिनट तक धीमी आंच पर पकाएं।",
+        "एक कटोरे में रखें और यदि चाहें तो काली मिर्च और सूखा अजमोद छिड़कें।"
+      ],
+      "ru": [
+        "Нарезаем бекон, морковь и лук небольшими кубиками. Удалите камни из грибов симэдзи и ослабьте их.",
+        "Нагрейте салатное масло в кастрюле на среднем огне и обжарьте 1 до золотисто-коричневого цвета и мягкости.",
+        "Добавьте воду и нагрейте на сильном огне. Как только закипит, удалите накипь, убавьте огонь до минимума и варите около 10 минут.",
+        "Добавьте «Оигацуотсую вдвое» и томатный сок, перемешайте и нагрейте на сильном огне. Когда он снова закипит, удалите накипь, уменьшите огонь до минимума и варите еще 10 минут.",
+        "Положите в миску и при желании посыпьте черным перцем и сушеной петрушкой."
+      ],
+      "th": [
+        "หั่นเบคอน แครอท และหัวหอมเป็นชิ้นเล็กๆ นำก้อนหินออกจากเห็ดชิเมจิแล้วคลายออก",
+        "ตั้งน้ำมันสลัดในหม้อบนไฟร้อนปานกลางแล้วทอด 1 ชิ้นจนเป็นสีเหลืองทองและนุ่ม",
+        "เติมน้ำและตั้งไฟให้ร้อน เมื่อเดือดแล้ว ให้เอาฝาออกและลดไฟลงเหลือไฟอ่อนและเคี่ยวต่อประมาณ 10 นาที",
+        "เพิ่ม ``Oigatsuotsuyu สองเท่า'' และน้ำมะเขือเทศ ผสมและตั้งไฟให้ร้อน เมื่อเดือดอีกครั้ง ให้เอาฝาออก ลดไฟลงเหลือไฟอ่อน และเคี่ยวต่อไปอีก 10 นาที",
+        "วางในชามแล้วโรยด้วยพริกไทยดำและพาร์สลีย์แห้งหากต้องการ"
+      ],
+      "id": [
+        "Potong bacon, wortel, dan bawang bombay menjadi kubus kecil. Buang semua batu dari jamur shimeji dan kendurkan.",
+        "Panaskan minyak salad dalam panci dengan api sedang dan goreng 1 hingga berwarna cokelat keemasan dan empuk.",
+        "Tambahkan air dan panaskan dengan api besar. Setelah mendidih, buang semua buih dan kecilkan api menjadi rendah dan biarkan mendidih selama sekitar 10 menit.",
+        "Tambahkan ``Oigatsuotsuyu doubled'' dan jus tomat, aduk, dan panaskan dengan api besar. Saat mendidih lagi, buang sisa buih, kecilkan api, dan masak lagi selama 10 menit.",
+        "Tempatkan dalam mangkuk dan taburi lada hitam dan peterseli kering, jika diinginkan."
+      ],
+      "ms": [
+        "Potong bacon, lobak merah, dan bawang menjadi kiub kecil. Keluarkan sebarang batu dari cendawan shimeji dan longgarkannya.",
+        "Panaskan minyak salad dalam periuk dengan api sederhana dan goreng 1 hingga perang keemasan dan empuk.",
+        "Masukkan air dan panaskan dengan api besar. Setelah mendidih, keluarkan sebarang buih dan kecilkan api dan reneh selama kira-kira 10 minit.",
+        "Masukkan ``Oigatsuotsuyu dua kali ganda'' dan jus tomato, gaul, dan panaskan dengan api yang tinggi. Apabila ia mendidih lagi, keluarkan apa-apa buih, kecilkan api kepada perlahan, dan reneh selama 10 minit lagi.",
+        "Letakkan dalam mangkuk dan taburkan dengan lada hitam dan pasli kering, jika dikehendaki."
+      ],
+      "ko": [
+        "베이컨, 당근, 양파는 작은 각도로 한다. 시메지는 돌을 떨어뜨려 풀어준다.",
+        "냄비에 샐러드 기름을 넣고 중불로 가열하고, 1을 구운 색이 붙어 으깬 때까지 볶는다.",
+        "에 물을 넣고 강불에 뿌린다. 끓여 악이 나오면 깨끗이 제거하고 약한 불로 10 분 정도 끓인다.",
+        "'쫓아가 츠유 2배'와 토마토 주스를 넣고 섞어 강불에 뿌린다. 다시 끓여 악이 나오면 깨끗하게 제거하고 약한 불로 하고, 한층 더 10분 정도 끓인다.",
+        "그릇에 담아, 취향에 검은 후추와 드라이 파슬리를 체."
+      ]
+    }
+  },
+  {
+    "id": "23f14308",
+    "source_url": "https://www.mizkan.co.jp/ouchirecipe/recipe/?menu_id=23983",
+    "source_site": "Mizkan",
+    "title_ja": "シャキシャキ！キャベ玉チーズ",
+    "description_ja": "",
+    "ingredients": [
+      {
+        "name_ja": "カット野菜　（せん切りキャベツ）",
+        "amount": "３００ｇ",
+        "name_translated": {
+          "en": "Cut vegetables (shredded cabbage)",
+          "zh_tw": "切蔬菜（高麗菜絲）",
+          "zh_cn": "切蔬菜（白菜丝）",
+          "vi": "Cắt rau (bắp cải thái nhỏ)",
+          "hi": "कटी हुई सब्जियाँ (कटी हुई पत्तागोभी)",
+          "ru": "Нарезанные овощи (шинкованная капуста)",
+          "th": "หั่นผัก (กะหล่ำปลีฝอย)",
+          "id": "Potong sayuran (kubis suwir)",
+          "ms": "Potong sayur (kobis cincang)",
+          "ko": "컷 야채 (전단 양배추)"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%82%AB%E3%83%83%E3%83%88%E9%87%8E%E8%8F%9C%E3%80%80%EF%BC%88%E3%81%9B%E3%82%93%E5%88%87%E3%82%8A%E3%82%AD%E3%83%A3%E3%83%99%E3%83%84%EF%BC%89&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%82%AB%E3%83%83%E3%83%88%E9%87%8E%E8%8F%9C%E3%80%80%EF%BC%88%E3%81%9B%E3%82%93%E5%88%87%E3%82%8A%E3%82%AD%E3%83%A3%E3%83%99%E3%83%84%EF%BC%89/?tag="
+      },
+      {
+        "name_ja": "卵",
+        "amount": "２個",
+        "name_translated": {
+          "en": "egg",
+          "zh_tw": "蛋",
+          "zh_cn": "蛋",
+          "vi": "trứng",
+          "hi": "अंडा",
+          "ru": "яйцо",
+          "th": "ไข่",
+          "id": "telur",
+          "ms": "telur",
+          "ko": "계란"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E5%8D%B5&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E5%8D%B5/?tag="
+      },
+      {
+        "name_ja": "ミツカン　プロが使う味　白だし",
+        "amount": "大さじ１",
+        "name_translated": {
+          "en": "Mizkan - Flavor used by professionals - White dashi",
+          "zh_tw": "口味滋康 - 專業人士使用的風味 - 白高湯",
+          "zh_cn": "味滋康 - 专业人士使用的风味 - 白高汤",
+          "vi": "Mizkan - Hương vị được giới chuyên môn sử dụng - Dashi trắng",
+          "hi": "मिज़कान - पेशेवरों द्वारा उपयोग किया जाने वाला स्वाद - सफेद दशी",
+          "ru": "Мизкан - Аромат, используемый профессионалами - Белый даси",
+          "th": "มิซคาน - รสชาติที่มืออาชีพใช้ - ดาชิสีขาว",
+          "id": "Mizkan - Rasa yang digunakan oleh para profesional - Dashi putih",
+          "ms": "Mizkan - Perisa yang digunakan oleh profesional - Dashi putih",
+          "ko": "미츠칸 프로가 사용하는 맛 흰색입니다."
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E3%83%97%E3%83%AD%E3%81%8C%E4%BD%BF%E3%81%86%E5%91%B3%E3%80%80%E7%99%BD%E3%81%A0%E3%81%97&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E3%83%97%E3%83%AD%E3%81%8C%E4%BD%BF%E3%81%86%E5%91%B3%E3%80%80%E7%99%BD%E3%81%A0%E3%81%97/?tag="
+      },
+      {
+        "name_ja": "ピザ用チーズ",
+        "amount": "５０ｇ",
+        "name_translated": {
+          "en": "cheese for pizza",
+          "zh_tw": "披薩用起司",
+          "zh_cn": "披萨用奶酪",
+          "vi": "phô mai cho pizza",
+          "hi": "पिज्जा के लिए पनीर",
+          "ru": "сыр для пиццы",
+          "th": "ชีสสำหรับพิซซ่า",
+          "id": "keju untuk pizza",
+          "ms": "keju untuk pizza",
+          "ko": "피자용 치즈"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%94%E3%82%B6%E7%94%A8%E3%83%81%E3%83%BC%E3%82%BA&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%94%E3%82%B6%E7%94%A8%E3%83%81%E3%83%BC%E3%82%BA/?tag="
+      },
+      {
+        "name_ja": "お好み焼きソース",
+        "amount": "適量",
+        "name_translated": {
+          "en": "Okonomiyaki sauce",
+          "zh_tw": "禦好燒醬",
+          "zh_cn": "御好烧酱",
+          "vi": "Sốt Okonomiyaki",
+          "hi": "ओकोनोमियाकी सॉस",
+          "ru": "соус окономияки",
+          "th": "ซอสโอโคโนมิยากิ",
+          "id": "saus okonomiyaki",
+          "ms": "Sos okonomiyaki",
+          "ko": "오코노미 야키 소스"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%8A%E5%A5%BD%E3%81%BF%E7%84%BC%E3%81%8D%E3%82%BD%E3%83%BC%E3%82%B9&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%8A%E5%A5%BD%E3%81%BF%E7%84%BC%E3%81%8D%E3%82%BD%E3%83%BC%E3%82%B9/?tag="
+      },
+      {
+        "name_ja": "１",
+        "amount": "ボウルに卵、「プロが使う味　白だし」を入れ、かき混ぜる。",
+        "name_translated": {
+          "en": "1",
+          "zh_tw": "1",
+          "zh_cn": "1",
+          "vi": "1",
+          "hi": "1",
+          "ru": "1",
+          "th": "1",
+          "id": "1",
+          "ms": "1",
+          "ko": "1"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%91&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%91/?tag="
+      },
+      {
+        "name_ja": "２",
+        "amount": "を入れ、全体を混ぜ合わせる。チーズを入れ、蓋をする。",
+        "name_translated": {
+          "en": "2",
+          "zh_tw": "2",
+          "zh_cn": "2",
+          "vi": "2",
+          "hi": "2",
+          "ru": "2",
+          "th": "2",
+          "id": "2",
+          "ms": "2",
+          "ko": "2"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%92&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%92/?tag="
+      },
+      {
+        "name_ja": "３",
+        "amount": "チーズが溶けたら、お好み焼きソースをかける。",
+        "name_translated": {
+          "en": "3",
+          "zh_tw": "3",
+          "zh_cn": "3",
+          "vi": "3",
+          "hi": "3",
+          "ru": "3",
+          "th": "3",
+          "id": "3",
+          "ms": "3",
+          "ko": "3"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%93&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%93/?tag="
+      },
+      {
+        "name_ja": "簡単！甘酢天津飯",
+        "amount": "適量",
+        "name_translated": {
+          "en": "easy! Sweet and sour Tenjin rice",
+          "zh_tw": "簡單的！糖醋天神飯",
+          "zh_cn": "简单的！糖醋天神饭",
+          "vi": "dễ! Cơm Tenjin chua ngọt",
+          "hi": "आसान! मीठा और खट्टा तेनजिन चावल",
+          "ru": "легкий! Кисло-сладкий рис Тенджин",
+          "th": "ง่าย! ข้าวเทนจินผัดเปรี้ยวหวาน",
+          "id": "mudah! Nasi Tenjin asam manis",
+          "ms": "mudah! Nasi Tenjin masam manis",
+          "ko": "간단! 감초 천진밥"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E7%B0%A1%E5%8D%98%EF%BC%81%E7%94%98%E9%85%A2%E5%A4%A9%E6%B4%A5%E9%A3%AF&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E7%B0%A1%E5%8D%98%EF%BC%81%E7%94%98%E9%85%A2%E5%A4%A9%E6%B4%A5%E9%A3%AF/?tag="
+      },
+      {
+        "name_ja": "揚げない！鶏むね肉のチキン南蛮",
+        "amount": "適量",
+        "name_translated": {
+          "en": "No frying! Chicken breast chicken nanban",
+          "zh_tw": "不用油炸！雞胸肉雞南蠻",
+          "zh_cn": "不用油炸！鸡胸肉鸡南蛮",
+          "vi": "Không chiên! Ức gà gà nanban",
+          "hi": "तलना नहीं! चिकन ब्रेस्ट चिकन नानबन",
+          "ru": "Никакой жарки! Куриная грудка куриный нанбан",
+          "th": "ไม่มีการทอด! อกไก่ไก่นันบัน",
+          "id": "Jangan menggoreng! Nanban ayam dada ayam",
+          "ms": "Tidak menggoreng! ayam dada ayam nanban",
+          "ko": "튀지 않는다! 닭고기 닭고기 치킨 남만"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E6%8F%9A%E3%81%92%E3%81%AA%E3%81%84%EF%BC%81%E9%B6%8F%E3%82%80%E3%81%AD%E8%82%89%E3%81%AE%E3%83%81%E3%82%AD%E3%83%B3%E5%8D%97%E8%9B%AE&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E6%8F%9A%E3%81%92%E3%81%AA%E3%81%84%EF%BC%81%E9%B6%8F%E3%82%80%E3%81%AD%E8%82%89%E3%81%AE%E3%83%81%E3%82%AD%E3%83%B3%E5%8D%97%E8%9B%AE/?tag="
+      },
+      {
+        "name_ja": "人参が甘くておいしい！まるごと人参サラダ",
+        "amount": "適量",
+        "name_translated": {
+          "en": "Carrots are sweet and delicious! whole carrot salad",
+          "zh_tw": "胡蘿蔔又甜又好吃！整個胡蘿蔔沙拉",
+          "zh_cn": "胡萝卜又甜又好吃！整个胡萝卜沙拉",
+          "vi": "Cà rốt rất ngọt và ngon! salad cà rốt nguyên hạt",
+          "hi": "गाजर मीठी और स्वादिष्ट होती है! साबुत गाजर का सलाद",
+          "ru": "Морковь сладкая и вкусная! салат из целой моркови",
+          "th": "แครอทมีรสหวานและอร่อย! สลัดแครอททั้งหมด",
+          "id": "Wortel manis dan lezat! salad wortel utuh",
+          "ms": "Lobak merah manis dan lazat! salad lobak merah keseluruhan",
+          "ko": "인삼이 달고 맛있다! 통째로 인삼 샐러드"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E4%BA%BA%E5%8F%82%E3%81%8C%E7%94%98%E3%81%8F%E3%81%A6%E3%81%8A%E3%81%84%E3%81%97%E3%81%84%EF%BC%81%E3%81%BE%E3%82%8B%E3%81%94%E3%81%A8%E4%BA%BA%E5%8F%82%E3%82%B5%E3%83%A9%E3%83%80&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E4%BA%BA%E5%8F%82%E3%81%8C%E7%94%98%E3%81%8F%E3%81%A6%E3%81%8A%E3%81%84%E3%81%97%E3%81%84%EF%BC%81%E3%81%BE%E3%82%8B%E3%81%94%E3%81%A8%E4%BA%BA%E5%8F%82%E3%82%B5%E3%83%A9%E3%83%80/?tag="
+      }
+    ],
+    "steps_ja": [
+      "ボウルに卵、「プロが使う味　白だし」を入れ、かき混ぜる。",
+      "フライパンを中火で熱し、せん切りキャベツを入れ、しんなりなるまで水分を飛ばす。１を入れ、全体を混ぜ合わせる。チーズを入れ、蓋をする。",
+      "チーズが溶けたら、お好み焼きソースをかける。",
+      "簡単！甘酢天津飯",
+      "揚げない！鶏むね肉のチキン南蛮",
+      "人参が甘くておいしい！まるごと人参サラダ"
+    ],
+    "image_url": "",
+    "title": {
+      "en": "Crunchy! Cabbage cheese",
+      "zh_tw": "シャキシャキ！キャベ玉チーズ",
+      "zh_cn": "脆脆的！卷心菜奶酪",
+      "vi": "Giòn! phô mai bắp cải",
+      "hi": "कुरकुरा! पत्तागोभी पनीर",
+      "ru": "Хрустящий! Капустный сыр",
+      "th": "กรุบกรอบ! กะหล่ำปลีชีส",
+      "id": "Garing! keju kubis",
+      "ms": "rangup! Keju kobis",
+      "ko": "샤키샤키! 양배추 치즈"
+    },
+    "description": {
+      "en": "",
+      "zh_tw": "",
+      "zh_cn": "",
+      "vi": "",
+      "hi": "",
+      "ru": "",
+      "th": "",
+      "id": "",
+      "ms": "",
+      "ko": ""
+    },
+    "steps": {
+      "en": [
+        "Add the eggs and the ``white soup stock used by professionals'' to a bowl and stir.",
+        "Heat a frying pan over medium heat, add the shredded cabbage and evaporate the water until tender. Add 1 and mix everything together. Add cheese and cover.",
+        "Once the cheese has melted, add your okonomiyaki sauce.",
+        "easy! Sweet and sour Tenjin rice",
+        "No frying! Chicken breast chicken nanban",
+        "Carrots are sweet and delicious! whole carrot salad"
+      ],
+      "zh_tw": [
+        "將雞蛋和「專業人士使用的白湯」放入碗中攪拌。",
+        "以中火加熱煎鍋，加入切碎的高麗菜，蒸發水分直到變軟。加入 1 並將所有材料混合在一起。加入起司並蓋上蓋子。",
+        "起司融化後，加入禦好燒醬。",
+        "簡單的！糖醋天神飯",
+        "不用油炸！雞胸肉雞南蠻",
+        "胡蘿蔔又甜又好吃！整個胡蘿蔔沙拉"
+      ],
+      "zh_cn": [
+        "将鸡蛋和“专业人士使用的白汤”放入碗中搅拌。",
+        "用中火加热煎锅，加入切碎的卷心菜，蒸发水分直至变软。添加 1 并将所有材料混合在一起。加入奶酪并盖上盖子。",
+        "奶酪融化后，加入御好烧酱。",
+        "简单的！糖醋天神饭",
+        "不用油炸！鸡胸肉鸡南蛮",
+        "胡萝卜又甜又好吃！整个胡萝卜沙拉"
+      ],
+      "vi": [
+        "Cho trứng và ``nước súp trắng được các chuyên gia sử dụng'' vào tô và khuấy đều.",
+        "Đun nóng chảo trên lửa vừa, cho bắp cải thái nhỏ vào và đun bớt nước cho đến khi mềm. Thêm 1 và trộn mọi thứ lại với nhau. Thêm phô mai và đậy nắp.",
+        "Khi phô mai đã tan chảy, hãy thêm sốt okonomiyaki của bạn.",
+        "dễ! Cơm Tenjin chua ngọt",
+        "Không chiên! Ức gà gà nanban",
+        "Cà rốt rất ngọt và ngon! salad cà rốt nguyên hạt"
+      ],
+      "hi": [
+        "एक कटोरे में अंडे और ``पेशेवरों द्वारा उपयोग किया जाने वाला सफेद सूप स्टॉक'' डालें और हिलाएं।",
+        "मध्यम आंच पर एक फ्राइंग पैन गरम करें, उसमें कटी हुई पत्तागोभी डालें और नरम होने तक पानी को वाष्पित करें। 1 जोड़ें और सब कुछ एक साथ मिलाएं। पनीर डालें और ढक दें.",
+        "एक बार जब पनीर पिघल जाए, तो अपना ओकोनोमियाकी सॉस डालें।",
+        "आसान! मीठा और खट्टा तेनजिन चावल",
+        "तलना नहीं! चिकन ब्रेस्ट चिकन नानबन",
+        "गाजर मीठी और स्वादिष्ट होती है! साबुत गाजर का सलाद"
+      ],
+      "ru": [
+        "Добавьте яйца и «белый бульон для супа, используемый профессионалами» в миску и перемешайте.",
+        "Нагрейте сковороду на среднем огне, добавьте нашинкованную капусту и выпарите воду до готовности. Добавьте 1 и перемешайте все вместе. Добавьте сыр и накройте крышкой.",
+        "Когда сыр расплавится, добавьте соус окономияки.",
+        "легкий! Кисло-сладкий рис Тенджин",
+        "Никакой жарки! Куриная грудка куриный нанбан",
+        "Морковь сладкая и вкусная! салат из целой моркови"
+      ],
+      "th": [
+        "ใส่ไข่และ ``น้ำสต๊อกซุปขาวที่ผู้เชี่ยวชาญใช้'' ลงในชามแล้วคนให้เข้ากัน",
+        "ตั้งกระทะบนไฟร้อนปานกลาง ใส่กะหล่ำปลีฝอยและระเหยน้ำจนนุ่ม เพิ่ม 1 และผสมทุกอย่างเข้าด้วยกัน เพิ่มชีสและฝาปิด",
+        "เมื่อชีสละลายแล้ว ให้ใส่ซอสโอโคโนมิยากิลงไป",
+        "ง่าย! ข้าวเทนจินผัดเปรี้ยวหวาน",
+        "ไม่มีการทอด! อกไก่ไก่นันบัน",
+        "แครอทมีรสหวานและอร่อย! สลัดแครอททั้งหมด"
+      ],
+      "id": [
+        "Tambahkan telur dan ``kaldu sup putih yang digunakan oleh para profesional'' ke dalam mangkuk dan aduk.",
+        "Panaskan penggorengan dengan api sedang, masukkan kol yang sudah disuwir dan uapkan air hingga empuk. Tambahkan 1 dan campur semuanya. Tambahkan keju dan tutup.",
+        "Setelah keju meleleh, tambahkan saus okonomiyaki Anda.",
+        "mudah! Nasi Tenjin asam manis",
+        "Jangan menggoreng! Nanban ayam dada ayam",
+        "Wortel manis dan lezat! salad wortel utuh"
+      ],
+      "ms": [
+        "Masukkan telur dan ``stok sup putih yang digunakan oleh profesional'' ke dalam mangkuk dan kacau.",
+        "Panaskan kuali di atas api sederhana, masukkan kobis yang dicincang dan sejatkan air sehingga empuk. Tambah 1 dan campurkan semuanya. Masukkan keju dan tutup.",
+        "Apabila keju telah cair, masukkan sos okonomiyaki anda.",
+        "mudah! Nasi Tenjin masam manis",
+        "Tidak menggoreng! ayam dada ayam nanban",
+        "Lobak merah manis dan lazat! salad lobak merah keseluruhan"
+      ],
+      "ko": [
+        "그릇에 달걀, \"프로가 사용하는 맛 화이트\"를 넣고 약동한다.",
+        "프라이팬을 중불로 가열하고, 전단 양배추를 넣고, 완화 될 때까지 수분을 날린다. 1을 넣고 전체를 섞는다. 치즈를 넣고 뚜껑을 덮는다.",
+        "치즈가 녹으면 오코노미 야키 소스를 뿌린다.",
+        "간단! 감초 천진밥",
+        "튀지 않는다! 닭고기 닭고기 치킨 남만",
+        "인삼이 달고 맛있다! 통째로 인삼 샐러드"
+      ]
+    }
+  },
+  {
+    "id": "d85e1279",
+    "source_url": "https://www.mizkan.co.jp/ouchirecipe/recipe/?menu_id=23315",
+    "source_site": "Mizkan",
+    "title_ja": "ワンパンで！だしペペロン",
+    "description_ja": "",
+    "ingredients": [
+      {
+        "name_ja": "スパゲティ",
+        "amount": "１００ｇ",
+        "name_translated": {
+          "en": "spaghetti",
+          "zh_tw": "義大利細麵條",
+          "zh_cn": "意大利细面条",
+          "vi": "spaghetti",
+          "hi": "स्पेगेटी",
+          "ru": "спагетти",
+          "th": "ปาเก็ตตี้",
+          "id": "spageti",
+          "ms": "spageti",
+          "ko": "스파게티"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%82%B9%E3%83%91%E3%82%B2%E3%83%86%E3%82%A3&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%82%B9%E3%83%91%E3%82%B2%E3%83%86%E3%82%A3/?tag="
+      },
+      {
+        "name_ja": "ベーコン",
+        "amount": "４枚",
+        "name_translated": {
+          "en": "bacon",
+          "zh_tw": "培根",
+          "zh_cn": "熏肉",
+          "vi": "thịt xông khói",
+          "hi": "बेकन",
+          "ru": "бекон",
+          "th": "เบคอน",
+          "id": "daging babi asap",
+          "ms": "bacon",
+          "ko": "베이컨"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%99%E3%83%BC%E3%82%B3%E3%83%B3&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%99%E3%83%BC%E3%82%B3%E3%83%B3/?tag="
+      },
+      {
+        "name_ja": "しめじ",
+        "amount": "１／４パック（２５ｇ）",
+        "name_translated": {
+          "en": "Shimeji mushrooms",
+          "zh_tw": "姬菇",
+          "zh_cn": "姬菇",
+          "vi": "nấm Shimeji",
+          "hi": "शिमेजी मशरूम",
+          "ru": "Грибы симеджи",
+          "th": "เห็ดชิเมจิ",
+          "id": "jamur Shimeji",
+          "ms": "Cendawan Shimeji",
+          "ko": "시메지"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%97%E3%82%81%E3%81%98&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%97%E3%82%81%E3%81%98/?tag="
+      },
+      {
+        "name_ja": "オリーブオイル",
+        "amount": "小さじ１",
+        "name_translated": {
+          "en": "olive oil",
+          "zh_tw": "橄欖油",
+          "zh_cn": "橄榄油",
+          "vi": "dầu ô liu",
+          "hi": "जैतून का तेल",
+          "ru": "оливковое масло",
+          "th": "น้ำมันมะกอก",
+          "id": "minyak zaitun",
+          "ms": "minyak zaitun",
+          "ko": "올리브 오일"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%82%AA%E3%83%AA%E3%83%BC%E3%83%96%E3%82%AA%E3%82%A4%E3%83%AB&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%82%AA%E3%83%AA%E3%83%BC%E3%83%96%E3%82%AA%E3%82%A4%E3%83%AB/?tag="
+      },
+      {
+        "name_ja": "おろしにんにく",
+        "amount": "小さじ1と１／２",
+        "name_translated": {
+          "en": "grated garlic",
+          "zh_tw": "磨碎的大蒜",
+          "zh_cn": "磨碎的大蒜",
+          "vi": "tỏi nghiền",
+          "hi": "कसा हुआ लहसुन",
+          "ru": "тертый чеснок",
+          "th": "กระเทียมขูด",
+          "id": "bawang putih parut",
+          "ms": "bawang putih parut",
+          "ko": "마늘 마늘"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%8A%E3%82%8D%E3%81%97%E3%81%AB%E3%82%93%E3%81%AB%E3%81%8F&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%8A%E3%82%8D%E3%81%97%E3%81%AB%E3%82%93%E3%81%AB%E3%81%8F/?tag="
+      },
+      {
+        "name_ja": "赤とうがらし　（小口切り）",
+        "amount": "適量",
+        "name_translated": {
+          "en": "Red chili pepper (cut into small pieces)",
+          "zh_tw": "紅辣椒（切小塊）",
+          "zh_cn": "红辣椒（切小块）",
+          "vi": "Ớt đỏ (cắt thành miếng nhỏ)",
+          "hi": "लाल मिर्च (छोटे टुकड़ों में कटी हुई)",
+          "ru": "Красный перец чили (нарезать небольшими кусочками)",
+          "th": "พริกแดง (หั่นเป็นชิ้นเล็กๆ)",
+          "id": "Cabai merah (potong kecil-kecil)",
+          "ms": "Cili merah (potong kecil)",
+          "ko": "붉은 토가라시 (작은 컷)"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E8%B5%A4%E3%81%A8%E3%81%86%E3%81%8C%E3%82%89%E3%81%97%E3%80%80%EF%BC%88%E5%B0%8F%E5%8F%A3%E5%88%87%E3%82%8A%EF%BC%89&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E8%B5%A4%E3%81%A8%E3%81%86%E3%81%8C%E3%82%89%E3%81%97%E3%80%80%EF%BC%88%E5%B0%8F%E5%8F%A3%E5%88%87%E3%82%8A%EF%BC%89/?tag="
+      },
+      {
+        "name_ja": "水",
+        "amount": "３４０ｍｌ",
+        "name_translated": {
+          "en": "water",
+          "zh_tw": "水",
+          "zh_cn": "水",
+          "vi": "Nước",
+          "hi": "पानी",
+          "ru": "вода",
+          "th": "น้ำ",
+          "id": "air",
+          "ms": "air",
+          "ko": "물"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E6%B0%B4&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E6%B0%B4/?tag="
+      },
+      {
+        "name_ja": "ミツカン　プロが使う味　白だし",
+        "amount": "大さじ１",
+        "name_translated": {
+          "en": "Mizkan - Flavor used by professionals - White dashi",
+          "zh_tw": "口味滋康 - 專業人士使用的風味 - 白高湯",
+          "zh_cn": "味滋康 - 专业人士使用的风味 - 白高汤",
+          "vi": "Mizkan - Hương vị được giới chuyên môn sử dụng - Dashi trắng",
+          "hi": "मिज़कान - पेशेवरों द्वारा उपयोग किया जाने वाला स्वाद - सफेद दशी",
+          "ru": "Мизкан - Аромат, используемый профессионалами - Белый даси",
+          "th": "มิซคาน - รสชาติที่มืออาชีพใช้ - ดาชิสีขาว",
+          "id": "Mizkan - Rasa yang digunakan oleh para profesional - Dashi putih",
+          "ms": "Mizkan - Perisa yang digunakan oleh profesional - Dashi putih",
+          "ko": "미츠칸 프로가 사용하는 맛 흰색입니다."
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E3%83%97%E3%83%AD%E3%81%8C%E4%BD%BF%E3%81%86%E5%91%B3%E3%80%80%E7%99%BD%E3%81%A0%E3%81%97&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E3%83%97%E3%83%AD%E3%81%8C%E4%BD%BF%E3%81%86%E5%91%B3%E3%80%80%E7%99%BD%E3%81%A0%E3%81%97/?tag="
+      },
+      {
+        "name_ja": "１",
+        "amount": "ベーコンはキッチンバサミで食べやすい大きさに切る。しめじは石づきを取り、手でほぐす。",
+        "name_translated": {
+          "en": "1",
+          "zh_tw": "1",
+          "zh_cn": "1",
+          "vi": "1",
+          "hi": "1",
+          "ru": "1",
+          "th": "1",
+          "id": "1",
+          "ms": "1",
+          "ko": "1"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%91&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%91/?tag="
+      },
+      {
+        "name_ja": "２",
+        "amount": "をフライパンに入れ、中火で少し焦げ目がつくまで炒める。",
+        "name_translated": {
+          "en": "2",
+          "zh_tw": "2",
+          "zh_cn": "2",
+          "vi": "2",
+          "hi": "2",
+          "ru": "2",
+          "th": "2",
+          "id": "2",
+          "ms": "2",
+          "ko": "2"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%92&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%92/?tag="
+      },
+      {
+        "name_ja": "３",
+        "amount": "一度火を止めて、具材を端によせ、オリーブオイルとおろしにんにくを入れ、余熱で炒める。",
+        "name_translated": {
+          "en": "3",
+          "zh_tw": "3",
+          "zh_cn": "3",
+          "vi": "3",
+          "hi": "3",
+          "ru": "3",
+          "th": "3",
+          "id": "3",
+          "ms": "3",
+          "ko": "3"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%93&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%93/?tag="
+      },
+      {
+        "name_ja": "４",
+        "amount": "に<Ａ>を入れ軽く混ぜ合わせ、中火で加熱する。沸騰したら半分に折ったスパゲティを加え、表示時間通り茹で、一気に水分をとばす。",
+        "name_translated": {
+          "en": "4",
+          "zh_tw": "4",
+          "zh_cn": "4",
+          "vi": "4",
+          "hi": "4",
+          "ru": "4",
+          "th": "4",
+          "id": "4",
+          "ms": "4",
+          "ko": "4"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%94&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%94/?tag="
+      }
+    ],
+    "steps_ja": [
+      "ベーコンはキッチンバサミで食べやすい大きさに切る。しめじは石づきを取り、手でほぐす。",
+      "をフライパンに入れ、中火で少し焦げ目がつくまで炒める。",
+      "一度火を止めて、具材を端によせ、オリーブオイルとおろしにんにくを入れ、余熱で炒める。",
+      "に<Ａ>を入れ軽く混ぜ合わせ、中火で加熱する。沸騰したら半分に折ったスパゲティを加え、表示時間通り茹で、一気に水分をとばす。"
+    ],
+    "image_url": "",
+    "title": {
+      "en": "With one punch! Dashi peperon",
+      "zh_tw": "一拳！高湯胡椒",
+      "zh_cn": "一拳！高汤胡椒",
+      "vi": "Với một cú đấm! tiêu Dashi",
+      "hi": "एक मुक्के से! दशी पेपरॉन",
+      "ru": "Одним ударом! Даши пеперон",
+      "th": "ด้วยหมัดเดียว! ดาชิ เปเปรอน",
+      "id": "Dengan satu pukulan! Dashi peperon",
+      "ms": "Dengan satu tumbukan! Dashi peperon",
+      "ko": "원빵으로! 그러나 페페론"
+    },
+    "description": {
+      "en": "",
+      "zh_tw": "",
+      "zh_cn": "",
+      "vi": "",
+      "hi": "",
+      "ru": "",
+      "th": "",
+      "id": "",
+      "ms": "",
+      "ko": ""
+    },
+    "steps": {
+      "en": [
+        "Cut the bacon into bite-sized pieces using kitchen scissors. Remove any stones from the shimeji mushrooms and loosen them with your hands.",
+        "Place in a frying pan and fry over medium heat until slightly browned.",
+        "Turn off the heat, set the ingredients aside, add the olive oil and grated garlic, and stir-fry in the residual heat.",
+        "Add <A>, mix gently, and heat over medium heat. When it boils, add the spaghetti broken in half and boil for the time indicated on the package, then quickly evaporate the water."
+      ],
+      "zh_tw": [
+        "ベーコンはキッチンバサミで食べやすい大きさに切る。しめじは石づきを取り、手でほぐす。",
+        "放入煎鍋中，以中火煎至微棕色。",
+        "關火，將材料放在一邊，加入橄欖油和蒜末，餘熱翻炒。",
+        "に<Ａ>を入れ軽く混ぜ合わせ、中火で加熱する。沸騰したら半分に折ったスパゲティを加え、表示時間通り茹で、一気に水分をとばす。"
+      ],
+      "zh_cn": [
+        "用厨房剪刀将培根切成一口大小的块。去除姬菇上的石头，然后用手将其松开。",
+        "放入煎锅中，用中火煎至微棕色。",
+        "关火，将材料放在一边，加入橄榄油和蒜末，余热翻炒。",
+        "添加<A>，轻轻混合，然后用中火加热。煮沸后，加入切成两半的意大利面，按照包装上注明的时间煮沸，然后快速蒸发水分。"
+      ],
+      "vi": [
+        "Cắt thịt xông khói thành từng miếng vừa ăn bằng kéo nhà bếp. Loại bỏ đá khỏi nấm shimeji và dùng tay nới lỏng chúng.",
+        "Cho vào chảo rán và chiên trên lửa vừa cho đến khi chín vàng nhẹ.",
+        "Tắt lửa, đặt nguyên liệu sang một bên, thêm dầu ô liu và tỏi băm vào rồi xào ở lửa còn sót lại.",
+        "Thêm <A>, trộn nhẹ và đun trên lửa vừa. Khi sôi, cho mì spaghetti bẻ làm đôi vào đun sôi trong thời gian ghi trên bao bì, sau đó cho nước bay hơi nhanh."
+      ],
+      "hi": [
+        "रसोई की कैंची का उपयोग करके बेकन को छोटे टुकड़ों में काट लें। शिमेजी मशरूम से कोई भी पत्थर हटा दें और उन्हें अपने हाथों से ढीला कर दें।",
+        "एक फ्राइंग पैन में रखें और मध्यम आंच पर हल्का भूरा होने तक भूनें।",
+        "आंच बंद कर दें, सामग्री को एक तरफ रख दें, जैतून का तेल और कसा हुआ लहसुन डालें और बची हुई आंच में भूनें।",
+        "<ए> डालें, धीरे से मिलाएं, और मध्यम आंच पर गर्म करें। जब यह उबल जाए, तो आधे में टूटी हुई स्पेगेटी डालें और पैकेज पर बताए गए समय तक उबालें, फिर पानी को जल्दी से वाष्पित कर दें।"
+      ],
+      "ru": [
+        "Нарезаем бекон небольшими кусочками кухонными ножницами. Удалите камни из грибов симэдзи и ослабьте их руками.",
+        "Выложите на сковороду и обжарьте на среднем огне до слегка подрумяненного цвета.",
+        "Выключите огонь, отложите ингредиенты в сторону, добавьте оливковое масло и тертый чеснок и жарьте, помешивая, на остаточном огне.",
+        "Добавьте <A>, аккуратно перемешайте и нагрейте на среднем огне. Когда закипит, добавьте разломанные пополам спагетти и варите время, указанное на упаковке, затем быстро выпарите воду."
+      ],
+      "th": [
+        "หั่นเบคอนเป็นชิ้นขนาดพอดีคำโดยใช้กรรไกรทำครัว นำก้อนหินออกจากเห็ดชิเมจิแล้วใช้มือคลายออก",
+        "วางในกระทะแล้วทอดบนไฟร้อนปานกลางจนเป็นสีน้ำตาลเล็กน้อย",
+        "ปิดไฟ พักส่วนผสมไว้ ใส่น้ำมันมะกอกและกระเทียมขูด และผัดในไฟที่เหลือ",
+        "เติม <A> ผสมเบาๆ และตั้งไฟปานกลาง เมื่อเดือด ให้ใส่เส้นสปาเก็ตตี้ที่หักครึ่งแล้วต้มตามเวลาที่ระบุไว้บนบรรจุภัณฑ์ จากนั้นจึงสะเด็ดน้ำอย่างรวดเร็ว"
+      ],
+      "id": [
+        "Potong bacon menjadi potongan-potongan kecil menggunakan gunting dapur. Buang semua batu dari jamur shimeji dan kendurkan dengan tangan Anda.",
+        "Masukkan ke dalam wajan dan goreng dengan api sedang hingga agak kecoklatan.",
+        "Matikan api, sisihkan bahan, tambahkan minyak zaitun dan bawang putih parut, lalu tumis dengan sisa api.",
+        "Tambahkan <A>, aduk perlahan, dan panaskan dengan api sedang. Jika sudah mendidih masukkan spageti yang dipecah menjadi dua dan rebus sesuai waktu yang tertera pada kemasan, lalu segera menguapkan airnya."
+      ],
+      "ms": [
+        "Potong bacon menjadi kepingan bersaiz gigitan menggunakan gunting dapur. Keluarkan sebarang batu dari cendawan shimeji dan longgarkannya dengan tangan anda.",
+        "Masukkan ke dalam kuali dan goreng dengan api sederhana hingga keperangan sedikit.",
+        "Tutup api, ketepikan bahan, masukkan minyak zaitun dan bawang putih parut, dan tumis dalam api yang tinggal.",
+        "Masukkan <A>, gaul perlahan-lahan dan panaskan dengan api sederhana. Apabila ia mendidih, masukkan spageti yang dipecahkan kepada separuh dan rebus pada masa yang ditunjukkan pada bungkusan, kemudian cepat sejat air."
+      ],
+      "ko": [
+        "베이컨은 주방 바사미로 먹기 쉬운 크기로 자른다. 시메지는 돌을 잡고 손으로 풀어준다.",
+        "을 프라이팬에 넣고 중불로 조금 탄이 날 때까지 볶는다.",
+        "일단 불을 멈추고, 재료를 가장자리에 올려 올리브 오일과 강판 마늘을 넣고 여열로 볶는다.",
+        "에 <A>를 넣고 가볍게 섞어 중불로 가열한다. 끓으면 반으로 꺾은 스파게티를 넣고 표시 시간대로 삶아 단번에 수분을 뿌린다."
+      ]
+    }
   }
 ]

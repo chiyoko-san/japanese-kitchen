@@ -365089,5 +365089,294 @@
         "에 <A>를 넣고 가볍게 섞어 중불로 가열한다. 끓으면 반으로 꺾은 스파게티를 넣고 표시 시간대로 삶아 단번에 수분을 뿌린다."
       ]
     }
+  },
+  {
+    "id": "3f4977fe",
+    "source_url": "https://www.mizkan.co.jp/ouchirecipe/recipe/?menu_id=21792",
+    "source_site": "Mizkan",
+    "title_ja": "レンジで！皮つき大根と豚バラのやみつきミルフィーユ蒸し",
+    "description_ja": "",
+    "ingredients": [
+      {
+        "name_ja": "豚バラ肉　薄切り",
+        "amount": "１５０ｇ",
+        "name_translated": {
+          "en": "Thinly sliced ​​pork belly",
+          "zh_tw": "五花肉切成薄片",
+          "zh_cn": "五花肉切成薄片",
+          "vi": "Thịt ba chỉ thái mỏng",
+          "hi": "पतले कटा हुआ सूअर का मांस पेट",
+          "ru": "Тонко нарезанная свиная грудинка",
+          "th": "หมูสามชั้นหั่นบางๆ",
+          "id": "Perut babi diiris tipis",
+          "ms": "Perut babi yang dihiris nipis",
+          "ko": "돼지 장미 고기 얇게 썬다."
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E8%B1%9A%E3%83%90%E3%83%A9%E8%82%89%E3%80%80%E8%96%84%E5%88%87%E3%82%8A&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E8%B1%9A%E3%83%90%E3%83%A9%E8%82%89%E3%80%80%E8%96%84%E5%88%87%E3%82%8A/?tag="
+      },
+      {
+        "name_ja": "大根",
+        "amount": "１／４本（３００ｇ）",
+        "name_translated": {
+          "en": "Japanese white radish",
+          "zh_tw": "日本白蘿蔔",
+          "zh_cn": "日本白萝卜",
+          "vi": "Củ cải trắng Nhật Bản",
+          "hi": "जापानी सफेद मूली",
+          "ru": "Японская белая редька",
+          "th": "หัวไชเท้าขาวญี่ปุ่น",
+          "id": "lobak putih jepang",
+          "ms": "lobak putih jepun",
+          "ko": "무"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E5%A4%A7%E6%A0%B9&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E5%A4%A7%E6%A0%B9/?tag="
+      },
+      {
+        "name_ja": "酒",
+        "amount": "大さじ１",
+        "name_translated": {
+          "en": "Alcohol",
+          "zh_tw": "酒精",
+          "zh_cn": "酒精",
+          "vi": "Rượu bia",
+          "hi": "शराब",
+          "ru": "Алкоголь",
+          "th": "แอลกอฮอล์",
+          "id": "Alkohol",
+          "ms": "Alkohol",
+          "ko": "술"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E9%85%92&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E9%85%92/?tag="
+      },
+      {
+        "name_ja": "ミツカン　味ぽん",
+        "amount": "大さじ２",
+        "name_translated": {
+          "en": "Mizkan Ajipon",
+          "zh_tw": "ミツカン　味ぽん",
+          "zh_cn": "味滋康味精",
+          "vi": "Mizkan Ajipon",
+          "hi": "मिज़कान अजिपोन",
+          "ru": "Мизкан Аджипон",
+          "th": "มิซกัน อาจิปอน",
+          "id": "Mizkan Ajipon",
+          "ms": "Mizkan Ajipon",
+          "ko": "미츠칸 미포"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E5%91%B3%E3%81%BD%E3%82%93&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E5%91%B3%E3%81%BD%E3%82%93/?tag="
+      },
+      {
+        "name_ja": "コチュジャン",
+        "amount": "小さじ１と１／２",
+        "name_translated": {
+          "en": "Gochujang",
+          "zh_tw": "辣椒醬",
+          "zh_cn": "辣椒酱",
+          "vi": "Gochujang",
+          "hi": "गोचुजंग",
+          "ru": "Кочуджанг",
+          "th": "โคชูจัง",
+          "id": "Gochujang",
+          "ms": "Gochujang",
+          "ko": "고추장"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%82%B3%E3%83%81%E3%83%A5%E3%82%B8%E3%83%A3%E3%83%B3&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%82%B3%E3%83%81%E3%83%A5%E3%82%B8%E3%83%A3%E3%83%B3/?tag="
+      },
+      {
+        "name_ja": "ごま油",
+        "amount": "小さじ１",
+        "name_translated": {
+          "en": "sesame oil",
+          "zh_tw": "香油",
+          "zh_cn": "香油",
+          "vi": "dầu mè",
+          "hi": "तिल का तेल",
+          "ru": "кунжутное масло",
+          "th": "น้ำมันงา",
+          "id": "minyak wijen",
+          "ms": "minyak bijan",
+          "ko": "참기름"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%94%E3%81%BE%E6%B2%B9&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%94%E3%81%BE%E6%B2%B9/?tag="
+      },
+      {
+        "name_ja": "大根の葉",
+        "amount": "適宜",
+        "name_translated": {
+          "en": "radish leaves",
+          "zh_tw": "蘿蔔葉",
+          "zh_cn": "萝卜叶",
+          "vi": "lá củ cải",
+          "hi": "मूली के पत्ते",
+          "ru": "листья редиса",
+          "th": "ใบหัวไชเท้า",
+          "id": "daun lobak",
+          "ms": "daun lobak",
+          "ko": "무 잎"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E5%A4%A7%E6%A0%B9%E3%81%AE%E8%91%89&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E5%A4%A7%E6%A0%B9%E3%81%AE%E8%91%89/?tag="
+      },
+      {
+        "name_ja": "いりごま　（白）",
+        "amount": "適宜",
+        "name_translated": {
+          "en": "Roasted sesame seeds (white)",
+          "zh_tw": "烤芝麻（白）",
+          "zh_cn": "烤芝麻（白）",
+          "vi": "Hạt vừng rang (trắng)",
+          "hi": "भुने हुए तिल (सफेद)",
+          "ru": "Семена кунжута жареные (белые)",
+          "th": "งาคั่ว (สีขาว)",
+          "id": "Biji wijen sangrai (putih)",
+          "ms": "Bijan panggang (putih)",
+          "ko": "이리 고마 (흰색)"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%84%E3%82%8A%E3%81%94%E3%81%BE%E3%80%80%EF%BC%88%E7%99%BD%EF%BC%89&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%84%E3%82%8A%E3%81%94%E3%81%BE%E3%80%80%EF%BC%88%E7%99%BD%EF%BC%89/?tag="
+      },
+      {
+        "name_ja": "１",
+        "amount": "にする。お好みで、大根の葉や茎をのせる場合は、１ｃｍ幅に切る。＜Ａ＞のたれを合わせる。",
+        "name_translated": {
+          "en": "1",
+          "zh_tw": "1",
+          "zh_cn": "1",
+          "vi": "1",
+          "hi": "1",
+          "ru": "1",
+          "th": "1",
+          "id": "1",
+          "ms": "1",
+          "ko": "1"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%91&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%91/?tag="
+      },
+      {
+        "name_ja": "２",
+        "amount": "耐熱容器に大根と豚肉を交互に重ねて盛る。お好みで大根の葉や茎をちらし、酒をふりかける。ふんわりとラップをし電子レンジ（６００Ｗ）で６分加熱する。",
+        "name_translated": {
+          "en": "2",
+          "zh_tw": "2",
+          "zh_cn": "2",
+          "vi": "2",
+          "hi": "2",
+          "ru": "2",
+          "th": "2",
+          "id": "2",
+          "ms": "2",
+          "ko": "2"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%92&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%92/?tag="
+      },
+      {
+        "name_ja": "３",
+        "amount": "※＜A＞のタレをかけてお召し上がりください。",
+        "name_translated": {
+          "en": "3",
+          "zh_tw": "3",
+          "zh_cn": "3",
+          "vi": "3",
+          "hi": "3",
+          "ru": "3",
+          "th": "3",
+          "id": "3",
+          "ms": "3",
+          "ko": "3"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%93&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%93/?tag="
+      }
+    ],
+    "steps_ja": [
+      "豚肉は４ｃｍ長さに切る。大根は皮つきのまま３ｍｍ程度の半月切りにする。お好みで、大根の葉や茎をのせる場合は、１ｃｍ幅に切る。＜Ａ＞のたれを合わせる。",
+      "耐熱容器に大根と豚肉を交互に重ねて盛る。お好みで大根の葉や茎をちらし、酒をふりかける。ふんわりとラップをし電子レンジ（６００Ｗ）で６分加熱する。",
+      "※＜A＞のタレをかけてお召し上がりください。"
+    ],
+    "image_url": "",
+    "title": {
+      "en": "In the microwave! Addictive steamed millefeuille of skinned radish and pork belly",
+      "zh_tw": "在微波爐裡！令人上癮的蘿蔔皮五花肉蒸千層酥",
+      "zh_cn": "在微波炉里！令人上瘾的萝卜皮五花肉蒸千层酥",
+      "vi": "Trong lò vi sóng! Món millefeuille hấp từ củ cải và thịt bụng lợn",
+      "hi": "माइक्रोवेव में! छिलके वाली मूली और पोर्क बेली का नशीला स्टीम्ड मिलफ़्यूइल",
+      "ru": "В микроволновке! Привлекательный мильфей, приготовленный на пару, из редьки с кожурой и свиной грудинки",
+      "th": "ในไมโครเวฟ! มิลเฟยนึ่งหัวไชเท้าถลกหนังและหมูสามชั้นที่ชวนให้ติดใจ",
+      "id": "Di dalam microwave! Millefeuille kukus lobak berkulit dan perut babi yang membuat ketagihan",
+      "ms": "Dalam ketuhar gelombang mikro! Millefeuille kukus ketagihan lobak berkulit dan perut babi",
+      "ko": "범위에서! 껍질이 붙은 무와 돼지 장미의 어묵 밀피유 찜"
+    },
+    "description": {
+      "en": "",
+      "zh_tw": "",
+      "zh_cn": "",
+      "vi": "",
+      "hi": "",
+      "ru": "",
+      "th": "",
+      "id": "",
+      "ms": "",
+      "ko": ""
+    },
+    "steps": {
+      "en": [
+        "Cut the pork into 4cm lengths. Cut the daikon radish, with the skin on, into half-moon pieces about 3mm thick. If you wish to add daikon leaves and stems, cut them into 1cm wide pieces. Combine <A> sauce.",
+        "Arrange the radish and pork in a heat-resistant container, layering them alternately. If desired, sprinkle with radish leaves and stems and sprinkle with sake. Loosely cover with plastic wrap and heat in the microwave (600W) for 6 minutes.",
+        "*Please enjoy with <A> sauce."
+      ],
+      "zh_tw": [
+        "將豬肉切成4公分長。将带皮萝卜切成约3毫米厚的半月形片。如果您想添加萝卜叶和茎，请将它们切成 1 厘米宽的块。混合<A>醬。",
+        "耐熱容器に大根と豚肉を交互に重ねて盛る。お好みで大根の葉や茎をちらし、酒をふりかける。ふんわりとラップをし電子レンジ（６００Ｗ）で６分加熱する。",
+        "*請搭配<A>醬汁享用。"
+      ],
+      "zh_cn": [
+        "将猪肉切成4厘米长。将带皮萝卜切成约3毫米厚的半月形片。如果您想添加萝卜叶和茎，请将它们切成 1 厘米宽的块。混合<A>酱。",
+        "将萝卜和猪肉放入耐热容器中，交替分层。如果需要，可撒上萝卜叶和茎，并撒上清酒。松松地盖上保鲜膜，然后在微波炉 (600W) 中加热 6 分钟。",
+        "*请搭配<A>酱汁享用。"
+      ],
+      "vi": [
+        "Cắt thịt lợn thành từng đoạn dài 4cm. Cắt củ cải daikon còn nguyên vỏ thành từng miếng hình bán nguyệt dày khoảng 3 mm. Nếu bạn muốn thêm lá và thân daikon, hãy cắt chúng thành từng miếng rộng 1cm. Kết hợp nước sốt <A>.",
+        "Xếp củ cải và thịt lợn vào hộp chịu nhiệt, xếp xen kẽ từng lớp. Nếu muốn, rắc lá và thân củ cải rồi rắc rượu sake. Đậy kín bằng màng bọc thực phẩm và đun nóng trong lò vi sóng (600W) trong 6 phút.",
+        "*Hãy thưởng thức cùng nước sốt <A>."
+      ],
+      "hi": [
+        "सूअर के मांस को 4 सेमी लंबाई में काटें। डेकोन मूली को छिलके सहित, लगभग 3 मिमी मोटे आधे-चाँद के टुकड़ों में काटें। यदि आप डेकोन की पत्तियां और तने जोड़ना चाहते हैं, तो उन्हें 1 सेमी चौड़े टुकड़ों में काट लें। <ए> सॉस मिलाएं।",
+        "मूली और सूअर के मांस को एक गर्मी प्रतिरोधी कंटेनर में व्यवस्थित करें, उन्हें बारी-बारी से बिछाएं। यदि चाहें तो मूली के पत्तों और तनों पर छिड़कें और खातिर छिड़कें। प्लास्टिक रैप से ढकें और माइक्रोवेव (600W) में 6 मिनट तक गर्म करें।",
+        "* कृपया <ए> सॉस के साथ आनंद लें।"
+      ],
+      "ru": [
+        "Нарезаем свинину кусочками длиной 4 см. Нарежьте редис дайкон вместе с кожицей на кусочки полумесяца толщиной около 3 мм. Если вы хотите добавить листья и стебли дайкона, нарежьте их на кусочки шириной 1 см. Смешайте соус <A>.",
+        "Выложите редис и свинину в жаропрочную емкость, выкладывая их поочередно слоями. При желании посыпьте листьями и стеблями редиса и посыпьте саке. Неплотно накройте полиэтиленовой пленкой и разогрейте в микроволновой печи (600 Вт) в течение 6 минут.",
+        "*Наслаждайтесь соусом <A>."
+      ],
+      "th": [
+        "หั่นหมูเป็นชิ้นยาว 4 ซม. ตัดหัวไชเท้า daikon โดยเอาเปลือกออก เป็นชิ้นครึ่งเสี้ยวหนาประมาณ 3 มม. หากต้องการเพิ่มใบและก้านไชเท้า ให้หั่นเป็นชิ้นกว้าง 1 ซม. ผสมซอส <A>",
+        "จัดเรียงหัวไชเท้าและหมูลงในภาชนะทนความร้อนโดยเรียงสลับกัน หากต้องการให้โรยด้วยใบและก้านหัวไชเท้าแล้วโรยด้วยสาเก ปิดด้วยพลาสติกแร็ปอย่างหลวมๆ แล้วนำเข้าไมโครเวฟ (600W) เป็นเวลา 6 นาที",
+        "*โปรดเพลิดเพลินกับซอส <A>"
+      ],
+      "id": [
+        "Potong daging babi menjadi panjang 4cm. Potong lobak daikon, beserta kulitnya, menjadi potongan setengah bulan setebal 3 mm. Jika ingin menambahkan daun dan batang daikon, potong-potong selebar 1 cm. Campurkan saus <A>.",
+        "Susun lobak dan daging babi dalam wadah tahan panas, susun secara bergantian. Jika diinginkan, taburi dengan daun dan batang lobak, lalu taburi dengan sake. Tutup rapat dengan bungkus plastik dan panaskan dalam microwave (600W) selama 6 menit.",
+        "*Silahkan dinikmati dengan saus <A>."
+      ],
+      "ms": [
+        "Potong daging babi menjadi 4cm panjang. Potong lobak daikon, dengan kulitnya, menjadi kepingan separuh bulan setebal kira-kira 3mm. Jika anda ingin menambah daun dan batang daikon, potong kepada kepingan selebar 1cm. Satukan sos <A>.",
+        "Susun lobak dan daging babi dalam bekas tahan panas, lapiskannya secara berselang-seli. Jika mahu, taburkan dengan daun lobak dan batang dan taburkan dengan sake. Tutup longgar dengan bungkus plastik dan panaskan dalam ketuhar gelombang mikro (600W) selama 6 minit.",
+        "*Sila nikmati dengan sos <A>."
+      ],
+      "ko": [
+        "돼지고기는 4cm 길이로 자른다. 무는 껍질이 붙은 채 3mm 정도의 반월절로 한다. 기호로 무의 잎이나 줄기를 얹는 경우는 1cm 폭으로 자른다. <A>의 양념장을 맞춘다.",
+        "내열 용기에 무와 돼지고기를 번갈아 겹쳐 담는다. 취향에 따라 무의 잎과 줄기를 뿌리고 술을 뿌린다. 부드럽게 랩을 하고 전자 레인지(600W)로 6분 가열한다.",
+        "※＜A＞의 소스를 걸어 드세요."
+      ]
+    }
   }
 ]

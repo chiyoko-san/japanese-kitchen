@@ -365808,5 +365808,431 @@
         "仕上げに、大根おろしをのせる。"
       ]
     }
+  },
+  {
+    "id": "ea4a6cdc",
+    "source_url": "https://www.mizkan.co.jp/ouchirecipe/recipe/?menu_id=4744",
+    "source_site": "Mizkan",
+    "title_ja": "キムチおでん",
+    "description_ja": "",
+    "ingredients": [
+      {
+        "name_ja": "ゆで卵",
+        "amount": "４個",
+        "name_translated": {
+          "en": "boiled egg",
+          "zh_tw": "煮雞蛋",
+          "zh_cn": "煮鸡蛋",
+          "vi": "trứng luộc",
+          "hi": "उबले हुए अंडे",
+          "ru": "вареное яйцо",
+          "th": "ไข่ต้ม",
+          "id": "telur rebus",
+          "ms": "telur rebus",
+          "ko": "삶은 달걀"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%82%86%E3%81%A7%E5%8D%B5&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%82%86%E3%81%A7%E5%8D%B5/?tag="
+      },
+      {
+        "name_ja": "大根",
+        "amount": "１／４本",
+        "name_translated": {
+          "en": "Japanese white radish",
+          "zh_tw": "日本白蘿蔔",
+          "zh_cn": "日本白萝卜",
+          "vi": "Củ cải trắng Nhật Bản",
+          "hi": "जापानी सफेद मूली",
+          "ru": "Японская белая редька",
+          "th": "หัวไชเท้าขาวญี่ปุ่น",
+          "id": "lobak putih jepang",
+          "ms": "lobak putih jepun",
+          "ko": "무"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E5%A4%A7%E6%A0%B9&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E5%A4%A7%E6%A0%B9/?tag="
+      },
+      {
+        "name_ja": "じゃがいも",
+        "amount": "２個",
+        "name_translated": {
+          "en": "potato",
+          "zh_tw": "馬鈴薯",
+          "zh_cn": "土豆",
+          "vi": "khoai tây",
+          "hi": "आलू",
+          "ru": "картофель",
+          "th": "มันฝรั่ง",
+          "id": "kentang",
+          "ms": "kentang",
+          "ko": "감자"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%98%E3%82%83%E3%81%8C%E3%81%84%E3%82%82&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%98%E3%82%83%E3%81%8C%E3%81%84%E3%82%82/?tag="
+      },
+      {
+        "name_ja": "はんぺん",
+        "amount": "大１枚",
+        "name_translated": {
+          "en": "Hanpen",
+          "zh_tw": "漢盆",
+          "zh_cn": "汉盆",
+          "vi": "Hanpen",
+          "hi": "हनपेन",
+          "ru": "Ханпен",
+          "th": "ฮันเปน",
+          "id": "Hanpen",
+          "ms": "Hanpen",
+          "ko": "한판"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%AF%E3%82%93%E3%81%BA%E3%82%93&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%AF%E3%82%93%E3%81%BA%E3%82%93/?tag="
+      },
+      {
+        "name_ja": "板こんにゃく",
+        "amount": "１／２枚",
+        "name_translated": {
+          "en": "Konnyaku plate",
+          "zh_tw": "蒟蒻盤",
+          "zh_cn": "魔芋盘",
+          "vi": "Đĩa Konnyaku",
+          "hi": "कोन्याकु प्लेट",
+          "ru": "тарелка Конняку",
+          "th": "จานคอนยัคคุ",
+          "id": "Piring Konnyaku",
+          "ms": "Pinggan Konnyaku",
+          "ko": "판 곤약"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E6%9D%BF%E3%81%93%E3%82%93%E3%81%AB%E3%82%83%E3%81%8F&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E6%9D%BF%E3%81%93%E3%82%93%E3%81%AB%E3%82%83%E3%81%8F/?tag="
+      },
+      {
+        "name_ja": "ちくわ",
+        "amount": "１本",
+        "name_translated": {
+          "en": "Chikuwa",
+          "zh_tw": "竹輪",
+          "zh_cn": "竹轮",
+          "vi": "Chikuwa",
+          "hi": "चिकुवा",
+          "ru": "Чикува",
+          "th": "ชิกุวะ",
+          "id": "Chikuwa",
+          "ms": "Chikuwa",
+          "ko": "치쿠와"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%A1%E3%81%8F%E3%82%8F&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%A1%E3%81%8F%E3%82%8F/?tag="
+      },
+      {
+        "name_ja": "ちくわぶ",
+        "amount": "１本",
+        "name_translated": {
+          "en": "Chikuwabu",
+          "zh_tw": "築和部",
+          "zh_cn": "筑和部",
+          "vi": "chikuwabu",
+          "hi": "चिकुवाबु",
+          "ru": "Чикувабу",
+          "th": "ชิกุวาบุ",
+          "id": "Chikuwabu",
+          "ms": "Chikuwabu",
+          "ko": "치쿠와부"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%A1%E3%81%8F%E3%82%8F%E3%81%B6&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%A1%E3%81%8F%E3%82%8F%E3%81%B6/?tag="
+      },
+      {
+        "name_ja": "つみれ",
+        "amount": "（いわし）４個",
+        "name_translated": {
+          "en": "Fishball",
+          "zh_tw": "魚丸",
+          "zh_cn": "鱼丸",
+          "vi": "Cá viên",
+          "hi": "मछ्ली की बनी गेंद",
+          "ru": "Рыбный шарик",
+          "th": "ลูกชิ้นปลา",
+          "id": "bola ikan",
+          "ms": "Bebola ikan",
+          "ko": "쓰레기"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%A4%E3%81%BF%E3%82%8C&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%A4%E3%81%BF%E3%82%8C/?tag="
+      },
+      {
+        "name_ja": "さつま揚げ",
+        "amount": "４個",
+        "name_translated": {
+          "en": "fish cake",
+          "zh_tw": "魚餅",
+          "zh_cn": "鱼饼",
+          "vi": "bánh cá",
+          "hi": "मछली का केक",
+          "ru": "рыбный пирог",
+          "th": "เค้กปลา",
+          "id": "kue ikan",
+          "ms": "kek ikan",
+          "ko": "사츠마 튀김"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%95%E3%81%A4%E3%81%BE%E6%8F%9A%E3%81%92&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%95%E3%81%A4%E3%81%BE%E6%8F%9A%E3%81%92/?tag="
+      },
+      {
+        "name_ja": "ごぼう巻",
+        "amount": "４個",
+        "name_translated": {
+          "en": "Burdock roll",
+          "zh_tw": "牛蒡卷",
+          "zh_cn": "牛蒡卷",
+          "vi": "cuộn ngưu bàng",
+          "hi": "बर्डॉक रोल",
+          "ru": "рулет из лопуха",
+          "th": "ม้วนหญ้าเจ้าชู้",
+          "id": "gulungan burdock",
+          "ms": "Gulung burdock",
+          "ko": "우엉 권"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%94%E3%81%BC%E3%81%86%E5%B7%BB&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%94%E3%81%BC%E3%81%86%E5%B7%BB/?tag="
+      },
+      {
+        "name_ja": "もち入りきんちゃく",
+        "amount": "４個",
+        "name_translated": {
+          "en": "Kinchaku with mochi",
+          "zh_tw": "金籤麻糬",
+          "zh_cn": "金签麻糬",
+          "vi": "Kinchaku với mochi",
+          "hi": "मोची के साथ किंचकू",
+          "ru": "Кинчаку с моти",
+          "th": "คินชาคุกับโมจิ",
+          "id": "Kinchaku dengan mochi",
+          "ms": "Kinchaku dengan mochi",
+          "ko": "떡이 들어간"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%82%82%E3%81%A1%E5%85%A5%E3%82%8A%E3%81%8D%E3%82%93%E3%81%A1%E3%82%83%E3%81%8F&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%82%82%E3%81%A1%E5%85%A5%E3%82%8A%E3%81%8D%E3%82%93%E3%81%A1%E3%82%83%E3%81%8F/?tag="
+      },
+      {
+        "name_ja": "がんもどき",
+        "amount": "４個",
+        "name_translated": {
+          "en": "Ganmodoki",
+          "zh_tw": "甘莫多基",
+          "zh_cn": "甘莫多基",
+          "vi": "ganmodoki",
+          "hi": "गणमोडोकी",
+          "ru": "Ганмодоки",
+          "th": "กันโมโดกิ",
+          "id": "Ganmodoki",
+          "ms": "Ganmodoki",
+          "ko": "암모도키"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%8C%E3%82%93%E3%82%82%E3%81%A9%E3%81%8D&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%8C%E3%82%93%E3%82%82%E3%81%A9%E3%81%8D/?tag="
+      },
+      {
+        "name_ja": "結び昆布",
+        "amount": "４個",
+        "name_translated": {
+          "en": "knotted kelp",
+          "zh_tw": "結海帶",
+          "zh_cn": "结海带",
+          "vi": "tảo bẹ thắt nút",
+          "hi": "गांठदार समुद्री घास",
+          "ru": "завязанная водоросль",
+          "th": "สาหร่ายทะเลที่ผูกปม",
+          "id": "rumput laut yang diikat",
+          "ms": "kelp bersimpul",
+          "ko": "매듭 다시마"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E7%B5%90%E3%81%B3%E6%98%86%E5%B8%83&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E7%B5%90%E3%81%B3%E6%98%86%E5%B8%83/?tag="
+      },
+      {
+        "name_ja": "〆まで美味しい　キムチ鍋つゆ　ｽﾄﾚｰﾄ",
+        "amount": "１袋",
+        "name_translated": {
+          "en": "Delicious until the end - kimchi hotpot soup straight",
+          "zh_tw": "美味到最後－泡菜火鍋湯直",
+          "zh_cn": "美味到最后——泡菜火锅汤直",
+          "vi": "Ngon đến cùng - Lẩu kim chi thẳng thắn",
+          "hi": "अंत तक स्वादिष्ट - सीधे किम्ची हॉटपॉट सूप",
+          "ru": "Вкусно до конца — суп с тушеным мясом кимчи",
+          "th": "อร่อยจนจบ - ซุปหม้อไฟกิมจิตรง",
+          "id": "Lezat sampai akhir - sup hotpot kimchi langsung",
+          "ms": "Sedap sampai habis - sup kimchi hotpot terus",
+          "ko": "〆까지 맛있는 김치 냄비 츠유 스트로트"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%80%86%E3%81%BE%E3%81%A7%E7%BE%8E%E5%91%B3%E3%81%97%E3%81%84%E3%80%80%E3%82%AD%E3%83%A0%E3%83%81%E9%8D%8B%E3%81%A4%E3%82%86%E3%80%80%EF%BD%BD%EF%BE%84%EF%BE%9A%EF%BD%B0%EF%BE%84&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%80%86%E3%81%BE%E3%81%A7%E7%BE%8E%E5%91%B3%E3%81%97%E3%81%84%E3%80%80%E3%82%AD%E3%83%A0%E3%83%81%E9%8D%8B%E3%81%A4%E3%82%86%E3%80%80%EF%BD%BD%EF%BE%84%EF%BE%9A%EF%BD%B0%EF%BE%84/?tag="
+      },
+      {
+        "name_ja": "１",
+        "amount": "にする。じゃがいも、大根は下ゆでする。",
+        "name_translated": {
+          "en": "1",
+          "zh_tw": "1",
+          "zh_cn": "1",
+          "vi": "1",
+          "hi": "1",
+          "ru": "1",
+          "th": "1",
+          "id": "1",
+          "ms": "1",
+          "ko": "1"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%91&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%91/?tag="
+      },
+      {
+        "name_ja": "２",
+        "amount": "はんぺん、こんにゃくは三角に４等分に切る。ちくわ、ちくわぶは斜めに４等分に切る。",
+        "name_translated": {
+          "en": "2",
+          "zh_tw": "2",
+          "zh_cn": "2",
+          "vi": "2",
+          "hi": "2",
+          "ru": "2",
+          "th": "2",
+          "id": "2",
+          "ms": "2",
+          "ko": "2"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%92&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%92/?tag="
+      },
+      {
+        "name_ja": "３",
+        "amount": "さつま揚げ、ごぼう巻き、餅入りきんちゃく、がんもどきは熱湯をかけ、油抜きをする。",
+        "name_translated": {
+          "en": "3",
+          "zh_tw": "3",
+          "zh_cn": "3",
+          "vi": "3",
+          "hi": "3",
+          "ru": "3",
+          "th": "3",
+          "id": "3",
+          "ms": "3",
+          "ko": "3"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%93&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%93/?tag="
+      },
+      {
+        "name_ja": "４",
+        "amount": "鍋に「キムチ鍋つゆストレート」をよくふって入れて煮立て、全ての具材を入れ、味がしみるまで煮込む。",
+        "name_translated": {
+          "en": "4",
+          "zh_tw": "4",
+          "zh_cn": "4",
+          "vi": "4",
+          "hi": "4",
+          "ru": "4",
+          "th": "4",
+          "id": "4",
+          "ms": "4",
+          "ko": "4"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%94&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%94/?tag="
+      }
+    ],
+    "steps_ja": [
+      "じゃがいもは皮をむき縦半分に切る。大根は皮をむき、４ｃｍ幅程度の輪切りにする。じゃがいも、大根は下ゆでする。",
+      "はんぺん、こんにゃくは三角に４等分に切る。ちくわ、ちくわぶは斜めに４等分に切る。",
+      "さつま揚げ、ごぼう巻き、餅入りきんちゃく、がんもどきは熱湯をかけ、油抜きをする。",
+      "鍋に「キムチ鍋つゆストレート」をよくふって入れて煮立て、全ての具材を入れ、味がしみるまで煮込む。"
+    ],
+    "image_url": "",
+    "title": {
+      "en": "kimchi oden",
+      "zh_tw": "泡菜關東煮",
+      "zh_cn": "泡菜关东煮",
+      "vi": "kim chi oden",
+      "hi": "किम्ची ओडेन",
+      "ru": "кимчи оден",
+      "th": "โอเด้งกิมจิ",
+      "id": "kimchi oden",
+      "ms": "kimchi oden",
+      "ko": "김치오뎅"
+    },
+    "description": {
+      "en": "",
+      "zh_tw": "",
+      "zh_cn": "",
+      "vi": "",
+      "hi": "",
+      "ru": "",
+      "th": "",
+      "id": "",
+      "ms": "",
+      "ko": ""
+    },
+    "steps": {
+      "en": [
+        "Peel the potatoes and cut them in half lengthwise. Peel the radish and cut into rounds about 4cm wide. Boil the potatoes and radish.",
+        "Cut the hanpen and konjac into four triangular pieces. Cut the chikuwa and chikuwabu diagonally into quarters.",
+        "Pour boiling water over the fish cakes, burdock rolls, mochi-filled kinchaku, and ganmodoki to remove the oil.",
+        "Sprinkle ``Kimchi Nabe Tsuyu Straight'' into a pot, bring to a boil, add all the ingredients, and simmer until the flavors are absorbed."
+      ],
+      "zh_tw": [
+        "將馬鈴薯去皮並縱向切成兩半。蘿蔔去皮，切成約4公分寬的圓片。將馬鈴薯和蘿蔔煮沸。",
+        "將蒟蒻和蒟蒻切成四塊三角形。將竹輪和竹輪斜切成四份。",
+        "將沸水倒在魚餅、牛蒡捲、麻糬金縷梅、丸子上，瀝去油份。",
+        "將「泡菜鍋醬」撒入鍋中，煮沸，加入所有材料，小火煮至味道吸收。"
+      ],
+      "zh_cn": [
+        "将土豆去皮并纵向切成两半。萝卜去皮，切成约4厘米宽的圆片。将土豆和萝卜煮沸。",
+        "将蒟蒻和蒟蒻切成四块三角形。将竹轮和竹轮斜切成四份。",
+        "将沸水倒在鱼饼、牛蒡卷、麻糬金缕梅、丸子上，沥去油份。",
+        "将“泡菜锅酱”撒入锅中，煮沸，加入所有材料，小火煮至味道吸收。"
+      ],
+      "vi": [
+        "Gọt vỏ khoai tây và cắt chúng làm đôi theo chiều dọc. Gọt vỏ củ cải và cắt thành từng khoanh rộng khoảng 4cm. Luộc khoai tây và củ cải.",
+        "Cắt hanpen và konjac thành bốn miếng hình tam giác. Cắt chikuwa và chikuwabu theo đường chéo thành 4 phần.",
+        "Đổ nước sôi lên chả cá, chả ngưu bàng, kinchaku nhân mochi và ganmodoki để loại bỏ dầu.",
+        "Rắc ``Kimchi Nabe Tsuyu Straight'' vào nồi, đun sôi, cho tất cả nguyên liệu vào và đun nhỏ lửa cho đến khi ngấm gia vị."
+      ],
+      "hi": [
+        "आलू को छीलकर लम्बाई में आधा काट लीजिए. मूली को छीलें और लगभग 4 सेमी चौड़े गोल टुकड़ों में काट लें। आलू और मूली को उबाल लें.",
+        "हैनपेन और कोनजैक को चार त्रिकोणीय टुकड़ों में काटें। चिकुवा और चिकुवाबू को तिरछे चार भागों में काट लें।",
+        "तेल निकालने के लिए मछली केक, बर्डॉक रोल, मोची से भरे किंचकू और गनमोडोकी पर उबलता पानी डालें।",
+        "``किम्ची नाबे त्सुयू स्ट्रेट'' को एक बर्तन में छिड़कें, उबाल लें, सभी सामग्रियां डालें और तब तक पकाएं जब तक कि स्वाद अवशोषित न हो जाए।"
+      ],
+      "ru": [
+        "Очистите картофель и разрежьте его вдоль пополам. Очистите редис и нарежьте его кружками шириной около 4 см. Отварить картофель и редис.",
+        "Разрежьте ханпен и конжак на четыре треугольных кусочка. Разрежьте тикува и тикувабу по диагонали на четыре части.",
+        "Залейте кипятком рыбные котлеты, рулеты из лопуха, кинчаку с начинкой моти и ганмодоки, чтобы удалить масло.",
+        "Посыпьте «Кимчи Набэ Цую прямо» в кастрюлю, доведите до кипения, добавьте все ингредиенты и варите, пока ароматы не впитаются."
+      ],
+      "th": [
+        "ปอกมันฝรั่งแล้วผ่าครึ่งตามยาว ปอกหัวไชเท้าแล้วหั่นเป็นวงกว้างประมาณ 4 ซม. ต้มมันฝรั่งและหัวไชเท้า",
+        "ตัดฮันเปนและบุกออกเป็นชิ้นสามเหลี่ยมสี่ชิ้น ตัดชิกุวะและชิกุวาบุตามแนวทแยงออกเป็นสี่ส่วน",
+        "เทน้ำเดือดลงบนลูกชิ้นปลา ม้วนหญ้าเจ้าชู้ คินชาคุที่ใส่โมจิ และกันโมโดกิเพื่อเอาน้ำมันออก",
+        "โรย ``Kimchi Nabe Tsuyu Straight'' ลงในหม้อ นำไปต้ม ใส่ส่วนผสมทั้งหมด และเคี่ยวจนรสชาติซึมซับ"
+      ],
+      "id": [
+        "Kupas kentang dan potong menjadi dua memanjang. Kupas lobak dan potong bulat-bulat dengan lebar sekitar 4cm. Rebus kentang dan lobak.",
+        "Potong hanpen dan konjak menjadi empat bagian berbentuk segitiga. Potong chikuwa dan chikuwabu secara diagonal menjadi empat bagian.",
+        "Tuangkan air mendidih di atas kue ikan, burdock roll, kinchaku berisi mochi, dan ganmodoki untuk menghilangkan minyaknya.",
+        "Taburkan ``Kimchi Nabe Tsuyu Lurus'' ke dalam panci, didihkan, masukkan semua bahan, dan masak perlahan hingga bumbu meresap."
+      ],
+      "ms": [
+        "Kupas kentang dan potong separuh memanjang. Kupas lobak dan potong bulat kira-kira 4cm lebar. Rebus kentang dan lobak.",
+        "Potong hanpen dan konjac kepada empat bahagian segi tiga. Potong chikuwa dan chikuwabu secara menyerong menjadi empat.",
+        "Tuangkan air mendidih ke atas kek ikan, roti burdock, kinchaku berisi mochi, dan ganmodoki untuk mengeluarkan minyak.",
+        "Taburkan ``Kimchi Nabe Tsuyu Straight'' ke dalam periuk, biarkan mendidih, masukkan semua bahan, dan renehkan sehingga rasa serap."
+      ],
+      "ko": [
+        "감자는 껍질을 벗기고 세로 절반으로 자른다. 무는 껍질을 벗기고 4cm 폭 정도의 둥글게 자른다. 감자, 무는 아래 삶은다.",
+        "한판, 곤약은 삼각으로 4등분으로 자른다. 치쿠와, 치쿠와부는 대각선으로 4등분으로 자른다.",
+        "고구마 튀김, 우엉 감기, 떡이 들어간, 암 모도키는 온수를 뿌리고 기름을 빼낸다.",
+        "냄비에 \"김치 냄비 츠유 스트레이트\"를 잘 넣고 끓여서 모든 재료를 넣고 맛이 들릴 때까지 끓인다."
+      ]
+    }
   }
 ]

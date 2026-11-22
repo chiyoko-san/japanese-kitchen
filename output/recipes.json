@@ -367350,5 +367350,258 @@
         "냄비에 <조미료>와 [2]를 넣고 끓인다. 끓인다면 맛의 얼룩 어려운 것, 맛있는 것부터 순서대로 넣고 차분히 끓인다. 치쿠와는 부풀어 오르기 때문에 마지막에 넣는다. 취향에 반죽에서 붙인다."
       ]
     }
+  },
+  {
+    "id": "6f99d3bc",
+    "source_url": "https://www.mizkan.co.jp/ouchirecipe/recipe/?menu_id=24182",
+    "source_site": "Mizkan",
+    "title_ja": "豆乳のぷるぷるスープ",
+    "description_ja": "",
+    "ingredients": [
+      {
+        "name_ja": "無調整豆乳",
+        "amount": "２００ｍｌ",
+        "name_translated": {
+          "en": "Unadjusted soy milk",
+          "zh_tw": "未調整的豆漿",
+          "zh_cn": "未调整的豆浆",
+          "vi": "Sữa đậu nành chưa điều chỉnh",
+          "hi": "असमायोजित सोया दूध",
+          "ru": "Нерегулируемое соевое молоко",
+          "th": "นมถั่วเหลืองที่ไม่ได้ปรับ",
+          "id": "Susu kedelai yang tidak disesuaikan",
+          "ms": "Susu soya yang tidak diselaraskan",
+          "ko": "무조정 두유"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E7%84%A1%E8%AA%BF%E6%95%B4%E8%B1%86%E4%B9%B3&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E7%84%A1%E8%AA%BF%E6%95%B4%E8%B1%86%E4%B9%B3/?tag="
+      },
+      {
+        "name_ja": "ミツカン　追いがつおつゆ２倍",
+        "amount": "大さじ１と１／２",
+        "name_translated": {
+          "en": "Mizkan Oigatsu Otsuyu x2",
+          "zh_tw": "味滋館大月大津 x2",
+          "zh_cn": "味滋馆大月大津 x2",
+          "vi": "Mizkan Oigatsu Otsuyu x2",
+          "hi": "मिज़कान ओइगात्सु ओत्सुयु x2",
+          "ru": "Мизкан Ойгацу Оцую x2",
+          "th": "มิซคัง โออิงัตสึ โอทสึยุ x2",
+          "id": "Mizkan Oigatsu Otsuyu x2",
+          "ms": "Mizkan Oigatsu Otsuyu x2",
+          "ko": "미쓰칸 쫓는 츠츠유 2배"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E8%BF%BD%E3%81%84%E3%81%8C%E3%81%A4%E3%81%8A%E3%81%A4%E3%82%86%EF%BC%92%E5%80%8D&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E8%BF%BD%E3%81%84%E3%81%8C%E3%81%A4%E3%81%8A%E3%81%A4%E3%82%86%EF%BC%92%E5%80%8D/?tag="
+      },
+      {
+        "name_ja": "ミツカン  穀物酢",
+        "amount": "小さじ２",
+        "name_translated": {
+          "en": "Mizkan grain vinegar",
+          "zh_tw": "口味滋康穀物醋",
+          "zh_cn": "味滋康谷物醋",
+          "vi": "Giấm ngũ cốc Mizkan",
+          "hi": "मिज़कान अनाज सिरका",
+          "ru": "Мизкан зерновой уксус",
+          "th": "น้ำส้มสายชูหมักจากเมล็ดมิซคาน",
+          "id": "Cuka biji-bijian Mizkan",
+          "ms": "Cuka bijirin mizkan",
+          "ko": "미츠칸 곡물 식초"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%20%20%E7%A9%80%E7%89%A9%E9%85%A2&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%20%20%E7%A9%80%E7%89%A9%E9%85%A2/?tag="
+      },
+      {
+        "name_ja": "小ねぎ　（小口切り）",
+        "amount": "適量",
+        "name_translated": {
+          "en": "Onion (cut into small pieces)",
+          "zh_tw": "洋蔥（切小塊）",
+          "zh_cn": "洋葱（切小块）",
+          "vi": "Hành tây (cắt thành miếng nhỏ)",
+          "hi": "प्याज (छोटे टुकड़ों में कटा हुआ)",
+          "ru": "Лук (нарезать небольшими кусочками)",
+          "th": "หัวหอม (หั่นเป็นชิ้นเล็กๆ)",
+          "id": "Bawang bombay (potong kecil-kecil)",
+          "ms": "Bawang besar (potong kecil)",
+          "ko": "작은 양파 (작은 컷)"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E5%B0%8F%E3%81%AD%E3%81%8E%E3%80%80%EF%BC%88%E5%B0%8F%E5%8F%A3%E5%88%87%E3%82%8A%EF%BC%89&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E5%B0%8F%E3%81%AD%E3%81%8E%E3%80%80%EF%BC%88%E5%B0%8F%E5%8F%A3%E5%88%87%E3%82%8A%EF%BC%89/?tag="
+      },
+      {
+        "name_ja": "ごま油",
+        "amount": "お好みで",
+        "name_translated": {
+          "en": "sesame oil",
+          "zh_tw": "香油",
+          "zh_cn": "香油",
+          "vi": "dầu mè",
+          "hi": "तिल का तेल",
+          "ru": "кунжутное масло",
+          "th": "น้ำมันงา",
+          "id": "minyak wijen",
+          "ms": "minyak bijan",
+          "ko": "참기름"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%94%E3%81%BE%E6%B2%B9&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%94%E3%81%BE%E6%B2%B9/?tag="
+      },
+      {
+        "name_ja": "ラー油",
+        "amount": "お好みで",
+        "name_translated": {
+          "en": "chili oil",
+          "zh_tw": "辣椒油",
+          "zh_cn": "辣椒油",
+          "vi": "dầu ớt",
+          "hi": "मिर्च का तेल",
+          "ru": "масло чили",
+          "th": "น้ำมันพริก",
+          "id": "minyak cabai",
+          "ms": "minyak cili",
+          "ko": "라 오일"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%A9%E3%83%BC%E6%B2%B9&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%A9%E3%83%BC%E6%B2%B9/?tag="
+      },
+      {
+        "name_ja": "１",
+        "amount": "耐熱容器に豆乳を入れ、ふんわりとラップをかけ、電子レンジ６００Ｗで２分加熱する。",
+        "name_translated": {
+          "en": "1",
+          "zh_tw": "1",
+          "zh_cn": "1",
+          "vi": "1",
+          "hi": "1",
+          "ru": "1",
+          "th": "1",
+          "id": "1",
+          "ms": "1",
+          "ko": "1"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%91&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%91/?tag="
+      },
+      {
+        "name_ja": "２",
+        "amount": "をゆっくり注ぎ入れ、軽くひと混ぜし、ラップをかけて５分ほど置く。（混ぜすぎないのがポイント）。",
+        "name_translated": {
+          "en": "2",
+          "zh_tw": "2",
+          "zh_cn": "2",
+          "vi": "2",
+          "hi": "2",
+          "ru": "2",
+          "th": "2",
+          "id": "2",
+          "ms": "2",
+          "ko": "2"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%92&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%92/?tag="
+      },
+      {
+        "name_ja": "３",
+        "amount": "小ねぎをのせ、お好みでごま油やラー油をかける。",
+        "name_translated": {
+          "en": "3",
+          "zh_tw": "3",
+          "zh_cn": "3",
+          "vi": "3",
+          "hi": "3",
+          "ru": "3",
+          "th": "3",
+          "id": "3",
+          "ms": "3",
+          "ko": "3"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%93&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%93/?tag="
+      }
+    ],
+    "steps_ja": [
+      "耐熱容器に豆乳を入れ、ふんわりとラップをかけ、電子レンジ６００Ｗで２分加熱する。",
+      "別の器に「追いがつおつゆ２倍」と「穀物酢」を入れる。そこに１をゆっくり注ぎ入れ、軽くひと混ぜし、ラップをかけて５分ほど置く。（混ぜすぎないのがポイント）。",
+      "小ねぎをのせ、お好みでごま油やラー油をかける。"
+    ],
+    "image_url": "",
+    "title": {
+      "en": "Soy milk plump soup",
+      "zh_tw": "豆漿肥美湯",
+      "zh_cn": "豆浆肥美汤",
+      "vi": "Súp sữa đậu nành",
+      "hi": "सोया दूध मोटा सूप",
+      "ru": "Густой суп на соевом молоке",
+      "th": "ซุปข้นนมถั่วเหลือง",
+      "id": "Sup susu kedelai yang montok",
+      "ms": "Sup gebu susu soya",
+      "ko": "두유의 푸르푸루 스프"
+    },
+    "description": {
+      "en": "",
+      "zh_tw": "",
+      "zh_cn": "",
+      "vi": "",
+      "hi": "",
+      "ru": "",
+      "th": "",
+      "id": "",
+      "ms": "",
+      "ko": ""
+    },
+    "steps": {
+      "en": [
+        "Pour soy milk into a heat-resistant container, loosely cover with plastic wrap, and heat in the microwave at 600 W for 2 minutes.",
+        "In a separate bowl, add ``Oigatsu Otsuyu x2'' and ``Grain Vinegar.'' Pour 1 slowly into it, mix gently, cover with plastic wrap, and let stand for about 5 minutes. (The key is not to overmix.)",
+        "Top with green onions and drizzle with sesame oil or chili oil if desired."
+      ],
+      "zh_tw": [
+        "將豆漿倒入耐熱容器中，鬆鬆地蓋上保鮮膜，然後在微波爐中以 600 W 加熱 2 分鐘。",
+        "在另一個碗中加入“Oigatsu Otsuyu x2”和“穀物醋”。慢慢倒入其中，輕輕混合，蓋上保鮮膜，靜置約 5 分鐘。 （關鍵是不要過度混合。）",
+        "如果需要的話，上面放上蔥，淋上芝麻油或辣椒油。"
+      ],
+      "zh_cn": [
+        "将豆浆倒入耐热容器中，松松地盖上保鲜膜，然后在微波炉中以 600 W 加热 2 分钟。",
+        "在另一个碗中加入“Oigatsu Otsuyu x2”和“谷物醋”。慢慢倒入其中，轻轻混合，盖上保鲜膜，静置约 5 分钟。 （关键是不要过度混合。）",
+        "如果需要的话，上面放上葱，淋上芝麻油或辣椒油。"
+      ],
+      "vi": [
+        "Đổ sữa đậu nành vào hộp chịu nhiệt, đậy kín bằng màng bọc thực phẩm rồi hâm nóng trong lò vi sóng ở công suất 600 W trong 2 phút.",
+        "Trong một bát riêng, thêm ``Oigatsu Otsuyu x2'' và ``Grain Vinegar.'' Đổ từ từ 1 vào đó, trộn nhẹ nhàng, bọc lại bằng màng bọc thực phẩm và để yên trong khoảng 5 phút. (Điều quan trọng là không trộn quá kỹ.)",
+        "Rắc hành lá lên trên và rưới dầu mè hoặc dầu ớt nếu muốn."
+      ],
+      "hi": [
+        "सोया दूध को गर्मी प्रतिरोधी कंटेनर में डालें, प्लास्टिक रैप से ढकें और माइक्रोवेव में 600 W पर 2 मिनट के लिए गर्म करें।",
+        "एक अलग कटोरे में, ``ओइगात्सू ओत्सुयु x2'' और ``ग्रेन विनेगर'' डालें। इसमें धीरे-धीरे 1 डालें, धीरे से मिलाएं, प्लास्टिक रैप से ढक दें, और लगभग 5 मिनट तक खड़े रहने दें। (मुख्य बात यह है कि ज़्यादा मिश्रण न करें।)",
+        "ऊपर से हरा प्याज डालें और चाहें तो तिल का तेल या मिर्च का तेल छिड़कें।"
+      ],
+      "ru": [
+        "Налейте соевое молоко в термостойкий контейнер, неплотно накройте полиэтиленовой пленкой и нагрейте в микроволновой печи при мощности 600 Вт в течение 2 минут.",
+        "В отдельную миску добавьте «Oigatsu Otsuyu x2» и «Зерновой уксус». Медленно влейте 1 часть, аккуратно перемешайте, накройте полиэтиленовой пленкой и дайте постоять около 5 минут. (Главное – не перебарщивать.)",
+        "Сверху выложите зеленый лук и при желании сбрызните кунжутным маслом или маслом чили."
+      ],
+      "th": [
+        "เทนมถั่วเหลืองลงในภาชนะที่ทนความร้อน ปิดด้วยพลาสติกแร็ปอย่างหลวมๆ แล้วนำไปให้ความร้อนในไมโครเวฟที่ 600 วัตต์ เป็นเวลา 2 นาที",
+        "ในชามแยก ใส่ ``Oigatsu Otsuyu x2'' และ ``น้ำส้มสายชูธัญพืช'' เท 1 อย่างช้าๆ ลงไป ผสมเบาๆ คลุมด้วยพลาสติกแร็ป แล้วพักไว้ประมาณ 5 นาที (สิ่งสำคัญคืออย่าผสมมากเกินไป)",
+        "โรยหน้าด้วยต้นหอมและราดด้วยน้ำมันงาหรือน้ำมันพริกหากต้องการ"
+      ],
+      "id": [
+        "Tuang susu kedelai ke dalam wadah tahan panas, tutup rapat dengan plastik wrap, lalu panaskan dalam microwave dengan suhu 600 W selama 2 menit.",
+        "Dalam mangkuk terpisah, tambahkan ``Oigatsu Otsuyu x2'' dan ``Cuka Biji-bijian.'' Tuang 1 perlahan ke dalamnya, aduk perlahan, tutup dengan plastik wrap, dan diamkan selama kurang lebih 5 menit. (Kuncinya adalah jangan mencampur secara berlebihan.)",
+        "Taburi dengan daun bawang dan taburi dengan minyak wijen atau minyak cabai jika diinginkan."
+      ],
+      "ms": [
+        "Tuangkan susu soya ke dalam bekas tahan panas, tutup longgar dengan bungkus plastik, dan panaskan dalam ketuhar gelombang mikro pada 600 W selama 2 minit.",
+        "Dalam mangkuk yang berasingan, masukkan ``Oigatsu Otsuyu x2'' dan ``Grain Vinegar.'' Tuangkan 1 perlahan-lahan ke dalamnya, gaul perlahan-lahan, tutup dengan bungkus plastik, dan biarkan selama kira-kira 5 minit. (Kuncinya adalah jangan terlalu bercampur.)",
+        "Teratas dengan bawang hijau dan taburkan dengan minyak bijan atau minyak cili jika mahu."
+      ],
+      "ko": [
+        "내열 용기에 두유를 넣고 부드럽게 랩을 걸고 전자렌지 600W로 2분 가열한다.",
+        "다른 그릇에 '쫓는 츠유 2배'와 '곡물초'를 넣는다. 거기에 1을 천천히 부어 가볍게 섞어 랩을 걸고 5분 정도 둔다. (너무 혼합하지 않는 것이 포인트).",
+        "양파를 얹고, 기호로 참기름이나 라유를 뿌린다."
+      ]
+    }
   }
 ]

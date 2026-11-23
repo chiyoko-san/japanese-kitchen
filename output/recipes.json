@@ -367603,5 +367603,377 @@
         "양파를 얹고, 기호로 참기름이나 라유를 뿌린다."
       ]
     }
+  },
+  {
+    "id": "bab3a818",
+    "source_url": "https://www.mizkan.co.jp/ouchirecipe/recipe/?menu_id=15837",
+    "source_site": "Mizkan",
+    "title_ja": "「追いがつおつゆ」でつゆポタージュ",
+    "description_ja": "",
+    "ingredients": [
+      {
+        "name_ja": "じゃがいも",
+        "amount": "中２個",
+        "name_translated": {
+          "en": "potato",
+          "zh_tw": "馬鈴薯",
+          "zh_cn": "土豆",
+          "vi": "khoai tây",
+          "hi": "आलू",
+          "ru": "картофель",
+          "th": "มันฝรั่ง",
+          "id": "kentang",
+          "ms": "kentang",
+          "ko": "감자"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%98%E3%82%83%E3%81%8C%E3%81%84%E3%82%82&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%98%E3%82%83%E3%81%8C%E3%81%84%E3%82%82/?tag="
+      },
+      {
+        "name_ja": "たまねぎ",
+        "amount": "大１個",
+        "name_translated": {
+          "en": "onion",
+          "zh_tw": "洋蔥",
+          "zh_cn": "洋葱",
+          "vi": "củ hành",
+          "hi": "प्याज",
+          "ru": "лук",
+          "th": "หัวหอม",
+          "id": "bawang bombai",
+          "ms": "bawang besar",
+          "ko": "양파"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%9F%E3%81%BE%E3%81%AD%E3%81%8E&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%9F%E3%81%BE%E3%81%AD%E3%81%8E/?tag="
+      },
+      {
+        "name_ja": "にんじん",
+        "amount": "２／３本",
+        "name_translated": {
+          "en": "carrot",
+          "zh_tw": "紅蘿蔔",
+          "zh_cn": "胡萝卜",
+          "vi": "cà rốt",
+          "hi": "गाजर",
+          "ru": "морковь",
+          "th": "แครอท",
+          "id": "wortel",
+          "ms": "lobak merah",
+          "ko": "당근"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%AB%E3%82%93%E3%81%98%E3%82%93&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%AB%E3%82%93%E3%81%98%E3%82%93/?tag="
+      },
+      {
+        "name_ja": "ベーコン",
+        "amount": "８０ｇ",
+        "name_translated": {
+          "en": "bacon",
+          "zh_tw": "培根",
+          "zh_cn": "熏肉",
+          "vi": "thịt xông khói",
+          "hi": "बेकन",
+          "ru": "бекон",
+          "th": "เบคอน",
+          "id": "daging babi asap",
+          "ms": "bacon",
+          "ko": "베이컨"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%99%E3%83%BC%E3%82%B3%E3%83%B3&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%99%E3%83%BC%E3%82%B3%E3%83%B3/?tag="
+      },
+      {
+        "name_ja": "アスパラガス（グリーン）",
+        "amount": "２本",
+        "name_translated": {
+          "en": "Asparagus (green)",
+          "zh_tw": "蘆筍（綠）",
+          "zh_cn": "芦笋（绿）",
+          "vi": "Măng tây (xanh)",
+          "hi": "शतावरी (हरा)",
+          "ru": "Спаржа (зеленая)",
+          "th": "หน่อไม้ฝรั่ง (สีเขียว)",
+          "id": "Asparagus (hijau)",
+          "ms": "Asparagus (hijau)",
+          "ko": "아스파라거스(그린)"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%82%A2%E3%82%B9%E3%83%91%E3%83%A9%E3%82%AC%E3%82%B9%EF%BC%88%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%EF%BC%89&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%82%A2%E3%82%B9%E3%83%91%E3%83%A9%E3%82%AC%E3%82%B9%EF%BC%88%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%EF%BC%89/?tag="
+      },
+      {
+        "name_ja": "サラダ油",
+        "amount": "適量",
+        "name_translated": {
+          "en": "salad oil",
+          "zh_tw": "沙拉油",
+          "zh_cn": "色拉油",
+          "vi": "dầu trộn salad",
+          "hi": "वनस्पति - तेल",
+          "ru": "салатное масло",
+          "th": "น้ำมันสลัด",
+          "id": "minyak salad",
+          "ms": "minyak salad",
+          "ko": "샐러드 오일"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%82%B5%E3%83%A9%E3%83%80%E6%B2%B9&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%82%B5%E3%83%A9%E3%83%80%E6%B2%B9/?tag="
+      },
+      {
+        "name_ja": "ミツカン　追いがつおつゆの素",
+        "amount": "９０ｍｌ",
+        "name_translated": {
+          "en": "Mitsukan Oigatsu Soup Sauce",
+          "zh_tw": "光觀大井湯汁",
+          "zh_cn": "光观大井汤汁",
+          "vi": "Nước sốt Mitsukan Oigatsu",
+          "hi": "मित्सुकन ओइगात्सु सूप सॉस",
+          "ru": "Соус для супа Мицукан Ойгацу",
+          "th": "ซอสซุปมิตซึคังโออิทสึ",
+          "id": "Saus Sup Mitsukan Oigatsu",
+          "ms": "Sos Sup Oigatsu Mitsukan",
+          "ko": "미츠칸 쫓기는 츠오 츠유 노모"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E8%BF%BD%E3%81%84%E3%81%8C%E3%81%A4%E3%81%8A%E3%81%A4%E3%82%86%E3%81%AE%E7%B4%A0&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E8%BF%BD%E3%81%84%E3%81%8C%E3%81%A4%E3%81%8A%E3%81%A4%E3%82%86%E3%81%AE%E7%B4%A0/?tag="
+      },
+      {
+        "name_ja": "牛乳",
+        "amount": "８１０ｍｌ",
+        "name_translated": {
+          "en": "milk",
+          "zh_tw": "牛奶",
+          "zh_cn": "牛奶",
+          "vi": "sữa",
+          "hi": "दूध",
+          "ru": "молоко",
+          "th": "น้ำนม",
+          "id": "susu",
+          "ms": "susu",
+          "ko": "우유"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E7%89%9B%E4%B9%B3&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E7%89%9B%E4%B9%B3/?tag="
+      },
+      {
+        "name_ja": "または",
+        "amount": "適量",
+        "name_translated": {
+          "en": "or",
+          "zh_tw": "或者",
+          "zh_cn": "或者",
+          "vi": "hoặc",
+          "hi": "या",
+          "ru": "или",
+          "th": "หรือ",
+          "id": "atau",
+          "ms": "atau",
+          "ko": "또는"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%BE%E3%81%9F%E3%81%AF&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%BE%E3%81%9F%E3%81%AF/?tag="
+      },
+      {
+        "name_ja": "ミツカン　追いがつおつゆ２倍",
+        "amount": "１５０ｍｌ",
+        "name_translated": {
+          "en": "Mizkan Oigatsu Otsuyu x2",
+          "zh_tw": "味滋館大月大津 x2",
+          "zh_cn": "味滋馆大月大津 x2",
+          "vi": "Mizkan Oigatsu Otsuyu x2",
+          "hi": "मिज़कान ओइगात्सु ओत्सुयु x2",
+          "ru": "Мизкан Ойгацу Оцую x2",
+          "th": "มิซคัง โออิงัตสึ โอทสึยุ x2",
+          "id": "Mizkan Oigatsu Otsuyu x2",
+          "ms": "Mizkan Oigatsu Otsuyu x2",
+          "ko": "미츠칸 쫓는 츠츠유 2 배"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E8%BF%BD%E3%81%84%E3%81%8C%E3%81%A4%E3%81%8A%E3%81%A4%E3%82%86%EF%BC%92%E5%80%8D&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E8%BF%BD%E3%81%84%E3%81%8C%E3%81%A4%E3%81%8A%E3%81%A4%E3%82%86%EF%BC%92%E5%80%8D/?tag="
+      },
+      {
+        "name_ja": "牛乳",
+        "amount": "７５０ｍｌ",
+        "name_translated": {
+          "en": "milk",
+          "zh_tw": "牛奶",
+          "zh_cn": "牛奶",
+          "vi": "sữa",
+          "hi": "दूध",
+          "ru": "молоко",
+          "th": "น้ำนม",
+          "id": "susu",
+          "ms": "susu",
+          "ko": "우유"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E7%89%9B%E4%B9%B3&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E7%89%9B%E4%B9%B3/?tag="
+      },
+      {
+        "name_ja": "１",
+        "amount": "にする。",
+        "name_translated": {
+          "en": "1",
+          "zh_tw": "1",
+          "zh_cn": "1",
+          "vi": "1",
+          "hi": "1",
+          "ru": "1",
+          "th": "1",
+          "id": "1",
+          "ms": "1",
+          "ko": "1"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%91&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%91/?tag="
+      },
+      {
+        "name_ja": "２",
+        "amount": "鍋にサラダ油をひいて熱し、じゃがいも、たまねぎ、にんじん、ベーコンを炒め、軽く火を通す（じゃがいもの表面が透き通るまで）。",
+        "name_translated": {
+          "en": "2",
+          "zh_tw": "2",
+          "zh_cn": "2",
+          "vi": "2",
+          "hi": "2",
+          "ru": "2",
+          "th": "2",
+          "id": "2",
+          "ms": "2",
+          "ko": "2"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%92&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%92/?tag="
+      },
+      {
+        "name_ja": "３",
+        "amount": "に牛乳と「追いがつおつゆの素」を入れ、煮立ったら、具材がやわらかくなるまで１０分程度煮る。",
+        "name_translated": {
+          "en": "3",
+          "zh_tw": "3",
+          "zh_cn": "3",
+          "vi": "3",
+          "hi": "3",
+          "ru": "3",
+          "th": "3",
+          "id": "3",
+          "ms": "3",
+          "ko": "3"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%93&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%93/?tag="
+      },
+      {
+        "name_ja": "４",
+        "amount": "仕上げに、グリーンアスパラガスを入れてサッと火を通す。",
+        "name_translated": {
+          "en": "4",
+          "zh_tw": "4",
+          "zh_cn": "4",
+          "vi": "4",
+          "hi": "4",
+          "ru": "4",
+          "th": "4",
+          "id": "4",
+          "ms": "4",
+          "ko": "4"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%94&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%94/?tag="
+      }
+    ],
+    "steps_ja": [
+      "じゃがいも、たまねぎ、にんじんを１．５ｃｍ程度の角切りにする。ベーコンは１ｃｍ幅に切る。グリーンアスパラガスは斜め薄切りにする。",
+      "鍋にサラダ油をひいて熱し、じゃがいも、たまねぎ、にんじん、ベーコンを炒め、軽く火を通す（じゃがいもの表面が透き通るまで）。",
+      "に牛乳と「追いがつおつゆの素」を入れ、煮立ったら、具材がやわらかくなるまで１０分程度煮る。",
+      "仕上げに、グリーンアスパラガスを入れてサッと火を通す。"
+    ],
+    "image_url": "",
+    "title": {
+      "en": "Tsuyu potage with “Oigatsu Otsuyu”",
+      "zh_tw": "“Oigatsu Otsuyu”醬油湯",
+      "zh_cn": "“Oigatsu Otsuyu”酱油汤",
+      "vi": "Món Tsuyu với “Oigatsu Otsuyu”",
+      "hi": "\"ओइगात्सु ओत्सुयू\" के साथ त्सुयू पोटेज",
+      "ru": "Цую похлебку с «Ойгацу Оцую»",
+      "th": "น้ำซุป Tsuyu กับ “Oigatsu Otsuyu”",
+      "id": "Potage Tsuyu dengan “Oigatsu Otsuyu”",
+      "ms": "Potage Tsuyu dengan \"Oigatsu Otsuyu\"",
+      "ko": "\"쫓는 츠오츠유\"로 츠유 포타주"
+    },
+    "description": {
+      "en": "",
+      "zh_tw": "",
+      "zh_cn": "",
+      "vi": "",
+      "hi": "",
+      "ru": "",
+      "th": "",
+      "id": "",
+      "ms": "",
+      "ko": ""
+    },
+    "steps": {
+      "en": [
+        "Cut the potatoes, onions, and carrots into 1.5cm cubes. Cut the bacon into 1cm wide pieces. Slice the green asparagus diagonally.",
+        "Heat vegetable oil in a pot, fry potatoes, onions, carrots, and bacon, and heat gently (until the surface of the potatoes becomes transparent).",
+        "Add milk and Oigatsuotsuyu no base, bring to a boil, and simmer for about 10 minutes until the ingredients are soft.",
+        "To finish, add green asparagus and heat through."
+      ],
+      "zh_tw": [
+        "將馬鈴薯、洋蔥和胡蘿蔔切成 1.5 公分的方塊。將培根切成1公分寬的塊狀。將綠蘆筍對角切片。",
+        "鍋中燒熱植物油，炒馬鈴薯、洋蔥、胡蘿蔔、培根，小火加熱（直到馬鈴薯表面變透明）。",
+        "加入牛奶和Oigatsuotsuyu無底料，煮沸，小火煮約10分鐘，直到材料變軟。",
+        "仕上げに、グリーンアスパラガスを入れてサッと火を通す。"
+      ],
+      "zh_cn": [
+        "将土豆、洋葱和胡萝卜切成 1.5 厘米的方块。将培根切成1厘米宽的块。将绿芦笋对角切片。",
+        "锅中烧热植物油，炒土豆、洋葱、胡萝卜、培根，小火加热（直至土豆表面变透明）。",
+        "加入牛奶和Oigatsuotsuyu无底料，煮沸，小火煮约10分钟，直至材料变软。",
+        "最后，加入绿芦笋并加热。"
+      ],
+      "vi": [
+        "Cắt khoai tây, hành tây và cà rốt thành khối 1,5cm. Cắt thịt xông khói thành miếng rộng 1 cm. Cắt măng tây xanh theo đường chéo.",
+        "Đun nóng dầu thực vật trong nồi, chiên khoai tây, hành tây, cà rốt và thịt xông khói rồi đun nóng nhẹ (cho đến khi bề mặt khoai tây trở nên trong suốt).",
+        "Thêm sữa và Oigatsuotsuyu không cốt, đun sôi và đun nhỏ lửa trong khoảng 10 phút cho đến khi nguyên liệu mềm.",
+        "Để hoàn tất, thêm măng tây xanh và đun nóng."
+      ],
+      "hi": [
+        "आलू, प्याज और गाजर को 1.5 सेमी क्यूब्स में काटें। बेकन को 1 सेमी चौड़े टुकड़ों में काट लें। हरे शतावरी को तिरछे काटें।",
+        "एक बर्तन में वनस्पति तेल गरम करें, आलू, प्याज, गाजर और बेकन भूनें और धीरे से गरम करें (जब तक कि आलू की सतह पारदर्शी न हो जाए)।",
+        "दूध और ओइगात्सुओत्सुयू बिना आधार मिलाएं, उबाल लें और सामग्री के नरम होने तक लगभग 10 मिनट तक धीमी आंच पर पकाएं।",
+        "ख़त्म करने के लिए, हरा शतावरी डालें और गरम करें।"
+      ],
+      "ru": [
+        "Нарезаем картофель, лук и морковь кубиками размером 1,5 см. Бекон нарезаем кусочками шириной 1 см. Нарежьте зеленую спаржу по диагонали.",
+        "В кастрюле разогрейте растительное масло, обжарьте картофель, лук, морковь и бекон и осторожно нагревайте (пока поверхность картофеля не станет прозрачной).",
+        "Добавьте молоко и Oigatsuotsuyu no base, доведите до кипения и варите около 10 минут, пока ингредиенты не станут мягкими.",
+        "В завершение добавьте зеленую спаржу и прогрейте."
+      ],
+      "th": [
+        "หั่นมันฝรั่ง หัวหอม และแครอทเป็นลูกเต๋าขนาด 1.5 ซม. ตัดเบคอนเป็นชิ้นกว้าง 1 ซม. หั่นหน่อไม้ฝรั่งสีเขียวตามแนวทแยงมุม",
+        "ตั้งน้ำมันพืชในหม้อ ทอดมันฝรั่ง หัวหอม แครอท และเบคอน แล้วตั้งไฟเบา ๆ (จนกระทั่งผิวมันฝรั่งโปร่งใส)",
+        "ใส่นมและ Oigatsuotsuyu แบบไม่มีเบส นำไปต้มและเคี่ยวประมาณ 10 นาทีจนส่วนผสมนิ่ม",
+        "ปิดท้ายด้วยหน่อไม้ฝรั่งสีเขียวและตั้งไฟให้ร้อน"
+      ],
+      "id": [
+        "Potong kentang, bawang bombay, dan wortel menjadi kubus berukuran 1,5 cm. Potong bacon menjadi potongan selebar 1 cm. Iris asparagus hijau secara diagonal.",
+        "Panaskan minyak sayur dalam panci, goreng kentang, bawang bombay, wortel, dan bacon, lalu panaskan perlahan (sampai permukaan kentang menjadi transparan).",
+        "Tambahkan susu dan Oigatsuotsuyu tanpa bahan dasar, didihkan, dan biarkan mendidih selama kurang lebih 10 menit hingga bahan lunak.",
+        "Untuk menyelesaikannya, tambahkan asparagus hijau dan panaskan."
+      ],
+      "ms": [
+        "Potong kentang, bawang besar, dan lobak merah menjadi kiub 1.5cm. Potong bacon menjadi kepingan selebar 1cm. Hiris asparagus hijau secara menyerong.",
+        "Panaskan minyak sayuran dalam periuk, goreng kentang, bawang, lobak merah, dan bacon, dan panaskan perlahan-lahan (sehingga permukaan kentang menjadi lutsinar).",
+        "Tambah susu dan Oigatsuotsuyu no base, masak sehingga mendidih, dan reneh selama kira-kira 10 minit sehingga bahan-bahan lembut.",
+        "Untuk selesai, masukkan asparagus hijau dan panaskan."
+      ],
+      "ko": [
+        "감자, 양파, 당근을 1.5cm 정도의 각도로 한다. 베이컨은 1cm 폭으로 자른다. 녹색 아스파라거스는 대각선으로 얇게 썬다.",
+        "냄비에 샐러드 기름을 넣고 가열하고 감자, 양파, 당근, 베이컨을 볶고 가볍게 불을 통과시킨다 (감자의 표면이 투명해질 때까지).",
+        "에 우유와 '쫓는 츠유노모토'를 넣고 끓인다면 재료가 부드러워질 때까지 10분 정도 끓인다.",
+        "마무리에 그린 아스파라거스를 넣고 살짝 불을 통과시킨다."
+      ]
+    }
   }
 ]

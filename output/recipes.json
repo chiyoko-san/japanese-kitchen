@@ -368210,5 +368210,298 @@
         "가 뜨거울 때 \"아이폰\"을 돌려 넣고 3 분 정도 둔다 (섞지 않고 조금 시간을두면 굳어집니다). 라 기름을 뿌리고 먹기 쉬운 크기로 잘라낸 튀김과 취향으로 팩치를 얹는다."
       ]
     }
+  },
+  {
+    "id": "f10fd020",
+    "source_url": "https://www.mizkan.co.jp/ouchirecipe/recipe/?menu_id=21068",
+    "source_site": "Mizkan",
+    "title_ja": "サクサク食感がたまらない！フライド大根",
+    "description_ja": "",
+    "ingredients": [
+      {
+        "name_ja": "大根",
+        "amount": "４ｃｍ（１５０ｇ）",
+        "name_translated": {
+          "en": "Japanese white radish",
+          "zh_tw": "日本白蘿蔔",
+          "zh_cn": "日本白萝卜",
+          "vi": "Củ cải trắng Nhật Bản",
+          "hi": "जापानी सफेद मूली",
+          "ru": "Японская белая редька",
+          "th": "หัวไชเท้าขาวญี่ปุ่น",
+          "id": "lobak putih jepang",
+          "ms": "lobak putih jepun",
+          "ko": "무"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E5%A4%A7%E6%A0%B9&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E5%A4%A7%E6%A0%B9/?tag="
+      },
+      {
+        "name_ja": "ミツカン　追いがつおつゆ２倍",
+        "amount": "大さじ２",
+        "name_translated": {
+          "en": "Mizkan Oigatsu Otsuyu x2",
+          "zh_tw": "味滋館大月大津 x2",
+          "zh_cn": "味滋馆大月大津 x2",
+          "vi": "Mizkan Oigatsu Otsuyu x2",
+          "hi": "मिज़कान ओइगात्सु ओत्सुयु x2",
+          "ru": "Мизкан Ойгацу Оцую x2",
+          "th": "มิซคัง โออิงัตสึ โอทสึยุ x2",
+          "id": "Mizkan Oigatsu Otsuyu x2",
+          "ms": "Mizkan Oigatsu Otsuyu x2",
+          "ko": "미쓰칸 쫓는 츠츠유 2배"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E8%BF%BD%E3%81%84%E3%81%8C%E3%81%A4%E3%81%8A%E3%81%A4%E3%82%86%EF%BC%92%E5%80%8D&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3%E3%80%80%E8%BF%BD%E3%81%84%E3%81%8C%E3%81%A4%E3%81%8A%E3%81%A4%E3%82%86%EF%BC%92%E5%80%8D/?tag="
+      },
+      {
+        "name_ja": "おろしにんにく",
+        "amount": "小さじ１",
+        "name_translated": {
+          "en": "grated garlic",
+          "zh_tw": "磨碎的大蒜",
+          "zh_cn": "磨碎的大蒜",
+          "vi": "tỏi nghiền",
+          "hi": "कसा हुआ लहसुन",
+          "ru": "тертый чеснок",
+          "th": "กระเทียมขูด",
+          "id": "bawang putih parut",
+          "ms": "bawang putih parut",
+          "ko": "마늘 마늘"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%81%8A%E3%82%8D%E3%81%97%E3%81%AB%E3%82%93%E3%81%AB%E3%81%8F&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%81%8A%E3%82%8D%E3%81%97%E3%81%AB%E3%82%93%E3%81%AB%E3%81%8F/?tag="
+      },
+      {
+        "name_ja": "片栗粉",
+        "amount": "適量",
+        "name_translated": {
+          "en": "potato starch",
+          "zh_tw": "馬鈴薯澱粉",
+          "zh_cn": "马铃薯淀粉",
+          "vi": "tinh bột khoai tây",
+          "hi": "आलू स्टार्च",
+          "ru": "картофельный крахмал",
+          "th": "แป้งมันฝรั่ง",
+          "id": "tepung kentang",
+          "ms": "kanji kentang",
+          "ko": "가문 가루"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E7%89%87%E6%A0%97%E7%B2%89&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E7%89%87%E6%A0%97%E7%B2%89/?tag="
+      },
+      {
+        "name_ja": "揚げ油",
+        "amount": "適量",
+        "name_translated": {
+          "en": "frying oil",
+          "zh_tw": "煎炸油",
+          "zh_cn": "煎炸油",
+          "vi": "dầu chiên",
+          "hi": "तलने का तेल",
+          "ru": "масло для жарки",
+          "th": "น้ำมันทอด",
+          "id": "minyak goreng",
+          "ms": "minyak goreng",
+          "ko": "튀긴 기름"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E6%8F%9A%E3%81%92%E6%B2%B9&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E6%8F%9A%E3%81%92%E6%B2%B9/?tag="
+      },
+      {
+        "name_ja": "１",
+        "amount": "。ポリ袋に入れ、＜Ａ＞を加え１０分ほど漬ける。汁けをきり、全体に片栗粉をしっかりまぶし、余分な粉は落とす。",
+        "name_translated": {
+          "en": "1",
+          "zh_tw": "1",
+          "zh_cn": "1",
+          "vi": "1",
+          "hi": "1",
+          "ru": "1",
+          "th": "1",
+          "id": "1",
+          "ms": "1",
+          "ko": "1"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%91&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%91/?tag="
+      },
+      {
+        "name_ja": "２",
+        "amount": "をきつね色になるまで揚げ焼きにする。油をきって器に盛る。",
+        "name_translated": {
+          "en": "2",
+          "zh_tw": "2",
+          "zh_cn": "2",
+          "vi": "2",
+          "hi": "2",
+          "ru": "2",
+          "th": "2",
+          "id": "2",
+          "ms": "2",
+          "ko": "2"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%EF%BC%92&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%EF%BC%92/?tag="
+      },
+      {
+        "name_ja": "バタぽんで楽しむ！大根ステーキ",
+        "amount": "適量",
+        "name_translated": {
+          "en": "Have fun with Batapon! radish steak",
+          "zh_tw": "和Batapon一起玩得開心吧！蘿蔔牛排",
+          "zh_cn": "和Batapon一起玩得开心吧！萝卜牛排",
+          "vi": "Hãy vui vẻ với Batapon! bít tết củ cải",
+          "hi": "बटापोन के साथ आनंद लें! मूली स्टेक",
+          "ru": "Удачи с Батапоном! стейк из редиса",
+          "th": "ขอให้สนุกกับบาตาปอน! สเต็กหัวไชเท้า",
+          "id": "Bersenang-senanglah dengan Batapon! steak lobak",
+          "ms": "Berseronoklah dengan Batapon! stik lobak",
+          "ko": "버터폰으로 즐기세요! 무 스테이크"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%83%90%E3%82%BF%E3%81%BD%E3%82%93%E3%81%A7%E6%A5%BD%E3%81%97%E3%82%80%EF%BC%81%E5%A4%A7%E6%A0%B9%E3%82%B9%E3%83%86%E3%83%BC%E3%82%AD&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%83%90%E3%82%BF%E3%81%BD%E3%82%93%E3%81%A7%E6%A5%BD%E3%81%97%E3%82%80%EF%BC%81%E5%A4%A7%E6%A0%B9%E3%82%B9%E3%83%86%E3%83%BC%E3%82%AD/?tag="
+      },
+      {
+        "name_ja": "わさび香る大根の葉の甘酢漬け",
+        "amount": "適量",
+        "name_translated": {
+          "en": "Wasabi-scented radish leaves pickled in sweet vinegar",
+          "zh_tw": "甜醋醃芥末蘿蔔葉",
+          "zh_cn": "甜醋腌芥末萝卜叶",
+          "vi": "Lá củ cải thơm wasabi ngâm dấm ngọt",
+          "hi": "मीठे सिरके में वसाबी-सुगंधित मूली के पत्तों का अचार",
+          "ru": "Листья редиса с ароматом васаби, маринованные в сладком уксусе",
+          "th": "ใบหัวไชเท้ากลิ่นวาซาบิดองในน้ำส้มสายชูหวาน",
+          "id": "Daun lobak beraroma wasabi diasamkan dalam cuka manis",
+          "ms": "Daun lobak berbau wasabi dijeruk dalam cuka manis",
+          "ko": "와사비 향기 무의 잎에 감초 절임"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E3%82%8F%E3%81%95%E3%81%B3%E9%A6%99%E3%82%8B%E5%A4%A7%E6%A0%B9%E3%81%AE%E8%91%89%E3%81%AE%E7%94%98%E9%85%A2%E6%BC%AC%E3%81%91&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E3%82%8F%E3%81%95%E3%81%B3%E9%A6%99%E3%82%8B%E5%A4%A7%E6%A0%B9%E3%81%AE%E8%91%89%E3%81%AE%E7%94%98%E9%85%A2%E6%BC%AC%E3%81%91/?tag="
+      },
+      {
+        "name_ja": "簡単！豚バラ大根",
+        "amount": "適量",
+        "name_translated": {
+          "en": "easy! pork belly radish",
+          "zh_tw": "簡單的！豬肚蘿蔔",
+          "zh_cn": "简单的！猪肚萝卜",
+          "vi": "dễ! củ cải bụng lợn",
+          "hi": "आसान! पोर्क बेली मूली",
+          "ru": "легкий! редис из свиной грудинки",
+          "th": "ง่าย! หัวไชเท้าท้องหมู",
+          "id": "mudah! lobak perut babi",
+          "ms": "mudah! lobak perut babi",
+          "ko": "간단! 돼지 장미 무"
+        },
+        "amazon_url": "https://www.amazon.co.jp/s?k=%E7%B0%A1%E5%8D%98%EF%BC%81%E8%B1%9A%E3%83%90%E3%83%A9%E5%A4%A7%E6%A0%B9&tag=",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/%E7%B0%A1%E5%8D%98%EF%BC%81%E8%B1%9A%E3%83%90%E3%83%A9%E5%A4%A7%E6%A0%B9/?tag="
+      }
+    ],
+    "steps_ja": [
+      "大根は皮つきのまま、４ｃｍ長さの８ｍｍ角に切る。ポリ袋に入れ、＜Ａ＞を加え１０分ほど漬ける。汁けをきり、全体に片栗粉をしっかりまぶし、余分な粉は落とす。",
+      "フライパンにサラダ油を１ｃｍほどの高さまで入れて１８０℃に熱し、１をきつね色になるまで揚げ焼きにする。油をきって器に盛る。",
+      "バタぽんで楽しむ！大根ステーキ",
+      "わさび香る大根の葉の甘酢漬け",
+      "簡単！豚バラ大根"
+    ],
+    "image_url": "",
+    "title": {
+      "en": "The crunchy texture is irresistible! fried radish",
+      "zh_tw": "脆脆的口感讓人無法抗拒！炒蘿蔔",
+      "zh_cn": "脆脆的口感让人无法抗拒！炒萝卜",
+      "vi": "Kết cấu giòn không thể cưỡng lại được! củ cải chiên",
+      "hi": "कुरकुरा बनावट अनूठा है! तली हुई मूली",
+      "ru": "Хрустящая текстура неотразима! жареный редис",
+      "th": "เนื้อสัมผัสกรุบกรอบที่ไม่อาจต้านทานได้! หัวไชเท้าทอด",
+      "id": "Teksturnya yang renyah sungguh menarik! lobak goreng",
+      "ms": "Tekstur yang rangup memang tak tertahan! lobak goreng",
+      "ko": "바삭바삭한 식감이 참을 수 없어요! 무 튀김"
+    },
+    "description": {
+      "en": "",
+      "zh_tw": "",
+      "zh_cn": "",
+      "vi": "",
+      "hi": "",
+      "ru": "",
+      "th": "",
+      "id": "",
+      "ms": "",
+      "ko": ""
+    },
+    "steps": {
+      "en": [
+        "Cut the daikon radish, with the skin on, into 4cm long pieces and 8mm squares. Place in a plastic bag, add <A> and soak for about 10 minutes. Drain the soup, sprinkle potato starch all over, and shake off any excess powder.",
+        "Pour salad oil into a frying pan to a height of about 1cm, heat it to 180℃, and deep-fry 1 until golden brown. Drain the oil and place in a bowl.",
+        "Have fun with Batapon! radish steak",
+        "Wasabi-scented radish leaves pickled in sweet vinegar",
+        "easy! pork belly radish"
+      ],
+      "zh_tw": [
+        "將皮蘿蔔切成4公分長的塊狀和8毫米見方的塊狀。放入塑膠袋中，加入<A>並浸泡約10分鐘。瀝乾湯，撒上馬鈴薯澱粉，抖掉多餘的粉末。",
+        "煎鍋倒入沙拉油至約1公分高度，加熱至180℃，炸至金黃色。瀝乾油並放入碗中。",
+        "和Batapon一起玩得開心吧！蘿蔔牛排",
+        "甜醋醃芥末蘿蔔葉",
+        "簡單的！豬肚蘿蔔"
+      ],
+      "zh_cn": [
+        "将带皮萝卜切成4厘米长的块和8毫米见方的块。放入塑料袋中，加入<A>并浸泡约10分钟。沥干汤，撒上土豆淀粉，抖掉多余的粉末。",
+        "煎锅倒入色拉油至约1厘米高度，加热至180℃，炸至金黄色。沥干油并放入碗中。",
+        "和Batapon一起玩得开心吧！萝卜牛排",
+        "甜醋腌芥末萝卜叶",
+        "简单的！猪肚萝卜"
+      ],
+      "vi": [
+        "Cắt củ cải daikon còn nguyên vỏ thành từng miếng dài 4 cm và hình vuông 8 mm. Cho vào túi nhựa, thêm <A> và ngâm trong khoảng 10 phút. Xả súp, rắc tinh bột khoai tây lên khắp và rũ bỏ phần bột thừa.",
+        "Đổ dầu salad vào chảo rán cao khoảng 1cm, đun nóng đến 180oC và chiên ngập dầu cho đến khi có màu vàng nâu. Xả dầu và đặt vào một cái bát.",
+        "Hãy vui vẻ với Batapon! bít tết củ cải",
+        "Lá củ cải thơm wasabi ngâm dấm ngọt",
+        "dễ! củ cải bụng lợn"
+      ],
+      "hi": [
+        "डेकोन मूली को छिलके सहित 4 सेमी लंबे और 8 मिमी चौकोर टुकड़ों में काटें। एक प्लास्टिक बैग में रखें, <A> डालें और लगभग 10 मिनट तक भिगोएँ। सूप को छान लें, चारों ओर आलू का स्टार्च छिड़कें और अतिरिक्त पाउडर हटा दें।",
+        "एक फ्राइंग पैन में लगभग 1 सेमी की ऊंचाई तक सलाद तेल डालें, इसे 180℃ तक गर्म करें और 1 को सुनहरा भूरा होने तक डीप फ्राई करें। तेल निथार कर एक बाउल में रखें।",
+        "बटापोन के साथ आनंद लें! मूली स्टेक",
+        "मीठे सिरके में वसाबी-सुगंधित मूली के पत्तों का अचार",
+        "आसान! पोर्क बेली मूली"
+      ],
+      "ru": [
+        "Нарежьте редис дайкон вместе с кожурой на кусочки длиной 4 см и квадраты со стороной 8 мм. Поместите в полиэтиленовый пакет, добавьте <A> и оставьте примерно на 10 минут. Слейте суп, посыпьте его картофельным крахмалом и стряхните излишки порошка.",
+        "Налейте салатное масло в сковороду высотой около 1 см, нагрейте ее до 180 ℃ и обжарьте во фритюре 1 до золотистого цвета. Слейте масло и положите в миску.",
+        "Удачи с Батапоном! стейк из редиса",
+        "Листья редиса с ароматом васаби, маринованные в сладком уксусе",
+        "легкий! редис из свиной грудинки"
+      ],
+      "th": [
+        "ตัดหัวไชเท้า daikon โดยเอาเปลือกออก เป็นชิ้นยาว 4 ซม. และสี่เหลี่ยมจัตุรัส 8 มม. ใส่ในถุงพลาสติก เติม <A> และแช่ไว้ประมาณ 10 นาที เทน้ำซุปออก โรยแป้งมันฝรั่งให้ทั่ว และสะบัดผงส่วนเกินออก",
+        "เทน้ำมันสลัดลงในกระทะให้สูงประมาณ 1 ซม. ตั้งไฟให้ร้อนถึง 180°C และทอด 1 ทอดจนเป็นสีเหลืองทอง สะเด็ดน้ำมันแล้วใส่ในชาม",
+        "ขอให้สนุกกับบาตาปอน! สเต็กหัวไชเท้า",
+        "ใบหัวไชเท้ากลิ่นวาซาบิดองในน้ำส้มสายชูหวาน",
+        "ง่าย! หัวไชเท้าท้องหมู"
+      ],
+      "id": [
+        "Potong lobak daikon, beserta kulitnya, menjadi potongan berukuran panjang 4 cm dan kotak berukuran 8 mm. Masukkan ke dalam kantong plastik, tambahkan <A> dan rendam selama kurang lebih 10 menit. Tiriskan sup, taburkan tepung kentang ke seluruh bagian, dan kibaskan sisa bubuk.",
+        "Tuang minyak salad ke dalam penggorengan setinggi sekitar 1 cm, panaskan hingga 180℃, lalu goreng 1 hingga berwarna cokelat keemasan. Tiriskan minyaknya dan masukkan ke dalam mangkuk.",
+        "Bersenang-senanglah dengan Batapon! steak lobak",
+        "Daun lobak beraroma wasabi diasamkan dalam cuka manis",
+        "mudah! lobak perut babi"
+      ],
+      "ms": [
+        "Potong lobak daikon, dengan kulitnya, menjadi kepingan sepanjang 4cm dan segi empat sama 8mm. Letakkan dalam beg plastik, tambah <A> dan rendam selama kira-kira 10 minit. Toskan sup, taburkan kanji kentang di seluruh, dan goncangkan sebarang serbuk yang berlebihan.",
+        "Tuangkan minyak salad ke dalam kuali dengan ketinggian kira-kira 1cm, panaskan hingga 180 ℃, dan goreng 1 hingga perang keemasan. Toskan minyak dan masukkan ke dalam mangkuk.",
+        "Berseronoklah dengan Batapon! stik lobak",
+        "Daun lobak berbau wasabi dijeruk dalam cuka manis",
+        "mudah! lobak perut babi"
+      ],
+      "ko": [
+        "무는 껍질이 붙은 채로 4cm 길이의 8mm각으로 자른다. 폴리 봉지에 넣고 <A>를 넣고 10 분 정도 절인다. 국물을 닦고, 전체에 가시가루를 확실히 뿌리고, 여분의 분말은 떨어뜨린다.",
+        "프라이팬에 샐러드유를 1cm 정도의 높이까지 넣고 180℃로 가열하고, 1을 여우색이 될 때까지 튀김 구이로 한다. 기름을 올려 그릇에 담는다.",
+        "버터폰으로 즐기세요! 무 스테이크",
+        "와사비 향기 무의 잎에 감초 절임",
+        "간단! 돼지 장미 무"
+      ]
+    }
   }
 ]
